@@ -101,7 +101,6 @@ export default function AppHeader({
             <button type="button" onClick={() => { setMobile(false); searchRef.current?.focus(); }}>
               <Icon name="search" /><span>Search</span>
             </button>
-            <a href="/about"><Icon name="info" /><span>About</span></a>
             <small>A Pokémon<br />fan guide.</small>
           </div>
         </nav>
