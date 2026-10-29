@@ -192,4 +192,4 @@
 
 .home-guide-grid .mode-guide-art>b{display:none}.home-guide-grid .mode-guide-art>span{font-size:10px;letter-spacing:1.5px}
 .home-builds-link{margin:12px 0 0;font-size:12px}
-.home-game-left>.breadcrumb{font-size:10px;margin-bottom:14px;color:#dbd0ed}.home-game-menu h1>small{line-height:1.5;letter-spacing:1px}.home-game-menu .menu-introduction{max-width:570px}.brand>span{color:#ffdc68}.brand>span>b{color:#f7f0ff}
+.menu-kicker{display:flex;align-items:center;gap:10px;flex-wrap:wrap}.menu-version{font-size:11px;font-weight:800;letter-spacing:.4px;color:#171027;background:#ffdc68;border-radius:999px;padding:3px 8px;line-height:1.4}.home-game-left>.breadcrumb{font-size:10px;margin-bottom:14px;color:#dbd0ed}.home-game-menu h1>small{line-height:1.5;letter-spacing:1px}.home-game-menu .menu-introduction{max-width:570px}.brand>span{color:#ffdc68}.brand>span>b{color:#f7f0ff}
