@@ -1,0 +1,80 @@
+.tier-rows {
+  display: grid;
+  gap: 5px;
+}
+.tier-row {
+  display: flex;
+  background: linear-gradient(90deg, #193151, #101b37);
+  border: 1px solid #293e64;
+  border-radius: 7px;
+  overflow: hidden;
+  min-height: 60px;
+}
+.tier-rank {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 83px;
+  background: #ff7585;
+  color: #1a1633;
+  padding: 5px;
+}
+.tier-rank strong {
+  font: 900 28px/1 var(--heading);
+}
+.tier-rank small {
+  font-size: 8px;
+  font-weight: 700;
+  margin-top: 3px;
+}
+.tier-A .tier-rank {
+  background: #ffd37a;
+}
+.tier-B .tier-rank {
+  background: #c7e976;
+}
+.tier-C .tier-rank {
+  background: #86cfff;
+}
+.tier-members {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 3px 8px;
+  flex-wrap: wrap;
+  flex: 1;
+  min-width: 0;
+}
+.tier-members a {
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+  font-weight: 700;
+  gap: 3px;
+}
+.tier-members img {
+  width: 67px;
+  height: 51px;
+  object-fit: contain;
+  border: 1px solid #5b79a0;
+  border-radius: 7px;
+  background: #163d5d;
+}
+.tier-members a:hover {
+  color: var(--yellow);
+}
+.tier-unranked {
+  font-size: 10px;
+  color: #96acca;
+}
+.tier-members p {
+  font-size: 12px;
+  color: var(--muted);
+  margin: 4px 8px;
+  max-width: 640px;
+}
+.tier-members p:empty {
+  display: none;
+}

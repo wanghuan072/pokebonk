@@ -1,0 +1,62 @@
+[
+  {
+    "id": 114,
+    "label": "Control and recovery",
+    "title": "Tangela: stop the crowd before it closes your route",
+    "why": "Tangela combines +2 regen with a recurring root that damages and traps the four closest enemies within 7 m every five seconds. That combination is useful when your runs end through repeated contact: recovery repairs small losses while control can create room to keep moving. Bind, Giga Drain, Grass Knot and Solar Blade also give you a clear set of attacks to inspect instead of starting from an unrelated damage theme.",
+    "play": "Use the pause panel to check which attacks are actually connecting and which stat improves them. Move around the edge of a group so the rooted enemies stay out of your next escape route. Recovery is most useful when you prevent the next hit rather than immediately spending the health you just regained.",
+    "tradeoff": "The root has a range, a target limit and an interval. It does not freeze the whole arena or guarantee a boss opening. A high opening-comfort score is a reason to try Tangela, not proof that its damage will scale through every Survival encounter.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28"
+  },
+  {
+    "id": 1,
+    "label": "Learning recovery builds",
+    "title": "Bulbasaur: turn repeated Grass hits into sustain",
+    "why": "Bulbasaur adds regen and healing, and its Grass attacks restore a small amount of health on hit, capped at five triggers per second. This makes attack coverage a defensive decision as well as a damage decision. If you can keep Grass attacks connected while moving, the passive helps recover from the small mistakes common in early runs.",
+    "play": "Build around useful attacks first. Razor Leaf and Solar Beam are also the pair for Flower Beam, so both ingredients have a defined destination if the offers arrive. Keep room for the second ingredient, but do not hold a fragile run together solely for a fusion that is still several upgrades away.",
+    "tradeoff": "Healing has limits and needs hits. Walking into a dense crowd because the passive is active can overwhelm it, and adding another attack does not automatically add another independent healing allowance. Compare your actual recovery and damage in the current run.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28"
+  },
+  {
+    "id": 7,
+    "label": "Forgiving first clears",
+    "title": "Squirtle: armor and shield before your first upgrade",
+    "why": "Torrent Shell supplies +15 armor and +20 shield, with a damage bonus below 40% HP. The immediate protection makes Squirtle a practical choice while learning camera movement, projectile spacing and how long an attack needs to finish a target. It gives you room to observe the arena instead of demanding a perfect opening.",
+    "play": "Keep Water Gun and your later attacks useful before filling every slot. Rapid Spin and Hydro Pump form Hydro Spiral; check the exact pair and get both eligible ingredients to level 8 before relying on the result. Treat the low-health bonus as help when a run is in trouble, not a reason to stay deliberately injured.",
+    "tradeoff": "Protection does not replace damage or a safe route. Squirtle can feel reliable early and still struggle if tough enemies outlast the build. Its passive is also personal protection in co-op; it is not evidence of a taunt or a team-wide shield.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28"
+  },
+  {
+    "id": 63,
+    "label": "Hazard-heavy routes",
+    "title": "Abra: useful protection when the floor is the problem",
+    "why": "Abra’s passive prevents ground-hazard damage from effects such as lava, fire pools, cracks and spore clouds, and reduces damage from projectiles and area attacks. If you repeatedly lose a run to those sources, this is a concrete advantage to compare rather than simply choosing the Pokémon with the highest species HP.",
+    "play": "Use the protection to maintain a clean movement route while Confusion, Psybeam, Psychic and Future Sight do their work. Inspect their patterns and classes when choosing upgrades. A safer route can make it easier to stay on target, which is more useful than spending the entire attempt running away from your own intended damage plan.",
+    "tradeoff": "Abra’s smaller opening HP pool still punishes contact mistakes. Ground immunity does not mean immunity to everything touching the ground, every enemy or every boss mechanic. Read the actual effect rather than extending the passive to hazards it never names.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28"
+  },
+  {
+    "id": 66,
+    "label": "A focused physical build",
+    "title": "Machop: a straightforward bonus when your attacks use it",
+    "why": "Machop’s +25% physical damage gives a clear starting rule: check whether an upgrade supports the physical attacks you actually use. Its listed kit of Karate Chop, Low Kick, Cross Chop and Dynamic Punch makes it a useful partner for learning damage-class decisions without assuming every element determines a move’s class.",
+    "play": "Spend upgrades on attacks that reach the enemies causing trouble. If close-range contact keeps ending the attempt, improve positioning and coverage before taking another attractive damage number. Keep a fallback attack useful while working toward a signature fusion instead of weakening the whole opening to reserve a slot.",
+    "tradeoff": "A physical bonus does not improve a special attack just because that attack is in your build. Nor does it solve recovery or make close-range trading safe. If the run already kills quickly but loses health between encounters, the next useful purchase may be defensive.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28"
+  },
+  {
+    "id": 131,
+    "label": "Steady damage reduction",
+    "title": "Lapras: a simple defensive baseline with Water and Ice options",
+    "why": "Lapras reduces incoming damage by 15% and adds 0.5 regen. Those benefits do not require deliberately entering low health, so they offer a straightforward starting point when you want more time to react. Water Pulse, Ice Beam, Surf and Blizzard give you several patterns to compare as the run develops.",
+    "play": "Choose the attacks that give the arena coverage you are missing and invest in their relevant stats. Keep moving even when the opening feels comfortable: the value of damage reduction grows when you avoid the unnecessary hits around it. For a long Survival attempt, review whether damage still keeps a route open, not only whether recovery looks healthy.",
+    "tradeoff": "A steady passive can disguise a weak damage plan during the opening. It does not guarantee that late enemies, bosses or a co-op group will be controlled. Test it against the particular map and mode you want to improve, with your own Lab progress and item offers.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28"
+  }
+]

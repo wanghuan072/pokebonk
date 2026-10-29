@@ -1,0 +1,367 @@
+.page-intro {
+  padding: 18px 0;
+  background:
+    radial-gradient(ellipse at 80% 0, #17495655, transparent 70%),
+    linear-gradient(#092b35d9, #06232c80);
+  border-bottom: 1px solid #23454f;
+}
+.breadcrumb {
+  font-size: 11px;
+  color: #9abec8;
+  margin: 0 0 12px;
+}
+.breadcrumb ol {
+  display: flex;
+  gap: 10px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  flex-wrap: wrap;
+}
+.breadcrumb li {
+  display: flex;
+  gap: 10px;
+}
+.breadcrumb a:hover {
+  color: var(--yellow);
+}
+.breadcrumb li > span:first-child:not(:last-child) {
+  color: #50729c;
+}
+.page-intro .eyebrow {
+  display: block;
+  margin-bottom: 8px;
+}
+.page-intro h1 {
+  margin-bottom: 10px;
+}
+.page-intro p {
+  color: #b4ced4;
+  max-width: 768px;
+  font-size: 15px;
+  margin: 0;
+  line-height: 1.65;
+}
+.page-meta {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  font-size: 10px;
+  color: #87a5cc;
+  margin-top: 10px;
+}
+.page-meta span {
+  padding: 3px 9px;
+  border: 1px solid #29496c;
+  border-radius: 5px;
+  background: #102542;
+}
+.page-section {
+  padding: 18px 0;
+}
+.page-section h2 {
+  margin-bottom: 16px;
+}
+.page-section h3 {
+  margin: 22px 0 10px;
+}
+.page-section p {
+  color: #b4cdd3;
+}
+.page-section a:not(.button):not(.pokemon-card):not(.guide-card):hover {
+  color: var(--yellow);
+}
+.page-toolbar {
+  display: flex;
+  gap: 12px;
+  align-items: flex-end;
+  flex-wrap: wrap;
+  padding: 12px;
+  background: #0e303b;
+  border: 1px solid #31545e;
+  border-radius: 11px;
+  margin: 0 0 14px;
+}
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  min-width: 135px;
+  flex: 1;
+  font-size: 10px;
+  letter-spacing: 0.5px;
+  font-weight: 700;
+  color: #bed7dc;
+}
+.field input,
+.field select {
+  border: 1px solid #3a5d67;
+  border-radius: 6px;
+  background: #06232d;
+  color: #e3edfa;
+  padding: 10px 11px;
+  height: 41px;
+  width: 100%;
+  min-width: 0;
+  font-size: 12px;
+  letter-spacing: 0;
+}
+.field input::placeholder {
+  color: #718db3;
+}
+.result-count {
+  font-size: 11px;
+  color: #92afd0;
+  margin: 13px 0 18px;
+}
+.empty-state {
+  padding: 42px 25px;
+  text-align: center;
+  border: 1px dashed #40628a;
+  border-radius: 12px;
+  background: #092c37;
+}
+.empty-state h2 {
+  font-size: 24px;
+}
+.empty-state p {
+  color: #adc2dd;
+  margin: 10px auto 20px;
+  max-width: 550px;
+}
+.notice {
+  border: 1px solid #376480;
+  border-left: 3px solid #5dc9e8;
+  background: #10293e;
+  padding: 15px 19px;
+  color: #c4d9eb;
+  font-size: 12px;
+  border-radius: 7px;
+  margin: 20px 0;
+}
+.notice strong {
+  color: #e2f2ff;
+}
+.content-link {
+  color: #7bd7ff;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.prose {
+  max-width: 1024px;
+  min-width: 0;
+}
+.prose p,
+.prose li {
+  font-size: 14px;
+  color: #b9cce5;
+  line-height: 1.9;
+}
+.prose section {
+  margin: 0 0 35px;
+  scroll-margin-top: 25px;
+}
+.prose section h2 {
+  font-size: 26px;
+  margin-bottom: 17px;
+}
+.prose section h3 {
+  font-size: 19px;
+  margin: 22px 0 10px;
+}
+.prose a {
+  color: #7bd5fc;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.prose li {
+  margin: 6px 0;
+}
+.article-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 245px;
+  gap: 28px;
+  padding: 20px 0;
+}
+.article-aside {
+  align-self: start;
+  position: sticky;
+  top: 25px;
+  border: 1px solid #2c4a70;
+  border-radius: 10px;
+  background: #0d213d;
+  padding: 20px;
+}
+.article-aside h2 {
+  font-size: 15px;
+  letter-spacing: 0;
+  margin: 0 0 13px;
+}
+.article-aside a {
+  display: block;
+  font-size: 11px;
+  line-height: 1.6;
+  color: #a8c2df;
+  border-left: 2px solid #27456b;
+  padding: 7px 0 7px 12px;
+}
+.article-aside a:hover {
+  border-color: var(--yellow);
+  color: var(--yellow);
+}
+.related-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 15px;
+}
+.related-links a {
+  border: 1px solid #33577e;
+  background: #102948;
+  padding: 9px 13px;
+  border-radius: 7px;
+  font-size: 12px;
+  color: #b7d9f2;
+}
+.table-scroll {
+  overflow-x: auto;
+  border: 1px solid #2e4d75;
+  border-radius: 10px;
+}
+.data-table {
+  border-collapse: collapse;
+  min-width: 600px;
+  width: 100%;
+  font-size: 12px;
+  text-align: left;
+}
+.data-table th {
+  background: #142c4b;
+  font-size: 10px;
+  letter-spacing: 0.7px;
+  text-transform: uppercase;
+  padding: 13px 17px;
+  color: #93b6d9;
+  white-space: nowrap;
+}
+.data-table td {
+  padding: 14px 17px;
+  border-top: 1px solid #263f61;
+  color: #b7cde5;
+}
+.data-table tbody tr:nth-child(even) {
+  background: #10213b66;
+}
+.data-table td strong {
+  color: #e6effc;
+}
+.data-table a {
+  color: #8ad5fc;
+}
+.section-lede {
+  color: #a7bdd9;
+  font-size: 13px;
+  margin: -6px 0 22px;
+}
+.page-faq details {
+  border: 1px solid #2d4d76;
+  background: #102442;
+  border-radius: 7px;
+  margin: 8px 0;
+}
+.page-faq summary {
+  font-size: 13px;
+  font-weight: 700;
+  padding: 13px 17px;
+}
+.page-faq details p {
+  padding: 0 17px 15px;
+  font-size: 12px;
+  margin: 0;
+}
+.source-note {
+  font-size: 10px;
+  color: #809abb;
+  margin-top: 22px;
+}
+.source-note a {
+  color: #99c7e6;
+  text-decoration: underline;
+}
+.small-label {
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #9cbbdf;
+}
+.page-actions {
+  display: flex;
+  gap: 12px;
+  margin-top: 20px;
+  flex-wrap: wrap;
+}
+@media (max-width: 1024px) {
+  .article-layout {
+    grid-template-columns: minmax(0, 1fr) 200px;
+    gap: 30px;
+  }
+}
+@media (max-width: 768px) {
+  .page-intro {
+    padding: 21px 0 25px;
+  }
+  .page-intro h1 {
+    font-size: 34px;
+  }
+  .page-intro p {
+    font-size: 13px;
+  }
+  .breadcrumb {
+    font-size: 10px;
+    margin-bottom: 20px;
+  }
+  .page-section {
+    padding: 25px 0;
+  }
+  .page-toolbar {
+    gap: 10px;
+    padding: 13px;
+  }
+  .field {
+    min-width: calc(50% - 10px);
+  }
+  .field:first-child {
+    flex-basis: 100%;
+  }
+  .article-layout {
+    grid-template-columns: 1fr;
+    gap: 25px;
+    padding: 25px 0;
+  }
+  .article-aside {
+    order: -1;
+    position: static;
+  }
+  .article-aside a {
+    display: inline-block;
+    margin: 3px 10px 3px 0;
+    padding: 3px 0 3px 9px;
+  }
+  .prose section h2 {
+    font-size: 24px;
+  }
+  .page-meta {
+    gap: 7px;
+  }
+  .page-intro .eyebrow {
+    font-size: 9px;
+  }
+  .data-table th,
+  .data-table td {
+    padding: 12px;
+  }
+  .page-section h2 {
+    font-size: 24px;
+  }
+}

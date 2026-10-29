@@ -1,0 +1,105 @@
+.mechanics-index {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+  margin-bottom: 30px;
+}
+.mechanics-index a {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  border: 1px solid #36557f;
+  border-radius: 9px;
+  background: #122b48;
+  padding: 15px;
+  font-size: 12px;
+  font-weight: 700;
+}
+.mechanics-index .game-icon {
+  font-size: 25px;
+}
+.mechanics-sections {
+  max-width: 1080px;
+}
+.mechanics-sections > section {
+  display: flex;
+  gap: 25px;
+  padding: 30px 0;
+  border-top: 1px solid #2d4669;
+  scroll-margin-top: 25px;
+}
+.mechanics-section-number {
+  font: 900 32px var(--heading);
+  color: #466891;
+  width: 45px;
+  flex-shrink: 0;
+}
+.mechanics-sections > section > div:nth-child(2) {
+  flex: 1;
+}
+.mechanics-sections h2 {
+  margin-bottom: 16px;
+}
+.mechanics-sections p {
+  font-size: 14px;
+  line-height: 1.9;
+}
+.mechanics-sections .content-link {
+  font-size: 12px;
+}
+.mechanics-sections > section > .game-icon {
+  font-size: 58px;
+  align-self: center;
+  width: 85px;
+}
+@media (max-width: 1024px) {
+  .mechanics-index {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (max-width: 768px) {
+  .mechanics-index {
+    gap: 8px;
+  }
+  .mechanics-index a {
+    padding: 12px;
+    font-size: 10px;
+    gap: 7px;
+  }
+  .mechanics-index .game-icon {
+    font-size: 21px;
+  }
+  .mechanics-sections > section {
+    gap: 13px;
+    padding: 25px 0;
+  }
+  .mechanics-section-number {
+    font-size: 25px;
+    width: 31px;
+  }
+  .mechanics-sections > section > .game-icon {
+    display: none;
+  }
+  .mechanics-sections p {
+    font-size: 13px;
+  }
+}
+.mechanics-game-reference {
+  max-width: 1024px;
+  margin: 0 auto 30px;
+  padding: 12px;
+  background: #122744;
+  border: 1px solid #345378;
+  border-radius: 12px;
+}
+.mechanics-game-reference img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 7px;
+}
+.mechanics-game-reference figcaption {
+  font-size: 11px;
+  color: #9db5d3;
+  margin: 10px 4px 2px;
+}

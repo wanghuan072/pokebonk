@@ -1,0 +1,3 @@
+Built-in imagegen tool. Typography correction of the first concept; no application code changes.
+
+undefined

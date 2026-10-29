@@ -1,0 +1,164 @@
+.play-portal {
+  position: relative;
+  isolation: isolate;
+  min-height: 430px;
+  border: 1px solid #416b98;
+  border-radius: 15px;
+  overflow: hidden;
+  background: #0c2545;
+}
+.play-portal > img {
+  object-fit: cover;
+  object-position: 70% 60%;
+  z-index: -3;
+}
+.play-portal-overlay {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background: linear-gradient(90deg, #081b35e8, #071b3ec9 45%, #071b3e55);
+}
+.play-portal-copy {
+  padding: 45px 50px;
+  max-width: 700px;
+}
+.play-portal-copy > .game-icon {
+  display: block;
+  font-size: 53px;
+  color: #ffe18a;
+  margin-bottom: 17px;
+}
+.play-portal-copy > .eyebrow {
+  color: #a6d9f5;
+  font-size: 9px;
+}
+.play-portal-copy h2 {
+  font-size: 48px;
+  line-height: 1.1;
+  margin: 13px 0 18px;
+  text-shadow: 0 3px 0 #06152e;
+}
+.play-portal-copy h2 span {
+  color: #ffda63;
+}
+.play-portal-copy > p {
+  font-size: 14px;
+}
+.play-portal-copy .button {
+  min-height: 49px;
+  font-size: 15px;
+}
+.play-portal-copy small {
+  display: block;
+  font-size: 10px;
+  color: #95b5d4;
+  margin-top: 17px;
+}
+.play-portal-note {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 18px 5px;
+}
+.play-portal-note p {
+  font-size: 10px;
+  color: #87a8cc;
+  flex: 1;
+  margin: 0;
+}
+.play-portal-note a {
+  font-size: 10px;
+  color: #8ed5f5;
+}
+.play-basics-content {
+  display: grid;
+  grid-template-columns: 1fr 1.2fr;
+  gap: 70px;
+}
+.play-controls {
+  margin: 22px 0;
+}
+.play-controls > div {
+  display: grid;
+  grid-template-columns: 150px 1fr;
+  border-bottom: 1px solid #2c4769;
+  padding: 10px 0;
+  align-items: center;
+}
+.play-controls dd {
+  margin: 0;
+  font-size: 13px;
+  color: #a6c2df;
+}
+.play-controls kbd {
+  display: inline-block;
+  font: 700 11px var(--font);
+  border: 1px solid #537297;
+  border-bottom-width: 3px;
+  background: linear-gradient(#233f60, #173452);
+  border-radius: 5px;
+  padding: 5px 12px;
+  min-width: 45px;
+  text-align: center;
+}
+.play-steps {
+  padding-left: 21px;
+  margin-top: 22px;
+}
+.play-steps li {
+  padding-left: 10px;
+  margin-bottom: 22px;
+  color: #ffdb73;
+}
+.play-steps strong {
+  font-size: 14px;
+  color: #e2edff;
+}
+.play-steps p {
+  font-size: 12px;
+  color: #b5c9df;
+  margin-top: 6px;
+}
+.play-basics-content .content-link {
+  font-size: 12px;
+}
+@media (max-width: 1024px) {
+  .play-basics-content {
+    gap: 40px;
+  }
+}
+@media (max-width: 768px) {
+  .play-portal {
+    min-height: 400px;
+  }
+  .play-portal-copy {
+    padding: 30px 24px;
+  }
+  .play-portal-copy h2 {
+    font-size: 39px;
+  }
+  .play-portal-copy > p {
+    font-size: 12px;
+  }
+  .play-portal-copy .button {
+    font-size: 13px;
+  }
+  .play-portal-note {
+    align-items: flex-start;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+  .play-portal-note > .live-dot {
+    margin-top: 5px;
+  }
+  .play-portal-note > a {
+    margin-left: 14px;
+  }
+  .play-basics-content {
+    grid-template-columns: 1fr;
+    gap: 35px;
+  }
+  .play-controls > div {
+    grid-template-columns: 130px 1fr;
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "reviewedOn": "2026-10-27",
+  "publishedPages": 21,
+  "criteria": [
+    "Describe the player task or actual page content.",
+    "Replace vague promises and editorial praise with concrete topics.",
+    "Keep game names, factual labels and legal document titles accurate.",
+    "Identify Classic kit comparisons and dated Season 2 standings."
+  ],
+  "guideSectionsReviewed": 25,
+  "generatorCopyMatches": true,
+  "pages": [
+    {
+      "route": "/",
+      "h1": "PokeBonk Wiki & Guides",
+      "title": "PokeBonk - Pokémon, Builds, Fusions & Game Guides",
+      "titleCharacters": 49,
+      "descriptionCharacters": 148
+    },
+    {
+      "route": "/play",
+      "h1": "PokeBonk - Play Online & Learn the Controls",
+      "title": "Play PokeBonk Online - Controls & Browser Requirements",
+      "titleCharacters": 54,
+      "descriptionCharacters": 151
+    },
+    {
+      "route": "/pokedex",
+      "h1": "PokeBonk Pokédex - Stats, Move Kits & Unlocks",
+      "title": "PokeBonk Pokédex - Pokémon, Move Kits & Unlocks",
+      "titleCharacters": 47,
+      "descriptionCharacters": 149
+    },
+    {
+      "route": "/wiki/moves",
+      "h1": "PokeBonk Wiki - Moves, Skills & Passive Abilities",
+      "title": "PokeBonk Wiki - Moves, Skills & Passive Abilities",
+      "titleCharacters": 49,
+      "descriptionCharacters": 152
+    },
+    {
+      "route": "/wiki/fusions",
+      "h1": "PokeBonk Wiki - Move Fusion Recipes & Finder",
+      "title": "PokeBonk Wiki - Move Fusions, Recipes & Finder",
+      "titleCharacters": 46,
+      "descriptionCharacters": 149
+    },
+    {
+      "route": "/wiki/items",
+      "h1": "PokeBonk Wiki - Items & Vitamins for Your Build",
+      "title": "PokeBonk Wiki - Items, Vitamins & Build Bonuses",
+      "titleCharacters": 47,
+      "descriptionCharacters": 156
+    },
+    {
+      "route": "/wiki/achievements",
+      "h1": "PokeBonk Wiki - Achievement Goals & Rewards",
+      "title": "PokeBonk Wiki - Achievements, Rewards & Checklist",
+      "titleCharacters": 49,
+      "descriptionCharacters": 152
+    },
+    {
+      "route": "/wiki/lab",
+      "h1": "PokeBonk Wiki - Lab Upgrades & Stardust Costs",
+      "title": "PokeBonk Wiki - Lab Upgrades & Stardust Calculator",
+      "titleCharacters": 50,
+      "descriptionCharacters": 152
+    },
+    {
+      "route": "/wiki/mechanics",
+      "h1": "PokeBonk Wiki - Combat, Evolution & Progression",
+      "title": "PokeBonk Wiki - Combat, Evolution & Game Mechanics",
+      "titleCharacters": 50,
+      "descriptionCharacters": 148
+    },
+    {
+      "route": "/tier-list",
+      "h1": "PokeBonk Tier List - Compare Kits & Rank Pokémon",
+      "title": "PokeBonk Tier List - Rank Pokémon & Compare Kits",
+      "titleCharacters": 48,
+      "descriptionCharacters": 151
+    },
+    {
+      "route": "/guides",
+      "h1": "PokeBonk Guides - Starters, Builds & Lab Upgrades",
+      "title": "PokeBonk Guides - Starter Choices, Builds & Lab Costs",
+      "titleCharacters": 53,
+      "descriptionCharacters": 146
+    },
+    {
+      "route": "/leaderboard",
+      "h1": "PokeBonk Leaderboard - Season 2 Standings",
+      "title": "PokeBonk Leaderboard - Season KOs, Survival & Times",
+      "titleCharacters": 51,
+      "descriptionCharacters": 148
+    },
+    {
+      "route": "/updates",
+      "h1": "PokeBonk Updates - Patch Notes & Balance Changes",
+      "title": "PokeBonk Updates - Patch Notes, Balance & New Features",
+      "titleCharacters": 54,
+      "descriptionCharacters": 147
+    },
+    {
+      "route": "/about",
+      "h1": "About Us",
+      "title": "About PokeBonk.me - Pokémon Guides & Planning Tools",
+      "titleCharacters": 51,
+      "descriptionCharacters": 154
+    },
+    {
+      "route": "/privacy-policy",
+      "h1": "Privacy Policy",
+      "title": "PokeBonk Privacy Policy - Browser Storage & Privacy",
+      "titleCharacters": 51,
+      "descriptionCharacters": 149
+    },
+    {
+      "route": "/terms",
+      "h1": "Terms of Service",
+      "title": "PokeBonk Terms of Service - Site Content & Tools",
+      "titleCharacters": 48,
+      "descriptionCharacters": 151
+    },
+    {
+      "route": "/copyright",
+      "h1": "Copyright",
+      "title": "PokeBonk Copyright - Artwork, Credits & Fan Site",
+      "titleCharacters": 48,
+      "descriptionCharacters": 150
+    },
+    {
+      "route": "/contact",
+      "h1": "Contact Us",
+      "title": "Contact PokeBonk.me - Corrections & Site Support",
+      "titleCharacters": 48,
+      "descriptionCharacters": 160
+    },
+    {
+      "route": "/guides/beginners-guide",
+      "h1": "Starter Choices & First-Run Survival",
+      "title": "Starter & Survival Guide - PokeBonk Beginner Tips",
+      "titleCharacters": 49,
+      "descriptionCharacters": 154,
+      "sectionHeadings": [
+        "Set up your first run",
+        "Choose between Bulbasaur, Squirtle and Charmander",
+        "Collect experience without getting surrounded",
+        "Choose between moves, move levels and vitamins",
+        "When to start upgrading fusion ingredients",
+        "Review why your run ended",
+        "Favorites, Build Plan and guardian portals"
+      ]
+    },
+    {
+      "route": "/guides/best-builds",
+      "h1": "Damage, Recovery & Move Fusion Builds",
+      "title": "Damage & Fusion Builds - PokeBonk Strategy Guide",
+      "titleCharacters": 48,
+      "descriptionCharacters": 151,
+      "sectionHeadings": [
+        "Choose a build for damage, recovery or protection",
+        "Match stat bonuses to your moves’ damage class",
+        "Bulbasaur: Grass attacks and healing",
+        "Squirtle: armor, shield and Water moves",
+        "Machop: physical damage and move choices",
+        "Choose a fusion and upgrade its ingredients",
+        "Adjust builds for Classic, Survival and Time attack",
+        "Use Build Plan and check each upgrade offer",
+        "How co-op changes build decisions"
+      ]
+    },
+    {
+      "route": "/guides/lab-upgrade-guide",
+      "h1": "Lab Upgrade Costs & Spending Priorities",
+      "title": "Lab Costs & Upgrade Priorities - PokeBonk Guide",
+      "titleCharacters": 47,
+      "descriptionCharacters": 157,
+      "sectionHeadings": [
+        "Choose a Lab upgrade for your current build",
+        "Add up the cost of each upgrade level",
+        "When to buy health, armor or recovery",
+        "When to unlock move and vitamin slots",
+        "Choose between Refresh, Skip and Banish",
+        "Plan your next Stardust purchase",
+        "Earn Stardust and complete League challenges",
+        "Calculate Archive capacity from upgrades and items",
+        "Understand Shop purchases, Bag supplies and Treasures"
+      ]
+    }
+  ]
+}

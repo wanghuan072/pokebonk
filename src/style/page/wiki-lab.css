@@ -1,0 +1,83 @@
+.lab-calculator {
+  display: grid;
+  grid-template-columns: 1fr 280px;
+  gap: 18px;
+  padding: 18px;
+  background:
+    radial-gradient(ellipse at 90% 100%, #663a9855, transparent),
+    linear-gradient(120deg, #1a2c4f, #232047);
+  border: 1px solid #69558e;
+  border-radius: 14px;
+}
+.lab-calculator h2 {
+  font-size: 27px;
+  margin: 10px 0 8px;
+}
+.lab-calculator > div > p {
+  font-size: 12px;
+  margin-bottom: 21px;
+}
+.lab-calculator-fields {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr;
+  gap: 12px;
+}
+.lab-calculator-fields .field {
+  min-width: 0;
+}
+.lab-calc-hint {
+  font-size: 10px !important;
+  color: #9fafd0 !important;
+  margin: 12px 0 0 !important;
+}
+.lab-calculator-result {
+  align-self: center;
+  border: 1px solid #8d6bb2;
+  border-radius: 10px;
+  padding: 25px 20px;
+  text-align: center;
+  background: #17203d;
+}
+.lab-calculator-result > span {
+  font-size: 9px;
+  letter-spacing: 1.7px;
+  color: #c5a3ed;
+}
+.lab-calculator-result > strong {
+  display: block;
+  font: 900 39px/1.5 var(--heading);
+  color: #ffdd6f;
+  margin: 8px 0;
+  text-shadow: 0 0 20px #ffdd6f11;
+}
+.lab-calculator-result p {
+  font-size: 10px !important;
+  margin: 0 !important;
+  color: #a8bddb;
+}
+.lab-cost-breakdown {
+  grid-column: span 2;
+  border-top: 1px solid #54466f;
+  padding-top: 14px;
+  font-size: 11px;
+  color: #b9c7df;
+}
+.lab-cost-breakdown ul {
+  padding: 0;
+  list-style: none;
+  max-width: 500px;
+}
+.lab-cost-breakdown li {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #4c4664;
+  padding: 7px;
+}
+.lab-cost-breakdown strong {
+  color: #ffdf7a;
+}
+.wiki-screen .lab-category{margin:16px 0 26px}.wiki-screen .lab-category>h2{border-left:5px solid #9c70ff;padding-left:12px;display:flex;align-items:baseline;gap:12px;font-size:24px;margin-bottom:15px}.wiki-screen .lab-category>h2 small{font-size:11px;color:#bec6dc}.wiki-screen .lab-group-1>h2{border-color:#4f99ff}.wiki-screen .lab-upgrade-grid{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:12px}.wiki-screen .lab-upgrade{padding:0!important;border:0;border-radius:22px;overflow:hidden;background:#252a3d;box-shadow:0 7px 0 #151b2d;display:flex;flex-direction:column;align-items:stretch;gap:0;text-align:center}.wiki-screen .lab-upgrade-cap{flex:0 0 77px;width:100%;height:77px;position:relative;background:repeating-linear-gradient(135deg,#ffffff22 0 10px,transparent 10px 20px),#805ee0;margin-bottom:17px}.wiki-screen .lab-group-1 .lab-upgrade-cap{background-color:#427cd0}.wiki-screen .lab-upgrade-cap>span{position:absolute;bottom:-16px;left:50%;transform:translateX(-50%);width:58px;height:58px;border-radius:50%;background:#22283a;display:grid;place-items:center}.wiki-screen .lab-upgrade-cap img{width:35px;height:35px;image-rendering:pixelated}.wiki-screen .lab-upgrade-cap label{position:absolute;right:8px;top:8px;display:flex;align-items:center;font-size:10px;font-weight:900;background:#272c49;border-radius:20px;padding:3px 7px;color:#f0efff}.wiki-screen .lab-upgrade-cap select{appearance:auto;width:auto;max-width:65px;background:transparent;border:0;color:#fff;padding:0;font-size:10px;font-weight:900}.wiki-screen .lab-upgrade-cap option{background:#22283a}.wiki-screen .lab-upgrade-body{width:100%;flex:1 0 auto;padding:12px 12px 10px;display:flex;flex-direction:column;flex:1}.wiki-screen .lab-upgrade h3{font-size:16px;margin:0 0 7px}.wiki-screen .lab-upgrade p{font-size:11px;line-height:1.5;min-height:35px;margin:0 0 12px;color:#b9c1d8}.lab-pips{display:flex;gap:3px;margin:0 4px 13px}.lab-pips i{flex:1;height:5px;border-radius:5px;background:#3b4460}.lab-pips i.filled{background:#b79aff}.wiki-screen .lab-upgrade-price{display:flex;align-items:center;justify-content:center;gap:7px;border-radius:28px;background:#bbb4ce;border-bottom:4px solid #77718e;color:white;font-size:17px;font-weight:900;min-height:43px;padding:5px;margin-top:auto}.wiki-screen .lab-upgrade-price img{image-rendering:pixelated}.wiki-screen .lab-calculator{margin-top:32px}
+@media(max-width:1024px){.wiki-screen .lab-upgrade-grid{grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}.wiki-screen .lab-upgrade h3{font-size:15px}}@media(max-width:768px){.wiki-screen .lab-upgrade-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.wiki-screen .lab-upgrade-cap{height:65px;flex-basis:65px}.wiki-screen .lab-category>h2{display:block;font-size:22px}.wiki-screen .lab-category>h2 small{display:block;margin-top:4px}.wiki-screen .lab-upgrade p{min-height:50px}.wiki-screen .lab-upgrade-body{width:100%;flex:1 0 auto;padding:12px 10px}.wiki-screen .lab-upgrade h3{font-size:15px}}
+.lab-view-tabs{display:inline-flex!important;margin:0 0 10px!important}.lab-view-tabs button{font-size:12px;padding:10px 16px}.lab-item-more{display:block;font-size:10px;color:#b6d6ff;margin:0 0 12px}.lab-upgrade:target{outline:3px solid #ffd459;outline-offset:2px}
+
+@media(max-width:1024px){.lab-calculator{grid-template-columns:1fr 220px;padding:20px;gap:16px}.lab-calculator-fields{grid-template-columns:1.5fr 1fr 1fr}}@media(max-width:768px){.lab-calculator{grid-template-columns:1fr;padding:16px}.lab-calculator-fields{grid-template-columns:repeat(2,minmax(0,1fr))}.lab-calculator-fields .field:first-child{grid-column:span 2}.lab-calculator-result{padding:18px}.lab-cost-breakdown{grid-column:auto}}

@@ -1,0 +1,7 @@
+{
+  "rosterIds": [1, 4, 7, 25, 133, 39, 54, 58, 63, 66, 74, 92, 95, 104, 113, 123, 129, 131, 132, 137, 143, 147, 150, 151, 3, 6, 9, 26, 65, 94, 130, 149],
+  "fusionSlugs": ["fu-1", "fu-4", "fu-7"],
+  "labIds": ["slot-move", "slot-vit", "reroll", "dmg", "hp", "armor"],
+  "itemSlugs": ["calcium", "iron", "protein", "carbos", "max-ether", "exp-share", "leftovers", "shell-bell"],
+  "tierPreviewLimit": 8
+}

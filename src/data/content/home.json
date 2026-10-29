@@ -1,0 +1,50 @@
+{
+  "aboutTitle": "PokéBonk",
+  "aboutGameTitle": "PokéBonk 3D",
+  "about": [
+    "pokebonkdb.org is an independent fan site for planning a run. Compare all 151 Pokémon and the 79 League partners, look up attacks and fusions, and check items, vitamins and Lab costs before spending Stardust. Guides cover a first clear, PokéBonk Survival and PokéBonk Co-op. The Builds page keeps the Survival combinations we tested.",
+    "It is a free browser survival game with Kanto’s Pokémon. Choose a League partner, collect experience, and pick attacks, vitamins and items as the horde closes in. Classic is a standard clear. Survival measures how long you stay alive. Co-op is a shared room with revives and portals. The Play page opens the game. This site does not host it."
+  ],
+  "faqs": [
+    [
+      "Is PokeBonk free, and where do I play?",
+      "PokéBonk 3D is a free browser game. The Play page opens it and explains the controls and browser requirements. pokebonkdb.org provides guides and planning tools; it does not host the game.",
+      "/play"
+    ],
+    [
+      "Which Pokémon should I start with?",
+      "Bulbasaur helps recover from repeated small hits, Squirtle adds armor and shield, and Charmander rewards Fire damage with a conditional low-health bonus. Pick the passive that helps with the problem ending your runs, then keep the same setting while learning it.",
+      "/guides/beginners-guide"
+    ],
+    [
+      "Can all 151 Pokémon start a run?",
+      "The Pokédex includes 151 Kanto species. Only 79 are selectable League partners; other forms belong to evolution paths. Use the League partner filter to compare starts and the evolution information to see what comes later.",
+      "/pokedex"
+    ],
+    [
+      "How do attacks fuse?",
+      "Open a fusion entry in Attacks to see its ingredients. Both moves need level 8 at Bill’s Machine. Signature pairs take priority, then reactions, type fusions and MissingNo. Weather, boosters and existing fusion moves cannot be ingredients.",
+      "/wiki/attacks#fusions"
+    ],
+    [
+      "What should I buy in the Lab first?",
+      "Start with the problem you can identify: surviving the opening, keeping a needed attack, or finding useful offers. Compare the relevant stat, slot and offer-control upgrades. The calculator adds the prices between your current level and a target; later levels do not all cost the first-level price.",
+      "/wiki/lab"
+    ],
+    [
+      "Does the tier list show the strongest endgame build?",
+      "Our recommendations compare solo Classic openings using the v0.8.62 starting kits, not measured win rates or the strongest endgame build. Each partner has a placement reason and a weakness. Arrange all 151 species yourself to record your judgment for another mode.",
+      "/tier-list"
+    ],
+    [
+      "Which version and date do the lists cover?",
+      "Gameplay lists cover v0.8.62. The Season 2 Global top 100 boards were recorded on October 28, 2026, including appearances, regional scores and projected prizes. Open the game for subsequent placements.",
+      "/about#independence"
+    ],
+    [
+      "Where are my rankings, checklist and vitamin plans saved?",
+      "They stay in this browser’s localStorage, separately from the game. They do not sync between devices. Clearing site data removes them; the tier board also supports JSON export. Vitamin plans have three base slots per partner.",
+      "/privacy-policy"
+    ]
+  ]
+}

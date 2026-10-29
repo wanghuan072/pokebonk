@@ -1,0 +1,184 @@
+.wiki-section-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 6px 0 14px;
+  border-bottom: 1px solid #2b4c56;
+  margin-bottom: 16px;
+}
+.wiki-section-nav a {
+  padding: 10px 13px;
+  border-radius: 7px;
+  border: 1px solid transparent;
+  color: #93afcf;
+  font-size: 12px;
+}
+.wiki-section-nav a[aria-current="page"] {
+  border-color: #3c779b;
+  background: #123d46;
+  color: #a2dfd1;
+}
+.wiki-section-nav a:hover {
+  color: white;
+  background: #10313c;
+}
+.guide-roster-strip {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+  margin: 25px 0;
+}
+.guide-roster-strip a {
+  flex: 1;
+  min-width: 110px;
+  display: grid;
+  justify-items: center;
+  background:
+    radial-gradient(circle at 50% 30%, #2e667450, transparent 70%), #0b2d37;
+  border: 1px solid #355073;
+  border-radius: 12px;
+  padding: 18px 10px;
+  color: #c9e8ff;
+  font-size: 13px;
+}
+.guide-roster-strip img {
+  object-fit: contain;
+}
+.guide-field-note {
+  border-left: 3px solid #edcc6c;
+  border-radius: 0 10px 10px 0;
+  background: #253141;
+  padding: 20px 24px;
+  margin: 25px 0;
+}
+.guide-field-note b {
+  font-size: 11px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #ffde8e;
+}
+.guide-field-note p {
+  margin: 10px 0 0 !important;
+  color: #dfdfd7;
+}
+.guide-inline-figure {
+  margin: 30px 0;
+  border: 1px solid #395a65;
+  border-radius: 12px;
+  overflow: hidden;
+  background: #0a2b35;
+}
+.guide-inline-figure img {
+  width: 100%;
+  height: auto;
+}
+.guide-inline-figure figcaption {
+  padding: 13px 18px;
+  font-size: 11px;
+  color: #a0b6d0;
+  line-height: 1.7;
+}
+.guide-reference-table {
+  margin: 25px 0;
+  border: 1px solid #355171;
+  border-radius: 10px;
+}
+.guide-reference-table table {
+  border-collapse: collapse;
+  width: 100%;
+  min-width: 460px;
+  font-size: 13px;
+}
+.guide-reference-table th {
+  background: #19434d;
+  padding: 14px;
+  text-align: left;
+  color: #bfe9ff;
+}
+.guide-reference-table td {
+  padding: 16px 14px;
+  border-top: 1px solid #2d4261;
+  line-height: 1.7;
+}
+.prose > section {
+  margin: 28px 0;
+}
+.prose > section > h2 {
+  font-size: 27px;
+  line-height: 1.35;
+}
+.prose > section > p {
+  font-size: 16px;
+  line-height: 1.95;
+  color: #b9cae1;
+}
+.guide-article-section .article-aside {
+  position: sticky;
+  top: 100px;
+  align-self: start;
+}
+.achievement-list.achievement-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+.lab-upgrade-grid.lab-upgrade-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+.fusion-grid.fusion-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+@media (max-width: 1024px) {
+  .fusion-grid.fusion-grid { grid-template-columns:repeat(2,minmax(0,1fr)); }
+  .lab-upgrade-grid.lab-upgrade-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (max-width: 768px) {
+  .achievement-list.achievement-list,
+  .lab-upgrade-grid.lab-upgrade-grid,
+  .fusion-grid.fusion-grid {
+    grid-template-columns: 1fr;
+  }
+  .wiki-section-nav {
+    gap: 3px;
+  }
+  .wiki-section-nav a {
+    font-size: 10px;
+    padding: 9px;
+  }
+  .guide-roster-strip {
+    gap: 7px;
+  }
+  .guide-roster-strip a {
+    min-width: 75px;
+    padding: 10px 5px;
+    font-size: 11px;
+  }
+  .guide-roster-strip .game-sprite {
+    width: 88px!important;
+    height: 88px!important;
+  }
+  .prose > section > h2 {
+    font-size: 23px;
+  }
+  .prose > section > p {
+    font-size: 15px;
+  }
+}
+@media (max-width: 768px) {
+  .guide-article-section .article-aside {
+    position: static;
+  }
+  .workshop-tabs button {
+    display: grid;
+    grid-template-columns: 20px minmax(0, 1fr);
+    align-items: center;
+  }
+  .workshop-tabs b {
+    line-height: 1.5;
+  }
+}
+.release-history {
+  scroll-margin-top: 105px;
+}

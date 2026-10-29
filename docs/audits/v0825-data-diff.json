@@ -1,0 +1,3489 @@
+{
+  "version": "0.8.25",
+  "build": "mvjzbutg",
+  "checkedAt": "2026-10-23",
+  "sourceFiles": [
+    {
+      "file": "current-index.html",
+      "url": "https://pokebonk.com/?lang=en",
+      "sha256": "001d4ccbbe65dd50eccd870f231b3c1d1c6ec79a2db1018057257d28d389158a",
+      "bytes": 10689
+    },
+    {
+      "file": "current-entry.js",
+      "url": "https://pokebonk.com/assets/main-BgUJZRkG-mvjzbutg.js",
+      "sha256": "f8fcabf7c216d3ba049d7164815055feb7fbde5a39e1a9f94efed3089c35ac52",
+      "bytes": 9311
+    },
+    {
+      "file": "current-game.js",
+      "url": "https://pokebonk.com/assets/main-C90gB5C0-mvjzbutg.js",
+      "sha256": "da9981da3b03e8cb48e39cd90d94bbc8f54f06f8cd31a99180ce81db56abbc7b",
+      "bytes": 1944320
+    },
+    {
+      "file": "current-news.js",
+      "url": "https://pokebonk.com/assets/news-SYOogixF-mvjzbutg.js",
+      "sha256": "a9329e2b4ccb9d4b8c436abaadf72dd2c6643642511853f3439c5be1b0be08b3",
+      "bytes": 125666
+    },
+    {
+      "file": "current-en.js",
+      "url": "https://pokebonk.com/assets/en-D7CrqP_e-mvjzbutg.js",
+      "sha256": "75dd331bef9ba16c949f2e529826219fa29e03ef614b901383e7f5cd30aabc16",
+      "bytes": 435931
+    },
+    {
+      "file": "current-pokemon.json",
+      "url": "https://pokebonk.com/data/pokemon.json?v=5l9YG1H_",
+      "sha256": "cd148403e2e7e44a86ac982bfb71b73dde8bf3641816e2fa549a5c05a988b678",
+      "bytes": 528525,
+      "initialUrl": "https://pokebonk.com/data/pokemon.json"
+    },
+    {
+      "file": "current-moves.json",
+      "url": "https://pokebonk.com/data/moves.json?v=Ixf0MGdc",
+      "sha256": "bd7a87d79d3a18a818eef5bcef375e068401105f50fda2c3a12d844426a82518",
+      "bytes": 356086,
+      "initialUrl": "https://pokebonk.com/data/moves.json"
+    },
+    {
+      "file": "current-items.json",
+      "url": "https://pokebonk.com/data/items.json?v=3BUkWvy1",
+      "sha256": "d70c23fe21cb0aca6089f475a0cf87cae947d2ec303884113d6647235476cdd7",
+      "bytes": 25970,
+      "initialUrl": "https://pokebonk.com/data/items.json"
+    },
+    {
+      "file": "current-i18n-en.json",
+      "url": "https://pokebonk.com/data/i18n/en.json?v=3yGJZ_Pq",
+      "sha256": "02d573396a8da6f088e36c722a69e5b94ea66cb7e7db84914ef74e0e6d7496b3",
+      "bytes": 115637,
+      "initialUrl": "https://pokebonk.com/data/i18n/en.json"
+    }
+  ],
+  "collections": {
+    "pokedex/pokemon": {
+      "countBefore": 151,
+      "countAfter": 151,
+      "added": [],
+      "removed": [],
+      "changed": []
+    },
+    "wiki/moves": {
+      "countBefore": 389,
+      "countAfter": 389,
+      "added": [],
+      "removed": [],
+      "changed": []
+    },
+    "wiki/fusions": {
+      "countBefore": 79,
+      "countAfter": 79,
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "key": "fu-1",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.4
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.6
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 16
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "root"
+            }
+          ]
+        },
+        {
+          "key": "fu-4",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.8
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 5
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 14
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "burn"
+            }
+          ]
+        },
+        {
+          "key": "fu-7",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "normal"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 4
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.5
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 12
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "wet"
+            }
+          ]
+        },
+        {
+          "key": "fu-25",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.6
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.3
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 16
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "paralysis"
+            }
+          ]
+        },
+        {
+          "key": "fu-10",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.6
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 14
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "root"
+            }
+          ]
+        },
+        {
+          "key": "fu-13",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 4
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.6
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 16
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "poison"
+            }
+          ]
+        },
+        {
+          "key": "fu-16",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.8
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.6
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 16
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "knock"
+            }
+          ]
+        },
+        {
+          "key": "fu-19",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.2
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.2
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 14
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": null
+            }
+          ]
+        },
+        {
+          "key": "fu-21",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "ground"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.6
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 16
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "stun"
+            }
+          ]
+        },
+        {
+          "key": "fu-23",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.8
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.6
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 16
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "curse"
+            }
+          ]
+        },
+        {
+          "key": "fu-27",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "rock"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.8
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 12
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "stun"
+            }
+          ]
+        },
+        {
+          "key": "fu-29",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.8
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.3
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 12
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "poison"
+            }
+          ]
+        },
+        {
+          "key": "fu-32",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "normal"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.6
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.5
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 14
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "stun"
+            }
+          ]
+        },
+        {
+          "key": "fu-35",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "psychic"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 4
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 16
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "charm"
+            }
+          ]
+        },
+        {
+          "key": "fu-37",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "psychic"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.8
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 15
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "burn"
+            }
+          ]
+        },
+        {
+          "key": "fu-39",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 4
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.2
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 12
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "sleep"
+            }
+          ]
+        },
+        {
+          "key": "fu-41",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "bug"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.4
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 14
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": null
+            }
+          ]
+        },
+        {
+          "key": "fu-43",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "poison"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.8
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 12
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "poison"
+            }
+          ]
+        },
+        {
+          "key": "fu-46",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.6
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 14
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "sleep"
+            }
+          ]
+        },
+        {
+          "key": "fu-48",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.6
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.6
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 15
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "confusion"
+            }
+          ]
+        },
+        {
+          "key": "fu-50",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.8
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.5
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 15
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "root"
+            }
+          ]
+        },
+        {
+          "key": "fu-52",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "fairy"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.4
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 13
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "charm"
+            }
+          ]
+        },
+        {
+          "key": "fu-54",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "psychic"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.6
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 14
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "wet"
+            }
+          ]
+        },
+        {
+          "key": "fu-56",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "ghost"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.4
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 14
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": null
+            }
+          ]
+        },
+        {
+          "key": "fu-58",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "normal"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.6
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.6
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 15
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "burn"
+            }
+          ]
+        },
+        {
+          "key": "fu-60",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "psychic"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.8
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 12
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "sleep"
+            }
+          ]
+        },
+        {
+          "key": "fu-63",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.8
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.5
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 16
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "confusion"
+            }
+          ]
+        },
+        {
+          "key": "fu-66",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.4
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.2
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 10
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "confusion"
+            }
+          ]
+        },
+        {
+          "key": "fu-69",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "normal"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.6
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 12
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "poison"
+            }
+          ]
+        },
+        {
+          "key": "fu-72",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "poison"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.8
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.6
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 13
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "poison"
+            }
+          ]
+        },
+        {
+          "key": "fu-74",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "rock"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.8
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 12
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "stun"
+            }
+          ]
+        },
+        {
+          "key": "fu-92",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.6
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 15
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "curse"
+            }
+          ]
+        },
+        {
+          "key": "fu-104",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "ghost"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.6
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 12
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "curse"
+            }
+          ]
+        },
+        {
+          "key": "fu-123",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "flying"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.4
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.1
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 15
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": null
+            }
+          ]
+        },
+        {
+          "key": "fu-129",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "normal"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 4.2
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 15
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": null
+            }
+          ]
+        },
+        {
+          "key": "fu-131",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "ice"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.8
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 3.9
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 14
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "freeze"
+            }
+          ]
+        },
+        {
+          "key": "fu-133",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.6
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.3
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 15
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": null
+            }
+          ]
+        },
+        {
+          "key": "fu-143",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 4
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 3.9
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 14
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "stun"
+            }
+          ]
+        },
+        {
+          "key": "fu-147",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.8
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.1
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 15
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": null
+            }
+          ]
+        },
+        {
+          "key": "fu-151",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "fairy"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.8
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.1
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 15
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "confusion"
+            }
+          ]
+        },
+        {
+          "key": "fu-77",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.8
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 15
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "burn"
+            }
+          ]
+        },
+        {
+          "key": "fu-79",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "psychic"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.8
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 12
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "burn"
+            }
+          ]
+        },
+        {
+          "key": "fu-81",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.8
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 15
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "paralysis"
+            }
+          ]
+        },
+        {
+          "key": "fu-83",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "fighting"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.6
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.1
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 15
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": null
+            }
+          ]
+        },
+        {
+          "key": "fu-84",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "normal"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.4
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 3.8
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 12
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "confusion"
+            }
+          ]
+        },
+        {
+          "key": "fu-86",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 4
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 3.8
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 14
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "freeze"
+            }
+          ]
+        },
+        {
+          "key": "fu-88",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.8
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 12
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "poison"
+            }
+          ]
+        },
+        {
+          "key": "fu-90",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.6
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 3.8
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 13
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "freeze"
+            }
+          ]
+        },
+        {
+          "key": "fu-95",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.8
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 15
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "stun"
+            }
+          ]
+        },
+        {
+          "key": "fu-96",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "ghost"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 4
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.3
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 12
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "sleep"
+            }
+          ]
+        },
+        {
+          "key": "fu-98",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.6
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 13
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "wet"
+            }
+          ]
+        },
+        {
+          "key": "fu-100",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.8
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.6
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 12
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "paralysis"
+            }
+          ]
+        },
+        {
+          "key": "fu-102",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.8
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 14
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "root"
+            }
+          ]
+        },
+        {
+          "key": "fu-106",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.8
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 14
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "stun"
+            }
+          ]
+        },
+        {
+          "key": "fu-107",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "ice"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.6
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 10
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "freeze"
+            }
+          ]
+        },
+        {
+          "key": "fu-108",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "steel"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.6
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.2
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 11
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "stun"
+            }
+          ]
+        },
+        {
+          "key": "fu-109",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "normal"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 4
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.8
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 12
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "poison"
+            }
+          ]
+        },
+        {
+          "key": "fu-111",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "rock"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.8
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.5
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 14
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "stun"
+            }
+          ]
+        },
+        {
+          "key": "fu-113",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.8
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.2
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 13
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": null
+            }
+          ]
+        },
+        {
+          "key": "fu-114",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.8
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 11
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "root"
+            }
+          ]
+        },
+        {
+          "key": "fu-115",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.4
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.6
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 9
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "stun"
+            }
+          ]
+        },
+        {
+          "key": "fu-116",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 4
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.6
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 14
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "stun"
+            }
+          ]
+        },
+        {
+          "key": "fu-118",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "steel"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.4
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 15
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": null
+            }
+          ]
+        },
+        {
+          "key": "fu-120",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "psychic"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 4
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.6
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 14
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": null
+            }
+          ]
+        },
+        {
+          "key": "fu-122",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "psychic"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.8
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 14
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "charm"
+            }
+          ]
+        },
+        {
+          "key": "fu-124",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "normal"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.6
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 12
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "freeze"
+            }
+          ]
+        },
+        {
+          "key": "fu-125",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.8
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.6
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 14
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "paralysis"
+            }
+          ]
+        },
+        {
+          "key": "fu-126",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 4
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.6
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 14
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "burn"
+            }
+          ]
+        },
+        {
+          "key": "fu-127",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "bug"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.4
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 10
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "stun"
+            }
+          ]
+        },
+        {
+          "key": "fu-128",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "ground"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 4
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 16
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "stun"
+            }
+          ]
+        },
+        {
+          "key": "fu-132",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.8
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 0.9
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 16
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": null
+            }
+          ]
+        },
+        {
+          "key": "fu-137",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "normal"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 4
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.6
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 16
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "paralysis"
+            }
+          ]
+        },
+        {
+          "key": "fu-138",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "rock"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 4
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.6
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 16
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "wet"
+            }
+          ]
+        },
+        {
+          "key": "fu-140",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "water"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.4
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.4
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 10
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": null
+            }
+          ]
+        },
+        {
+          "key": "fu-142",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "electric"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "physical"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 3.6
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.6
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 16
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "paralysis"
+            }
+          ]
+        },
+        {
+          "key": "fu-144",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": "flying"
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 4
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.6
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 14
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "freeze"
+            }
+          ]
+        },
+        {
+          "key": "fu-145",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 4
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.8
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 16
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "paralysis"
+            }
+          ]
+        },
+        {
+          "key": "fu-146",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 4
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 4.8
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 16
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "burn"
+            }
+          ]
+        },
+        {
+          "key": "fu-150",
+          "fields": [
+            {
+              "field": "secondaryType",
+              "before": null,
+              "after": null
+            },
+            {
+              "field": "damageClass",
+              "before": null,
+              "after": "special"
+            },
+            {
+              "field": "cooldown",
+              "before": null,
+              "after": 4.2
+            },
+            {
+              "field": "power",
+              "before": null,
+              "after": 1
+            },
+            {
+              "field": "hits",
+              "before": null,
+              "after": 5
+            },
+            {
+              "field": "range",
+              "before": null,
+              "after": 16
+            },
+            {
+              "field": "status",
+              "before": null,
+              "after": "confusion"
+            }
+          ]
+        }
+      ]
+    },
+    "wiki/items": {
+      "countBefore": 152,
+      "countAfter": 152,
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "key": "tm-case",
+          "fields": [
+            {
+              "field": "description",
+              "before": "Your moves can level up 2 more times (up to 10).",
+              "after": "Your moves can go up 2 more levels (up to 10) and fusions 1 more star (up to ★6)."
+            }
+          ]
+        }
+      ]
+    },
+    "wiki/lab": {
+      "countBefore": 24,
+      "countAfter": 24,
+      "added": [],
+      "removed": [],
+      "changed": []
+    },
+    "wiki/achievements": {
+      "countBefore": 70,
+      "countAfter": 70,
+      "added": [],
+      "removed": [],
+      "changed": []
+    },
+    "tier-list/rankings": {
+      "changes": [
+        {
+          "field": "versionReview",
+          "before": null,
+          "after": {
+            "build": "mvjzbutg",
+            "kitsChecked": 79,
+            "movesChecked": 389,
+            "summary": "Recalculated for v0.8.25. Starting stats, kits and passive effects are unchanged; opening scores and tiers are unchanged. TM Case supports fusion growth to ★6, which is outside this opening comparison."
+          }
+        }
+      ]
+    },
+    "guides/guides": {
+      "countBefore": 3,
+      "countAfter": 3,
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "key": "beginners-guide",
+          "fields": [
+            {
+              "field": "minutes",
+              "before": 5,
+              "after": 6
+            },
+            {
+              "field": "sections.1.paragraphs.0",
+              "before": "Bulbasaur is a sensible first choice when repeated small hits are draining your run. Photosynthesis adds regeneration and healing, and Grass hits provide small, capped healing. That rewards keeping attacks connected while you create space. It does not make standing inside a crowd safe.",
+              "after": "Bulbasaur is a sensible first choice when repeated small hits are draining your run. Synthesis adds regeneration and healing, and Grass hits provide small, capped healing. That rewards keeping attacks connected while you create space. It does not make standing inside a crowd safe."
+            },
+            {
+              "field": "sections.1.paragraphs.1",
+              "before": "Squirtle gives armor and shield immediately. That is useful when learning how much room a group needs and how far a projectile travels. Charmander’s Blaze increases damage below 40% HP, with a separate Fire bonus. Treat that low-health bonus as help in a bad situation; deliberately sitting at low HP is a rough way to learn an unfamiliar arena.",
+              "after": "Squirtle gives armor and shield immediately. That is useful when learning how much room a group needs and how far a projectile travels. Charmander’s Sea of Flames increases damage below 40% HP, with a separate Fire bonus. Treat that low-health bonus as help in a bad situation; deliberately sitting at low HP is a rough way to learn an unfamiliar arena."
+            },
+            {
+              "field": "sections.1.rows.0.2",
+              "before": "+1.5 regen, +25% healing; Grass-hit healing",
+              "after": "Synthesis: +1.5 regen and +25% healing. Your Grass attacks heal you a little (0.4% of HP per hit, up to 5 times per second)."
+            },
+            {
+              "field": "sections.1.rows.1.2",
+              "before": "+15 armor, +20 shield; low-HP damage bonus",
+              "after": "Torrent Shell: +15 armor and +20 shield. Below 40% HP, +40% damage."
+            },
+            {
+              "field": "sections.1.rows.2.2",
+              "before": "+10% Fire damage; +40% damage below 40% HP",
+              "after": "Sea of Flames: Below 40% HP, +40% damage. +10% Fire damage."
+            },
+            {
+              "field": "sections.4.paragraphs.2",
+              "before": null,
+              "after": "TM Case raises normal moves from level 8 to level 10 and lets a fusion grow from ★5 to ★6. You still only need level 8 on each ingredient to fuse. Do not hold back a useful fusion while waiting for level 10, and do not make finding this Legendary item a condition for a successful first run."
+            }
+          ]
+        },
+        {
+          "key": "best-builds",
+          "fields": [
+            {
+              "field": "minutes",
+              "before": 6,
+              "after": 7
+            },
+            {
+              "field": "sections.2.text",
+              "before": "Photosynthesis adds +1.5 regen and +25% healing. Grass attacks heal 0.4% of HP per hit, capped at five healing triggers per second. The practical advantage is repeatable recovery while you are already attacking, rather than waiting for a rescue pickup.",
+              "after": "Synthesis adds +1.5 regen and +25% healing. Grass attacks heal 0.4% of HP per hit, capped at five healing triggers per second. The practical advantage is repeatable recovery while you are already attacking, rather than waiting for a rescue pickup."
+            },
+            {
+              "field": "sections.5.paragraphs.2",
+              "before": null,
+              "after": "A fusion normally stops at ★5. TM Case makes ★6 available and raises the cap on ordinary moves to level 10. If the fusion is already doing the work, another useful star can be a better direction than filling its freed slot with an attack you cannot support. The item changes your growth ceiling, not the level-8 requirement for the ingredient pair. Keep a build that works without it; its Legendary rarity makes it a poor foundation for an opening plan."
+            },
+            {
+              "field": "sections.5.paragraphs.3",
+              "before": null,
+              "after": "Check the patch when copying an older fusion build. Version 0.8.17 fixed fusions ignoring extra projectiles, so an older damage report is a poor baseline for deciding whether that bonus helps now. The pause menu shows damage over the last 15 seconds as well as the total: use the recent window to see what is carrying the current encounter. Different fusion patterns still use projectiles differently, so do not turn one successful example into a rule for every recipe."
+            }
+          ]
+        },
+        {
+          "key": "lab-upgrade-guide",
+          "fields": [
+            {
+              "field": "sections.0.paragraphs.1",
+              "before": "The Lab is permanent progression. Items and vitamins chosen during a run are a separate system. The figures here apply to v0.8.13; compare the price in your current Lab before committing Stardust.",
+              "after": "The Lab is permanent progression. Items and vitamins chosen during a run are a separate system. The figures here apply to v0.8.25; compare the price in your current Lab before committing Stardust."
+            },
+            {
+              "field": "sections.3.paragraphs.2",
+              "before": null,
+              "after": "Do not confuse a Lab slot with TM Case. The slot is permanent capacity; TM Case is an item found during a run that raises ordinary moves to level 10 and fusions to ★6. Max Ether raises vitamins to level 12. Neither item buys an extra Lab slot or changes its Stardust price. A slot purchase should make the planned build easier to assemble before either item appears."
+            },
+            {
+              "field": "sections.3.paragraphs.3",
+              "before": null,
+              "after": "Selling either cap item is a real build decision. Without TM Case, ordinary moves above level 8 and fusions above ★5 are trimmed back to those caps. Selling Max Ether removes vitamin levels above 10. Do not sell one just because the displayed level has already been reached; the v0.8.17 fix means those extra levels are no longer kept after the item leaves your inventory."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "runtime": [],
+  "caps": {
+    "before": {
+      "tmCase=false,maxEther=false": {
+        "move": 8,
+        "fusion": 5,
+        "vitamin": 10
+      },
+      "tmCase=false,maxEther=true": {
+        "move": 8,
+        "fusion": 5,
+        "vitamin": 12
+      },
+      "tmCase=true,maxEther=false": {
+        "move": 10,
+        "fusion": 6,
+        "vitamin": 10
+      },
+      "tmCase=true,maxEther=true": {
+        "move": 10,
+        "fusion": 6,
+        "vitamin": 12
+      }
+    },
+    "after": {
+      "tmCase=false,maxEther=false": {
+        "move": 8,
+        "fusion": 5,
+        "vitamin": 10
+      },
+      "tmCase=false,maxEther=true": {
+        "move": 8,
+        "fusion": 5,
+        "vitamin": 12
+      },
+      "tmCase=true,maxEther=false": {
+        "move": 10,
+        "fusion": 6,
+        "vitamin": 10
+      },
+      "tmCase=true,maxEther=true": {
+        "move": 10,
+        "fusion": 6,
+        "vitamin": 12
+      }
+    }
+  },
+  "fusionValidation": {
+    "forwardPairs": 79,
+    "reversePairs": 79,
+    "levelCases": 316,
+    "excludedPatterns": {
+      "weather": false,
+      "buff": false,
+      "fusion": false,
+      "bolt": true
+    }
+  },
+  "notes": [
+    "Fusion class, cooldown, range, power, hit weighting and status fields were not previously published; their addition is an enrichment, not a balance change.",
+    "TM Case already allowed fusion ★6 in the archived v0.8.13 implementation. v0.8.25 corrects the English item description."
+  ],
+  "itemRemoval": {
+    "before": {
+      "tm-case": {
+        "normalMove": 10,
+        "fusion": 6,
+        "vitamin": 12
+      },
+      "max-ether": {
+        "normalMove": 10,
+        "fusion": 6,
+        "vitamin": 12
+      }
+    },
+    "after": {
+      "tm-case": {
+        "normalMove": 8,
+        "fusion": 5,
+        "vitamin": 12
+      },
+      "max-ether": {
+        "normalMove": 10,
+        "fusion": 6,
+        "vitamin": 10
+      }
+    }
+  },
+  "runtimeScope": "Extracted level-one move definitions, baselines, evolution paths, passive metadata and signature recipe metadata. This is not a claim that every attack handler is unchanged.",
+  "behaviorChanges": [
+    {
+      "version": "0.8.17",
+      "change": "Selling TM Case and Max Ether now trims the corresponding over-cap move, fusion and vitamin levels.",
+      "verification": "Executed the original removeItem method and move-level trimming function with controlled inventory fixtures."
+    },
+    {
+      "version": "0.8.17",
+      "change": "Official notes report fixes for fusions ignoring extra projectiles. Guide advice now accounts for this when comparing older build reports.",
+      "verification": "Published official release notes; no measured DPS claim."
+    }
+  ]
+}

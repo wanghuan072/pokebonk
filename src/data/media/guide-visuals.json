@@ -1,0 +1,27 @@
+{
+  "beginners-guide": {
+    "kind": "screenshot",
+    "src": "/images/home/game/starters.webp",
+    "alt": "PokeBonk starter selection: Bulbasaur, Charmander and Squirtle"
+  },
+  "endless-mode-guide": {
+    "kind": "partners",
+    "src": "/images/pokemon/game/portraits/1.png",
+    "alt": "Original game Pokémon sprites: Bulbasaur, Squirtle and Mewtwo",
+    "partners": [
+      1,
+      7,
+      150
+    ]
+  },
+  "coop-mode-guide": {
+    "kind": "partners",
+    "src": "/images/pokemon/game/portraits/7.png",
+    "alt": "Original game Pokémon sprites: Bulbasaur, Squirtle and Machop",
+    "partners": [
+      1,
+      7,
+      66
+    ]
+  }
+}

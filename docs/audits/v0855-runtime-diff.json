@@ -1,0 +1,108 @@
+{
+  "previousVersion": "0.8.25",
+  "version": "0.8.55",
+  "checkedAt": "2026-10-26",
+  "runtimeChanges": [
+    {
+      "path": ".passives.dragon-dream.desc",
+      "before": "+1 jump and +10% physical damage. When you land from a height you create a shockwave. Like Salamence, it can finally fly.",
+      "after": "+1 jump and +10% physical damage. When you land from a height you create a shockwave. As Salamence, it can finally fly."
+    },
+    {
+      "path": ".passives.effect-spore.desc",
+      "before": "+20% status chance. Anyone who touches you falls asleep, gets paralyzed or gets poisoned. Like Parasect, the mushroom is in control: +20% damage against enemies with any status.",
+      "after": "+20% status chance. Anyone who touches you falls asleep, gets paralyzed or gets poisoned. As Parasect, the mushroom is in control: +20% damage against enemies with any status."
+    },
+    {
+      "path": ".passives.compound-eyes.desc",
+      "before": "+8% crit and +15% status chance. Confused enemies take +25% damage. Like Venomoth, +12% attack speed.",
+      "after": "+8% crit and +15% status chance. Confused enemies take +25% damage. As Venomoth, +12% attack speed."
+    },
+    {
+      "path": ".passives.arena-trap.desc",
+      "before": "+10 armor. Every 2 s the ground shakes around you (4.5 m): it damages and traps enemies in the sand (root). Like Dugtrio, 6 m.",
+      "after": "+10 armor. Every 2 s the ground shakes around you (4.5 m): it damages and traps enemies in the sand (root). As Dugtrio, 6 m."
+    },
+    {
+      "path": ".passives.pickup.desc",
+      "before": "+40% PokéDollars and +2 pickup. Every 100 ₽ you earn in a run gives you +1% crit (up to +15%). Like Persian, +10% speed.",
+      "after": "+40% PokéDollars and +2 pickup. Every 100 ₽ you earn in a run gives you +1% crit (up to +15%). As Persian, +10% speed."
+    },
+    {
+      "path": ".passives.headache.desc",
+      "before": "+10% HP. The hits you take and the passage of time charge your headache; when full, it bursts into a psychic wave (7 m) that damages and confuses. Like Golduck, the wave is 10 m and heals you for 8%.",
+      "after": "+10% HP. The hits you take and the passage of time charge your headache; when full, it bursts into a psychic wave (7 m) that damages and confuses. As Golduck, the wave is 10 m and heals you for 8%."
+    },
+    {
+      "path": ".passives.anger-point.desc",
+      "before": "+8 armor. Every hit you take enrages you: +6% damage per charge (up to 6; like Primeape, up to 8). The rage fades after 5 s without taking damage.",
+      "after": "+8 armor. Every hit you take enrages you: +6% damage per charge (up to 6; as Primeape, up to 8). The rage fades after 5 s without taking damage."
+    },
+    {
+      "path": ".passives.swift-swim.desc",
+      "before": "+10% HP and +20% projectile speed. In rain, +30% speed and +20% damage. Like Poliwrath, +15% physical damage.",
+      "after": "+10% HP and +20% projectile speed. In rain, +30% speed and +20% damage. As Poliwrath, +15% physical damage."
+    },
+    {
+      "path": ".passives.oblivious.desc",
+      "before": "+25% HP, +1.5 regen and -10% speed. Every 6 s you yawn: enemies within 6 m may fall asleep. Like Slowbro, the Shellder on its tail gives you +20 armor.",
+      "after": "+25% HP, +1.5 regen and -10% speed. Every 6 s you yawn: enemies within 6 m may fall asleep. As Slowbro, the Shellder on its tail gives you +20 armor."
+    },
+    {
+      "path": ".passives.battle-armor.desc",
+      "before": "+15 armor. Each hit you take is reduced by 3 + 0.3 per level. Like Kabutops, your Strikes and Boomerangs deal +20% damage.",
+      "after": "+15 armor. Each hit you take is reduced by 3 + 0.3 per level. As Kabutops, your Strikes and Boomerangs deal +20% damage."
+    },
+    {
+      "path": ".passives.magnet-pull.desc",
+      "before": "+4 pickup range. Every 4 s a magnetic pulse pulls in enemies within 9 m and may paralyze them. Like Magneton, the pulse also damages them.",
+      "after": "+4 pickup range. Every 4 s a magnetic pulse pulls in enemies within 9 m and may paralyze them. As Magneton, the pulse also damages them."
+    },
+    {
+      "path": ".passives.skill-link.desc",
+      "before": "+20 armor and +1 projectile. Like Cloyster, +1 projectile and +10 more armor.",
+      "after": "+20 armor and +1 projectile. As Cloyster, +1 projectile and +10 more armor."
+    },
+    {
+      "path": ".passives.water-veil.desc",
+      "before": "+10% evasion. Every dodge wraps you in water: a shield worth 6% of your HP. Like Seaking, +5% evasion.",
+      "after": "+10% evasion. Every dodge wraps you in water: a shield worth 6% of your HP. As Seaking, +5% evasion."
+    },
+    {
+      "path": ".passives.ice-body.desc",
+      "before": "+15% HP and +10 armor. Every 4 s ice shards burst around you (5 m) and gradually freeze enemies. Like Dewgong, 6.5 m.",
+      "after": "+15% HP and +10 armor. Every 4 s ice shards burst around you (5 m) and gradually freeze enemies. As Dewgong, 6.5 m."
+    },
+    {
+      "path": ".passives.blazing-hooves.desc",
+      "before": "+15% speed. As you move you leave fire footprints that burn enemies. Like Rapidash, +10% speed and bigger footprints.",
+      "after": "+15% speed. As you move you leave fire footprints that burn enemies. As Rapidash, +10% speed and bigger footprints."
+    },
+    {
+      "path": ".passives.twin-heads.desc",
+      "before": "+10% speed. Each attack has a 25% chance to repeat instantly with the other head. Like Dodrio, 35%.",
+      "after": "+10% speed. Each attack has a 25% chance to repeat instantly with the other head. As Dodrio, 35%."
+    },
+    {
+      "path": ".passives.sludge-body.desc",
+      "before": "-15% damage taken. When hit, you leave a toxic puddle for 4 s that poisons and traps anyone who steps in it. Like Muk, the puddles are bigger.",
+      "after": "-15% damage taken. When hit, you leave a toxic puddle for 4 s that poisons and traps anyone who steps in it. As Muk, the puddles are bigger."
+    },
+    {
+      "path": ".passives.harvest.desc",
+      "before": "+20% healing. Every 15 s a berry appears beside you. Like Exeggutor, +10% area.",
+      "after": "+20% healing. Every 15 s a berry appears beside you. As Exeggutor, +10% area."
+    },
+    {
+      "path": ".passives.toxic-cloud.desc",
+      "before": "You levitate: hold Jump to glide and you can climb walls. A 4 m gas cloud surrounds you and poisons every second. Like Weezing, 5.5 m.",
+      "after": "You levitate: hold Jump to glide and you can climb walls. A 4 m gas cloud surrounds you and poisons every second. As Weezing, 5.5 m."
+    },
+    {
+      "path": ".passives.star-core.desc",
+      "before": "+20% projectile speed. Every 8 s your core heals you for 5%. Like Starmie, +10% special damage.",
+      "after": "+20% projectile speed. Every 8 s your core heals you for 5%. As Starmie, +10% special damage."
+    }
+  ],
+  "nonTranslationChanges": []
+}

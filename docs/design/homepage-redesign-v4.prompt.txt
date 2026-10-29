@@ -1,0 +1,4 @@
+Built-in imagegen tool. Night Camp / Trainer's Journal direction with a slim side navigation rail.
+UI concept only; application code is unchanged. Hero camp scene is decorative artwork, not a gameplay capture.
+
+undefined

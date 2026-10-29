@@ -1,0 +1,5636 @@
+[
+  {
+    "flavor": "A brightly gleaming orb to be held by Dialga. It boosts the power of Dragon- and Steel-type moves when it is held.",
+    "rarity": "Legendary",
+    "unlockCost": 2800,
+    "stat": null,
+    "max": 1,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "1"
+      },
+      {
+        "label": "Stat",
+        "value": "+15% Damage"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "adamant-orb",
+    "name": "Adamant Orb",
+    "category": "Item",
+    "image": "/images/items/pokebonk/adamant-orb.png",
+    "description": "+15% damage. When you take a hit you stop time: nearby enemies freeze in place for 3 s (every 20 s).",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Legendary",
+    "icons": [
+      "/images/items/pokebonk/adamant-orb.png"
+    ]
+  },
+  {
+    "flavor": "A peculiar stone that can make certain species of Pokémon evolve. It sparkles like a glittering eye.",
+    "rarity": "Legendary",
+    "unlockCost": 3200,
+    "stat": null,
+    "max": 2,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "2"
+      },
+      {
+        "label": "Stat",
+        "value": "+30% Damage"
+      },
+      {
+        "label": "Stat",
+        "value": "+20% Atk. speed"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "dawn-stone",
+    "name": "Dawn Stone",
+    "category": "Item",
+    "image": "/images/items/pokebonk/dawn-stone.png",
+    "description": "+30% to all damage and +20% attack speed.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Legendary",
+    "icons": [
+      "/images/items/pokebonk/dawn-stone.png"
+    ]
+  },
+  {
+    "flavor": "A beautifully glowing orb to be held by Palkia. It boosts the power of Dragon- and Water-type moves when it is held.",
+    "rarity": "Legendary",
+    "unlockCost": 2800,
+    "stat": null,
+    "max": 1,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "1"
+      },
+      {
+        "label": "Stat",
+        "value": "+20% Area"
+      },
+      {
+        "label": "Stat",
+        "value": "+1 Projectiles"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "lustrous-orb",
+    "name": "Lustrous Orb",
+    "category": "Item",
+    "image": "/images/items/pokebonk/lustrous-orb.png",
+    "description": "+20% area and +1 projectile. Every 8 s you open a rift that pulls in nearby enemies and then explodes.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Legendary",
+    "icons": [
+      "/images/items/pokebonk/lustrous-orb.png"
+    ]
+  },
+  {
+    "flavor": "The best Poké Ball with the ultimate level of performance. With it, you will catch any wild Pokémon without fail.",
+    "rarity": "Legendary",
+    "unlockCost": null,
+    "stat": null,
+    "max": 1,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "1"
+      },
+      {
+        "label": "Stat",
+        "value": "+25% Damage"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "master-ball",
+    "name": "Master Ball",
+    "category": "Item",
+    "image": "/images/items/pokebonk/master-ball.png",
+    "description": "+25% damage to everything. Guarantees capture in Wild Encounters.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Legendary",
+    "icons": [
+      "/images/items/pokebonk/master-ball.png"
+    ]
+  },
+  {
+    "flavor": "A medicine that can be used to revive a single Pokémon that has fainted. It also fully restores the Pokémon’s max HP.",
+    "rarity": "Legendary",
+    "unlockCost": null,
+    "stat": null,
+    "max": 3,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "3"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "max-revive",
+    "name": "Max Revive",
+    "category": "Item",
+    "image": "/images/items/pokebonk/max-revive.png",
+    "description": "You revive once with 60% HP.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Legendary",
+    "icons": [
+      "/images/items/pokebonk/max-revive.png"
+    ]
+  },
+  {
+    "flavor": "A peculiar stone that can make certain species of Pokémon evolve. It is as black as the night sky.",
+    "rarity": "Legendary",
+    "unlockCost": 2200,
+    "stat": null,
+    "max": 2,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "2"
+      },
+      {
+        "label": "Stat",
+        "value": "+2 Projectiles"
+      },
+      {
+        "label": "Stat",
+        "value": "+25% Area"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "moon-stone",
+    "name": "Moon Stone",
+    "category": "Item",
+    "image": "/images/items/pokebonk/moon-stone.png",
+    "description": "+2 projectiles and +25% area.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Legendary",
+    "icons": [
+      "/images/items/pokebonk/moon-stone.png"
+    ]
+  },
+  {
+    "flavor": "A flute that can play with such a beautiful tone that even sleeping Pokémon find themselves woken up.",
+    "rarity": "Legendary",
+    "unlockCost": 3000,
+    "stat": null,
+    "max": 1,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "1"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "poke-flute",
+    "name": "Poké Flute",
+    "category": "Item",
+    "image": "/images/items/pokebonk/poke-flute.png",
+    "description": "Your Ultimate charges 25% faster. On cast, all your moves recharge and you gain +30% attack speed for 6 s.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Legendary",
+    "icons": [
+      "/images/items/pokebonk/poke-flute.png"
+    ]
+  },
+  {
+    "flavor": "A mystical rainbow feather that sparkles.",
+    "rarity": "Legendary",
+    "unlockCost": 3500,
+    "stat": null,
+    "max": 1,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "1"
+      },
+      {
+        "label": "Stat",
+        "value": "+15% Healing"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "rainbow-wing",
+    "name": "Rainbow Wing",
+    "category": "Item",
+    "image": "/images/items/pokebonk/rainbow-wing.png",
+    "description": "Once per zone, when you faint you are reborn in flames with 50% HP and scorch everything around you.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Legendary",
+    "icons": [
+      "/images/items/pokebonk/rainbow-wing.png"
+    ]
+  },
+  {
+    "flavor": "A candy that is packed with energy. When consumed, it will instantly raise the level of a single Pokémon by one.",
+    "rarity": "Legendary",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+5% Damage"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "rare-candy",
+    "name": "Rare Candy",
+    "category": "Item",
+    "image": "/images/items/pokebonk/rare-candy.png",
+    "description": "You gain 2 levels instantly and +5% damage.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Legendary",
+    "icons": [
+      "/images/items/pokebonk/rare-candy.png"
+    ]
+  },
+  {
+    "flavor": "A strange, silvery feather that sparkles.",
+    "rarity": "Legendary",
+    "unlockCost": 2500,
+    "stat": null,
+    "max": 1,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "1"
+      },
+      {
+        "label": "Stat",
+        "value": "+1 Extra jumps"
+      },
+      {
+        "label": "Stat",
+        "value": "+12% Speed"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "silver-wing",
+    "name": "Silver Wing",
+    "category": "Item",
+    "image": "/images/items/pokebonk/silver-wing.png",
+    "description": "+1 extra jump and +12% speed. Every 5 s a gust of wind hits and pushes away the enemies around you.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Legendary",
+    "icons": [
+      "/images/items/pokebonk/silver-wing.png"
+    ]
+  },
+  {
+    "flavor": "A wondrous orb to be held by either Latios or Latias. It raises the power of Psychic- and Dragon-type moves.",
+    "rarity": "Legendary",
+    "unlockCost": 3000,
+    "stat": null,
+    "max": 1,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "1"
+      },
+      {
+        "label": "Stat",
+        "value": "+20% Special damage"
+      },
+      {
+        "label": "Stat",
+        "value": "+15% Area"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "soul-dew",
+    "name": "Soul Dew",
+    "category": "Item",
+    "image": "/images/items/pokebonk/soul-dew.png",
+    "description": "+20% special damage and +15% area. Your Ultimate charges 40% faster.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Legendary",
+    "icons": [
+      "/images/items/pokebonk/soul-dew.png"
+    ]
+  },
+  {
+    "flavor": "A peculiar stone that can make certain species of Pokémon evolve. It burns as red as the evening sun.",
+    "rarity": "Legendary",
+    "unlockCost": 2500,
+    "stat": null,
+    "max": 2,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "2"
+      },
+      {
+        "label": "Stat",
+        "value": "+10% Damage"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "sun-stone",
+    "name": "Sun Stone",
+    "category": "Item",
+    "image": "/images/items/pokebonk/sun-stone.png",
+    "description": "+10% damage. Every 6 s a solar beam strikes the strongest nearby enemy: a huge Fire explosion that burns.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Legendary",
+    "icons": [
+      "/images/items/pokebonk/sun-stone.png"
+    ]
+  },
+  {
+    "flavor": "- - -",
+    "rarity": "Legendary",
+    "unlockCost": 3200,
+    "stat": null,
+    "max": 1,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "1"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "tm-case",
+    "name": "TM Case",
+    "category": "Item",
+    "image": "/images/items/pokebonk/tm-case.png",
+    "description": "Your moves can go up 2 more levels (up to 10) and fusions 1 more star (up to ★6).",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Legendary",
+    "icons": [
+      "/images/items/pokebonk/tm-case.png"
+    ]
+  },
+  {
+    "flavor": "A shard that fell to the ground when a comet approached. It can be sold at a high price to shops.",
+    "rarity": "Epic",
+    "unlockCost": 900,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+40% PokéDollars"
+      },
+      {
+        "label": "Stat",
+        "value": "+30 Luck"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "comet-shard",
+    "name": "Comet Shard",
+    "category": "Item",
+    "image": "/images/items/pokebonk/comet-shard.png",
+    "description": "+40% PokéDollars and +30 luck.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Epic",
+    "icons": [
+      "/images/items/pokebonk/comet-shard.png"
+    ]
+  },
+  {
+    "flavor": "A peculiar stone that can make certain species of Pokémon evolve. It holds shadows as dark as can be.",
+    "rarity": "Epic",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+40% Crit damage"
+      },
+      {
+        "label": "Stat",
+        "value": "+8% Crit chance"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "dusk-stone",
+    "name": "Dusk Stone",
+    "category": "Item",
+    "image": "/images/items/pokebonk/dusk-stone.png",
+    "description": "+40% crit damage and +8% crit.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Epic",
+    "icons": [
+      "/images/items/pokebonk/dusk-stone.png"
+    ]
+  },
+  {
+    "flavor": "A box packed with a tremendous amount of electric energy. It’s loved by a certain Pokémon.",
+    "rarity": "Epic",
+    "unlockCost": 1100,
+    "stat": null,
+    "max": 3,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "3"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "electirizer",
+    "name": "Electirizer",
+    "category": "Item",
+    "image": "/images/items/pokebonk/electirizer.png",
+    "description": "Every 2.5 s lightning strikes 3 nearby enemies and may paralyze them (+1 bolt per unit).",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Epic",
+    "icons": [
+      "/images/items/pokebonk/electirizer.png"
+    ]
+  },
+  {
+    "flavor": "A peculiar stone that can make certain species of Pokémon evolve. The stone has a fiery orange heart.",
+    "rarity": "Epic",
+    "unlockCost": 1000,
+    "stat": null,
+    "max": 3,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "3"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "fire-stone",
+    "name": "Fire Stone",
+    "category": "Item",
+    "image": "/images/items/pokebonk/fire-stone.png",
+    "description": "Burned enemies explode when they die.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Epic",
+    "icons": [
+      "/images/items/pokebonk/fire-stone.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. If the holder has full HP, it will endure a potential KO attack with 1 HP. The item then disappears.",
+    "rarity": "Epic",
+    "unlockCost": 900,
+    "stat": null,
+    "max": 1,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "1"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "focus-sash",
+    "name": "Focus Sash",
+    "category": "Item",
+    "image": "/images/items/pokebonk/focus-sash.png",
+    "description": "You survive a lethal hit once per phase.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Epic",
+    "icons": [
+      "/images/items/pokebonk/focus-sash.png"
+    ]
+  },
+  {
+    "flavor": "A glowing orb to be held by Giratina. It boosts the power of Dragon- and Ghost-type moves when it is held.",
+    "rarity": "Epic",
+    "unlockCost": 1200,
+    "stat": null,
+    "max": 2,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "2"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "griseous-orb",
+    "name": "Griseous Orb",
+    "category": "Item",
+    "image": "/images/items/pokebonk/griseous-orb.png",
+    "description": "Every defeated enemy has a 12% chance to leave a shadow that bursts instantly and curses those around it.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Epic",
+    "icons": [
+      "/images/items/pokebonk/griseous-orb.png"
+    ]
+  },
+  {
+    "flavor": "A peculiar stone that can make certain species of Pokémon evolve. It has an unmistakable snowflake pattern.",
+    "rarity": "Epic",
+    "unlockCost": 1000,
+    "stat": null,
+    "max": 3,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "3"
+      },
+      {
+        "label": "Stat",
+        "value": "+10% Status chance"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "ice-stone",
+    "name": "Ice Stone",
+    "category": "Item",
+    "image": "/images/items/pokebonk/ice-stone.png",
+    "description": "Frozen or chilled enemies burst into ice shards when they die and chill those around them.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Epic",
+    "icons": [
+      "/images/items/pokebonk/ice-stone.png"
+    ]
+  },
+  {
+    "flavor": "A peculiar stone that can make certain species of Pokémon evolve. It has an unmistakable leaf pattern.",
+    "rarity": "Epic",
+    "unlockCost": 1000,
+    "stat": null,
+    "max": 3,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "3"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "leaf-stone",
+    "name": "Leaf Stone",
+    "category": "Item",
+    "image": "/images/items/pokebonk/leaf-stone.png",
+    "description": "Every KO has a 10% chance to release a whirl of leaves that cuts nearby enemies and heals you for 1% of HP.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Epic",
+    "icons": [
+      "/images/items/pokebonk/leaf-stone.png"
+    ]
+  },
+  {
+    "flavor": "This medicine can be used to fully restore the PP of all of the moves that have been learned by a Pokémon.",
+    "rarity": "Epic",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+20% Atk. speed"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "max-elixir",
+    "name": "Max Elixir",
+    "category": "Item",
+    "image": "/images/items/pokebonk/max-elixir.png",
+    "description": "+20% attack speed.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Epic",
+    "icons": [
+      "/images/items/pokebonk/max-elixir.png"
+    ]
+  },
+  {
+    "flavor": "This medicine can be used to fully restore the PP of a single selected move that has been learned by a Pokémon.",
+    "rarity": "Epic",
+    "unlockCost": 1200,
+    "stat": null,
+    "max": 1,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "1"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "max-ether",
+    "name": "Max Ether",
+    "category": "Item",
+    "image": "/images/items/pokebonk/max-ether.png",
+    "description": "Your vitamins can level up 2 more times (up to 12).",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Epic",
+    "icons": [
+      "/images/items/pokebonk/max-ether.png"
+    ]
+  },
+  {
+    "flavor": "A medicine that optimally raises the max PP of a single selected move that has been learned by a Pokémon.",
+    "rarity": "Epic",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+1 Projectiles"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "pp-max",
+    "name": "PP Max",
+    "category": "Item",
+    "image": "/images/items/pokebonk/pp-max.png",
+    "description": "+1 projectile to all moves.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Epic",
+    "icons": [
+      "/images/items/pokebonk/pp-max.png"
+    ]
+  },
+  {
+    "flavor": "A protective item of some sort. It is extremely stiff and heavy. It’s loved by a certain Pokémon.",
+    "rarity": "Epic",
+    "unlockCost": 1100,
+    "stat": null,
+    "max": 3,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "3"
+      },
+      {
+        "label": "Stat",
+        "value": "+20 Armor"
+      },
+      {
+        "label": "Stat",
+        "value": "+15% Max HP"
+      },
+      {
+        "label": "Stat",
+        "value": "+40 Thorns"
+      },
+      {
+        "label": "Stat",
+        "value": "-5% Speed"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "protector",
+    "name": "Protector",
+    "category": "Item",
+    "image": "/images/items/pokebonk/protector.png",
+    "description": "+20 armor, +15% max HP and +40 thorns, but -5% speed.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Epic",
+    "icons": [
+      "/images/items/pokebonk/protector.png"
+    ]
+  },
+  {
+    "flavor": "Mahogany Town’s famous candy. It can be used once to heal all the status conditions of a Pokémon.",
+    "rarity": "Epic",
+    "unlockCost": 1100,
+    "stat": null,
+    "max": 1,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "1"
+      },
+      {
+        "label": "Stat",
+        "value": "-25% Healing"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "rage-candy-bar",
+    "name": "Rage Candy Bar",
+    "category": "Item",
+    "image": "/images/items/pokebonk/rage-candy-bar.png",
+    "description": "The less HP you have left, the more damage: up to +60% at 25% HP or less. -25% healing received.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Epic",
+    "icons": [
+      "/images/items/pokebonk/rage-candy-bar.png"
+    ]
+  },
+  {
+    "flavor": "A cloth imbued with horrifyingly strong spiritual energy. It’s loved by a certain Pokémon.",
+    "rarity": "Epic",
+    "unlockCost": 1400,
+    "stat": null,
+    "max": 2,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "2"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "reaper-cloth",
+    "name": "Reaper Cloth",
+    "category": "Item",
+    "image": "/images/items/pokebonk/reaper-cloth.png",
+    "description": "Every 100 KOs in the run: +1% damage (up to +30%).",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Epic",
+    "icons": [
+      "/images/items/pokebonk/reaper-cloth.png"
+    ]
+  },
+  {
+    "flavor": "A medicine that can be used to revive a single Pokémon that has fainted. It also restores half of the Pokémon’s max HP.",
+    "rarity": "Epic",
+    "unlockCost": 1200,
+    "stat": null,
+    "max": 2,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "2"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "revive",
+    "name": "Revive",
+    "category": "Item",
+    "image": "/images/items/pokebonk/revive.png",
+    "description": "You revive once with 35% HP.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Epic",
+    "icons": [
+      "/images/items/pokebonk/revive.png"
+    ]
+  },
+  {
+    "flavor": "A ticket required for sailing on the ferry S.S. Aqua. It has a drawing of a ship on its front.",
+    "rarity": "Epic",
+    "unlockCost": 1200,
+    "stat": null,
+    "max": 1,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "1"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "ss-ticket",
+    "name": "S.S. Ticket",
+    "category": "Item",
+    "image": "/images/items/pokebonk/ss-ticket.png",
+    "description": "+1 slot for support Alphas this run.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Epic",
+    "icons": [
+      "/images/items/pokebonk/ss-ticket.png"
+    ]
+  },
+  {
+    "flavor": "A peculiar stone that can make certain species of Pokémon evolve. It shines with a dazzling light.",
+    "rarity": "Epic",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+15% Damage"
+      },
+      {
+        "label": "Stat",
+        "value": "+15% Area"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "shiny-stone",
+    "name": "Shiny Stone",
+    "category": "Item",
+    "image": "/images/items/pokebonk/shiny-stone.png",
+    "description": "+15% total damage and +15% area.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Epic",
+    "icons": [
+      "/images/items/pokebonk/shiny-stone.png"
+    ]
+  },
+  {
+    "flavor": "A scope that lets you see what cannot usually be seen. It is made by Silph Co.",
+    "rarity": "Epic",
+    "unlockCost": 1200,
+    "stat": null,
+    "max": 2,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "2"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "silph-scope",
+    "name": "Silph Scope",
+    "category": "Item",
+    "image": "/images/items/pokebonk/silph-scope.png",
+    "description": "Every 6 s it marks the strongest nearby enemy: it takes 40% more damage from everything. If it falls, another is marked right away.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Epic",
+    "icons": [
+      "/images/items/pokebonk/silph-scope.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by Cubone or Marowak. It’s a hard bone of some sort that boosts the Attack stat.",
+    "rarity": "Epic",
+    "unlockCost": 1100,
+    "stat": null,
+    "max": 2,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "2"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "thick-club",
+    "name": "Thick Club",
+    "category": "Item",
+    "image": "/images/items/pokebonk/thick-club.png",
+    "description": "Your physical damage rises 1% for every 2 armor (up to +50%).",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Epic",
+    "icons": [
+      "/images/items/pokebonk/thick-club.png"
+    ]
+  },
+  {
+    "flavor": "A peculiar stone that can make certain species of Pokémon evolve. It has a distinct thunderbolt pattern.",
+    "rarity": "Epic",
+    "unlockCost": 1000,
+    "stat": null,
+    "max": 5,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "5"
+      },
+      {
+        "label": "Stat",
+        "value": "+4% Crit chance"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "thunder-stone",
+    "name": "Thunder Stone",
+    "category": "Item",
+    "image": "/images/items/pokebonk/thunder-stone.png",
+    "description": "Your critical hits fire a bolt at a nearby enemy.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Epic",
+    "icons": [
+      "/images/items/pokebonk/thunder-stone.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. This offensive vest raises Sp. Def but prevents the use of status moves.",
+    "rarity": "Rare",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+12 Armor"
+      },
+      {
+        "label": "Stat",
+        "value": "+12% Max HP"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "assault-vest",
+    "name": "Assault Vest",
+    "category": "Item",
+    "image": "/images/items/pokebonk/assault-vest.png",
+    "description": "+12 armor and +12% max HP.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Rare",
+    "icons": [
+      "/images/items/pokebonk/assault-vest.png"
+    ]
+  },
+  {
+    "flavor": "A folding Bicycle that enables a rider to get around much faster than a pair of Running Shoes will allow.",
+    "rarity": "Rare",
+    "unlockCost": 500,
+    "stat": null,
+    "max": 2,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "2"
+      },
+      {
+        "label": "Stat",
+        "value": "+6% Speed"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "bicycle",
+    "name": "Bicycle",
+    "category": "Item",
+    "image": "/images/items/pokebonk/bicycle.png",
+    "description": "+6% speed. You gain +1% damage for every 2% extra speed (up to +35%).",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Rare",
+    "icons": [
+      "/images/items/pokebonk/bicycle.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. It gradually restores HP to Poison-type Pokémon. It damages any other type.",
+    "rarity": "Rare",
+    "unlockCost": 400,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+2 Regen/s"
+      },
+      {
+        "label": "Stat",
+        "value": "+20% Status damage"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "black-sludge",
+    "name": "Black Sludge",
+    "category": "Item",
+    "image": "/images/items/pokebonk/black-sludge.png",
+    "description": "+2 regen. Your poisons last 25% longer and deal +20% damage.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Rare",
+    "icons": [
+      "/images/items/pokebonk/black-sludge.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. It boosts Attack if the holder is hit with an Electric-type attack. It can only be used once.",
+    "rarity": "Rare",
+    "unlockCost": 600,
+    "stat": null,
+    "max": 2,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "2"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "cell-battery",
+    "name": "Cell Battery",
+    "category": "Item",
+    "image": "/images/items/pokebonk/cell-battery.png",
+    "description": "+1.5% attack speed for every 10 KOs of streak (up to +25%).",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Rare",
+    "icons": [
+      "/images/items/pokebonk/cell-battery.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. This curious headband boosts Attack but only allows the use of one move.",
+    "rarity": "Rare",
+    "unlockCost": null,
+    "stat": null,
+    "max": 5,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "5"
+      },
+      {
+        "label": "Stat",
+        "value": "+35% Physical damage"
+      },
+      {
+        "label": "Stat",
+        "value": "-8% Atk. speed"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "choice-band",
+    "name": "Choice Band",
+    "category": "Item",
+    "image": "/images/items/pokebonk/choice-band.png",
+    "description": "+35% physical damage, -8% attack speed.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Rare",
+    "icons": [
+      "/images/items/pokebonk/choice-band.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. This curious scarf boosts Speed but only allows the use of one move.",
+    "rarity": "Rare",
+    "unlockCost": null,
+    "stat": null,
+    "max": 5,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "5"
+      },
+      {
+        "label": "Stat",
+        "value": "+20% Speed"
+      },
+      {
+        "label": "Stat",
+        "value": "+10% Atk. speed"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "choice-scarf",
+    "name": "Choice Scarf",
+    "category": "Item",
+    "image": "/images/items/pokebonk/choice-scarf.png",
+    "description": "+20% speed and +10% attack speed.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Rare",
+    "icons": [
+      "/images/items/pokebonk/choice-scarf.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. These curious glasses boost Sp. Atk but only allow the use of one move.",
+    "rarity": "Rare",
+    "unlockCost": null,
+    "stat": null,
+    "max": 5,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "5"
+      },
+      {
+        "label": "Stat",
+        "value": "+35% Special damage"
+      },
+      {
+        "label": "Stat",
+        "value": "-8% Atk. speed"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "choice-specs",
+    "name": "Choice Specs",
+    "category": "Item",
+    "image": "/images/items/pokebonk/choice-specs.png",
+    "description": "+35% special damage, -8% attack speed.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Rare",
+    "icons": [
+      "/images/items/pokebonk/choice-specs.png"
+    ]
+  },
+  {
+    "flavor": "A case for holding coins obtained at the Game Corner. It can hold up to 50,000 coins.",
+    "rarity": "Rare",
+    "unlockCost": 600,
+    "stat": null,
+    "max": 1,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "1"
+      },
+      {
+        "label": "Stat",
+        "value": "+10% PokéDollars"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "coin-case",
+    "name": "Coin Case",
+    "category": "Item",
+    "image": "/images/items/pokebonk/coin-case.png",
+    "description": "+10% PokéDollars. You gain +1% damage for every 300 ₽ you spend in the run (up to +30%).",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Rare",
+    "icons": [
+      "/images/items/pokebonk/coin-case.png"
+    ]
+  },
+  {
+    "flavor": "A high-tech machine that shows the location of invisible items. It’s attached to the head when in use.",
+    "rarity": "Rare",
+    "unlockCost": 600,
+    "stat": null,
+    "max": 2,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "2"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "dowsing-machine",
+    "name": "Dowsing Machine",
+    "category": "Item",
+    "image": "/images/items/pokebonk/dowsing-machine.png",
+    "description": "From the next zone on, each zone brings 1 more Unown altar and 2 more Poké Balls.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Rare",
+    "icons": [
+      "/images/items/pokebonk/dowsing-machine.png"
+    ]
+  },
+  {
+    "flavor": "A mysterious evolutionary lump. When held by a Pokémon that can still evolve, it raises both Defense and Sp. Def.",
+    "rarity": "Rare",
+    "unlockCost": 400,
+    "stat": null,
+    "max": 1,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "1"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "eviolite",
+    "name": "Eviolite",
+    "category": "Item",
+    "image": "/images/items/pokebonk/eviolite.png",
+    "description": "If you can still evolve: +50% armor and +25% HP.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Rare",
+    "icons": [
+      "/images/items/pokebonk/eviolite.png"
+    ]
+  },
+  {
+    "flavor": "Turning on this special device will allow all the Pokémon on your team to receive Exp. Points from battles.",
+    "rarity": "Rare",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+25% Experience"
+      },
+      {
+        "label": "Stat",
+        "value": "+2 Pickup range"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "exp-share",
+    "name": "Exp. Share",
+    "category": "Item",
+    "image": "/images/items/pokebonk/exp-share.png",
+    "description": "+25% experience and +2 pickup range.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Rare",
+    "icons": [
+      "/images/items/pokebonk/exp-share.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. It’s a well-worn belt that slightly boosts the power of supereffective moves.",
+    "rarity": "Rare",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+30% Super effective damage"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "expert-belt",
+    "name": "Expert Belt",
+    "category": "Item",
+    "image": "/images/items/pokebonk/expert-belt.png",
+    "description": "+30% damage with super effective attacks.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Rare",
+    "icons": [
+      "/images/items/pokebonk/expert-belt.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. The holder may endure a potential KO attack, leaving it with just 1 HP.",
+    "rarity": "Rare",
+    "unlockCost": 350,
+    "stat": null,
+    "max": 4,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "4"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "focus-band",
+    "name": "Focus Band",
+    "category": "Item",
+    "image": "/images/items/pokebonk/focus-band.png",
+    "description": "15% chance to survive a lethal hit with 1 HP (once every 20 s).",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Rare",
+    "icons": [
+      "/images/items/pokebonk/focus-band.png"
+    ]
+  },
+  {
+    "flavor": "Water with high mineral content. It can be used to restore 30 HP to a single Pokémon.",
+    "rarity": "Rare",
+    "unlockCost": 550,
+    "stat": null,
+    "max": 3,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "3"
+      },
+      {
+        "label": "Stat",
+        "value": "+5% Healing"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "fresh-water",
+    "name": "Fresh Water",
+    "category": "Item",
+    "image": "/images/items/pokebonk/fresh-water.png",
+    "description": "Leftover healing at full HP is stored and shot out as a jet of water.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Rare",
+    "icons": [
+      "/images/items/pokebonk/fresh-water.png"
+    ]
+  },
+  {
+    "flavor": "A spray-type medicine that is broadly effective. It can be used to heal all the status conditions of a single Pokémon.",
+    "rarity": "Rare",
+    "unlockCost": 550,
+    "stat": null,
+    "max": 3,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "3"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "full-heal",
+    "name": "Full Heal",
+    "category": "Item",
+    "image": "/images/items/pokebonk/full-heal.png",
+    "description": "+6% damage for each different status the enemy has (up to +30%).",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Rare",
+    "icons": [
+      "/images/items/pokebonk/full-heal.png"
+    ]
+  },
+  {
+    "flavor": "An item that prevents stat reduction among the Trainer’s party Pokémon for five turns after it is used in battle.",
+    "rarity": "Rare",
+    "unlockCost": 600,
+    "stat": null,
+    "max": 2,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "2"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "guard-spec",
+    "name": "Guard Spec.",
+    "category": "Item",
+    "image": "/images/items/pokebonk/guard-spec.png",
+    "description": "Every 14 s it fully shields you from the next hit.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Rare",
+    "icons": [
+      "/images/items/pokebonk/guard-spec.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. It lowers Speed and allows Ground-type moves to hit Flying types and holders that are levitating.",
+    "rarity": "Rare",
+    "unlockCost": 500,
+    "stat": null,
+    "max": 3,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "3"
+      },
+      {
+        "label": "Stat",
+        "value": "+8 Armor"
+      },
+      {
+        "label": "Stat",
+        "value": "-7% Speed"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "iron-ball",
+    "name": "Iron Ball",
+    "category": "Item",
+    "image": "/images/items/pokebonk/iron-ball.png",
+    "description": "+8 armor and -7% speed. When you land from a jump you cause a seismic wave that grows with your armor.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Rare",
+    "icons": [
+      "/images/items/pokebonk/iron-ball.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. When the holder successfully inflicts damage, the target may also flinch.",
+    "rarity": "Rare",
+    "unlockCost": 400,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+6% Flinch chance"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "kings-rock",
+    "name": "King’s Rock",
+    "category": "Item",
+    "image": "/images/items/pokebonk/kings-rock.png",
+    "description": "+6% chance to flinch (stun).",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Rare",
+    "icons": [
+      "/images/items/pokebonk/kings-rock.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by Farfetch’d. This very long and stiff stalk of leek boosts its critical-hit ratio.",
+    "rarity": "Rare",
+    "unlockCost": 500,
+    "stat": null,
+    "max": 4,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "4"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "stick",
+    "name": "Leek",
+    "category": "Item",
+    "image": "/images/items/pokebonk/stick.png",
+    "description": "3% chance for a hit to deal ×8 damage: Bonk!",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Rare",
+    "icons": [
+      "/images/items/pokebonk/stick.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. It boosts the power of moves but at the cost of some HP on each hit.",
+    "rarity": "Rare",
+    "unlockCost": null,
+    "stat": null,
+    "max": 5,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "5"
+      },
+      {
+        "label": "Stat",
+        "value": "+30% Damage"
+      },
+      {
+        "label": "Stat",
+        "value": "-10% Max HP"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "life-orb",
+    "name": "Life Orb",
+    "category": "Item",
+    "image": "/images/items/pokebonk/life-orb.png",
+    "description": "+30% total damage, but -10% max HP.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Rare",
+    "icons": [
+      "/images/items/pokebonk/life-orb.png"
+    ]
+  },
+  {
+    "flavor": "A Berry to be consumed by Pokémon. If a Pokémon holds one, it can recover from any status condition during battle.",
+    "rarity": "Rare",
+    "unlockCost": 450,
+    "stat": null,
+    "max": 3,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "3"
+      },
+      {
+        "label": "Stat",
+        "value": "+10% Healing"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "lum-berry",
+    "name": "Lum Berry",
+    "category": "Item",
+    "image": "/images/items/pokebonk/lum-berry.png",
+    "description": "Every 30 s, if you're hurt, you heal 12% of HP. +10% healing received.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Rare",
+    "icons": [
+      "/images/items/pokebonk/lum-berry.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. This stiff, heavy brace helps Pokémon grow strong but cuts Speed in battle.",
+    "rarity": "Rare",
+    "unlockCost": 350,
+    "stat": null,
+    "max": 3,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "3"
+      },
+      {
+        "label": "Stat",
+        "value": "+50% Experience"
+      },
+      {
+        "label": "Stat",
+        "value": "-10% Speed"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "macho-brace",
+    "name": "Macho Brace",
+    "category": "Item",
+    "image": "/images/items/pokebonk/macho-brace.png",
+    "description": "+50% experience, -10% speed.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Rare",
+    "icons": [
+      "/images/items/pokebonk/macho-brace.png"
+    ]
+  },
+  {
+    "flavor": "A doll that attracts the attention of a Pokémon. It guarantees escape from any battle with wild Pokémon.",
+    "rarity": "Rare",
+    "unlockCost": 550,
+    "stat": null,
+    "max": 2,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "2"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "poke-doll",
+    "name": "Poké Doll",
+    "category": "Item",
+    "image": "/images/items/pokebonk/poke-doll.png",
+    "description": "The passives of your support Alphas are 50% stronger.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Rare",
+    "icons": [
+      "/images/items/pokebonk/poke-doll.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. When the holder successfully inflicts damage, the target may also flinch.",
+    "rarity": "Rare",
+    "unlockCost": 550,
+    "stat": null,
+    "max": 4,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "4"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "razor-fang",
+    "name": "Razor Fang",
+    "category": "Item",
+    "image": "/images/items/pokebonk/razor-fang.png",
+    "description": "You instantly finish off enemies (not bosses) below 8% HP (+4% per extra unit).",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Rare",
+    "icons": [
+      "/images/items/pokebonk/razor-fang.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. This discarded carapace enables the holder to switch out of battle without fail.",
+    "rarity": "Rare",
+    "unlockCost": 500,
+    "stat": null,
+    "max": 1,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "1"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "shed-shell",
+    "name": "Shed Shell",
+    "category": "Item",
+    "image": "/images/items/pokebonk/shed-shell.png",
+    "description": "You are invulnerable during the first part of a slide, and it recharges 10% faster.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Rare",
+    "icons": [
+      "/images/items/pokebonk/shed-shell.png"
+    ]
+  },
+  {
+    "flavor": "A small shard of a beautiful gem that gives off a distinctly red sparkle. It can be sold at a high price to shops.",
+    "rarity": "Rare",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+20 Luck"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "star-piece",
+    "name": "Star Piece",
+    "category": "Item",
+    "image": "/images/items/pokebonk/star-piece.png",
+    "description": "+20 luck: better rarities and more loot.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Rare",
+    "icons": [
+      "/images/items/pokebonk/star-piece.png"
+    ]
+  },
+  {
+    "flavor": "If held by a Pokémon, it boosts Speed when intimidated.",
+    "rarity": "Uncommon",
+    "unlockCost": 250,
+    "stat": null,
+    "max": 3,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "3"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "adrenaline-orb",
+    "name": "Adrenaline Orb",
+    "category": "Item",
+    "image": "/images/items/pokebonk/adrenaline-orb.png",
+    "description": "When hit: +20% speed and +12% attack speed for 3 s.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Uncommon",
+    "icons": [
+      "/images/items/pokebonk/adrenaline-orb.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. The holder will float in the air until hit. Once the holder is hit, this item will burst.",
+    "rarity": "Uncommon",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+1 Extra jumps"
+      },
+      {
+        "label": "Stat",
+        "value": "+15% Jump height"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "air-balloon",
+    "name": "Air Balloon",
+    "category": "Item",
+    "image": "/images/items/pokebonk/air-balloon.png",
+    "description": "+1 extra jump and +15% jump height.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Uncommon",
+    "icons": [
+      "/images/items/pokebonk/air-balloon.png"
+    ]
+  },
+  {
+    "flavor": "A spray-type medicine to wake the sleeping. It can be used to rouse a single Pokémon from the clutches of sleep.",
+    "rarity": "Uncommon",
+    "unlockCost": 250,
+    "stat": null,
+    "max": 3,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "3"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "awakening",
+    "name": "Awakening",
+    "category": "Item",
+    "image": "/images/items/pokebonk/awakening.png",
+    "description": "Your hits have a 2.5% chance to put the enemy to sleep, and sleeping enemies can keep sleeping when hit.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Uncommon",
+    "icons": [
+      "/images/items/pokebonk/awakening.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. It boosts the amount of HP the holder restores from HP-stealing moves.",
+    "rarity": "Uncommon",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+3% Lifesteal"
+      },
+      {
+        "label": "Stat",
+        "value": "+15% Healing"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "big-root",
+    "name": "Big Root",
+    "category": "Item",
+    "image": "/images/items/pokebonk/big-root.png",
+    "description": "+3% lifesteal and +15% healing.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Uncommon",
+    "icons": [
+      "/images/items/pokebonk/big-root.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. It’s a band that increases the power of binding moves used by the holder.",
+    "rarity": "Uncommon",
+    "unlockCost": 200,
+    "stat": null,
+    "max": 5,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "5"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "binding-band",
+    "name": "Binding Band",
+    "category": "Item",
+    "image": "/images/items/pokebonk/binding-band.png",
+    "description": "+20% damage to stunned, rooted, paralyzed, frozen or sleeping enemies.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Uncommon",
+    "icons": [
+      "/images/items/pokebonk/binding-band.png"
+    ]
+  },
+  {
+    "flavor": "A spray-type medicine for treating burns. It can be used to heal a single Pokémon suffering from a burn.",
+    "rarity": "Uncommon",
+    "unlockCost": 300,
+    "stat": null,
+    "max": 3,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "3"
+      },
+      {
+        "label": "Stat",
+        "value": "+5% Status damage"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "burn-heal",
+    "name": "Burn Heal",
+    "category": "Item",
+    "image": "/images/items/pokebonk/burn-heal.png",
+    "description": "Burns spread to Pokémon next to a burned enemy.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Uncommon",
+    "icons": [
+      "/images/items/pokebonk/burn-heal.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. It’s a bizarre orb that will afflict the holder with a burn during battle.",
+    "rarity": "Uncommon",
+    "unlockCost": null,
+    "stat": null,
+    "max": 5,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "5"
+      },
+      {
+        "label": "Stat",
+        "value": "+10% Status damage"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "flame-orb",
+    "name": "Flame Orb",
+    "category": "Item",
+    "image": "/images/items/pokebonk/flame-orb.png",
+    "description": "Your hits have a 5% chance to burn and +10% status damage.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Uncommon",
+    "icons": [
+      "/images/items/pokebonk/flame-orb.png"
+    ]
+  },
+  {
+    "flavor": "A set of golden false teeth lost by the Safari Zone’s warden. They make his smile sparkle.",
+    "rarity": "Uncommon",
+    "unlockCost": 300,
+    "stat": null,
+    "max": 3,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "3"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "gold-teeth",
+    "name": "Gold Teeth",
+    "category": "Item",
+    "image": "/images/items/pokebonk/gold-teeth.png",
+    "description": "Meowth, his refreshes and the slot machine charge you 8% less (up to -24%).",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Uncommon",
+    "icons": [
+      "/images/items/pokebonk/gold-teeth.png"
+    ]
+  },
+  {
+    "flavor": "A spray-type medicine for treating freezing. It can be used to thaw out a single Pokémon that has been frozen solid.",
+    "rarity": "Uncommon",
+    "unlockCost": 300,
+    "stat": null,
+    "max": 3,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "3"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "ice-heal",
+    "name": "Ice Heal",
+    "category": "Item",
+    "image": "/images/items/pokebonk/ice-heal.png",
+    "description": "Hitting a frozen enemy breaks the ice: +60% damage and shards that chill those around it.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Uncommon",
+    "icons": [
+      "/images/items/pokebonk/ice-heal.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. The holder’s HP is slowly but steadily restored throughout every battle.",
+    "rarity": "Uncommon",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+1.2 Regen/s"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "leftovers",
+    "name": "Leftovers",
+    "category": "Item",
+    "image": "/images/items/pokebonk/leftovers.png",
+    "description": "+1.2 HP regen per second.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Uncommon",
+    "icons": [
+      "/images/items/pokebonk/leftovers.png"
+    ]
+  },
+  {
+    "flavor": "A very sweet and refreshing drink. It can be used to restore 70 HP to a single Pokémon.",
+    "rarity": "Uncommon",
+    "unlockCost": 250,
+    "stat": null,
+    "max": 3,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "3"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "lemonade",
+    "name": "Lemonade",
+    "category": "Item",
+    "image": "/images/items/pokebonk/lemonade.png",
+    "description": "Your support Alphas deal 25% more damage and attack 15% faster.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Uncommon",
+    "icons": [
+      "/images/items/pokebonk/lemonade.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. Protective moves like Light Screen and Reflect will be effective longer.",
+    "rarity": "Uncommon",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+20% Duration"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "light-clay",
+    "name": "Light Clay",
+    "category": "Item",
+    "image": "/images/items/pokebonk/light-clay.png",
+    "description": "+20% move and status duration.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Uncommon",
+    "icons": [
+      "/images/items/pokebonk/light-clay.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. It’s an egg filled with happiness that earns the holder extra Exp. Points in battle.",
+    "rarity": "Uncommon",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+15% Experience"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "lucky-egg",
+    "name": "Lucky Egg",
+    "category": "Item",
+    "image": "/images/items/pokebonk/lucky-egg.png",
+    "description": "+15% experience.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Uncommon",
+    "icons": [
+      "/images/items/pokebonk/lucky-egg.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by Ditto. Extremely fine yet hard, this odd powder boosts the Defense stat.",
+    "rarity": "Uncommon",
+    "unlockCost": 300,
+    "stat": null,
+    "max": 3,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "3"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "metal-powder",
+    "name": "Metal Powder",
+    "category": "Item",
+    "image": "/images/items/pokebonk/metal-powder.png",
+    "description": "If you stand still for a moment: +30% armor and +8% attack speed until you move.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Uncommon",
+    "icons": [
+      "/images/items/pokebonk/metal-powder.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. It boosts moves used consecutively but only until a different move is used.",
+    "rarity": "Uncommon",
+    "unlockCost": 200,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "metronome",
+    "name": "Metronome",
+    "category": "Item",
+    "image": "/images/items/pokebonk/metronome.png",
+    "description": "You gain damage while you take no hits (up to +40%).",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Uncommon",
+    "icons": [
+      "/images/items/pokebonk/metronome.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. This headband exudes strength, slightly boosting the power of physical moves.",
+    "rarity": "Uncommon",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+15% Physical damage"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "muscle-band",
+    "name": "Muscle Band",
+    "category": "Item",
+    "image": "/images/items/pokebonk/muscle-band.png",
+    "description": "+15% physical damage.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Uncommon",
+    "icons": [
+      "/images/items/pokebonk/muscle-band.png"
+    ]
+  },
+  {
+    "flavor": "An old and beat-up fishing rod. Use it at any body of water to fish for wild aquatic Pokémon.",
+    "rarity": "Uncommon",
+    "unlockCost": 300,
+    "stat": null,
+    "max": 3,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "3"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "old-rod",
+    "name": "Old Rod",
+    "category": "Item",
+    "image": "/images/items/pokebonk/old-rod.png",
+    "description": "Every 9 s you fish: a Magikarp leaps onto an enemy and soaks it. Sometimes a Gyarados bites...",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Uncommon",
+    "icons": [
+      "/images/items/pokebonk/old-rod.png"
+    ]
+  },
+  {
+    "flavor": "A single-use item to be held by a Pokémon. It allows the holder to immediately use a move that normally requires a turn to charge.",
+    "rarity": "Uncommon",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+30% Status damage"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "power-herb",
+    "name": "Power Herb",
+    "category": "Item",
+    "image": "/images/items/pokebonk/power-herb.png",
+    "description": "+30% damage from burns, poisons and the like.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Uncommon",
+    "icons": [
+      "/images/items/pokebonk/power-herb.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. This light, sharp claw lets the bearer move first occasionally.",
+    "rarity": "Uncommon",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+10% Atk. speed"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "quick-claw",
+    "name": "Quick Claw",
+    "category": "Item",
+    "image": "/images/items/pokebonk/quick-claw.png",
+    "description": "+10% attack speed.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Uncommon",
+    "icons": [
+      "/images/items/pokebonk/quick-claw.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. This sharply hooked claw increases the holder’s critical-hit ratio.",
+    "rarity": "Uncommon",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+30% Crit damage"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "razor-claw",
+    "name": "Razor Claw",
+    "category": "Item",
+    "image": "/images/items/pokebonk/razor-claw.png",
+    "description": "+30% crit damage.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Uncommon",
+    "icons": [
+      "/images/items/pokebonk/razor-claw.png"
+    ]
+  },
+  {
+    "flavor": "An item that prevents any low-level wild Pokémon from jumping out at you for a while.",
+    "rarity": "Uncommon",
+    "unlockCost": 150,
+    "stat": null,
+    "max": 3,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "3"
+      },
+      {
+        "label": "Stat",
+        "value": "-8% Enemy count"
+      },
+      {
+        "label": "Stat",
+        "value": "+6% Speed"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "repel",
+    "name": "Repel",
+    "category": "Item",
+    "image": "/images/items/pokebonk/repel.png",
+    "description": "-8% enemies and +6% speed. For when the horde closes in.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Uncommon",
+    "icons": [
+      "/images/items/pokebonk/repel.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. If the holder is hit, the attacker will also be damaged upon contact.",
+    "rarity": "Uncommon",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+25 Thorns"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "rocky-helmet",
+    "name": "Rocky Helmet",
+    "category": "Item",
+    "image": "/images/items/pokebonk/rocky-helmet.png",
+    "description": "Enemies that touch you take 25 damage (thorns).",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Uncommon",
+    "icons": [
+      "/images/items/pokebonk/rocky-helmet.png"
+    ]
+  },
+  {
+    "flavor": "A high-tech key that has to be used at a specific location. It emits a special electronic signal to open a door.",
+    "rarity": "Uncommon",
+    "unlockCost": 300,
+    "stat": null,
+    "max": 2,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "2"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "secret-key",
+    "name": "Secret Key",
+    "category": "Item",
+    "image": "/images/items/pokebonk/secret-key.png",
+    "description": "Unown altars charge 30% faster and drain half as fast when you leave.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Uncommon",
+    "icons": [
+      "/images/items/pokebonk/secret-key.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. The holder restores a little HP every time it inflicts damage on others.",
+    "rarity": "Uncommon",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "shell-bell",
+    "name": "Shell Bell",
+    "category": "Item",
+    "image": "/images/items/pokebonk/shell-bell.png",
+    "description": "You recover 0.8% of the damage you deal.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Uncommon",
+    "icons": [
+      "/images/items/pokebonk/shell-bell.png"
+    ]
+  },
+  {
+    "flavor": "A Berry to be consumed by Pokémon. If a Pokémon holds one, it can restore its own HP by a small amount during battle.",
+    "rarity": "Uncommon",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+10 Max HP"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "sitrus-berry",
+    "name": "Sitrus Berry",
+    "category": "Item",
+    "image": "/images/items/pokebonk/sitrus-berry.png",
+    "description": "When you drop below 30% HP you recover 35% (every 45 s).",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Uncommon",
+    "icons": [
+      "/images/items/pokebonk/sitrus-berry.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. It enables the holder to flee from any wild Pokémon encounter without fail.",
+    "rarity": "Uncommon",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+3% Evasion"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "smoke-ball",
+    "name": "Smoke Ball",
+    "category": "Item",
+    "image": "/images/items/pokebonk/smoke-ball.png",
+    "description": "When hit: 25% chance to turn invisible for 1.5 s. +3% evasion.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Uncommon",
+    "icons": [
+      "/images/items/pokebonk/smoke-ball.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. It extends the duration of the move Sandstorm when used by the holder.",
+    "rarity": "Uncommon",
+    "unlockCost": 250,
+    "stat": null,
+    "max": 3,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "3"
+      },
+      {
+        "label": "Stat",
+        "value": "+1 Bounces"
+      },
+      {
+        "label": "Stat",
+        "value": "+10% Proj. speed"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "smooth-rock",
+    "name": "Smooth Rock",
+    "category": "Item",
+    "image": "/images/items/pokebonk/smooth-rock.png",
+    "description": "+1 bounce to basic projectiles (Projectile and Burst) and +10% projectile speed.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Uncommon",
+    "icons": [
+      "/images/items/pokebonk/smooth-rock.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. It boosts Attack if the holder is hit with an Ice-type attack. It can only be used once.",
+    "rarity": "Uncommon",
+    "unlockCost": null,
+    "stat": null,
+    "max": 5,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "5"
+      },
+      {
+        "label": "Stat",
+        "value": "+3 Armor"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "snowball",
+    "name": "Snowball",
+    "category": "Item",
+    "image": "/images/items/pokebonk/snowball.png",
+    "description": "Your hits have a 6% chance to chill (three chills freeze) and +3 armor.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Uncommon",
+    "icons": [
+      "/images/items/pokebonk/snowball.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. It’s a bizarre orb that will badly poison the holder during battle.",
+    "rarity": "Uncommon",
+    "unlockCost": null,
+    "stat": null,
+    "max": 5,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "5"
+      },
+      {
+        "label": "Stat",
+        "value": "+10% Status chance"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "toxic-orb",
+    "name": "Toxic Orb",
+    "category": "Item",
+    "image": "/images/items/pokebonk/toxic-orb.png",
+    "description": "Your hits have a 6% chance to poison and +10% status chance.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Uncommon",
+    "icons": [
+      "/images/items/pokebonk/toxic-orb.png"
+    ]
+  },
+  {
+    "flavor": "A flute made from white glass. It makes it easier to encounter weak Pokémon in the place you use it.",
+    "rarity": "Uncommon",
+    "unlockCost": 150,
+    "stat": null,
+    "max": 5,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "5"
+      },
+      {
+        "label": "Stat",
+        "value": "+12% Enemy count"
+      },
+      {
+        "label": "Stat",
+        "value": "+10% Experience"
+      },
+      {
+        "label": "Stat",
+        "value": "+5 Luck"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "white-flute",
+    "name": "White Flute",
+    "category": "Item",
+    "image": "/images/items/pokebonk/white-flute.png",
+    "description": "+12% enemies, but +10% experience and +5 luck.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Uncommon",
+    "icons": [
+      "/images/items/pokebonk/white-flute.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. It will restore any lowered stat in battle. It can be used only once.",
+    "rarity": "Uncommon",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+25% Status chance"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "white-herb",
+    "name": "White Herb",
+    "category": "Item",
+    "image": "/images/items/pokebonk/white-herb.png",
+    "description": "+25% status condition chance.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Uncommon",
+    "icons": [
+      "/images/items/pokebonk/white-herb.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. This thick pair of glasses slightly boosts the power of special moves.",
+    "rarity": "Uncommon",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+15% Special damage"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "wise-glasses",
+    "name": "Wise Glasses",
+    "category": "Item",
+    "image": "/images/items/pokebonk/wise-glasses.png",
+    "description": "+15% special damage.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Uncommon",
+    "icons": [
+      "/images/items/pokebonk/wise-glasses.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. It doubles any prize money received if the holding Pokémon joins a battle.",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+20% PokéDollars"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "amulet-coin",
+    "name": "Amulet Coin",
+    "category": "Item",
+    "image": "/images/items/pokebonk/amulet-coin.png",
+    "description": "+20% PokéDollars.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/amulet-coin.png"
+    ]
+  },
+  {
+    "flavor": "A 100 percent pure juice made of Berries. It can be used to restore 20 HP to a single Pokémon.",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 8,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "8"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "berry-juice",
+    "name": "Berry Juice",
+    "category": "Item",
+    "image": "/images/items/pokebonk/berry-juice.png",
+    "description": "Every KO has a 5% chance to heal you for 2% of your max HP.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/berry-juice.png"
+    ]
+  },
+  {
+    "flavor": "A big nugget of pure gold that gives off a lustrous gleam. It can be sold at a high price to shops.",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 5,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "5"
+      },
+      {
+        "label": "Stat",
+        "value": "+5% PokéDollars"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "big-nugget",
+    "name": "Big Nugget",
+    "category": "Item",
+    "image": "/images/items/pokebonk/big-nugget.png",
+    "description": "Poké Balls cost 8% less (up to -40%) and +5% PokéDollars.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/big-nugget.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. This belt helps the wearer to focus and boosts the power of Fighting-type moves.",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+3% Damage"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "black-belt",
+    "name": "Black Belt",
+    "category": "Item",
+    "image": "/images/items/pokebonk/black-belt.png",
+    "description": "+30% Fighting-type move damage and +3% total damage.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/black-belt.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. It’s a pair of shady-looking glasses that boost the power of Dark-type moves.",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+3% Damage"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "black-glasses",
+    "name": "Black Glasses",
+    "category": "Item",
+    "image": "/images/items/pokebonk/black-glasses.png",
+    "description": "+30% Dark-type move damage and +3% total damage.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/black-glasses.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. It casts a tricky glare that lowers the opposing Pokémon’s accuracy.",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+4% Evasion"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "bright-powder",
+    "name": "Bright Powder",
+    "category": "Item",
+    "image": "/images/items/pokebonk/bright-powder.png",
+    "description": "+4% evasion.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/bright-powder.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. It’s a combustible fuel that boosts the power of Fire-type moves.",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+3% Damage"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "charcoal",
+    "name": "Charcoal",
+    "category": "Item",
+    "image": "/images/items/pokebonk/charcoal.png",
+    "description": "+30% Fire-type move damage and +3% total damage.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/charcoal.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the head of the party.",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+15% Damage to elites"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "cleanse-tag",
+    "name": "Cleanse Tag",
+    "category": "Item",
+    "image": "/images/items/pokebonk/cleanse-tag.png",
+    "description": "+15% damage to elites, Alphas and bosses.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/cleanse-tag.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. This hard and sharp fang boosts the power of Dragon-type moves.",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+3% Damage"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "dragon-fang",
+    "name": "Dragon Fang",
+    "category": "Item",
+    "image": "/images/items/pokebonk/dragon-fang.png",
+    "description": "+30% Dragon-type move damage and +3% total damage.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/dragon-fang.png"
+    ]
+  },
+  {
+    "flavor": "",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+3% Damage"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "fairy-feather",
+    "name": "Fairy Feather",
+    "category": "Item",
+    "image": "/images/items/pokebonk/fairy-feather.png",
+    "description": "+30% Fairy-type move damage and +3% total damage.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/fairy-feather.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. It extends the duration of multi-turn attacks, such as Bind and Wrap.",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 5,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "5"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "grip-claw",
+    "name": "Grip Claw",
+    "category": "Item",
+    "image": "/images/items/pokebonk/grip-claw.png",
+    "description": "Your hits have a 4% chance to root the enemy.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/grip-claw.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. It’s a durable stone that boosts the power of Rock-type moves.",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+3% Damage"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "hard-stone",
+    "name": "Hard Stone",
+    "category": "Item",
+    "image": "/images/items/pokebonk/hard-stone.png",
+    "description": "+30% Rock-type move damage and +3% total damage.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/hard-stone.png"
+    ]
+  },
+  {
+    "flavor": "A sweet honey collected by Pokémon. It has a lush aroma and can be sold at a low price to shops.",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+1.5 Pickup range"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "honey",
+    "name": "Honey",
+    "category": "Item",
+    "image": "/images/items/pokebonk/honey.png",
+    "description": "+1.5 pickup range.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/honey.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. The beguiling aroma of this incense may cause attacks to miss its holder.",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+5 Armor"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "lax-incense",
+    "name": "Lax Incense",
+    "category": "Item",
+    "image": "/images/items/pokebonk/lax-incense.png",
+    "description": "+5 armor.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/lax-incense.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by Chansey. This pair of lucky boxing gloves will boost Chansey’s critical-hit ratio.",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+10 Luck"
+      },
+      {
+        "label": "Stat",
+        "value": "+3% Crit chance"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "lucky-punch",
+    "name": "Lucky Punch",
+    "category": "Item",
+    "image": "/images/items/pokebonk/lucky-punch.png",
+    "description": "+10 luck and +3% crit.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/lucky-punch.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. It’s a powerful magnet that boosts the power of Electric-type moves.",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+3% Damage"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "magnet",
+    "name": "Magnet",
+    "category": "Item",
+    "image": "/images/items/pokebonk/magnet.png",
+    "description": "+30% Electric-type move damage and +3% total damage.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/magnet.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. It’s a special metallic film that can boost the power of Steel-type moves.",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+3% Damage"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "metal-coat",
+    "name": "Metal Coat",
+    "category": "Item",
+    "image": "/images/items/pokebonk/metal-coat.png",
+    "description": "+30% Steel-type move damage and +3% total damage.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/metal-coat.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. It’s a seed imbued with life-force that boosts the power of Grass-type moves.",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+3% Damage"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "miracle-seed",
+    "name": "Miracle Seed",
+    "category": "Item",
+    "image": "/images/items/pokebonk/miracle-seed.png",
+    "description": "+30% Grass-type move damage and +3% total damage.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/miracle-seed.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. This teardrop-shaped gem boosts the power of Water-type moves.",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+3% Damage"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "mystic-water",
+    "name": "Mystic Water",
+    "category": "Item",
+    "image": "/images/items/pokebonk/mystic-water.png",
+    "description": "+30% Water-type move damage and +3% total damage.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/mystic-water.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. It’s a heat- repelling piece of ice that boosts the power of Ice-type moves.",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+3% Damage"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "never-melt-ice",
+    "name": "Never-Melt Ice",
+    "category": "Item",
+    "image": "/images/items/pokebonk/never-melt-ice.png",
+    "description": "+30% Ice-type move damage and +3% total damage.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/never-melt-ice.png"
+    ]
+  },
+  {
+    "flavor": "A Berry to be consumed by Pokémon. If a Pokémon holds one, it can restore its own HP by 10 points during battle.",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+15 Max HP"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "oran-berry",
+    "name": "Oran Berry",
+    "category": "Item",
+    "image": "/images/items/pokebonk/oran-berry.png",
+    "description": "+15 max HP.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/oran-berry.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. This small, poisonous barb boosts the power of Poison-type moves.",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+3% Damage"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "poison-barb",
+    "name": "Poison Barb",
+    "category": "Item",
+    "image": "/images/items/pokebonk/poison-barb.png",
+    "description": "+30% Poison-type move damage and +3% total damage.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/poison-barb.png"
+    ]
+  },
+  {
+    "flavor": "A spray-type medicine for treating wounds. It can be used to restore 20 HP to a single Pokémon.",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+0.6 Regen/s"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "potion",
+    "name": "Potion",
+    "category": "Item",
+    "image": "/images/items/pokebonk/potion.png",
+    "description": "+0.6 HP regen per second.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/potion.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by Ditto. Extremely fine yet hard, this odd powder boosts the Speed stat.",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+7% Speed"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "quick-powder",
+    "name": "Quick Powder",
+    "category": "Item",
+    "image": "/images/items/pokebonk/quick-powder.png",
+    "description": "+7% movement speed.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/quick-powder.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. It’s a lens for scoping out weak points. It boosts the holder’s critical-hit ratio.",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+6% Crit chance"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "scope-lens",
+    "name": "Scope Lens",
+    "category": "Item",
+    "image": "/images/items/pokebonk/scope-lens.png",
+    "description": "+6% crit chance.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/scope-lens.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. It’s a long, sharp beak that boosts the power of Flying-type moves.",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+3% Damage"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "sharp-beak",
+    "name": "Sharp Beak",
+    "category": "Item",
+    "image": "/images/items/pokebonk/sharp-beak.png",
+    "description": "+30% Flying-type move damage and +3% total damage.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/sharp-beak.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. It’s a sumptuous scarf that boosts the power of Normal-type moves.",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+3% Damage"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "silk-scarf",
+    "name": "Silk Scarf",
+    "category": "Item",
+    "image": "/images/items/pokebonk/silk-scarf.png",
+    "description": "+30% Normal-type move damage and +3% total damage.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/silk-scarf.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. It’s a shiny silver powder that will boost the power of Bug-type moves.",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+3% Damage"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "silver-powder",
+    "name": "Silver Powder",
+    "category": "Item",
+    "image": "/images/items/pokebonk/silver-powder.png",
+    "description": "+30% Bug-type move damage and +3% total damage.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/silver-powder.png"
+    ]
+  },
+  {
+    "flavor": "A highly carbonated soda drink. It can be used to restore 50 HP to a single Pokémon.",
+    "rarity": "Common",
+    "unlockCost": 150,
+    "stat": null,
+    "max": 5,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "5"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "soda-pop",
+    "name": "Soda Pop",
+    "category": "Item",
+    "image": "/images/items/pokebonk/soda-pop.png",
+    "description": "Sliding bursts a wave of bubbles around you that damages and soaks.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/soda-pop.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. It’s a loose, silky sand that boosts the power of Ground-type moves.",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+3% Damage"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "soft-sand",
+    "name": "Soft Sand",
+    "category": "Item",
+    "image": "/images/items/pokebonk/soft-sand.png",
+    "description": "+30% Ground-type move damage and +3% total damage.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/soft-sand.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. The comforting chime of this bell calms the holder, making it friendly.",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+15% Healing"
+      },
+      {
+        "label": "Stat",
+        "value": "+0.3 Regen/s"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "soothe-bell",
+    "name": "Soothe Bell",
+    "category": "Item",
+    "image": "/images/items/pokebonk/soothe-bell.png",
+    "description": "+15% healing received and +0.3 regen.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/soothe-bell.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. It’s a sinister, eerie tag that boosts the power of Ghost-type moves.",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+3% Damage"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "spell-tag",
+    "name": "Spell Tag",
+    "category": "Item",
+    "image": "/images/items/pokebonk/spell-tag.png",
+    "description": "+30% Ghost-type move damage and +3% total damage.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/spell-tag.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. This spoon is imbued with telekinetic power and boosts Psychic-type moves.",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+3% Damage"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "twisted-spoon",
+    "name": "Twisted Spoon",
+    "category": "Item",
+    "image": "/images/items/pokebonk/twisted-spoon.png",
+    "description": "+30% Psychic-type move damage and +3% total damage.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/twisted-spoon.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. It’s a magnifying lens that slightly boosts the accuracy of moves.",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+10% Area"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "wide-lens",
+    "name": "Wide Lens",
+    "category": "Item",
+    "image": "/images/items/pokebonk/wide-lens.png",
+    "description": "+10% move area.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/wide-lens.png"
+    ]
+  },
+  {
+    "flavor": "An item to be held by a Pokémon. If the holder moves after its target moves, its accuracy will be boosted.",
+    "rarity": "Common",
+    "unlockCost": null,
+    "stat": null,
+    "max": 10,
+    "kind": "item",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [
+      {
+        "label": "Max per run",
+        "value": "10"
+      },
+      {
+        "label": "Stat",
+        "value": "+15% Proj. speed"
+      },
+      {
+        "label": "Stat",
+        "value": "+3% Crit chance"
+      }
+    ],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [],
+    "slug": "zoom-lens",
+    "name": "Zoom Lens",
+    "category": "Item",
+    "image": "/images/items/pokebonk/zoom-lens.png",
+    "description": "+15% projectile speed and +3% crit.",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "archiveEligible": true,
+    "label": "Common",
+    "icons": [
+      "/images/items/pokebonk/zoom-lens.png"
+    ]
+  }
+]

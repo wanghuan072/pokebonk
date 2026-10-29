@@ -1,0 +1,132 @@
+.builds-layout {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+.build-route {
+  border: 1px solid #325963;
+  border-radius: 12px;
+  background: #0c303acc;
+  padding: 18px;
+}
+.build-route-head {
+  display: flex;
+  gap: 14px;
+  align-items: center;
+}
+.build-route-head img {
+  width: 72px;
+  height: 72px;
+  image-rendering: pixelated;
+  background: #08242c;
+  border-radius: 10px;
+}
+.build-route-head h2 {
+  margin: 2px 0 4px;
+}
+.build-route-head p,
+.build-record,
+.build-slots p,
+.build-picks p,
+.build-tradeoff {
+  color: #b7d0d6;
+  font-size: 14px;
+  margin: 0;
+}
+.build-route-head a,
+.build-slot-links a,
+.build-picks a,
+.build-more a {
+  color: var(--yellow);
+}
+.build-record {
+  margin-top: 12px;
+}
+.build-columns {
+  display: grid;
+  grid-template-columns: 1.3fr 0.85fr 0.85fr;
+  gap: 16px;
+  margin-top: 16px;
+}
+.build-columns h3 {
+  font-size: 15px;
+  margin-bottom: 8px;
+}
+.build-slots,
+.build-picks {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.build-slots li,
+.build-picks li {
+  border: 1px solid #2a4d57;
+  border-radius: 8px;
+  background: #082830;
+  padding: 10px;
+}
+.build-slot-label,
+.build-picks small {
+  display: block;
+  color: #8bd8d0;
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+.build-slot-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px 8px;
+  margin: 6px 0;
+}
+.build-slot-links a,
+.build-picks a {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  text-decoration: none;
+}
+.build-slot-links img,
+.build-picks img {
+  width: 28px;
+  height: 28px;
+  image-rendering: pixelated;
+}
+.build-picks a {
+  display: flex;
+  flex-wrap: wrap;
+}
+.build-picks b {
+  font-size: 14px;
+}
+.build-picks small {
+  flex-basis: 100%;
+  margin-left: 34px;
+}
+.build-slots p,
+.build-picks p {
+  margin-top: 6px;
+}
+.build-tradeoff {
+  margin-top: 14px;
+  padding-top: 12px;
+  border-top: 1px solid #2a4d57;
+}
+.build-tradeoff b {
+  color: var(--text);
+}
+.build-more {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 16px;
+}
+@media (max-width: 900px) {
+  .build-columns {
+    grid-template-columns: 1fr;
+  }
+}

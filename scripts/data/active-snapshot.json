@@ -1,0 +1,28 @@
+{
+  "version": "0.8.62",
+  "build": "mvr5gbc0",
+  "checkedAt": "2026-10-28",
+  "directory": "docs/research/recheck-2026-10-28",
+  "manifest": "docs/research/recheck-2026-10-28/sources.json",
+  "symbols": "scripts/data/official-v0862-symbols.json",
+  "gameFile": "game.js",
+  "aliases": {
+    "j": "O",
+    "ml": "hs",
+    "Py": "$h",
+    "Fy": "eg"
+  },
+  "exports": {
+    "m": "h",
+    "p": "m",
+    "ot": "_n",
+    "rr": "ci",
+    "cr": "pi",
+    "or": "di",
+    "Jt": "Kn",
+    "Yt": "qn",
+    "Gt": "Un",
+    "xr": "Ei",
+    "it": "hn"
+  }
+}

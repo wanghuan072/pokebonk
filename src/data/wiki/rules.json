@@ -1,0 +1,44 @@
+{
+  "gameVersion": "0.8.62",
+  "build": "mvr5gbc0",
+  "lastVerified": "2026-10-28",
+  "source": "https://pokebonk.com/",
+  "moveLevelCap": 8,
+  "moveLevelCapWithTmCase": 10,
+  "fusionStarCap": 5,
+  "fusionStarCapWithTmCase": 6,
+  "vitaminLevelCap": 10,
+  "vitaminLevelCapWithMaxEther": 12,
+  "fusionIngredientLevel": 8,
+  "excludedFusionPatterns": [
+    "weather",
+    "buff",
+    "fusion"
+  ],
+  "sellingTmCaseClampsLevels": true,
+  "sellingMaxEtherClampsLevels": true,
+  "fusionPriority": [
+    "signature",
+    "reaction",
+    "type",
+    "glitch"
+  ],
+  "archive": {
+    "maxLevel": 6,
+    "slotsPerLevel": 5,
+    "unlockableItems": 59,
+    "unlockedItemsPerBonusSlot": 2,
+    "maxCapacity": 59,
+    "requiresLabLevel": true,
+    "currency": "Stardust"
+  },
+  "coop": {
+    "bagAllowed": true,
+    "bagSpentWhenRunStarts": true,
+    "masteryLooksCount": true,
+    "hitLimitChallengesSoloOnly": true,
+    "teamWinCountsForLooks": true,
+    "individualConditionsUseOwnActions": true,
+    "sharedLegendaryShiny": true
+  }
+}

@@ -1,0 +1,2545 @@
+[
+  {
+    "flavor": "",
+    "rarity": null,
+    "unlockCost": null,
+    "stat": null,
+    "max": null,
+    "kind": "vitamin",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [],
+    "basis": "",
+    "scale": "",
+    "levels": [
+      {
+        "level": "Lv. 1",
+        "value": "+10%"
+      },
+      {
+        "level": "Lv. 2",
+        "value": "+20%"
+      },
+      {
+        "level": "Lv. 3",
+        "value": "+30%"
+      },
+      {
+        "level": "Lv. 4",
+        "value": "+40%"
+      },
+      {
+        "level": "Lv. 5",
+        "value": "+50%"
+      },
+      {
+        "level": "Lv. 6",
+        "value": "+60%"
+      },
+      {
+        "level": "Lv. 7",
+        "value": "+70%"
+      },
+      {
+        "level": "Lv. 8",
+        "value": "+80%"
+      },
+      {
+        "level": "Lv. 9",
+        "value": "+90%"
+      },
+      {
+        "level": "Lv. 10",
+        "value": "+100%"
+      }
+    ],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [
+      {
+        "name": "Common",
+        "value": "+10%"
+      },
+      {
+        "name": "Uncommon",
+        "value": "+12%"
+      },
+      {
+        "name": "Rare",
+        "value": "+14.5%"
+      },
+      {
+        "name": "Epic",
+        "value": "+17.5%"
+      },
+      {
+        "name": "Legendary",
+        "value": "+21%"
+      }
+    ],
+    "notes": [
+      "Max level: 10. With Max Ether, 12.",
+      "You start with room for 3 vitamins at a time."
+    ],
+    "slug": "protein",
+    "name": "Protein",
+    "category": "Vitamin",
+    "image": "/images/items/pokebonk/protein.png",
+    "description": "Physical damage",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "label": "Physical damage",
+    "icons": [
+      "/images/items/pokebonk/protein.png"
+    ]
+  },
+  {
+    "flavor": "",
+    "rarity": null,
+    "unlockCost": null,
+    "stat": null,
+    "max": null,
+    "kind": "vitamin",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [],
+    "basis": "",
+    "scale": "",
+    "levels": [
+      {
+        "level": "Lv. 1",
+        "value": "+10%"
+      },
+      {
+        "level": "Lv. 2",
+        "value": "+20%"
+      },
+      {
+        "level": "Lv. 3",
+        "value": "+30%"
+      },
+      {
+        "level": "Lv. 4",
+        "value": "+40%"
+      },
+      {
+        "level": "Lv. 5",
+        "value": "+50%"
+      },
+      {
+        "level": "Lv. 6",
+        "value": "+60%"
+      },
+      {
+        "level": "Lv. 7",
+        "value": "+70%"
+      },
+      {
+        "level": "Lv. 8",
+        "value": "+80%"
+      },
+      {
+        "level": "Lv. 9",
+        "value": "+90%"
+      },
+      {
+        "level": "Lv. 10",
+        "value": "+100%"
+      }
+    ],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [
+      {
+        "name": "Common",
+        "value": "+10%"
+      },
+      {
+        "name": "Uncommon",
+        "value": "+12%"
+      },
+      {
+        "name": "Rare",
+        "value": "+14.5%"
+      },
+      {
+        "name": "Epic",
+        "value": "+17.5%"
+      },
+      {
+        "name": "Legendary",
+        "value": "+21%"
+      }
+    ],
+    "notes": [
+      "Max level: 10. With Max Ether, 12.",
+      "You start with room for 3 vitamins at a time."
+    ],
+    "slug": "calcium",
+    "name": "Calcium",
+    "category": "Vitamin",
+    "image": "/images/items/pokebonk/calcium.png",
+    "description": "Special damage",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "label": "Special damage",
+    "icons": [
+      "/images/items/pokebonk/calcium.png"
+    ]
+  },
+  {
+    "flavor": "",
+    "rarity": null,
+    "unlockCost": null,
+    "stat": null,
+    "max": null,
+    "kind": "vitamin",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [],
+    "basis": "",
+    "scale": "",
+    "levels": [
+      {
+        "level": "Lv. 1",
+        "value": "+5"
+      },
+      {
+        "level": "Lv. 2",
+        "value": "+10"
+      },
+      {
+        "level": "Lv. 3",
+        "value": "+15"
+      },
+      {
+        "level": "Lv. 4",
+        "value": "+20"
+      },
+      {
+        "level": "Lv. 5",
+        "value": "+25"
+      },
+      {
+        "level": "Lv. 6",
+        "value": "+30"
+      },
+      {
+        "level": "Lv. 7",
+        "value": "+35"
+      },
+      {
+        "level": "Lv. 8",
+        "value": "+40"
+      },
+      {
+        "level": "Lv. 9",
+        "value": "+45"
+      },
+      {
+        "level": "Lv. 10",
+        "value": "+50"
+      }
+    ],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [
+      {
+        "name": "Common",
+        "value": "+5"
+      },
+      {
+        "name": "Uncommon",
+        "value": "+6"
+      },
+      {
+        "name": "Rare",
+        "value": "+7.25"
+      },
+      {
+        "name": "Epic",
+        "value": "+8.75"
+      },
+      {
+        "name": "Legendary",
+        "value": "+10.5"
+      }
+    ],
+    "notes": [
+      "Max level: 10. With Max Ether, 12.",
+      "You start with room for 3 vitamins at a time."
+    ],
+    "slug": "iron",
+    "name": "Iron",
+    "category": "Vitamin",
+    "image": "/images/items/pokebonk/iron.png",
+    "description": "Armor",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "label": "Armor",
+    "icons": [
+      "/images/items/pokebonk/iron.png"
+    ]
+  },
+  {
+    "flavor": "",
+    "rarity": null,
+    "unlockCost": null,
+    "stat": null,
+    "max": null,
+    "kind": "vitamin",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [],
+    "basis": "",
+    "scale": "",
+    "levels": [
+      {
+        "level": "Lv. 1",
+        "value": "+12"
+      },
+      {
+        "level": "Lv. 2",
+        "value": "+24"
+      },
+      {
+        "level": "Lv. 3",
+        "value": "+36"
+      },
+      {
+        "level": "Lv. 4",
+        "value": "+48"
+      },
+      {
+        "level": "Lv. 5",
+        "value": "+60"
+      },
+      {
+        "level": "Lv. 6",
+        "value": "+72"
+      },
+      {
+        "level": "Lv. 7",
+        "value": "+84"
+      },
+      {
+        "level": "Lv. 8",
+        "value": "+96"
+      },
+      {
+        "level": "Lv. 9",
+        "value": "+108"
+      },
+      {
+        "level": "Lv. 10",
+        "value": "+120"
+      }
+    ],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [
+      {
+        "name": "Common",
+        "value": "+12"
+      },
+      {
+        "name": "Uncommon",
+        "value": "+14.4"
+      },
+      {
+        "name": "Rare",
+        "value": "+17.4"
+      },
+      {
+        "name": "Epic",
+        "value": "+21"
+      },
+      {
+        "name": "Legendary",
+        "value": "+25.2"
+      }
+    ],
+    "notes": [
+      "Max level: 10. With Max Ether, 12.",
+      "You start with room for 3 vitamins at a time."
+    ],
+    "slug": "zinc",
+    "name": "Zinc",
+    "category": "Vitamin",
+    "image": "/images/items/pokebonk/zinc.png",
+    "description": "Regenerating shield",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "label": "Regenerating shield",
+    "icons": [
+      "/images/items/pokebonk/zinc.png"
+    ]
+  },
+  {
+    "flavor": "",
+    "rarity": null,
+    "unlockCost": null,
+    "stat": null,
+    "max": null,
+    "kind": "vitamin",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [],
+    "basis": "",
+    "scale": "",
+    "levels": [
+      {
+        "level": "Lv. 1",
+        "value": "+7%"
+      },
+      {
+        "level": "Lv. 2",
+        "value": "+14%"
+      },
+      {
+        "level": "Lv. 3",
+        "value": "+21%"
+      },
+      {
+        "level": "Lv. 4",
+        "value": "+28%"
+      },
+      {
+        "level": "Lv. 5",
+        "value": "+35%"
+      },
+      {
+        "level": "Lv. 6",
+        "value": "+42%"
+      },
+      {
+        "level": "Lv. 7",
+        "value": "+49%"
+      },
+      {
+        "level": "Lv. 8",
+        "value": "+56%"
+      },
+      {
+        "level": "Lv. 9",
+        "value": "+63%"
+      },
+      {
+        "level": "Lv. 10",
+        "value": "+70%"
+      }
+    ],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [
+      {
+        "name": "Common",
+        "value": "+7%"
+      },
+      {
+        "name": "Uncommon",
+        "value": "+8.4%"
+      },
+      {
+        "name": "Rare",
+        "value": "+10.2%"
+      },
+      {
+        "name": "Epic",
+        "value": "+12.3%"
+      },
+      {
+        "name": "Legendary",
+        "value": "+14.7%"
+      }
+    ],
+    "notes": [
+      "Max level: 10. With Max Ether, 12.",
+      "You start with room for 3 vitamins at a time."
+    ],
+    "slug": "carbos",
+    "name": "Carbos",
+    "category": "Vitamin",
+    "image": "/images/items/pokebonk/carbos.png",
+    "description": "Movement speed",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "label": "Movement speed",
+    "icons": [
+      "/images/items/pokebonk/carbos.png"
+    ]
+  },
+  {
+    "flavor": "",
+    "rarity": null,
+    "unlockCost": null,
+    "stat": null,
+    "max": null,
+    "kind": "vitamin",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [],
+    "basis": "",
+    "scale": "",
+    "levels": [
+      {
+        "level": "Lv. 1",
+        "value": "+18"
+      },
+      {
+        "level": "Lv. 2",
+        "value": "+36"
+      },
+      {
+        "level": "Lv. 3",
+        "value": "+54"
+      },
+      {
+        "level": "Lv. 4",
+        "value": "+72"
+      },
+      {
+        "level": "Lv. 5",
+        "value": "+90"
+      },
+      {
+        "level": "Lv. 6",
+        "value": "+108"
+      },
+      {
+        "level": "Lv. 7",
+        "value": "+126"
+      },
+      {
+        "level": "Lv. 8",
+        "value": "+144"
+      },
+      {
+        "level": "Lv. 9",
+        "value": "+162"
+      },
+      {
+        "level": "Lv. 10",
+        "value": "+180"
+      }
+    ],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [
+      {
+        "name": "Common",
+        "value": "+18"
+      },
+      {
+        "name": "Uncommon",
+        "value": "+21.6"
+      },
+      {
+        "name": "Rare",
+        "value": "+26.1"
+      },
+      {
+        "name": "Epic",
+        "value": "+31.5"
+      },
+      {
+        "name": "Legendary",
+        "value": "+37.8"
+      }
+    ],
+    "notes": [
+      "Max level: 10. With Max Ether, 12.",
+      "You start with room for 3 vitamins at a time."
+    ],
+    "slug": "hp-up",
+    "name": "HP Up",
+    "category": "Vitamin",
+    "image": "/images/items/pokebonk/hp-up.png",
+    "description": "Max HP",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "label": "Max HP",
+    "icons": [
+      "/images/items/pokebonk/hp-up.png"
+    ]
+  },
+  {
+    "flavor": "",
+    "rarity": null,
+    "unlockCost": null,
+    "stat": null,
+    "max": null,
+    "kind": "vitamin",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [],
+    "basis": "",
+    "scale": "",
+    "levels": [
+      {
+        "level": "Lv. 1",
+        "value": "+0.5"
+      },
+      {
+        "level": "Lv. 2",
+        "value": "+1"
+      },
+      {
+        "level": "Lv. 3",
+        "value": "+1.5"
+      },
+      {
+        "level": "Lv. 4",
+        "value": "+2"
+      },
+      {
+        "level": "Lv. 5",
+        "value": "+2.5"
+      },
+      {
+        "level": "Lv. 6",
+        "value": "+3"
+      },
+      {
+        "level": "Lv. 7",
+        "value": "+3.5"
+      },
+      {
+        "level": "Lv. 8",
+        "value": "+4"
+      },
+      {
+        "level": "Lv. 9",
+        "value": "+4.5"
+      },
+      {
+        "level": "Lv. 10",
+        "value": "+5"
+      }
+    ],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [
+      {
+        "name": "Common",
+        "value": "+0.5"
+      },
+      {
+        "name": "Uncommon",
+        "value": "+0.6"
+      },
+      {
+        "name": "Rare",
+        "value": "+0.72"
+      },
+      {
+        "name": "Epic",
+        "value": "+0.88"
+      },
+      {
+        "name": "Legendary",
+        "value": "+1.05"
+      }
+    ],
+    "notes": [
+      "They stack: every whole +1 is one more projectile (at common rarity, one projectile every 2 levels).",
+      "Max level: 10. With Max Ether, 12.",
+      "You start with room for 3 vitamins at a time."
+    ],
+    "slug": "pp-up",
+    "name": "PP Up",
+    "category": "Vitamin",
+    "image": "/images/items/pokebonk/pp-up.png",
+    "description": "Projectiles",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "label": "Projectiles",
+    "icons": [
+      "/images/items/pokebonk/pp-up.png"
+    ]
+  },
+  {
+    "flavor": "",
+    "rarity": null,
+    "unlockCost": null,
+    "stat": null,
+    "max": null,
+    "kind": "vitamin",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [],
+    "basis": "",
+    "scale": "",
+    "levels": [
+      {
+        "level": "Lv. 1",
+        "value": "+8%"
+      },
+      {
+        "level": "Lv. 2",
+        "value": "+16%"
+      },
+      {
+        "level": "Lv. 3",
+        "value": "+24%"
+      },
+      {
+        "level": "Lv. 4",
+        "value": "+32%"
+      },
+      {
+        "level": "Lv. 5",
+        "value": "+40%"
+      },
+      {
+        "level": "Lv. 6",
+        "value": "+48%"
+      },
+      {
+        "level": "Lv. 7",
+        "value": "+56%"
+      },
+      {
+        "level": "Lv. 8",
+        "value": "+64%"
+      },
+      {
+        "level": "Lv. 9",
+        "value": "+72%"
+      },
+      {
+        "level": "Lv. 10",
+        "value": "+80%"
+      }
+    ],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [
+      {
+        "name": "Common",
+        "value": "+8%"
+      },
+      {
+        "name": "Uncommon",
+        "value": "+9.6%"
+      },
+      {
+        "name": "Rare",
+        "value": "+11.6%"
+      },
+      {
+        "name": "Epic",
+        "value": "+14%"
+      },
+      {
+        "name": "Legendary",
+        "value": "+16.8%"
+      }
+    ],
+    "notes": [
+      "Max level: 10. With Max Ether, 12.",
+      "You start with room for 3 vitamins at a time."
+    ],
+    "slug": "ether",
+    "name": "Ether",
+    "category": "Vitamin",
+    "image": "/images/items/pokebonk/ether.png",
+    "description": "Attack speed",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "label": "Attack speed",
+    "icons": [
+      "/images/items/pokebonk/ether.png"
+    ]
+  },
+  {
+    "flavor": "",
+    "rarity": null,
+    "unlockCost": null,
+    "stat": null,
+    "max": null,
+    "kind": "vitamin",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [],
+    "basis": "",
+    "scale": "",
+    "levels": [
+      {
+        "level": "Lv. 1",
+        "value": "+5%"
+      },
+      {
+        "level": "Lv. 2",
+        "value": "+10%"
+      },
+      {
+        "level": "Lv. 3",
+        "value": "+15%"
+      },
+      {
+        "level": "Lv. 4",
+        "value": "+20%"
+      },
+      {
+        "level": "Lv. 5",
+        "value": "+25%"
+      },
+      {
+        "level": "Lv. 6",
+        "value": "+30%"
+      },
+      {
+        "level": "Lv. 7",
+        "value": "+35%"
+      },
+      {
+        "level": "Lv. 8",
+        "value": "+40%"
+      },
+      {
+        "level": "Lv. 9",
+        "value": "+45%"
+      },
+      {
+        "level": "Lv. 10",
+        "value": "+50%"
+      }
+    ],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [
+      {
+        "name": "Common",
+        "value": "+5%"
+      },
+      {
+        "name": "Uncommon",
+        "value": "+6%"
+      },
+      {
+        "name": "Rare",
+        "value": "+7.2%"
+      },
+      {
+        "name": "Epic",
+        "value": "+8.8%"
+      },
+      {
+        "name": "Legendary",
+        "value": "+10.5%"
+      }
+    ],
+    "notes": [
+      "Max level: 10. With Max Ether, 12.",
+      "You start with room for 3 vitamins at a time."
+    ],
+    "slug": "dire-hit",
+    "name": "Direct X",
+    "category": "Vitamin",
+    "image": "/images/items/pokebonk/dire-hit.png",
+    "description": "Crit chance",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "label": "Crit chance",
+    "icons": [
+      "/images/items/pokebonk/dire-hit.png"
+    ]
+  },
+  {
+    "flavor": "",
+    "rarity": null,
+    "unlockCost": null,
+    "stat": null,
+    "max": null,
+    "kind": "vitamin",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [],
+    "basis": "",
+    "scale": "",
+    "levels": [
+      {
+        "level": "Lv. 1",
+        "value": "+12%"
+      },
+      {
+        "level": "Lv. 2",
+        "value": "+24%"
+      },
+      {
+        "level": "Lv. 3",
+        "value": "+36%"
+      },
+      {
+        "level": "Lv. 4",
+        "value": "+48%"
+      },
+      {
+        "level": "Lv. 5",
+        "value": "+60%"
+      },
+      {
+        "level": "Lv. 6",
+        "value": "+72%"
+      },
+      {
+        "level": "Lv. 7",
+        "value": "+84%"
+      },
+      {
+        "level": "Lv. 8",
+        "value": "+96%"
+      },
+      {
+        "level": "Lv. 9",
+        "value": "+108%"
+      },
+      {
+        "level": "Lv. 10",
+        "value": "+120%"
+      }
+    ],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [
+      {
+        "name": "Common",
+        "value": "+12%"
+      },
+      {
+        "name": "Uncommon",
+        "value": "+14.4%"
+      },
+      {
+        "name": "Rare",
+        "value": "+17.4%"
+      },
+      {
+        "name": "Epic",
+        "value": "+21%"
+      },
+      {
+        "name": "Legendary",
+        "value": "+25.2%"
+      }
+    ],
+    "notes": [
+      "Max level: 10. With Max Ether, 12.",
+      "You start with room for 3 vitamins at a time."
+    ],
+    "slug": "x-speed",
+    "name": "X Speed",
+    "category": "Vitamin",
+    "image": "/images/items/pokebonk/x-speed.png",
+    "description": "Projectile speed",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "label": "Projectile speed",
+    "icons": [
+      "/images/items/pokebonk/x-speed.png"
+    ]
+  },
+  {
+    "flavor": "",
+    "rarity": null,
+    "unlockCost": null,
+    "stat": null,
+    "max": null,
+    "kind": "vitamin",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [],
+    "basis": "",
+    "scale": "",
+    "levels": [
+      {
+        "level": "Lv. 1",
+        "value": "+3.5%"
+      },
+      {
+        "level": "Lv. 2",
+        "value": "+7%"
+      },
+      {
+        "level": "Lv. 3",
+        "value": "+10.5%"
+      },
+      {
+        "level": "Lv. 4",
+        "value": "+14%"
+      },
+      {
+        "level": "Lv. 5",
+        "value": "+17.5%"
+      },
+      {
+        "level": "Lv. 6",
+        "value": "+21%"
+      },
+      {
+        "level": "Lv. 7",
+        "value": "+24.5%"
+      },
+      {
+        "level": "Lv. 8",
+        "value": "+28%"
+      },
+      {
+        "level": "Lv. 9",
+        "value": "+31.5%"
+      },
+      {
+        "level": "Lv. 10",
+        "value": "+35%"
+      }
+    ],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [
+      {
+        "name": "Common",
+        "value": "+3.5%"
+      },
+      {
+        "name": "Uncommon",
+        "value": "+4.2%"
+      },
+      {
+        "name": "Rare",
+        "value": "+5.1%"
+      },
+      {
+        "name": "Epic",
+        "value": "+6.1%"
+      },
+      {
+        "name": "Legendary",
+        "value": "+7.4%"
+      }
+    ],
+    "notes": [
+      "Max level: 10. With Max Ether, 12.",
+      "You start with room for 3 vitamins at a time."
+    ],
+    "slug": "x-defense",
+    "name": "X Defense",
+    "category": "Vitamin",
+    "image": "/images/items/pokebonk/x-defense.png",
+    "description": "Evasion",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "label": "Evasion",
+    "icons": [
+      "/images/items/pokebonk/x-defense.png"
+    ]
+  },
+  {
+    "flavor": "",
+    "rarity": null,
+    "unlockCost": null,
+    "stat": null,
+    "max": null,
+    "kind": "vitamin",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [],
+    "basis": "",
+    "scale": "",
+    "levels": [
+      {
+        "level": "Lv. 1",
+        "value": "+15%"
+      },
+      {
+        "level": "Lv. 2",
+        "value": "+30%"
+      },
+      {
+        "level": "Lv. 3",
+        "value": "+45%"
+      },
+      {
+        "level": "Lv. 4",
+        "value": "+60%"
+      },
+      {
+        "level": "Lv. 5",
+        "value": "+75%"
+      },
+      {
+        "level": "Lv. 6",
+        "value": "+90%"
+      },
+      {
+        "level": "Lv. 7",
+        "value": "+105%"
+      },
+      {
+        "level": "Lv. 8",
+        "value": "+120%"
+      },
+      {
+        "level": "Lv. 9",
+        "value": "+135%"
+      },
+      {
+        "level": "Lv. 10",
+        "value": "+150%"
+      }
+    ],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [
+      {
+        "name": "Common",
+        "value": "+15%"
+      },
+      {
+        "name": "Uncommon",
+        "value": "+18%"
+      },
+      {
+        "name": "Rare",
+        "value": "+21.8%"
+      },
+      {
+        "name": "Epic",
+        "value": "+26.3%"
+      },
+      {
+        "name": "Legendary",
+        "value": "+31.5%"
+      }
+    ],
+    "notes": [
+      "Max level: 10. With Max Ether, 12.",
+      "You start with room for 3 vitamins at a time."
+    ],
+    "slug": "x-attack",
+    "name": "X Attack",
+    "category": "Vitamin",
+    "image": "/images/items/pokebonk/x-attack.png",
+    "description": "Status chance",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "label": "Status chance",
+    "icons": [
+      "/images/items/pokebonk/x-attack.png"
+    ]
+  },
+  {
+    "flavor": "",
+    "rarity": null,
+    "unlockCost": null,
+    "stat": null,
+    "max": null,
+    "kind": "vitamin",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [],
+    "basis": "",
+    "scale": "",
+    "levels": [
+      {
+        "level": "Lv. 1",
+        "value": "+10%"
+      },
+      {
+        "level": "Lv. 2",
+        "value": "+20%"
+      },
+      {
+        "level": "Lv. 3",
+        "value": "+30%"
+      },
+      {
+        "level": "Lv. 4",
+        "value": "+40%"
+      },
+      {
+        "level": "Lv. 5",
+        "value": "+50%"
+      },
+      {
+        "level": "Lv. 6",
+        "value": "+60%"
+      },
+      {
+        "level": "Lv. 7",
+        "value": "+70%"
+      },
+      {
+        "level": "Lv. 8",
+        "value": "+80%"
+      },
+      {
+        "level": "Lv. 9",
+        "value": "+90%"
+      },
+      {
+        "level": "Lv. 10",
+        "value": "+100%"
+      }
+    ],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [
+      {
+        "name": "Common",
+        "value": "+10%"
+      },
+      {
+        "name": "Uncommon",
+        "value": "+12%"
+      },
+      {
+        "name": "Rare",
+        "value": "+14.5%"
+      },
+      {
+        "name": "Epic",
+        "value": "+17.5%"
+      },
+      {
+        "name": "Legendary",
+        "value": "+21%"
+      }
+    ],
+    "notes": [
+      "Max level: 10. With Max Ether, 12.",
+      "You start with room for 3 vitamins at a time."
+    ],
+    "slug": "stardust",
+    "name": "Stardust",
+    "category": "Vitamin",
+    "image": "/images/items/pokebonk/stardust.png",
+    "description": "Area of effect",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "label": "Area of effect",
+    "icons": [
+      "/images/items/pokebonk/stardust.png"
+    ]
+  },
+  {
+    "flavor": "",
+    "rarity": null,
+    "unlockCost": null,
+    "stat": null,
+    "max": null,
+    "kind": "vitamin",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [],
+    "basis": "",
+    "scale": "",
+    "levels": [
+      {
+        "level": "Lv. 1",
+        "value": "+10%"
+      },
+      {
+        "level": "Lv. 2",
+        "value": "+20%"
+      },
+      {
+        "level": "Lv. 3",
+        "value": "+30%"
+      },
+      {
+        "level": "Lv. 4",
+        "value": "+40%"
+      },
+      {
+        "level": "Lv. 5",
+        "value": "+50%"
+      },
+      {
+        "level": "Lv. 6",
+        "value": "+60%"
+      },
+      {
+        "level": "Lv. 7",
+        "value": "+70%"
+      },
+      {
+        "level": "Lv. 8",
+        "value": "+80%"
+      },
+      {
+        "level": "Lv. 9",
+        "value": "+90%"
+      },
+      {
+        "level": "Lv. 10",
+        "value": "+100%"
+      }
+    ],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [
+      {
+        "name": "Common",
+        "value": "+10%"
+      },
+      {
+        "name": "Uncommon",
+        "value": "+12%"
+      },
+      {
+        "name": "Rare",
+        "value": "+14.5%"
+      },
+      {
+        "name": "Epic",
+        "value": "+17.5%"
+      },
+      {
+        "name": "Legendary",
+        "value": "+21%"
+      }
+    ],
+    "notes": [
+      "Max level: 10. With Max Ether, 12.",
+      "You start with room for 3 vitamins at a time."
+    ],
+    "slug": "elixir",
+    "name": "Elixir",
+    "category": "Vitamin",
+    "image": "/images/items/pokebonk/elixir.png",
+    "description": "Duration",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "label": "Duration",
+    "icons": [
+      "/images/items/pokebonk/elixir.png"
+    ]
+  },
+  {
+    "flavor": "",
+    "rarity": null,
+    "unlockCost": null,
+    "stat": null,
+    "max": null,
+    "kind": "vitamin",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [],
+    "basis": "",
+    "scale": "",
+    "levels": [
+      {
+        "level": "Lv. 1",
+        "value": "+0.7"
+      },
+      {
+        "level": "Lv. 2",
+        "value": "+1.4"
+      },
+      {
+        "level": "Lv. 3",
+        "value": "+2.1"
+      },
+      {
+        "level": "Lv. 4",
+        "value": "+2.8"
+      },
+      {
+        "level": "Lv. 5",
+        "value": "+3.5"
+      },
+      {
+        "level": "Lv. 6",
+        "value": "+4.2"
+      },
+      {
+        "level": "Lv. 7",
+        "value": "+4.9"
+      },
+      {
+        "level": "Lv. 8",
+        "value": "+5.6"
+      },
+      {
+        "level": "Lv. 9",
+        "value": "+6.3"
+      },
+      {
+        "level": "Lv. 10",
+        "value": "+7"
+      }
+    ],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [
+      {
+        "name": "Common",
+        "value": "+0.7"
+      },
+      {
+        "name": "Uncommon",
+        "value": "+0.84"
+      },
+      {
+        "name": "Rare",
+        "value": "+1.01"
+      },
+      {
+        "name": "Epic",
+        "value": "+1.22"
+      },
+      {
+        "name": "Legendary",
+        "value": "+1.47"
+      }
+    ],
+    "notes": [
+      "Max level: 10. With Max Ether, 12.",
+      "You start with room for 3 vitamins at a time."
+    ],
+    "slug": "super-potion",
+    "name": "Super Potion",
+    "category": "Vitamin",
+    "image": "/images/items/pokebonk/super-potion.png",
+    "description": "HP regen",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "label": "HP regen",
+    "icons": [
+      "/images/items/pokebonk/super-potion.png"
+    ]
+  },
+  {
+    "flavor": "",
+    "rarity": null,
+    "unlockCost": null,
+    "stat": null,
+    "max": null,
+    "kind": "vitamin",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [],
+    "basis": "",
+    "scale": "",
+    "levels": [
+      {
+        "level": "Lv. 1",
+        "value": "+15%"
+      },
+      {
+        "level": "Lv. 2",
+        "value": "+30%"
+      },
+      {
+        "level": "Lv. 3",
+        "value": "+45%"
+      },
+      {
+        "level": "Lv. 4",
+        "value": "+60%"
+      },
+      {
+        "level": "Lv. 5",
+        "value": "+75%"
+      },
+      {
+        "level": "Lv. 6",
+        "value": "+90%"
+      },
+      {
+        "level": "Lv. 7",
+        "value": "+105%"
+      },
+      {
+        "level": "Lv. 8",
+        "value": "+120%"
+      },
+      {
+        "level": "Lv. 9",
+        "value": "+135%"
+      },
+      {
+        "level": "Lv. 10",
+        "value": "+150%"
+      }
+    ],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [
+      {
+        "name": "Common",
+        "value": "+15%"
+      },
+      {
+        "name": "Uncommon",
+        "value": "+18%"
+      },
+      {
+        "name": "Rare",
+        "value": "+21.8%"
+      },
+      {
+        "name": "Epic",
+        "value": "+26.3%"
+      },
+      {
+        "name": "Legendary",
+        "value": "+31.5%"
+      }
+    ],
+    "notes": [
+      "Max level: 10. With Max Ether, 12.",
+      "You start with room for 3 vitamins at a time."
+    ],
+    "slug": "nugget",
+    "name": "Nugget",
+    "category": "Vitamin",
+    "image": "/images/items/pokebonk/nugget.png",
+    "description": "PokéDollars",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "label": "PokéDollars",
+    "icons": [
+      "/images/items/pokebonk/nugget.png"
+    ]
+  },
+  {
+    "flavor": "",
+    "rarity": null,
+    "unlockCost": null,
+    "stat": null,
+    "max": null,
+    "kind": "vitamin",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [],
+    "basis": "",
+    "scale": "",
+    "levels": [
+      {
+        "level": "Lv. 1",
+        "value": "+10%"
+      },
+      {
+        "level": "Lv. 2",
+        "value": "+20%"
+      },
+      {
+        "level": "Lv. 3",
+        "value": "+30%"
+      },
+      {
+        "level": "Lv. 4",
+        "value": "+40%"
+      },
+      {
+        "level": "Lv. 5",
+        "value": "+50%"
+      },
+      {
+        "level": "Lv. 6",
+        "value": "+60%"
+      },
+      {
+        "level": "Lv. 7",
+        "value": "+70%"
+      },
+      {
+        "level": "Lv. 8",
+        "value": "+80%"
+      },
+      {
+        "level": "Lv. 9",
+        "value": "+90%"
+      },
+      {
+        "level": "Lv. 10",
+        "value": "+100%"
+      }
+    ],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [
+      {
+        "name": "Common",
+        "value": "+10%"
+      },
+      {
+        "name": "Uncommon",
+        "value": "+12%"
+      },
+      {
+        "name": "Rare",
+        "value": "+14.5%"
+      },
+      {
+        "name": "Epic",
+        "value": "+17.5%"
+      },
+      {
+        "name": "Legendary",
+        "value": "+21%"
+      }
+    ],
+    "notes": [
+      "Max level: 10. With Max Ether, 12.",
+      "You start with room for 3 vitamins at a time."
+    ],
+    "slug": "exp-candy",
+    "name": "Exp. Candy",
+    "category": "Vitamin",
+    "image": "/images/items/pokebonk/rare-candy.png",
+    "description": "Experience",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "label": "Experience",
+    "icons": [
+      "/images/items/pokebonk/rare-candy.png"
+    ]
+  },
+  {
+    "flavor": "",
+    "rarity": null,
+    "unlockCost": null,
+    "stat": null,
+    "max": null,
+    "kind": "vitamin",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [],
+    "basis": "",
+    "scale": "",
+    "levels": [
+      {
+        "level": "Lv. 1",
+        "value": "+10"
+      },
+      {
+        "level": "Lv. 2",
+        "value": "+20"
+      },
+      {
+        "level": "Lv. 3",
+        "value": "+30"
+      },
+      {
+        "level": "Lv. 4",
+        "value": "+40"
+      },
+      {
+        "level": "Lv. 5",
+        "value": "+50"
+      },
+      {
+        "level": "Lv. 6",
+        "value": "+60"
+      },
+      {
+        "level": "Lv. 7",
+        "value": "+70"
+      },
+      {
+        "level": "Lv. 8",
+        "value": "+80"
+      },
+      {
+        "level": "Lv. 9",
+        "value": "+90"
+      },
+      {
+        "level": "Lv. 10",
+        "value": "+100"
+      }
+    ],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [
+      {
+        "name": "Common",
+        "value": "+10"
+      },
+      {
+        "name": "Uncommon",
+        "value": "+12"
+      },
+      {
+        "name": "Rare",
+        "value": "+14.5"
+      },
+      {
+        "name": "Epic",
+        "value": "+17.5"
+      },
+      {
+        "name": "Legendary",
+        "value": "+21"
+      }
+    ],
+    "notes": [
+      "Max level: 10. With Max Ether, 12.",
+      "You start with room for 3 vitamins at a time."
+    ],
+    "slug": "star-piece-v",
+    "name": "Star Piece",
+    "category": "Vitamin",
+    "image": "/images/items/pokebonk/star-piece.png",
+    "description": "Luck",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "label": "Luck",
+    "icons": [
+      "/images/items/pokebonk/star-piece.png"
+    ]
+  },
+  {
+    "flavor": "",
+    "rarity": null,
+    "unlockCost": null,
+    "stat": null,
+    "max": null,
+    "kind": "vitamin",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [],
+    "basis": "",
+    "scale": "",
+    "levels": [
+      {
+        "level": "Lv. 1",
+        "value": "+2%"
+      },
+      {
+        "level": "Lv. 2",
+        "value": "+4%"
+      },
+      {
+        "level": "Lv. 3",
+        "value": "+6%"
+      },
+      {
+        "level": "Lv. 4",
+        "value": "+8%"
+      },
+      {
+        "level": "Lv. 5",
+        "value": "+10%"
+      },
+      {
+        "level": "Lv. 6",
+        "value": "+12%"
+      },
+      {
+        "level": "Lv. 7",
+        "value": "+14%"
+      },
+      {
+        "level": "Lv. 8",
+        "value": "+16%"
+      },
+      {
+        "level": "Lv. 9",
+        "value": "+18%"
+      },
+      {
+        "level": "Lv. 10",
+        "value": "+20%"
+      }
+    ],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [
+      {
+        "name": "Common",
+        "value": "+2%"
+      },
+      {
+        "name": "Uncommon",
+        "value": "+2.4%"
+      },
+      {
+        "name": "Rare",
+        "value": "+2.9%"
+      },
+      {
+        "name": "Epic",
+        "value": "+3.5%"
+      },
+      {
+        "name": "Legendary",
+        "value": "+4.2%"
+      }
+    ],
+    "notes": [
+      "Max level: 10. With Max Ether, 12.",
+      "You start with room for 3 vitamins at a time."
+    ],
+    "slug": "max-potion",
+    "name": "Max Potion",
+    "category": "Vitamin",
+    "image": "/images/items/pokebonk/max-potion.png",
+    "description": "Lifesteal",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "label": "Lifesteal",
+    "icons": [
+      "/images/items/pokebonk/max-potion.png"
+    ]
+  },
+  {
+    "flavor": "",
+    "rarity": null,
+    "unlockCost": null,
+    "stat": null,
+    "max": null,
+    "kind": "vitamin",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [],
+    "basis": "",
+    "scale": "",
+    "levels": [
+      {
+        "level": "Lv. 1",
+        "value": "+1.2"
+      },
+      {
+        "level": "Lv. 2",
+        "value": "+2.4"
+      },
+      {
+        "level": "Lv. 3",
+        "value": "+3.6"
+      },
+      {
+        "level": "Lv. 4",
+        "value": "+4.8"
+      },
+      {
+        "level": "Lv. 5",
+        "value": "+6"
+      },
+      {
+        "level": "Lv. 6",
+        "value": "+7.2"
+      },
+      {
+        "level": "Lv. 7",
+        "value": "+8.4"
+      },
+      {
+        "level": "Lv. 8",
+        "value": "+9.6"
+      },
+      {
+        "level": "Lv. 9",
+        "value": "+10.8"
+      },
+      {
+        "level": "Lv. 10",
+        "value": "+12"
+      }
+    ],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [
+      {
+        "name": "Common",
+        "value": "+1.2"
+      },
+      {
+        "name": "Uncommon",
+        "value": "+1.44"
+      },
+      {
+        "name": "Rare",
+        "value": "+1.74"
+      },
+      {
+        "name": "Epic",
+        "value": "+2.1"
+      },
+      {
+        "name": "Legendary",
+        "value": "+2.52"
+      }
+    ],
+    "notes": [
+      "Max level: 10. With Max Ether, 12.",
+      "You start with room for 3 vitamins at a time."
+    ],
+    "slug": "escape-rope",
+    "name": "Escape Rope",
+    "category": "Vitamin",
+    "image": "/images/items/pokebonk/escape-rope.png",
+    "description": "Pickup range",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "label": "Pickup range",
+    "icons": [
+      "/images/items/pokebonk/escape-rope.png"
+    ]
+  },
+  {
+    "flavor": "",
+    "rarity": null,
+    "unlockCost": null,
+    "stat": null,
+    "max": null,
+    "kind": "vitamin",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [],
+    "basis": "",
+    "scale": "",
+    "levels": [
+      {
+        "level": "Lv. 1",
+        "value": "+12%"
+      },
+      {
+        "level": "Lv. 2",
+        "value": "+24%"
+      },
+      {
+        "level": "Lv. 3",
+        "value": "+36%"
+      },
+      {
+        "level": "Lv. 4",
+        "value": "+48%"
+      },
+      {
+        "level": "Lv. 5",
+        "value": "+60%"
+      },
+      {
+        "level": "Lv. 6",
+        "value": "+72%"
+      },
+      {
+        "level": "Lv. 7",
+        "value": "+84%"
+      },
+      {
+        "level": "Lv. 8",
+        "value": "+96%"
+      },
+      {
+        "level": "Lv. 9",
+        "value": "+108%"
+      },
+      {
+        "level": "Lv. 10",
+        "value": "+120%"
+      }
+    ],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [
+      {
+        "name": "Common",
+        "value": "+12%"
+      },
+      {
+        "name": "Uncommon",
+        "value": "+14.4%"
+      },
+      {
+        "name": "Rare",
+        "value": "+17.4%"
+      },
+      {
+        "name": "Epic",
+        "value": "+21%"
+      },
+      {
+        "name": "Legendary",
+        "value": "+25.2%"
+      }
+    ],
+    "notes": [
+      "Max level: 10. With Max Ether, 12.",
+      "You start with room for 3 vitamins at a time."
+    ],
+    "slug": "cursed",
+    "name": "Cursed Incense",
+    "category": "Vitamin",
+    "image": "/images/items/pokebonk/cleanse-tag.png",
+    "description": "More and stronger enemies, but +6% XP and +6% ₽ per level",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "label": "More and stronger enemies, but +6% XP and +6% ₽ per level",
+    "icons": [
+      "/images/items/pokebonk/cleanse-tag.png"
+    ]
+  },
+  {
+    "flavor": "",
+    "rarity": null,
+    "unlockCost": null,
+    "stat": null,
+    "max": null,
+    "kind": "vitamin",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [],
+    "basis": "",
+    "scale": "",
+    "levels": [
+      {
+        "level": "Lv. 1",
+        "value": "+10"
+      },
+      {
+        "level": "Lv. 2",
+        "value": "+20"
+      },
+      {
+        "level": "Lv. 3",
+        "value": "+30"
+      },
+      {
+        "level": "Lv. 4",
+        "value": "+40"
+      },
+      {
+        "level": "Lv. 5",
+        "value": "+50"
+      },
+      {
+        "level": "Lv. 6",
+        "value": "+60"
+      },
+      {
+        "level": "Lv. 7",
+        "value": "+70"
+      },
+      {
+        "level": "Lv. 8",
+        "value": "+80"
+      },
+      {
+        "level": "Lv. 9",
+        "value": "+90"
+      },
+      {
+        "level": "Lv. 10",
+        "value": "+100"
+      }
+    ],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [
+      {
+        "name": "Common",
+        "value": "+10"
+      },
+      {
+        "name": "Uncommon",
+        "value": "+12"
+      },
+      {
+        "name": "Rare",
+        "value": "+14.5"
+      },
+      {
+        "name": "Epic",
+        "value": "+17.5"
+      },
+      {
+        "name": "Legendary",
+        "value": "+21"
+      }
+    ],
+    "notes": [
+      "Thorns hit everyone around you, poison, and also trigger when you dodge.",
+      "Max level: 10. With Max Ether, 12.",
+      "You start with room for 3 vitamins at a time."
+    ],
+    "slug": "sticky-barb",
+    "name": "Sticky Barb",
+    "category": "Vitamin",
+    "image": "/images/items/pokebonk/sticky-barb.png",
+    "description": "Thorns",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "label": "Thorns",
+    "icons": [
+      "/images/items/pokebonk/sticky-barb.png"
+    ]
+  },
+  {
+    "flavor": "",
+    "rarity": null,
+    "unlockCost": null,
+    "stat": null,
+    "max": null,
+    "kind": "vitamin",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [],
+    "basis": "",
+    "scale": "",
+    "levels": [
+      {
+        "level": "Lv. 1",
+        "value": "+5%"
+      },
+      {
+        "level": "Lv. 2",
+        "value": "+10%"
+      },
+      {
+        "level": "Lv. 3",
+        "value": "+15%"
+      },
+      {
+        "level": "Lv. 4",
+        "value": "+20%"
+      },
+      {
+        "level": "Lv. 5",
+        "value": "+25%"
+      },
+      {
+        "level": "Lv. 6",
+        "value": "+30%"
+      },
+      {
+        "level": "Lv. 7",
+        "value": "+35%"
+      },
+      {
+        "level": "Lv. 8",
+        "value": "+40%"
+      },
+      {
+        "level": "Lv. 9",
+        "value": "+45%"
+      },
+      {
+        "level": "Lv. 10",
+        "value": "+50%"
+      }
+    ],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [
+      {
+        "name": "Common",
+        "value": "+5%"
+      },
+      {
+        "name": "Uncommon",
+        "value": "+6%"
+      },
+      {
+        "name": "Rare",
+        "value": "+7.2%"
+      },
+      {
+        "name": "Epic",
+        "value": "+8.8%"
+      },
+      {
+        "name": "Legendary",
+        "value": "+10.5%"
+      }
+    ],
+    "notes": [
+      "Healing that doesn't fit is stored as golden extra HP (it slowly wears off).",
+      "Max level: 10. With Max Ether, 12.",
+      "You start with room for 3 vitamins at a time."
+    ],
+    "slug": "enigma-berry",
+    "name": "Enigma Berry",
+    "category": "Vitamin",
+    "image": "/images/items/pokebonk/enigma-berry.png",
+    "description": "Overheal",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "label": "Overheal",
+    "icons": [
+      "/images/items/pokebonk/enigma-berry.png"
+    ]
+  },
+  {
+    "flavor": "",
+    "rarity": null,
+    "unlockCost": null,
+    "stat": null,
+    "max": null,
+    "kind": "vitamin",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [],
+    "basis": "",
+    "scale": "",
+    "levels": [
+      {
+        "level": "Lv. 1",
+        "value": "+18%"
+      },
+      {
+        "level": "Lv. 2",
+        "value": "+36%"
+      },
+      {
+        "level": "Lv. 3",
+        "value": "+54%"
+      },
+      {
+        "level": "Lv. 4",
+        "value": "+72%"
+      },
+      {
+        "level": "Lv. 5",
+        "value": "+90%"
+      },
+      {
+        "level": "Lv. 6",
+        "value": "+108%"
+      },
+      {
+        "level": "Lv. 7",
+        "value": "+126%"
+      },
+      {
+        "level": "Lv. 8",
+        "value": "+144%"
+      },
+      {
+        "level": "Lv. 9",
+        "value": "+162%"
+      },
+      {
+        "level": "Lv. 10",
+        "value": "+180%"
+      }
+    ],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [
+      {
+        "name": "Common",
+        "value": "+18%"
+      },
+      {
+        "name": "Uncommon",
+        "value": "+21.6%"
+      },
+      {
+        "name": "Rare",
+        "value": "+26.1%"
+      },
+      {
+        "name": "Epic",
+        "value": "+31.5%"
+      },
+      {
+        "name": "Legendary",
+        "value": "+37.8%"
+      }
+    ],
+    "notes": [
+      "And +5% damage to elites and bosses per level.",
+      "Max level: 10. With Max Ether, 12.",
+      "You start with room for 3 vitamins at a time."
+    ],
+    "slug": "super-lure",
+    "name": "Super Lure",
+    "category": "Vitamin",
+    "image": "/images/items/pokebonk/super-lure.png",
+    "description": "Elite spawns",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "label": "Elite spawns",
+    "icons": [
+      "/images/items/pokebonk/super-lure.png"
+    ]
+  },
+  {
+    "flavor": "",
+    "rarity": null,
+    "unlockCost": null,
+    "stat": null,
+    "max": null,
+    "kind": "vitamin",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [],
+    "basis": "",
+    "scale": "",
+    "levels": [
+      {
+        "level": "Lv. 1",
+        "value": "+15%"
+      },
+      {
+        "level": "Lv. 2",
+        "value": "+30%"
+      },
+      {
+        "level": "Lv. 3",
+        "value": "+45%"
+      },
+      {
+        "level": "Lv. 4",
+        "value": "+60%"
+      },
+      {
+        "level": "Lv. 5",
+        "value": "+75%"
+      },
+      {
+        "level": "Lv. 6",
+        "value": "+90%"
+      },
+      {
+        "level": "Lv. 7",
+        "value": "+105%"
+      },
+      {
+        "level": "Lv. 8",
+        "value": "+120%"
+      },
+      {
+        "level": "Lv. 9",
+        "value": "+135%"
+      },
+      {
+        "level": "Lv. 10",
+        "value": "+150%"
+      }
+    ],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [
+      {
+        "name": "Common",
+        "value": "+15%"
+      },
+      {
+        "name": "Uncommon",
+        "value": "+18%"
+      },
+      {
+        "name": "Rare",
+        "value": "+21.8%"
+      },
+      {
+        "name": "Epic",
+        "value": "+26.3%"
+      },
+      {
+        "name": "Legendary",
+        "value": "+31.5%"
+      }
+    ],
+    "notes": [
+      "More power-ups drop (Magnet, TMs, berries…) and they last longer.",
+      "Max level: 10. With Max Ether, 12.",
+      "You start with room for 3 vitamins at a time."
+    ],
+    "slug": "poke-radar",
+    "name": "Poké Radar",
+    "category": "Vitamin",
+    "image": "/images/items/pokebonk/poke-radar.png",
+    "description": "Power-ups",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "label": "Power-ups",
+    "icons": [
+      "/images/items/pokebonk/poke-radar.png"
+    ]
+  },
+  {
+    "flavor": "",
+    "rarity": null,
+    "unlockCost": null,
+    "stat": null,
+    "max": null,
+    "kind": "vitamin",
+    "type": null,
+    "shape": null,
+    "damageClass": null,
+    "recipe": null,
+    "facts": [],
+    "basis": "",
+    "scale": "",
+    "levels": [],
+    "upgrades": [],
+    "improves": [],
+    "learners": [],
+    "fusionLinks": [],
+    "rarities": [],
+    "notes": [
+      "Each level rolls the die: it raises the stat of another random vitamin, 50% more than that vitamin.",
+      "You start with room for 3 vitamins at a time."
+    ],
+    "slug": "loaded-dice",
+    "name": "Loaded Dice",
+    "category": "Vitamin",
+    "image": "/images/items/pokebonk/loaded-dice.png",
+    "description": "A random stat",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "label": "A random stat",
+    "icons": [
+      "/images/items/pokebonk/loaded-dice.png"
+    ]
+  }
+]

@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="position:static;width:100%;height:100%;transform:none;overflow:visible" class="tf-svg av-frame tf tf-grass tf-s" viewBox="0 0 200 200" aria-hidden="true"><style>.av { --s: 48px; width: var(--s); height: var(--s); flex: 0 0 auto; place-items: center; display: inline-grid; position: relative; }
+.av-pic { background: radial-gradient(circle at 40% 35%, var(--paper), var(--k-e4e0f4)); width: 100%; height: 100%; box-shadow: 0 0 0 max(2px, calc(var(--s) * .05)) var(--paper), 0 2px 6px #1a124640; border-radius: 50%; place-items: center; display: grid; overflow: hidden; }
+.av-pic img { width: 100%; height: 100%; image-rendering: pixelated; object-fit: cover; }
+.av.framed .av-pic { width: 84%; height: 84%; box-shadow: none; }
+.av-frame { width: calc(var(--s) * .72 / .48 * 1.04); height: calc(var(--s) * .72 / .48 * 1.04); transform: translate(calc(-50% - var(--fx,0) * 100%), calc(-50% - var(--fy,0) * 100%)); pointer-events: none; image-rendering: auto; filter: drop-shadow(rgba(26, 18, 70, 0.3) 0px 2px 3px); position: absolute; top: 50%; left: 50%; }
+.av-frame.tf { filter: none; --c1: #ff5a1a; --c2: #ffb02e; --c3: #fff0a0; --c4: #8a1200; --m1: #ffd9a0; --m2: #e0651c; --m3: #6a1608; --m4: #240500; --g1: #ffb09a; --g2: #b01000; display: block; }
+.av-frame.tf-grass { --c1: #1f9e3f; --c2: #6ee060; --c3: #e8ffa8; --c4: #07391a; --m1: #f0ffc0; --m2: #86cc54; --m3: #2a7a35; --m4: #082a14; --g1: #b8ffd0; --g2: #0a8a3a; }
+.av-frame.tf-water { --c1: #1f7fe0; --c2: #4cc8ff; --c3: #e6fbff; --c4: #06235a; --m1: #fff; --m2: #b4ecff; --m3: #3f8fd6; --m4: #0a2a6a; --g1: #fff; --g2: #1f9ee8; }
+.tf > i { pointer-events: none; border-radius: 50%; position: absolute; inset: 0px; }
+.tf-svg { pointer-events: none; width: 100%; height: 100%; position: absolute; inset: 0px; overflow: visible; }
+.tf-svg * { transform-origin: 0px 0px; }
+.tf-svg .wv, .tf-svg .ripple { transform-origin: 100px 100px; }
+.tf-glow { background: radial-gradient(circle closest-side, transparent 50%, color-mix(in srgb, var(--c2) 60%, transparent) 70%, transparent 100%); opacity: 0.7; }
+.tf-e .tf-glow { animation: 2.4s ease-in-out 0s infinite normal none running tfPulse; }
+.tf-s .tf-glow { opacity: 0.4; }
+.tf-shine { background: conic-gradient(transparent 0deg, transparent 78%, rgba(255, 255, 255, 0) 80%, rgba(255, 255, 255, 0.8) 88%, transparent 94%); mix-blend-mode: soft-light; animation: 5s linear 0s infinite normal none running tfSpin; mask: radial-gradient(circle closest-side, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) 50%, rgb(0, 0, 0) 51%, rgb(0, 0, 0) 65.5%, rgba(0, 0, 0, 0) 66.5%); }
+.tf-s .tf-shine { animation-duration: 8s; }
+.tf-svg .rg-sh { fill: none; stroke: rgba(0, 0, 0, 0.4); stroke-width: 3px; }
+.tf-svg .rg-ol { fill: none; stroke: var(--m4); stroke-width: 2.6px; }
+.tf-svg .rg-band { fill: none; stroke-width: 12.4px; }
+.tf-svg .rg-hi { fill: none; stroke-width: 1.3px; }
+.tf-svg .rg-in { fill: none; stroke: rgba(0, 0, 0, 0.55); stroke-width: 1.8px; }
+.tf-svg .rg-fil { fill: none; stroke: var(--m4); stroke-width: 0.9px; opacity: 0.75; stroke-linejoin: round; }
+.tf-svg .rg-bead { fill: none; stroke: var(--m1); stroke-width: 1.5px; stroke-linecap: round; stroke-dasharray: 0.1, 3.55; }
+.tf-svg .rg-bead2 { fill: none; stroke: var(--m1); stroke-width: 0.7px; stroke-linecap: round; stroke-dasharray: 0.1, 2.5; opacity: 0.7; }
+.tf-svg .gem-bz { fill: var(--m4); }
+.tf-svg .gem-ol { fill: none; stroke: rgba(0, 0, 0, 0.5); stroke-width: 0.6px; }
+.tf-svg .gem-hi { fill: rgb(255, 255, 255); opacity: 0.85; }
+.tf-svg .gem { animation: tfGem 2.8s ease-in-out var(--d,0s) infinite; }
+.tf-svg .rivet { fill: var(--m3); stroke: var(--m4); stroke-width: 0.6px; }
+.tf-svg .rivet-hi { fill: var(--m1); opacity: 0.85; }
+.tf-svg .fl { animation: tfFl var(--t,1s) ease-in-out var(--d,0s) infinite alternate; }
+.tf-svg .fl-a { fill: rgb(140, 18, 0); stroke: rgb(58, 6, 0); stroke-width: 0.7px; }
+.tf-svg .fl-b { fill: var(--c1); }
+.tf-svg .fl-c { fill: var(--c2); }
+.tf-svg .fl-d { fill: var(--c3); }
+.tf-svg .cracks { filter: drop-shadow(rgb(255, 122, 16) 0px 0px 1.4px); }
+.tf-svg .crack { fill: none; stroke: rgb(255, 194, 74); stroke-width: 1.1px; stroke-linecap: round; stroke-linejoin: round; animation: tfCrack 1.9s ease-in-out var(--d,0s) infinite; }
+.tf-svg .sp { fill: var(--c3); opacity: 0; animation: tfSpark var(--t,2s) ease-out var(--d,0s) infinite; }
+.tf-fire.tf-e .tf-glow { background: radial-gradient(circle closest-side, rgba(0, 0, 0, 0) 50%, rgba(255, 110, 20, 0.7) 72%, rgba(0, 0, 0, 0) 100%); }
+.tf-fire .rg-band { filter: saturate(1.1); }
+.tf-svg .vn-o { fill: none; stroke: rgb(10, 58, 20); stroke-width: 3.8px; stroke-linejoin: round; }
+.tf-svg .vn { fill: none; stroke: rgb(63, 191, 79); stroke-width: 2px; stroke-linejoin: round; }
+.tf-svg .vn-b { stroke: rgb(123, 232, 96); }
+.tf-svg .lf { animation: tfSway var(--t,3s) ease-in-out var(--d,0s) infinite alternate; }
+.tf-svg .lf-b { fill: var(--c1); stroke: rgb(7, 57, 26); stroke-width: 0.7px; stroke-linejoin: round; }
+.tf-svg .lf-big .lf-b { fill: rgb(22, 122, 51); }
+.tf-svg .lf-s .lf-b { fill: var(--c2); }
+.tf-svg .lf-v { fill: none; stroke: var(--c3); stroke-width: 0.7px; opacity: 0.85; }
+.tf-svg .tendril { fill: none; stroke: rgb(95, 212, 95); stroke-width: 1px; stroke-linecap: round; stroke-linejoin: round; }
+.tf-svg .pt { fill: rgb(255, 224, 240); stroke: rgb(224, 96, 154); stroke-width: 0.6px; }
+.tf-svg .ct { fill: rgb(255, 210, 58); stroke: rgb(184, 134, 11); stroke-width: 0.5px; }
+.tf-svg .ct-hi { fill: rgb(255, 246, 176); }
+.tf-svg .bl { animation: tfBloom var(--t,5s) ease-in-out var(--d,0s) infinite; }
+.tf-svg .pol { fill: var(--c3); opacity: 0; animation: tfSpark var(--t,3s) ease-out var(--d,0s) infinite; }
+.tf-svg .pol-p { fill: rgb(255, 184, 220); }
+.tf-grass.tf-e .tf-glow { background: radial-gradient(circle closest-side, rgba(0, 0, 0, 0) 50%, rgba(110, 224, 96, 0.55) 72%, rgba(0, 0, 0, 0) 100%); }
+.tf-svg .wv-a { animation: 17s linear 0s infinite normal none running tfSpin; }
+.tf-svg .wv-b { animation: 11s linear 0s infinite normal none running tfSpinR; }
+.tf-svg .wv-s { animation: 30s linear 0s infinite normal none running tfSpin; }
+.tf-svg .wv-fill { fill: var(--c2); opacity: 0.7; }
+.tf-svg .crest { fill: none; stroke: rgb(255, 255, 255); stroke-width: 1.4px; stroke-linejoin: round; opacity: 0.95; }
+.tf-svg .crest-b { stroke: var(--c3); stroke-width: 1px; opacity: 0.7; }
+.tf-svg .ripple { fill: none; stroke: var(--c3); stroke-width: 0.8px; stroke-dasharray: 6, 5, 2, 7; opacity: 0.5; animation: 32s linear 0s infinite normal none running tfSpin; }
+.tf-svg .drop { fill: var(--c3); stroke: var(--c2); stroke-width: 0.5px; opacity: 0; animation: tfDrop var(--t,2.4s) ease-out var(--d,0s) infinite; }
+.tf-svg .bub { opacity: 0; animation: tfBub var(--t,3s) ease-out var(--d,0s) infinite; }
+.tf-svg .bub-c { fill: rgba(190, 240, 255, 0.25); stroke: rgb(255, 255, 255); stroke-width: 0.6px; }
+.tf-svg .bub-h { fill: rgb(255, 255, 255); }
+.tf-water.tf-e .tf-glow { background: radial-gradient(circle closest-side, rgba(0, 0, 0, 0) 50%, rgba(76, 200, 255, 0.6) 72%, rgba(0, 0, 0, 0) 100%); }
+.tf-water .tf-shine { mix-blend-mode: normal; opacity: 0.75; }
+@keyframes tfSpin { 
+  100% { transform: rotate(360deg); }
+}
+@keyframes tfSpinR { 
+  100% { transform: rotate(-360deg); }
+}
+@keyframes tfPulse { 
+  0%, 100% { opacity: 0.55; transform: scale(1); }
+  50% { opacity: 1; transform: scale(1.04); }
+}
+@keyframes tfGem { 
+  0%, 100% { filter: brightness(); }
+  50% { filter: brightness(1.45); }
+}
+@keyframes tfFl { 
+  0% { transform: scale(0.92, 0.8) skew(-6deg); }
+  100% { transform: scale(1.06, 1.2) skew(7deg); }
+}
+@keyframes tfCrack { 
+  0%, 100% { opacity: 0.3; stroke: rgb(255, 154, 42); }
+  50% { opacity: 1; stroke: rgb(255, 242, 176); }
+}
+@keyframes tfSpark { 
+  0% { opacity: 0; transform: translate(0px) scale(1); }
+  15% { opacity: 1; }
+  100% { opacity: 0; transform: translate(var(--x,0px), -26px) scale(.25); }
+}
+@keyframes tfSway { 
+  0% { transform: rotate(-8deg); }
+  100% { transform: rotate(8deg); }
+}
+@keyframes tfBloom { 
+  0%, 100% { transform: scale(0.3) rotate(-25deg); }
+  35%, 65% { transform: scale(1) rotate(0deg); }
+}
+@keyframes tfDrop { 
+  0% { opacity: 0; transform: translate(0px) scale(0.6); }
+  20% { opacity: 1; }
+  100% { opacity: 0; transform: translate(var(--x,0px), -20px) scale(1); }
+}
+@keyframes tfBub { 
+  0% { opacity: 0; transform: translate(0px) scale(0.5); }
+  15%, 80% { opacity: 1; }
+  100% { opacity: 0; transform: translate(var(--x,0px), -16px) scale(1.3); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .tf *, .tf { animation: auto ease 0s 1 normal none running none !important; }
+  .tf-svg .sp, .tf-svg .pol, .tf-svg .drop, .tf-svg .bub { opacity: 0.85; }
+  .tf-svg .bl { transform: scale(0.9); }
+  .tf-shine { display: none; }
+}
+.av.lk-av .av-pic { background: var(--paper-2); }</style><g transform="translate(113.3 37.4) rotate(-12) scale(1.1)"><g class="lf lf-s" style="--t:3.90s;--d:-1.60s"><path d="M0 0C4.4 -3.2 7.6 -8.4 0 -16C-7.6 -8.4 -4.4 -3.2 0 0Z" class="lf-b"></path><path d="M0 -1.2V-13" class="lf-v"></path></g></g><g transform="translate(153.7 65.1) rotate(81) scale(1.2)"><g class="lf lf-s" style="--t:2.78s;--d:-2.97s"><path d="M0 0C4.4 -3.2 7.6 -8.4 0 -16C-7.6 -8.4 -4.4 -3.2 0 0Z" class="lf-b"></path><path d="M0 -1.2V-13" class="lf-v"></path></g></g><g transform="translate(162.6 113.3) rotate(78) scale(1.3)"><g class="lf lf-s" style="--t:2.30s;--d:-1.36s"><path d="M0 0C4.4 -3.2 7.6 -8.4 0 -16C-7.6 -8.4 -4.4 -3.2 0 0Z" class="lf-b"></path><path d="M0 -1.2V-13" class="lf-v"></path></g></g><g transform="translate(134.9 153.7) rotate(171) scale(1.1)"><g class="lf lf-s" style="--t:3.15s;--d:-1.28s"><path d="M0 0C4.4 -3.2 7.6 -8.4 0 -16C-7.6 -8.4 -4.4 -3.2 0 0Z" class="lf-b"></path><path d="M0 -1.2V-13" class="lf-v"></path></g></g><g transform="translate(86.7 162.6) rotate(168) scale(1.2)"><g class="lf lf-s" style="--t:3.13s;--d:-1.55s"><path d="M0 0C4.4 -3.2 7.6 -8.4 0 -16C-7.6 -8.4 -4.4 -3.2 0 0Z" class="lf-b"></path><path d="M0 -1.2V-13" class="lf-v"></path></g></g><g transform="translate(46.3 134.9) rotate(261) scale(1.3)"><g class="lf lf-s" style="--t:3.05s;--d:-0.98s"><path d="M0 0C4.4 -3.2 7.6 -8.4 0 -16C-7.6 -8.4 -4.4 -3.2 0 0Z" class="lf-b"></path><path d="M0 -1.2V-13" class="lf-v"></path></g></g><g transform="translate(37.4 86.7) rotate(258) scale(1.1)"><g class="lf lf-s" style="--t:3.60s;--d:-1.48s"><path d="M0 0C4.4 -3.2 7.6 -8.4 0 -16C-7.6 -8.4 -4.4 -3.2 0 0Z" class="lf-b"></path><path d="M0 -1.2V-13" class="lf-v"></path></g></g><g transform="translate(65.1 46.3) rotate(351) scale(1.2)"><g class="lf lf-s" style="--t:3.99s;--d:-2.22s"><path d="M0 0C4.4 -3.2 7.6 -8.4 0 -16C-7.6 -8.4 -4.4 -3.2 0 0Z" class="lf-b"></path><path d="M0 -1.2V-13" class="lf-v"></path></g></g><defs>
+<linearGradient id="tf63m" x1="0" y1="0" x2="1" y2="1"><stop offset="0" style="stop-color:var(--m1)"></stop><stop offset=".3" style="stop-color:var(--m2)"></stop><stop offset=".62" style="stop-color:var(--m3)"></stop><stop offset="1" style="stop-color:var(--m4)"></stop></linearGradient>
+<linearGradient id="tf63h" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".95"></stop><stop offset=".45" stop-color="#fff" stop-opacity="0"></stop><stop offset=".55" stop-color="#000" stop-opacity="0"></stop><stop offset="1" stop-color="#000" stop-opacity=".55"></stop></linearGradient>
+<linearGradient id="tf63i" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#fff" stop-opacity=".7"></stop><stop offset=".45" stop-color="#fff" stop-opacity="0"></stop><stop offset=".55" stop-color="#000" stop-opacity="0"></stop><stop offset="1" stop-color="#000" stop-opacity=".6"></stop></linearGradient>
+<radialGradient id="tf63g" cx=".35" cy=".3" r=".8"><stop offset="0" style="stop-color:var(--g1)"></stop><stop offset="1" style="stop-color:var(--g2)"></stop></radialGradient>
+</defs>
+<circle cx="100" cy="100" r="66.6" class="rg-sh"></circle>
+<circle cx="100" cy="100" r="65" class="rg-ol"></circle>
+<circle cx="100" cy="100" r="58.4" class="rg-band" stroke="url(#tf63m)"></circle>
+<circle cx="100" cy="100" r="64.2" class="rg-hi" stroke="url(#tf63h)"></circle>
+<circle cx="100" cy="100" r="52.2" class="rg-hi" stroke="url(#tf63i)"></circle>
+<circle cx="100" cy="100" r="50.4" class="rg-in"></circle><g transform="translate(100 41.6)" class="gem" style="--d:0.00s"><circle r="5.4" class="gem-bz"></circle><circle r="4" fill="url(#tf63g)"></circle><circle r="4" class="gem-ol"></circle><ellipse cx="-1.2" cy="-1.4" rx="1.4" ry="0.9" class="gem-hi"></ellipse></g><g transform="translate(158.4 100)" class="gem" style="--d:-0.37s"><circle r="5.4" class="gem-bz"></circle><circle r="4" fill="url(#tf63g)"></circle><circle r="4" class="gem-ol"></circle><ellipse cx="-1.2" cy="-1.4" rx="1.4" ry="0.9" class="gem-hi"></ellipse></g><g transform="translate(100 158.4)" class="gem" style="--d:-0.74s"><circle r="5.4" class="gem-bz"></circle><circle r="4" fill="url(#tf63g)"></circle><circle r="4" class="gem-ol"></circle><ellipse cx="-1.2" cy="-1.4" rx="1.4" ry="0.9" class="gem-hi"></ellipse></g><g transform="translate(41.6 100)" class="gem" style="--d:-1.11s"><circle r="5.4" class="gem-bz"></circle><circle r="4" fill="url(#tf63g)"></circle><circle r="4" class="gem-ol"></circle><ellipse cx="-1.2" cy="-1.4" rx="1.4" ry="0.9" class="gem-hi"></ellipse></g></svg>

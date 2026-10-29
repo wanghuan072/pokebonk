@@ -1,0 +1,290 @@
+[
+  {
+    "id": "bulbasaur-grass",
+    "partner": "bulbasaur",
+    "shownAs": 1,
+    "title": "Bulbasaur: stay up with Grass hits",
+    "kicker": "Solo Survival · recovery",
+    "record": "In our Survival tests, Bulbasaur lasted longer when a Grass attack kept connecting. The passive heals a little on those hits, and Flower Beam is the signature those two later kit attacks combine into.",
+    "slots": [
+      {
+        "label": "Keep",
+        "attack": "vine-whip",
+        "detail": "The level-1 attack. It can root the nearest enemy. Keep a Grass hit connecting while Razor Leaf and Solar Beam level up."
+      },
+      {
+        "label": "Fuse at level 8",
+        "attacks": ["razor-leaf", "solar-beam"],
+        "result": "fu-1",
+        "detail": "Bulbasaur’s signature, and it is a special attack. Razor Leaf can appear from level 2. Solar Beam is a level-7 kit offer, so the fusion waits on it."
+      }
+    ],
+    "vitamins": [
+      { "slug": "calcium", "why": "Special damage. Flower Beam is a special attack." },
+      { "slug": "super-potion", "why": "HP regen for the stretches where Grass hits are not connecting." },
+      { "slug": "iron", "why": "Armor when chip damage still gets through the healing." }
+    ],
+    "items": [
+      { "slug": "miracle-seed", "priority": "Take first", "why": "Grass-type damage for Vine Whip and the signature." },
+      { "slug": "leftovers", "priority": "Then", "why": "Recovery that does not depend on landing a Grass hit." },
+      { "slug": "shell-bell", "priority": "Later", "why": "A little healing from damage dealt, once the attacks are already working." }
+    ],
+    "tradeoff": "The Grass healing is capped and needs hits to land. Solar Beam is not an opening offer, and standing in the middle of a crowd is still how this route ends."
+  },
+  {
+    "id": "squirtle-water",
+    "partner": "squirtle",
+    "shownAs": 7,
+    "title": "Squirtle: armor until Hydro Spiral",
+    "kicker": "Solo Survival · armor",
+    "record": "Squirtle’s tests went further when we treated armor and recovery as the opening, and the signature as a later payoff. The passive gives armor and a shield from the start. Hydro Spiral needs a level-7 attack.",
+    "slots": [
+      {
+        "label": "Keep",
+        "attack": "water-gun",
+        "detail": "The level-1 attack. Keep it working until Rapid Spin and Hydro Pump are both ready."
+      },
+      {
+        "label": "Fuse at level 8",
+        "attacks": ["rapid-spin", "hydro-pump"],
+        "result": "fu-7",
+        "detail": "Squirtle’s signature, a special attack. Rapid Spin can appear from level 4. Hydro Pump is a level-7 kit offer."
+      }
+    ],
+    "vitamins": [
+      { "slug": "iron", "why": "Armor, alongside the passive’s armor and shield." },
+      { "slug": "super-potion", "why": "HP regen for the damage the shell does not stop." },
+      { "slug": "calcium", "why": "Special damage. Hydro Spiral is a special attack." }
+    ],
+    "items": [
+      { "slug": "mystic-water", "priority": "Take first", "why": "Water-type damage for Water Gun and the later signature." },
+      { "slug": "assault-vest", "priority": "Then", "why": "Armor and max HP while Hydro Pump is still missing." },
+      { "slug": "leftovers", "priority": "Then", "why": "Recovery that does not require the fusion to be finished." }
+    ],
+    "tradeoff": "Hydro Pump arrives late. Until then the route is Water Gun, Rapid Spin, armor and recovery. Skipping that opening for a damage fusion is a different plan."
+  },
+  {
+    "id": "charmander-fire",
+    "partner": "charmander",
+    "shownAs": 4,
+    "title": "Charmander: finish Fiery Whirlwind",
+    "kicker": "Solo Survival · Fire damage",
+    "record": "Charmander’s Survival tests held up when the signature was finished before we spent the Fire attacks on anything else. The passive adds Fire damage, and a larger bonus only while you are under 40% HP, so the route still needs recovery.",
+    "slots": [
+      {
+        "label": "Keep",
+        "attack": "ember",
+        "detail": "The level-1 attack. It can burn. Once Fire Blast is offered, at level 7, it can take this slot: Fire Blast is not an ingredient of the signature."
+      },
+      {
+        "label": "Fuse at level 8",
+        "attacks": ["fire-spin", "flamethrower"],
+        "result": "fu-4",
+        "detail": "Charmander’s signature, a special attack. Fire Spin can appear from level 2 and Flamethrower from level 4. This pair is chosen ahead of a same-type Fire fusion."
+      }
+    ],
+    "vitamins": [
+      { "slug": "calcium", "why": "Special damage for Ember, Fire Blast and Fiery Whirlwind." },
+      { "slug": "super-potion", "why": "HP regen. The low-HP damage bonus is not a healing plan." },
+      { "slug": "iron", "why": "Armor so you are not relying on the under-40% bonus to survive a hit." }
+    ],
+    "items": [
+      { "slug": "charcoal", "priority": "Take first", "why": "Fire-type damage while Fire Spin and Flamethrower are still leveling." },
+      { "slug": "leftovers", "priority": "Then", "why": "Steady recovery. Fire damage does not replace it." },
+      { "slug": "wide-lens", "priority": "Later", "why": "More area once Fiery Whirlwind is the attack you are standing in." }
+    ],
+    "tradeoff": "The passive’s larger damage bonus only applies below 40% HP. Armor and regen are what kept these tests from ending on the way to the fusion."
+  },
+  {
+    "id": "slowpoke-water",
+    "partner": "slowpoke",
+    "shownAs": 79,
+    "title": "Slowpoke: sleep, then Psychic Geyser",
+    "kicker": "Solo Survival · recovery",
+    "record": "Slowpoke was one of the more stable Survival tests. The passive adds HP and regen, and its yawn can put nearby enemies to sleep. We kept the Yawn attack for the same reason and fused the two later damage attacks.",
+    "slots": [
+      {
+        "label": "Keep",
+        "attack": "yawn",
+        "detail": "The level-1 attack. The projectiles chase and can cause sleep, in the same direction as the passive’s yawn. It is not a fusion ingredient."
+      },
+      {
+        "label": "Fuse at level 8",
+        "attacks": ["scald", "expanding-force"],
+        "result": "fu-79",
+        "detail": "Slowpoke’s signature, a special Water attack. Scald can appear from level 2. Expanding Force is a level-7 kit offer."
+      }
+    ],
+    "vitamins": [
+      { "slug": "hp-up", "why": "Max HP, alongside the passive’s larger health pool." },
+      { "slug": "super-potion", "why": "HP regen beside the passive’s own regen." },
+      { "slug": "calcium", "why": "Special damage. Psychic Geyser is a special attack." }
+    ],
+    "items": [
+      { "slug": "mystic-water", "priority": "Take first", "why": "Water-type damage. The signature is a Water attack." },
+      { "slug": "leftovers", "priority": "Then", "why": "More regen while sleep is on its timer." },
+      { "slug": "assault-vest", "priority": "Then", "why": "Armor and max HP. The passive also lowers speed, so extra bulk mattered more than another damage item." }
+    ],
+    "tradeoff": "The passive lowers speed, and sleep is a timed effect. An enemy that does not fall asleep still has to be kited."
+  },
+  {
+    "id": "chansey-normal",
+    "partner": "chansey",
+    "shownAs": 113,
+    "title": "Chansey: heal, then Sonic Egg",
+    "kicker": "Solo Survival · healing",
+    "record": "Chansey’s Survival tests depended on picking up the passive’s egg and keeping a never-miss attack while the signature leveled. The passive adds HP and healing, and every 10 seconds it lays an egg that heals when collected.",
+    "slots": [
+      {
+        "label": "Keep",
+        "attack": "sweet-kiss",
+        "detail": "The level-1 attack. The projectiles chase, never miss, and can confuse. Egg Bomb and Boomburst are the ones you level for the fusion."
+      },
+      {
+        "label": "Fuse at level 8",
+        "attacks": ["egg-bomb", "boomburst"],
+        "result": "fu-113",
+        "detail": "Chansey’s signature, a special attack. Egg Bomb can appear from level 4. Boomburst is a level-7 kit offer."
+      }
+    ],
+    "vitamins": [
+      { "slug": "hp-up", "why": "Max HP, in the same direction as the passive’s health bonus." },
+      { "slug": "super-potion", "why": "HP regen between egg pickups." },
+      { "slug": "calcium", "why": "Special damage. Sonic Egg is a special attack." }
+    ],
+    "items": [
+      { "slug": "silk-scarf", "priority": "Take first", "why": "Normal-type damage for the signature." },
+      { "slug": "leftovers", "priority": "Then", "why": "Regen that does not require walking over the egg." },
+      { "slug": "shell-bell", "priority": "Later", "why": "Healing from damage dealt, after Sonic Egg is online." }
+    ],
+    "tradeoff": "The egg heals only if you pick it up, and it appears on a timer. Leaving it behind removes the passive’s main recovery."
+  },
+  {
+    "id": "tangela-grass",
+    "partner": "tangela",
+    "shownAs": 114,
+    "title": "Tangela: roots and Solar Tangle",
+    "kicker": "Solo Survival · recovery",
+    "record": "Tangela’s tests worked when the vines and a rooting attack did the crowd control, and the signature was built out of the two Grass attacks that actually fuse. The passive regens and, every few seconds, roots up to four nearby enemies.",
+    "slots": [
+      {
+        "label": "Keep",
+        "attack": "bind",
+        "detail": "The level-1 attack. It strikes the nearest enemy and can root. Giga Drain is leveled for the fusion instead of being kept."
+      },
+      {
+        "label": "Fuse at level 8",
+        "attacks": ["giga-drain", "solar-blade"],
+        "result": "fu-114",
+        "detail": "Tangela’s signature, a physical attack. Giga Drain can appear from level 2. Solar Blade is a level-7 kit offer."
+      }
+    ],
+    "vitamins": [
+      { "slug": "protein", "why": "Physical damage. Solar Tangle is a physical attack." },
+      { "slug": "super-potion", "why": "HP regen beside the passive’s regen." },
+      { "slug": "iron", "why": "Armor when the vines are between activations." }
+    ],
+    "items": [
+      { "slug": "miracle-seed", "priority": "Take first", "why": "Grass-type damage for Bind, Giga Drain and the signature." },
+      { "slug": "leftovers", "priority": "Then", "why": "Regen that does not wait on the vine timer." },
+      { "slug": "shell-bell", "priority": "Later", "why": "Healing from damage once Solar Tangle is connecting." }
+    ],
+    "tradeoff": "The vines reach only the four closest enemies within their range. Ranged pressure and a crowd outside that circle still get through."
+  },
+  {
+    "id": "clefairy-fairy",
+    "partner": "clefairy",
+    "shownAs": 35,
+    "title": "Clefairy: drain, then the Moon fusion",
+    "kicker": "Solo Survival · healing",
+    "record": "Clefairy lasted longer in testing when Draining Kiss stayed equipped and the Ultimate was cast for the heal, not saved. The passive adds luck and regen, charges the Ultimate faster, and recovers HP when you cast it.",
+    "slots": [
+      {
+        "label": "Keep",
+        "attack": "draining-kiss",
+        "detail": "The level-1 attack. It steals life on impact and can charm. Gravity and Moonblast are the fusion ingredients."
+      },
+      {
+        "label": "Fuse at level 8",
+        "attacks": ["gravity", "moonblast"],
+        "result": "fu-35",
+        "detail": "Clefairy’s signature, a special attack. Gravity can appear from level 4. Moonblast is a level-7 kit offer."
+      }
+    ],
+    "vitamins": [
+      { "slug": "calcium", "why": "Special damage. Gravitational Moon is a special attack." },
+      { "slug": "super-potion", "why": "HP regen during the gap after an Ultimate heal." },
+      { "slug": "hp-up", "why": "A larger pool for Draining Kiss and the Ultimate heal to restore." }
+    ],
+    "items": [
+      { "slug": "fairy-feather", "priority": "Take first", "why": "Fairy-type damage for Draining Kiss and the signature." },
+      { "slug": "leftovers", "priority": "Then", "why": "Regen that does not require the Ultimate to be ready." },
+      { "slug": "shell-bell", "priority": "Later", "why": "More healing from damage once the signature is out." }
+    ],
+    "tradeoff": "The biggest heal is tied to casting the Ultimate. Holding that charge leaves a gap that regen and Draining Kiss have to cover."
+  },
+  {
+    "id": "lapras-water",
+    "partner": "lapras",
+    "shownAs": 131,
+    "title": "Lapras: keep Ice Beam, fuse Glacial Tide",
+    "kicker": "Solo Survival · damage reduction",
+    "record": "Lapras did not need a weather effect or a kill condition to stay comfortable in our tests. The passive reduces incoming damage and adds a little regen. We kept Ice Beam, which is not part of the signature, and fused the Water and Ice kit attacks that are.",
+    "slots": [
+      {
+        "label": "Keep",
+        "attack": "ice-beam",
+        "detail": "A level-2 kit attack. The beam pierces and can freeze. It is not a fusion ingredient. Water Pulse is only the level-1 attack until Ice Beam appears."
+      },
+      {
+        "label": "Fuse at level 8",
+        "attacks": ["surf", "blizzard"],
+        "result": "fu-131",
+        "detail": "Lapras’s signature, a special Water attack. Surf can appear from level 4. Blizzard is a level-7 kit offer."
+      }
+    ],
+    "vitamins": [
+      { "slug": "iron", "why": "Armor on top of the passive’s damage reduction." },
+      { "slug": "super-potion", "why": "HP regen. The passive’s own regen is small." },
+      { "slug": "calcium", "why": "Special damage for Ice Beam and Glacial Tide." }
+    ],
+    "items": [
+      { "slug": "mystic-water", "priority": "Take first", "why": "Water-type damage. Glacial Tide is a Water attack." },
+      { "slug": "never-melt-ice", "priority": "Then", "why": "Ice-type damage for the Ice Beam you kept." },
+      { "slug": "leftovers", "priority": "Then", "why": "Regen for the damage that still gets through." }
+    ],
+    "tradeoff": "Damage reduction is not immunity. Blizzard is a late offer, so the early route is Water Pulse, then Ice Beam, plus armor and regen."
+  },
+  {
+    "id": "oddish-grass",
+    "partner": "oddish",
+    "shownAs": 43,
+    "title": "Oddish: drain, then Dancing Garden",
+    "kicker": "Solo Survival · recovery",
+    "record": "Oddish’s tests were steadier when Mega Drain stayed on the bar. It steals life and can root. The passive already adds speed and regen, with a larger speed and damage bonus in sun, and the signature is the two petal attacks.",
+    "slots": [
+      {
+        "label": "Keep",
+        "attack": "mega-drain",
+        "detail": "The level-1 attack. It steals life on impact and can root. Petal Blizzard and Petal Dance are the fusion ingredients."
+      },
+      {
+        "label": "Fuse at level 8",
+        "attacks": ["petal-blizzard", "petal-dance"],
+        "result": "fu-43",
+        "detail": "Oddish’s signature, a special attack. Petal Blizzard can appear from level 4. Petal Dance is a level-7 kit offer."
+      }
+    ],
+    "vitamins": [
+      { "slug": "calcium", "why": "Special damage. Dancing Garden is a special attack." },
+      { "slug": "super-potion", "why": "HP regen when Mega Drain is not hitting." },
+      { "slug": "carbos", "why": "Movement speed, in the same direction as the passive’s speed." }
+    ],
+    "items": [
+      { "slug": "miracle-seed", "priority": "Take first", "why": "Grass-type damage for Mega Drain and the signature." },
+      { "slug": "leftovers", "priority": "Then", "why": "Regen beside the passive’s own regen." },
+      { "slug": "shell-bell", "priority": "Later", "why": "More healing from damage after the fusion is out." }
+    ],
+    "tradeoff": "The larger speed and damage bonuses need sun. The pollen cloud is local, so the route still has to work when that weather is down."
+  }
+]

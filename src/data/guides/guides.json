@@ -1,0 +1,500 @@
+[
+  {
+    "slug": "beginners-guide",
+    "title": "Starter Choices & First-Run Survival",
+    "category": "Beginner guide",
+    "summary": "Compare the three starters, learn movement and level-up choices, and decide when to work toward a fusion.",
+    "icon": "compass",
+    "minutes": 6,
+    "isDetails": true,
+    "sections": [
+      {
+        "title": "Set up your first run",
+        "text": "The first useful goal is to reach a point where you can tell why you died. A death while boxed in, a boss you cannot damage, and a run lost while chasing a pickup are three different problems. They should lead to three different changes.",
+        "paragraphs": [
+          "Open the original game, choose a Guest session if you are trying it out, and start with one of the three offered partners. This site does not share a save with the game. Before investing a long session, inspect the game’s account and save options so you know where your progress lives.",
+          "Keep the region, difficulty and partner the same for a few attempts. Changing all three makes it hard to learn anything from a better time. In the opening, pay attention to where enemies arrive, how your first attack reaches them, and which route remains open when a group closes in."
+        ],
+        "steps": [],
+        "image": "",
+        "caption": "The original starter selection. Choose one of these three first; the other two can join your League after completing two runs.",
+        "portraits": [],
+        "columns": [],
+        "rows": [],
+        "callout": ""
+      },
+      {
+        "title": "Choose between Bulbasaur, Squirtle and Charmander",
+        "text": "Bulbasaur, Squirtle and Charmander teach different habits. You do not need to reroll your account to find a perfect start. Pick the one whose passive helps with the problem you are actually having.",
+        "paragraphs": [
+          "Bulbasaur is a sensible first choice when repeated small hits are draining your run. Synthesis adds regeneration and healing, and Grass hits provide small, capped healing. That rewards keeping attacks connected while you create space. It does not make standing inside a crowd safe.",
+          "Squirtle gives armor and shield immediately. That is useful when learning how much room a group needs and how far a projectile travels. Charmander’s Sea of Flames increases damage below 40% HP, with a separate Fire bonus. Treat that low-health bonus as help in a bad situation; deliberately sitting at low HP is a rough way to learn an unfamiliar arena."
+        ],
+        "steps": [],
+        "image": "",
+        "caption": "",
+        "portraits": [
+          1,
+          7,
+          4
+        ],
+        "columns": [
+          "Partner",
+          "Unmodified run HP",
+          "Passive to build around"
+        ],
+        "rows": [
+          [
+            "Bulbasaur",
+            "108",
+            "Synthesis: +1.5 regen and +25% healing. Your Grass attacks heal you a little (0.4% of HP per hit, up to 5 times per second)."
+          ],
+          [
+            "Squirtle",
+            "108",
+            "Torrent Shell: +15 armor and +20 shield. Below 40% HP, +40% damage."
+          ],
+          [
+            "Charmander",
+            "104",
+            "Sea of Flames: Below 40% HP, +40% damage. +10% Fire damage."
+          ]
+        ],
+        "callout": "Species HP and run HP are different. These run baselines exclude passives, Lab and upgrades."
+      },
+      {
+        "title": "Collect experience without getting surrounded",
+        "text": "Use the default controls deliberately: WASD moves, the mouse adjusts the camera, Space jumps, and Shift slides. Check the current controls menu if your bindings differ. Press Esc somewhere safe to inspect the pause menu before an unfamiliar decision.",
+        "paragraphs": [
+          "Make a short loop around the outer edge of a group instead of reversing into the enemies you just passed. Look beyond the nearest pickup. A pocket of experience can be collected on the next circuit; a closed exit can end the run now. The useful question is whether you still have somewhere to go after taking it.",
+          "When you take repeated contact damage, spend the next attempt watching your route rather than watching damage numbers. If the route is open but projectiles keep landing, work on camera direction and lateral movement. If the same patch of ground is causing trouble, identify that hazard instead of assuming another armor level will solve it."
+        ],
+        "steps": [],
+        "image": "",
+        "caption": "",
+        "portraits": [],
+        "columns": [],
+        "rows": [],
+        "callout": ""
+      },
+      {
+        "title": "Choose between moves, move levels and vitamins",
+        "text": "A new move takes a slot. A level in a move you already own improves that move. A vitamin changes stats and takes a vitamin slot. These are separate resources, so an attractive new attack can still be the wrong choice when it blocks a planned slot.",
+        "paragraphs": [
+          "At each offer, ask what the run lacks. If enemies survive long enough to surround you, improving an attack that already connects may help more than adding another underleveled one. If you kill safely but lose health to occasional hits, a defensive or recovery choice can protect the damage you already have.",
+          "Read the actual damage class rather than guessing from the element. A Fire-looking kit is not permission to take every special-damage offer, and a physical opening does not mean every later move is physical. The Attacks list shows the damage class, shape and level growth used in PokeBonk."
+        ],
+        "steps": [
+          "Identify whether the offer adds a move, raises a level or modifies a stat.",
+          "Check the slot it needs and the damage class it supports.",
+          "Choose one reason to take it. Do not change the entire build for one attractive card."
+        ],
+        "image": "",
+        "caption": "",
+        "portraits": [],
+        "columns": [],
+        "rows": [],
+        "callout": ""
+      },
+      {
+        "title": "When to start upgrading fusion ingredients",
+        "text": "Bill’s Machine can combine two eligible moves at level 8 or above and free a move slot. It is tempting to plan every first run around a named result, but acquiring the ingredients is only half the job: both need enough upgrades, and you need to survive until the machine is useful.",
+        "paragraphs": [
+          "Learn what each ingredient does before reserving its slot for a fusion. Attacks includes all 106 fusion outcomes: 79 signature recipes, eight reactions, 18 same-type results and MissingNo. Open the intended result to check its ingredients and learners, then decide whether those ingredients can carry the current run.",
+          "A name alone is not enough to choose a pair. Signature recipes take priority over reactions and same-type results, so check the intended outcome before spending several upgrades. Confirm the machine preview in the run, especially after a patch changes attacks or recipes.",
+          "TM Case raises normal moves from level 8 to level 10 and lets a fusion grow from ★5 to ★6. You still only need level 8 on each ingredient to fuse. Do not hold back a useful fusion while waiting for level 10, and do not make finding this Legendary item a condition for a successful first run."
+        ],
+        "steps": [],
+        "image": "/images/home/game/league.webp",
+        "caption": "The League interface shows the kit, passive and progression. Check these before committing to a recipe.",
+        "portraits": [],
+        "columns": [],
+        "rows": [],
+        "callout": ""
+      },
+      {
+        "title": "Review why your run ended",
+        "text": "After a run, make one short note: what stopped you, what your main damage source was, and what you will change. “Need a stronger build” is too broad. “Had no room to move after chasing experience” gives you something to practice immediately.",
+        "paragraphs": [
+          "If you reached the same wall twice, inspect the Lab and locked League partners. An unlock challenge gives the next run a purpose even when a clear is still out of reach. Spend Stardust against the problem you observed; there is no need to buy the first affordable button just to leave with a purchase.",
+          "KOs, Survival and Time attack reward different things. The Global KO board adds regional bests, so playing another region can matter more than repeatedly improving one. Survival rewards time. Time attack compares completed regions before total time. Choose the mode after deciding what you want the next run to accomplish."
+        ],
+        "steps": [],
+        "image": "",
+        "caption": "",
+        "portraits": [],
+        "columns": [],
+        "rows": [],
+        "callout": "One partner, one setting, one build change, one note after each run. Try a new partner when you have a specific reason to want its passive."
+      },
+      {
+        "title": "Favorites, Build Plan and guardian portals",
+        "text": "A Favorite is a selection shortcut, not a stat bonus. A Mastery Look is a cosmetic challenge reward. Most of its challenges also count in co-op; challenges that limit the number of hits you may take still require solo play. Pick your partner for its passive and opening kit, then choose a cosmetic independently.",
+        "paragraphs": [
+          "The in-game Build Plan is useful once you have a specific pair in mind. Mark the attacks you want and watch for the planned-choice labels. Marking an attack or item does not unlock it, reserve an offer or add a move slot. If an item is locked or archived, fix that in the menu before expecting it in your next attempt.",
+          "After beating a guardian, the arrow and minimap guide you to its Great Ball and then the portal. In Lavender Tower’s Beyond, Bill’s Machine appears every three floors. If you are following an older walkthrough, check the current patch before assuming a missing machine or a changed menu means the run is broken."
+        ],
+        "steps": [],
+        "image": "",
+        "caption": "",
+        "portraits": [],
+        "columns": [],
+        "rows": [],
+        "callout": ""
+      }
+    ],
+    "related": [
+      "endless-mode-guide",
+      "coop-mode-guide"
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "seo": {
+      "title": "Starter & Survival Guide - PokeBonk Beginner Tips",
+      "description": "Choose a PokeBonk starter, survive the opening and make useful level-up choices. Learn movement, fusion basics and how to review what ended your last run.",
+      "keywords": [
+        "PokeBonk",
+        "PokeBonk beginner guide"
+      ]
+    }
+  },
+  {
+    "slug": "endless-mode-guide",
+    "title": "PokéBonk Survival: Builds, Long Runs & Mewtwo",
+    "category": "PokéBonk Survival",
+    "summary": "Plan recovery, attack coverage and level-eight fusions for Survival, then review long-run risks and regional records.",
+    "icon": "clock",
+    "minutes": 6,
+    "isDetails": true,
+    "sections": [
+      {
+        "title": "Survival is about keeping a build useful after the opening",
+        "text": "Survival is the game’s endless mode: open maps, continuing hordes and a run measured by how long you can stay alive. A comfortable first ten minutes is useful, but it is not evidence that the same damage and recovery will carry a long attempt. Treat the opening as a chance to assemble an engine, rather than the whole test.",
+        "paragraphs": [
+          "The menu calls this mode Survival. Lavender Tower’s Floors of the Beyond are a separate event progression, not the same leaderboard. Check the mode before committing Bag supplies or setting an achievement target. If you want a specific reward, read its actual condition; a Classic clear, a Survival duration and a Tower floor are different results."
+        ],
+        "steps": [],
+        "image": "",
+        "caption": "",
+        "portraits": [],
+        "columns": [],
+        "rows": [],
+        "callout": "Survival and the Tower’s Floors of the Beyond are separate modes."
+      },
+      {
+        "title": "Choose recovery you can keep triggering",
+        "text": "Bulbasaur is a useful starting point when small hits wear you down: its Grass-hit recovery rewards attacks that continue connecting while you move. That makes attack coverage part of your defense. If the crowd blocks your escape, however, a healing passive does not turn the middle of that crowd into a safe place.",
+        "paragraphs": [
+          "Squirtle provides armor and shield, which makes early mistakes less punishing. Chansey is worth comparing when recovery is your limiting factor. These are recommendations for learning and consistency, not a claim that any one partner owns the longest-run record. A kit whose attack pattern you can aim and sustain may serve you better than a higher score in an opening-focused tier model.",
+          "Keep the same map, difficulty and partner while evaluating a change. If you change all three and last longer, you cannot tell whether the new item helped or the opening simply suited that partner. Use the pause panel to inspect the build you actually have, including the level-up modifiers on each move."
+        ],
+        "steps": [],
+        "image": "",
+        "caption": "",
+        "portraits": [
+          1,
+          7,
+          113
+        ],
+        "columns": [],
+        "rows": [],
+        "callout": ""
+      },
+      {
+        "title": "Build damage and space at the same time",
+        "text": "A long run needs more than one attractive damage number. Ask whether your attacks reach the enemies that close your exits, whether they keep connecting while you move, and whether you can finish tougher targets before the next crowd removes your room. An attack that covers your escape route can be more useful than another underleveled attack with a large tooltip.",
+        "paragraphs": [
+          "Match vitamins to the damage class listed for the move. An elemental theme does not guarantee that every attack in the kit uses the same class. In the current pause panel, inspect the combined level-up bonuses instead of comparing only level-one definitions. If coverage is already comfortable but tough enemies survive, invest in the attack doing the work before filling every empty slot."
+        ],
+        "steps": [],
+        "image": "",
+        "caption": "",
+        "portraits": [],
+        "columns": [],
+        "rows": [],
+        "callout": ""
+      },
+      {
+        "title": "Plan a fusion without abandoning the current run",
+        "text": "Both eligible ingredients need level 8 at Bill’s Machine. That is a real investment in offers and slots. Pick a pair whose ingredients help before they fuse, and have a fallback if the second ingredient never arrives. Holding a weak move for a planned result can cost more health than the eventual fusion returns.",
+        "paragraphs": [
+          "For Bulbasaur, compare Razor Leaf plus Solar Beam for Flower Beam. For Squirtle, Rapid Spin plus Hydro Pump gives Hydro Spiral. Check the fusion entries in Attacks for the exact pair and the resulting pattern. Signature pairs take priority over reactions and same-type outcomes; weather, buff and existing fusion patterns are not eligible ingredients.",
+          "Fusion stars and ordinary move levels use different limits. Fusion Star Shard adds one to the fusion-star cap, while the corresponding move and vitamin cap items have their own effects. Read the item and your current panel rather than assuming that every cap bonus raises everything by the same amount."
+        ],
+        "steps": [],
+        "image": "",
+        "caption": "",
+        "portraits": [
+          1,
+          7
+        ],
+        "columns": [
+          "Partner",
+          "Signature fusion",
+          "Ingredients at Lv. 8"
+        ],
+        "rows": [
+          [
+            "Bulbasaur",
+            "Flower Beam",
+            "Razor Leaf + Solar Beam"
+          ],
+          [
+            "Squirtle",
+            "Hydro Spiral",
+            "Rapid Spin + Hydro Pump"
+          ]
+        ],
+        "callout": ""
+      },
+      {
+        "title": "Prepare for the 45-minute Mewtwo encounter",
+        "text": "The current game includes a Survival achievement for defeating Mewtwo at minute 45. Use that as a planning checkpoint, not an invitation to wait motionless until the clock changes. Before a major encounter, collect safely, identify the route you can keep moving through and check whether your main attacks still deal meaningful damage to durable targets.",
+        "paragraphs": [
+          "During the fight, judge danger from the arena and telegraphs rather than the boss health bar alone. Losing a safe route to chase one pickup is a poor exchange when a long attempt is at stake. If damage stalls, note the attack classes, coverage and upgrade choices that got you there; repeating the same purchases with a different cosmetic does not answer that problem."
+        ],
+        "steps": [],
+        "image": "",
+        "caption": "",
+        "portraits": [],
+        "columns": [],
+        "rows": [],
+        "callout": ""
+      },
+      {
+        "title": "Use migration and side activities when they improve your position",
+        "text": "Published Survival updates add migration portals, comets, regenerating altars, Ditto and Hypno. Their appearance is an opportunity to evaluate, not a requirement to cross a dangerous crowd. Keep a way back out of the interaction and decide what the run needs before spending time or resources on it.",
+        "paragraphs": [
+          "A portal can change the situation you are playing in. Read its prompt and check your health and nearby enemies before committing. The game also distinguishes ordinary progression, seasonal challenges and cosmetic targets. For Mastery Looks, inspect the specific mode and objective. Most challenges can count in co-op now, but hit-limit challenges still require a solo run; a long Survival result is not automatically a Classic win."
+        ],
+        "steps": [],
+        "image": "",
+        "caption": "",
+        "portraits": [],
+        "columns": [],
+        "rows": [],
+        "callout": ""
+      },
+      {
+        "title": "Keep a long session stable",
+        "text": "A long attempt also tests your browser. The official notes include performance work for Survival past 100 minutes, but that does not guarantee identical performance on every device. Choose settings that keep movement readable, close unrelated heavy tabs and notice sustained frame drops before they begin causing contact damage.",
+        "paragraphs": [
+          "Before a long attempt, check the game’s account and save options. If performance becomes uneven, note when it starts and whether reducing effects restores readable movement. Record the mode, map, difficulty and game version alongside the attacks and items that worked; that makes the next attempt easier to compare without blaming every failure on the partner."
+        ],
+        "steps": [],
+        "image": "",
+        "caption": "",
+        "portraits": [],
+        "columns": [],
+        "rows": [],
+        "callout": ""
+      },
+      {
+        "title": "Read the Survival ranking correctly",
+        "text": "The regional Survival record is your best duration on that map, with KOs breaking a tie. The Global board adds regional bests. Improving a weaker regional record can therefore matter more to your Global total than adding a few seconds to a region you have already pushed hard.",
+        "paragraphs": [
+          "Our leaderboard keeps its capture date visible because rankings change. The personal tier board serves a different purpose again: it lets you record your own opinion of all 151 species. The editorial kit comparison emphasizes Classic openings and should be a shortlist for Survival experiments, not proof of late-run scaling."
+        ],
+        "steps": [],
+        "image": "",
+        "caption": "",
+        "portraits": [],
+        "columns": [],
+        "rows": [],
+        "callout": ""
+      },
+      {
+        "title": "Review one limit before the next attempt",
+        "text": "After a run, write down the first problem you could not recover from: no escape route, insufficient damage on durable enemies, recovery that stopped triggering, or a device that could not keep up. Then choose one change. That might be a different attack, a defensive upgrade, a more useful fusion pair or lower graphics settings.",
+        "paragraphs": [
+          "Check Lab costs before spending the Stardust you earned. Extra capacity helps only if you have useful offers to put in it; another damage level helps only if the attack can reach its target. Keep the next goal specific enough that you can tell whether the purchase helped when you reach the same point again."
+        ],
+        "steps": [],
+        "image": "",
+        "caption": "",
+        "portraits": [],
+        "columns": [],
+        "rows": [],
+        "callout": ""
+      }
+    ],
+    "related": [
+      "beginners-guide",
+      "coop-mode-guide"
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "seo": {
+      "title": "PokéBonk Survival - Builds, Long Runs & Mewtwo",
+      "description": "Plan a PokéBonk Survival run with recovery, attack coverage and move fusions. Prepare for Mewtwo, compare regional records and review long-run risks.",
+      "keywords": [
+        "PokeBonk",
+        "PokeBonk Survival guide"
+      ]
+    }
+  },
+  {
+    "slug": "coop-mode-guide",
+    "title": "PokéBonk Co-op: Rooms, Builds, Revives & Portals",
+    "category": "PokéBonk Co-op",
+    "summary": "Set up a shared run, choose complementary kits, revive teammates and avoid outdated boss advice.",
+    "icon": "controller",
+    "minutes": 6,
+    "isDetails": true,
+    "sections": [
+      {
+        "title": "Check access and agree on the run before readying up",
+        "text": "Co-op is a team run, not a solo attempt with extra spectators. Start in the game’s Co-op menu and check whether your account currently has access. The client supports invite-only and paused availability messages. If either appears, this guide cannot unlock the mode or override the server; follow the availability shown in the game.",
+        "paragraphs": [
+          "Choose what the group is trying to do before anyone spends supplies: a first clear, a better regional time, or learning a particular encounter. A group split between exploring and rushing a record will make conflicting decisions even when every individual build is sensible. Keep the destination and difficulty visible while everyone confirms the plan."
+        ],
+        "steps": [],
+        "image": "",
+        "caption": "",
+        "portraits": [],
+        "columns": [],
+        "rows": [],
+        "callout": "Availability is controlled by the game. Co-op does not pause while you open menus."
+      },
+      {
+        "title": "Set the room to a map everyone has unlocked",
+        "text": "The current room only permits maps and difficulties unlocked by the whole team, and identifies a player who does not have the selected destination. Resolve that before starting instead of assuming the host’s progress applies to everyone. The room also warns about version differences; a player on an older tab should update the game before another connection attempt.",
+        "paragraphs": [
+          "Use the room link or the in-game invitation controls when your group is ready. Change your Pokémon through your own room card. Choose your Bag items in the lobby below the difficulty before readying up; they are consumed only if the match starts. Agree on whether these supplies serve the shared goal instead of spending them by habit. Check the final selection, map and difficulty once more, especially after someone leaves or joins. The Start flow waits for peer connections; repeated ready clicks do not repair a blocked connection."
+        ],
+        "steps": [],
+        "image": "",
+        "caption": "",
+        "portraits": [],
+        "columns": [],
+        "rows": [],
+        "callout": ""
+      },
+      {
+        "title": "Pick complementary jobs without inventing an MMO party",
+        "text": "You do not need a rigid tank, healer and damage lineup to learn a map. Start with the failure you expect: enemies closing the route, a boss taking too long, or a teammate repeatedly losing health. Choose partners and attacks that address those problems, then check whether their useful effects actually benefit the team or only their owner.",
+        "paragraphs": [
+          "Squirtle’s protection makes its own player more forgiving to pilot. Bulbasaur’s healing depends on its own attacks connecting. Neither passive is a reason to promise the group a universal taunt or a party-wide heal. Keep the actual move descriptions open when evaluating a support plan; a familiar Pokémon role from another game is not evidence of a mechanic here.",
+          "For a first clear, two players who stay alive and cover a route can be more useful than a fragile burst plan copied without its required upgrades. Once the group is consistent, compare what each player contributed and change one partner or attack choice at a time. The solo opening tier model is not a measured team-composition ranking."
+        ],
+        "steps": [],
+        "image": "",
+        "caption": "",
+        "portraits": [
+          7,
+          1,
+          66
+        ],
+        "columns": [],
+        "rows": [],
+        "callout": ""
+      },
+      {
+        "title": "Keep a shared escape route",
+        "text": "Enemies chase nearby trainers, so movement changes which player is under pressure. Avoid dragging a crowd straight across the teammate who is already making room for an attack. Move around the edge of the danger and look at where the other players will need to go next, not only at your own nearest pickup.",
+        "paragraphs": [
+          "Coordinate pickups and interactions when the area is crowded. Being in the same room does not remove the need to read telegraphs. If one player is taking repeated damage, ask whether the route, camera direction or chosen attack pattern is causing it before concluding that the group needs a completely different roster."
+        ],
+        "steps": [],
+        "image": "",
+        "caption": "",
+        "portraits": [],
+        "columns": [],
+        "rows": [],
+        "callout": ""
+      },
+      {
+        "title": "Menus do not make the whole team safe",
+        "text": "Co-op does not pause when you open the pause menu: you remain exposed. The choosing player receives protection during an upgrade selection, but that player’s damage stops while choosing. A long decision therefore changes the pressure the rest of the team is handling. Read likely choices in advance and make the decision deliberately.",
+        "paragraphs": [
+          "Keep a workable attack core rather than starting several underleveled projects at once. Bill’s Machine still requires eligible level-eight ingredients, so discuss a planned fusion before relying on it to solve the next boss. The correct question is whether the ingredients help your current team survive long enough to finish that plan."
+        ],
+        "steps": [],
+        "image": "",
+        "caption": "",
+        "portraits": [],
+        "columns": [],
+        "rows": [],
+        "callout": ""
+      },
+      {
+        "title": "Revive by making room, then holding E",
+        "text": "Go beside a downed teammate and hold E to revive. The official notes give a one-minute revive window. Identify the safe approach before running directly through the enemies that downed them. If a second player falls while attempting a rescue, the team has traded one recoverable problem for two.",
+        "paragraphs": [
+          "One surviving player can draw pressure away while another approaches the revive. That is a movement plan, not a guaranteed aggro-lock mechanic. Watch the actual enemy positions and be ready to adjust. Hold the interaction rather than repeatedly tapping it, and look for its progress before assuming a lagging response means you should abandon the rescue."
+        ],
+        "steps": [
+          "Check the downed teammate’s position and the nearby crowd.",
+          "Create a safe approach; avoid bringing a second crowd to the rescue.",
+          "Stand beside the teammate and hold E while watching progress.",
+          "Regroup before returning to pickups or the next portal."
+        ],
+        "image": "",
+        "caption": "",
+        "portraits": [],
+        "columns": [],
+        "rows": [],
+        "callout": ""
+      },
+      {
+        "title": "Gather at the portal and ignore obsolete boss advice",
+        "text": "To move to the next zone, the team needs to be in the portal. It appears in the same place for everyone. If progression seems stuck, check who is still outside rather than searching for a different portal or immediately leaving the room. A player still collecting across the map can hold up the transition.",
+        "paragraphs": [
+          "Version 0.8.46 removed the prior seal barriers, Wrath, shifting team weaknesses and linked elite pairs. Bosses and elites returned to fighting like their solo counterparts. Older videos can therefore describe mechanics that your current room no longer has. Judge the encounter in front of you and compare the patch version before following a specific old positioning script."
+        ],
+        "steps": [],
+        "image": "",
+        "caption": "",
+        "portraits": [],
+        "columns": [],
+        "rows": [],
+        "callout": ""
+      },
+      {
+        "title": "Handle connection problems through the room",
+        "text": "Co-op needs browser peer-to-peer connections through WebRTC. If the game reports that these connections are blocked, use its troubleshooting message and compare a supported browser. Do not enter credentials into a site claiming it can unlock a room, and do not disable unrelated security protections just to test an invitation.",
+        "paragraphs": [
+          "The official notes describe rejoining after a dropped connection and returning to the same room when a run ends. That is useful recovery behavior, not a promise that every interruption preserves every result. After reconnecting, confirm the shared map and team state before acting on what the screen showed before the disconnect."
+        ],
+        "steps": [],
+        "image": "",
+        "caption": "",
+        "portraits": [],
+        "columns": [],
+        "rows": [],
+        "callout": ""
+      },
+      {
+        "title": "Choose a cosmetic goal the whole run can support",
+        "text": "The co-op leaderboard requires every team member to have an account. The game states that a co-op run also contributes to each player’s individual leaderboard, subject to its validity rules. A private planning board on this site cannot submit a team record or verify whether the server accepted a particular attempt.",
+        "paragraphs": [
+          "Most Mastery Look challenges now count in co-op. A win means the team wins, but the other conditions still check your own actions: a teammate’s attack choice does not satisfy your move requirement. Challenges that allow at most a specified number of hits remain solo-only, so read the objective before inviting the group. These rules apply to completed runs under the updated system; do not expect an old attempt to be credited again. The shrine legendary’s shiny roll is also shared by the team: if it is shiny for one player, it is shiny for everyone. Finish the session with a specific next goal, whether that is safer revives, a cleaner portal transition or meeting your own move condition."
+        ],
+        "steps": [],
+        "image": "",
+        "caption": "",
+        "portraits": [],
+        "columns": [],
+        "rows": [],
+        "callout": ""
+      }
+    ],
+    "related": [
+      "beginners-guide",
+      "endless-mode-guide"
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "seo": {
+      "title": "PokéBonk Co-op - Rooms, Builds, Revives & Portals",
+      "description": "Learn PokeBonk co-op room setup, Bag items, team builds, reviving with E and portal transitions. Check which Mastery Look goals count in a shared run.",
+      "keywords": [
+        "PokeBonk",
+        "PokeBonk co-op guide"
+      ]
+    }
+  }
+]

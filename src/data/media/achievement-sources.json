@@ -1,0 +1,2372 @@
+[
+  {
+    "file": "/images/achievements/looks/lk150_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-galaxy.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk150_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk150_2",
+    "sourceSha256": "1221e02eeec153b99d952d50b2d7d223927ccbd20c87b372ec9faeef30286be7",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk147_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-metal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk147_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk147_2",
+    "sourceSha256": "03a597810f3cb06879dfe0753e8301506f85ad0e46f7b3387e186cc7c23aa207",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk147_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-aurora.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk147_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk147_1",
+    "sourceSha256": "e842e42811d0141f4aa8d9d994bae72096ae83e0da5a6bfe5d454d89780c4706",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk151_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-galaxy.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk151_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk151_2",
+    "sourceSha256": "ad6dd090fd4706c4221dfd302c249f54d49091e9e18d72fa20f65075dbc17d11",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk150_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-shadow.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk150_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk150_1",
+    "sourceSha256": "2790802ee277e7cdaac9f9bce081ff18ea7ccdff1290a3407613d13d196a7212",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk151_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-holo.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk151_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk151_1",
+    "sourceSha256": "366f722df97f58d07f690700341333fe0847b64612751110d952f9865709ec5d",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk146_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-magma.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk146_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk146_1",
+    "sourceSha256": "19a22a1a6c261fc1468811f357585680621bad6c504f97263132e56491a4c4e8",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk145_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-shadow.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk145_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk145_2",
+    "sourceSha256": "f5e7a157a2f9b2d43d7df772e6a978762f04381724dc786ce4edec02664cd465",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk145_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-neon.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk145_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk145_1",
+    "sourceSha256": "f4b0196f120769d52e205df8efa2d6103c26ef5f01cc71f0b81111bf8275b07e",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk144_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-aurora.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk144_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk144_2",
+    "sourceSha256": "ea51d5473dc6d2187563a7d848a9ff678050b0c22ea6d8c2e3f976bd1084b7c9",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk144_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-crystal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk144_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk144_1",
+    "sourceSha256": "117dc3a34408978b59b241d815f1a53b10b27be215581ac72f714f9b1c3e96ab",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk143_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-galaxy.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk143_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk143_2",
+    "sourceSha256": "26b28f56a54bcfe4ff40baf0a79d0b7019394acda810ec5435b344891de2b195",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk142_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-magma.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk142_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk142_2",
+    "sourceSha256": "4eb8420c2ad5e4ccb0aa569500b32245187cb56ed4c9a632e0641ca9dd7d04a5",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk143_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-gb.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk143_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk143_1",
+    "sourceSha256": "d9b25d5651b04a990bb5857dbb7720d446346978435d815aa7df35b6fe45dc22",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk142_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-stone.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk142_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk142_1",
+    "sourceSha256": "eac11e36da27bb6ef35d3600d6bdea27f965d98640334eccb4cbc26543eb468b",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk140_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-shadow.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk140_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk140_2",
+    "sourceSha256": "961c5f8916db0d6b00d74287534d473270fa1573a75cca74c9cb17f06c0aa2ee",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk146_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-galaxy.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk146_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk146_2",
+    "sourceSha256": "dace01c4b4962c1880ab140e50e63c9f94a9ae409e447bb2f07b15ae0749e1c2",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk140_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-stone.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk140_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk140_1",
+    "sourceSha256": "64e60edfabe3a4ddae41886d3e929db1123677782825795c5212daa93527445b",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk138_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-stone.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk138_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk138_1",
+    "sourceSha256": "d16477f809c02bfe403307661fa5df6922f99e2c524f8da000f9fc1a06b52cc1",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk138_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-metal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk138_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk138_2",
+    "sourceSha256": "54d41f34703f4ec41f7ebfeaa0590dee9174c64bc48755c7dd89238bc1d9fed6",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk137_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-holo.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk137_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk137_2",
+    "sourceSha256": "7859775a635cadab91ebd0e1ccf7fde3fd59b9aacb1b6aa42b880679c3029357",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk137_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-gb.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk137_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk137_1",
+    "sourceSha256": "938c92c9f673716cc3de8aa14a29e3bcd4cb5a09e35fcc70b4cedc799411417a",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk133_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-galaxy.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk133_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk133_2",
+    "sourceSha256": "a5b59128096d996b3bb16f997e5c599f305ace0258b8de9eaddf784a49955377",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk133_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-holo.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk133_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk133_1",
+    "sourceSha256": "bb9935be2faed2c6d7a19d1b47db34a43b3369e018bb22045520a9362baa423c",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk132_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-gb.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk132_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk132_1",
+    "sourceSha256": "bf676e0c7474a9df71a41d24fca8678f2ef7e71837f06df27700a3f0425ed3f2",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk132_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-holo.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk132_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk132_2",
+    "sourceSha256": "55162f8e0679695b73f1747d5efe958f457e1cd1248109c6dca1060de5498a16",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk131_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-aurora.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk131_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk131_2",
+    "sourceSha256": "a122faed214754345687385059ee2ee4a9a15a2142d052fb6e45f5f8b44e3724",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk131_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-crystal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk131_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk131_1",
+    "sourceSha256": "62b33cf59a267168748715fb84eb91dbf6e33d2c2040c8ecf05b163191756639",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk129_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-shadow.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk129_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk129_2",
+    "sourceSha256": "949d8ae5caede452401a30e6d34340d155b928bcc27b4103570445c9f9c9a746",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk129_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-metal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk129_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk129_1",
+    "sourceSha256": "d3ef14ff8f101010d44a5209496c9fb35a64172e013ff5642b13854676748664",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk128_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-aurora.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk128_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk128_2",
+    "sourceSha256": "8147b3a44efce020d123db7d7b39349a10110c065e05b4e2b927c6f1505b4201",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk128_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-magma.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk128_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk128_1",
+    "sourceSha256": "cd97e1e9c8600836057d4be4edc7548d1aa18177a816980e3f8e63cb77864847",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk127_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-shadow.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk127_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk127_2",
+    "sourceSha256": "ceebf99b211a1c98987ed7a060f3a5bfb19ce3126172d0a15502f90dca2b36b1",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk127_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-metal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk127_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk127_1",
+    "sourceSha256": "c264d948ad54b52ac1405014c3e31462b09089343dab0b925a06a26437bec3d0",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk126_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-flame.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk126_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk126_2",
+    "sourceSha256": "ce419a30e753efd7c8f757be30f9ab9db438772f48e89701316023996fef9db9",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk126_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-magma.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk126_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk126_1",
+    "sourceSha256": "c6fdc7e3b8b7b7f2a4eb131547fbe862dfc20f8e7dcb5d7672ce9481d55df7b7",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk125_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-holo.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk125_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk125_2",
+    "sourceSha256": "59fa870a909806232b38450d8903f48e883696fb6b1e92d7e447df9aa5aad1cf",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk125_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-neon.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk125_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk125_1",
+    "sourceSha256": "bef520db2a1836572729107a2cf889b4390d325ebd6c36baeec75500c1550586",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk124_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-galaxy.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk124_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk124_2",
+    "sourceSha256": "f75dbabf5242bee141b4080228af9bfa4290586457ac3d97a466c1655490c4cc",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk124_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-crystal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk124_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk124_1",
+    "sourceSha256": "5d32799e1654f98c5ee8ecb2f77bb22ac2c756f97853b49b3da6277bc2d1502c",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk123_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-ink.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk123_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk123_2",
+    "sourceSha256": "1aaa77a3067d2ea37fe7121d25a90524321971d51677aef20b47901e70dfb9f2",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk123_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-metal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk123_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk123_1",
+    "sourceSha256": "a6bc037eb27f8702954a35afee4a16a47a84795b0213fad3d2b44a74ac3a26e5",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk122_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-crystal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk122_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk122_2",
+    "sourceSha256": "74e5142f26395458bb9f765564472778ee87c4de11531d926876af5616aacb26",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk122_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-ink.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk122_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk122_1",
+    "sourceSha256": "fc8330ca9fabf1e18c78d2f03bd31e1bdc874963e015cf7399b8899df780f15b",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk120_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-holo.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk120_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk120_2",
+    "sourceSha256": "de13cffac055b80e1b183719bae84a6eee8511d4b1e84065cc6a090e24f4d358",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk120_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-galaxy.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk120_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk120_1",
+    "sourceSha256": "96f21f95b7dcecec52e9ee9b6bed27c5b076c1686617b14a262902a168374588",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk118_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-holo.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk118_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk118_2",
+    "sourceSha256": "5a4add0a53db18888780f6acf552002a05ba1f78a0e00af47efd7e202feec163",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk118_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-metal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk118_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk118_1",
+    "sourceSha256": "23010a6235887ad63f51dcfb03976d985023fc8de988c8cefd7f1085c477c97d",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk116_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-aurora.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk116_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk116_2",
+    "sourceSha256": "248bf731af5ddb5f1f78af059044a34f19d0d1f84ae44797c5775756ef04d52c",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk116_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-ink.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk116_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk116_1",
+    "sourceSha256": "b4caca2dcc678d1a92878e59f5265b8f789cacd741c7e9ea1190c7c139cd756d",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk115_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-metal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk115_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk115_1",
+    "sourceSha256": "17241076083df00dcd3bac7cbc39956dc440246fbb239ee850029f615cae5683",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk115_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-magma.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk115_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk115_2",
+    "sourceSha256": "5c21d170f6750e950b4d6a8fe576e951579ca2392b99f80a227731d8e1e886d1",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk114_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-ink.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk114_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk114_2",
+    "sourceSha256": "a525ed73f3f8796f77e187770c4965d025072bfdb561aeb1cc13dbc2cabfd2a4",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk114_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-aurora.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk114_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk114_1",
+    "sourceSha256": "9e68f5e05d6837d6cb21d7164f056dec468dbfcc838a88093d8dd49b6078585e",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk113_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-metal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk113_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk113_1",
+    "sourceSha256": "29017a7fac37d8a0a9f81cb254bc543c730b9ccdaa3dff3548e835bfd9d253f1",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk113_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-holo.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk113_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk113_2",
+    "sourceSha256": "c5a5bc8c04ad8e52b5388a43ef75abdd3b4c6f42d61d5718e9a69c1b17d14fc9",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk111_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-stone.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk111_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk111_1",
+    "sourceSha256": "c7ff5e40f11c9e78f99a30cad2b7c1fddc5096689eabc2eacdc87b7ced62d7bd",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk111_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-magma.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk111_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk111_2",
+    "sourceSha256": "135adc4ad4107ed428872360c326fc30bd69870bdd437511618bcaeb8d7faa48",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk109_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-ink.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk109_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk109_2",
+    "sourceSha256": "d27ede96eb22eb0681308f85a6fe6b9a02aaa4345024a82d1695117aa1c0983e",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk109_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-neon.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk109_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk109_1",
+    "sourceSha256": "42c9afc989eaa400db29af3e55481efa86f0dd9c3c5ef8966d0ac6d5498e8185",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk108_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-galaxy.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk108_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk108_2",
+    "sourceSha256": "719133a38659a6d22fd77e622249fa22058aee2720d2bce0782a4e25b8f6771e",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk108_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-holo.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk108_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk108_1",
+    "sourceSha256": "7d83f027eba01cf278e4614347dfeecd458fd0238f332f94c76296dfffdcf685",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk107_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-neon.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk107_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk107_2",
+    "sourceSha256": "39a66994f50f133e5507bfdd6ea3b32837cf83f5e94b57e3875f820994b2023b",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk107_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-crystal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk107_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk107_1",
+    "sourceSha256": "70df22f8561612c19670863947436ed263d4c5027711555e444faaa7aba8edd4",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk106_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-magma.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk106_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk106_2",
+    "sourceSha256": "08b47f913cbac4d0e88090a0df713de067a6f7ac4854266d14579f82fd37adb8",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk106_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-metal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk106_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk106_1",
+    "sourceSha256": "1ab4c5e6533805cc4799a943930b4ca2a4b554487c49961353e147d2717d774f",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk104_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-flame.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk104_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk104_2",
+    "sourceSha256": "1819742156ceb4a94c0ab16af0ce4196b1a4a3c5f6724fd0794fc22513e50cbc",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk104_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-stone.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk104_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk104_1",
+    "sourceSha256": "dccacc2eed02a028714511ad1b15e6ae9e4fdcc4ebbf47759934b1c86c009e91",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk102_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-metal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk102_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk102_2",
+    "sourceSha256": "37beada2d3cb9edc9a77d6a0ce4eb7daefc8628663c263c0024d56bf6c7332be",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk102_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-aurora.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk102_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk102_1",
+    "sourceSha256": "729abb2b03a5e1823a323e7a8b6e4c57f89992a9226c1a008ef75af13945c1a5",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk100_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-magma.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk100_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk100_2",
+    "sourceSha256": "b5d74a792b8008ce6f136db7cc53c300970e96f9e4a9b349c50a9843c1386ba5",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk100_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-neon.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk100_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk100_1",
+    "sourceSha256": "9ca96de05769da2b07c087c284ef70a989ddf098cc86e0eb4a11dd0e215a4cdb",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk98_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-metal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk98_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk98_2",
+    "sourceSha256": "693445baaf50fdacbd44442f5b6c0d83c93153dfc16df12f6b55d5cbcd5e1a83",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk98_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-magma.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk98_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk98_1",
+    "sourceSha256": "11014543670de48d3f3e8f3bb9255a68404fde350ecbede6a64c6e8af8f0c5df",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk96_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-galaxy.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk96_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk96_2",
+    "sourceSha256": "9ec9b34f057dff06eb71d54c2013758fe88a4278da4d33a48b32e8a116fca80a",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk96_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-ink.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk96_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk96_1",
+    "sourceSha256": "cc5d29b30eeca05b087d3915485e4883e97a2c08b0af6181406ea7f9a65abaaa",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk95_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-metal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk95_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk95_2",
+    "sourceSha256": "77a523190e997aa14de49f16904f6496a8adb758fc89c804a41d6bd5d722c282",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk95_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-crystal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk95_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk95_1",
+    "sourceSha256": "fa1a6b8cf50afe12ab0cff4d2b530db6f53ccf6f71e26c55b0a8361334ba6146",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk92_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-shadow.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk92_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk92_2",
+    "sourceSha256": "ae98198bde757626485e4cf30197414e81ce7643e4e9b59e7ce03f8703551dc9",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk92_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-galaxy.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk92_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk92_1",
+    "sourceSha256": "e8ade93e902821e4f7381a227d1696ea6ffcb31df1d8df685b6e8219f38e5fe6",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk90_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-shadow.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk90_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk90_2",
+    "sourceSha256": "5bfc034606e7437242e36d7eba199e2160c2feb359308527ddfa7af44c470c1d",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk90_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-crystal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk90_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk90_1",
+    "sourceSha256": "ae9ef8998c36607579ea2276d09da5728d29518c5314d14fe5b0a1ac4548fb55",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk88_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-holo.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk88_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk88_2",
+    "sourceSha256": "07e92f5b765c09275a24000ad860e816e1a0ad590764c5c51aee0bddb2b46409",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk88_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-neon.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk88_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk88_1",
+    "sourceSha256": "779f28954ded45a3d68c8f609b26cf15bb5fcdb8e9af0af6124b589218cc1d13",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk86_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-aurora.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk86_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk86_2",
+    "sourceSha256": "af2c63a8f5a293058dc3e047ae715c7f9e3b76a2d0c263db7da0a95bfda9b82a",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk86_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-crystal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk86_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk86_1",
+    "sourceSha256": "b2b355e0ae60bfb6d5e192d7c305b5780bdd37fe913bced52d6eb45ab4ff674b",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk84_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-shadow.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk84_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk84_2",
+    "sourceSha256": "d2da42d49882d655644c5ea95e0c89b0fcbf2ce55a982a9b6ec101fde4ce9b1d",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk84_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-holo.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk84_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk84_1",
+    "sourceSha256": "96ccdd64689c60e75c83a7d2c9da4edc084ff7d347ad7a8a80d8cee491ccfc0a",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk83_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-metal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk83_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk83_2",
+    "sourceSha256": "8a90c64863279afe982d86de8e4c2d1305da9ddcf3fd6b62ed79a44eb0f93762",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk83_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-ink.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk83_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk83_1",
+    "sourceSha256": "eeaadca1fd7b484b80ad6192fe025c5592eca29a924d0bc5dc829f756aab2472",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk81_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-metal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk81_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk81_2",
+    "sourceSha256": "34f50d7af5b454f6a2537e945db1c49b04e495dfb36bf132503b40dc0e80354d",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk81_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-neon.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk81_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk81_1",
+    "sourceSha256": "5c72893705b6a2868df1b1aafe506b606678c8f0c42ea929b20fa03445f09471",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk79_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-galaxy.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk79_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk79_2",
+    "sourceSha256": "56ea2e24936499247fe9e3e05191374f30e34635952f573508ba8b32e7b841f4",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk79_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-stone.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk79_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk79_1",
+    "sourceSha256": "18ecb78878df6483396d2139fed9ad58dce6c1505eb624aab9623b9213d48a9a",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk77_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-flame.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk77_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk77_2",
+    "sourceSha256": "96fc301f16e7120587b70aa52df55716625ccc7c3e488482ba31c4ba9ea15a34",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk77_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-holo.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk77_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk77_1",
+    "sourceSha256": "fad5f3413f737b5a585eec61c2b72b8192298bb15a4d9f5d5e77a3bb0d7f816c",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk74_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-metal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk74_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk74_2",
+    "sourceSha256": "ce81d3d16b0ea041f7627ba8d64321e752d56f2119c5dbcefd86e9a0f10afe77",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk74_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-magma.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk74_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk74_1",
+    "sourceSha256": "01c204a04bf5b63d9fb94eaea56e191214140bbe7235523b29247c52f3995c9a",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk72_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-aurora.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk72_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk72_2",
+    "sourceSha256": "12146bb1fad34707efe11fe2881ca3b44504a266dee835097c0a35d4b58249a7",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk72_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-crystal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk72_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk72_1",
+    "sourceSha256": "75fcbc2a17fc3ba605cee22cc3c1bbbfaf5aaa4dbb0c037dfcc89e41f948e5c6",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk69_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-aurora.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk69_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk69_2",
+    "sourceSha256": "7283df8c84a03bbcfc5eddee37ded4c0f04d3e8ec0ce3833389d1f264c80c35b",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk69_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-neon.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk69_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk69_1",
+    "sourceSha256": "8e734864cb165f572f853dfeb2878acd01196beff6d86cd62d0f7c7c705b0e80",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk66_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-magma.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk66_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk66_2",
+    "sourceSha256": "3f5ca378b9247205ef7d88728a2a9d5949471805937406e33a9b7a0210c08dcb",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk66_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-metal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk66_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk66_1",
+    "sourceSha256": "69f32c7c24f337df05f99bff8a57ed8c4c9cc1102744b5b56c3c5a602058f4c2",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk63_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-galaxy.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk63_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk63_2",
+    "sourceSha256": "c4f31878096e84090d85d1736efab644e93f9944acd1f6c023a2039eaa50e6c1",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk63_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-metal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk63_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk63_1",
+    "sourceSha256": "1fedbcdb364bc01c12168cb9a82d5ffff2cb8fd9078e259618def35a48f6699b",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk60_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-aurora.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk60_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk60_2",
+    "sourceSha256": "90ede6d6ab42fd790a87a57b3cfdee4258bea49b4de341899b02c3757faa6736",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk60_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-ink.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk60_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk60_1",
+    "sourceSha256": "339803c9b5cd53e6362e34c88bb8566bffb276f915e99c677c73b8e0d5dfa430",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk58_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-metal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk58_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk58_2",
+    "sourceSha256": "846343677bdc46b4e48e432f39946219ac4aacf12b36f33d579aa4eb829e6978",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk58_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-flame.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk58_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk58_1",
+    "sourceSha256": "ff8c24cec3ff2891866156f5724e121506887828a7a34c472e9a0d01c945d052",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk56_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-shadow.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk56_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk56_2",
+    "sourceSha256": "a12fa045ae93989b04d136d1646ec13dd6ad4c164381835d3f654bf88363d5d1",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk54_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-galaxy.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk54_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk54_2",
+    "sourceSha256": "967e5a7aab7741c8b8871cacd852d23cb732faf51f833e10b522b130d06934b2",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk56_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-magma.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk56_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk56_1",
+    "sourceSha256": "3b765036086070557bbf10a078a9832f7cd8686f58b9e1ee26bcca2035b79c8f",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk54_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-neon.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk54_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk54_1",
+    "sourceSha256": "5877c379e7e1f59609155e70b3d973aeb4720ef78a7ea4c5855031fceabc6ebf",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk52_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-shadow.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk52_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk52_2",
+    "sourceSha256": "3c907950ba1673c60c5a359b10e525dedc8de84fe7907cba4a7c23f57d747bce",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk52_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-metal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk52_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk52_1",
+    "sourceSha256": "59a570823658144bbc7487dd81d5a88ea2f9ffdb0f4fd3f16fb03b98d6b3b342",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk50_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-metal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk50_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk50_2",
+    "sourceSha256": "50720dd68047ad308352139c70d1819d42d6a5564a0adeb248e7f2cb4fed8c78",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk50_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-stone.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk50_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk50_1",
+    "sourceSha256": "9600fab2c5abfc14c7026cb8c5ad2a5f7e85ebd6bdcb0931db7467dfab406abf",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk48_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-galaxy.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk48_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk48_2",
+    "sourceSha256": "c7a5ed1294d98b39e223471fb3de448e28ced860b5bd700d542466c96c42e641",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk48_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-holo.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk48_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk48_1",
+    "sourceSha256": "55d90048837f164ce93c47f4174d77541159915fa2b5132e559453df16c8e142",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk46_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-ink.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk46_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk46_2",
+    "sourceSha256": "4380450be826a1cfe511049dfc8ff9b58222f6a5c87b9a584a645afb0cf91633",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk46_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-aurora.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk46_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk46_1",
+    "sourceSha256": "c7708a440615868b5d0beb36a54292050fbe4a0cdf2a449a015c65a3f71b9876",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk43_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-holo.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk43_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk43_2",
+    "sourceSha256": "a0f236f974e2a466296ab40f7628f5941a4a09661c11f84e87d7b646ad2a84db",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk43_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-aurora.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk43_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk43_1",
+    "sourceSha256": "d09c551f203e7f0f9a14fc11f70173088fabed871594b534b3f512f792c253ea",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk41_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-galaxy.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk41_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk41_2",
+    "sourceSha256": "38399bc8546c45c41be14d51fbb3ba1e2b8d78c72f9f8c1ea097232bb18b10f4",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk41_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-shadow.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk41_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk41_1",
+    "sourceSha256": "21635aa4d78b6a2e22d79de80b3eb7d522b2ebd84b067d03b8a8c52e0ce97a5e",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk39_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-holo.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk39_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk39_2",
+    "sourceSha256": "6717d24bc3425d8769ef10921483812710c8353fff87e8cd73a4f7172e818b39",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk39_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-neon.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk39_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk39_1",
+    "sourceSha256": "ee67c045684a7cc22ebfcfdb09232e3fd2342dc4cef4bccb20354d0892911063",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk37_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-flame.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk37_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk37_2",
+    "sourceSha256": "54839261283f7db6785bbbbd466e0b88716ed8296f6edb59931bf74beaab40c7",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk37_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-crystal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk37_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk37_1",
+    "sourceSha256": "0b016c6feacbe0f36268d7d90e4369eda5ad7aaaaf469fc5daa3c21b27bd43f2",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk35_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-holo.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk35_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk35_2",
+    "sourceSha256": "49faa48cc66971b8b83afd81814bab3922a37da8541b7709fa2616eb2b306ea5",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk35_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-galaxy.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk35_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk35_1",
+    "sourceSha256": "a9f8d7e95c9b992c22b7a924c3968d543e7d72835f0859d6819bf3ba65a958c1",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk32_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-metal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk32_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk32_2",
+    "sourceSha256": "5dd8bacb368647df7fa28dbc4e9f521faa40e09020e401cb649ce0a238c4d900",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk32_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-galaxy.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk32_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk32_1",
+    "sourceSha256": "0e67631dd8cdb1bb3dbcd89db64aecc75ece76ef2cc8a56397f4f1966152229b",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk29_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-metal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk29_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk29_2",
+    "sourceSha256": "345303eb9bcbf8dfbe8c1d21150ccd6160ed5580abfbd9e5230069ad346cd186",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk29_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-crystal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk29_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk29_1",
+    "sourceSha256": "b1949109583a722dba77fd5227c9ae0ac717b5245a2d2735040221faf3691494",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk27_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-crystal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk27_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk27_2",
+    "sourceSha256": "8165b0e682161f5be0b3f09038308fbd4c2fb2f6da24ce3657ea7c53d568a01f",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk27_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-stone.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk27_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk27_1",
+    "sourceSha256": "edf12008c6ec8ed47244e48ffa0d08dab69444329c283fa80384a4a8ae0b06fd",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk25_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-neon.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk25_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk25_2",
+    "sourceSha256": "911a5c0512e4e4a26a0e57ff665d476b4af4422fecf5ee5f982c98829d564e27",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk25_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-gb.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk25_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk25_1",
+    "sourceSha256": "7f1d8f177c67aae10161f181d93b0acd43233fa25a4d90311cf04d4845ce60df",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk23_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-magma.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk23_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk23_2",
+    "sourceSha256": "11c4e5ce83a1abb8537c45a4e408ae8602bacf0fff439dc6cd7cd9295c0e1b21",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk23_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-neon.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk23_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk23_1",
+    "sourceSha256": "d0ea9a4f80f1bbfe2694d43c4ed8c2fa3900f296dbcf1c3996b9e3fe394f7013",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk21_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-shadow.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk21_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk21_2",
+    "sourceSha256": "60af8df11422b2cb3a8ebd4d3b4aca1e06cf3ed8c4d3bd70ed8df2340afb4571",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk21_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-stone.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk21_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk21_1",
+    "sourceSha256": "a4ef438bf7198356e5c505868236af520da93ec3c650ff92319e0ae2e821221d",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk19_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-metal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk19_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk19_2",
+    "sourceSha256": "78d785443647e2c7ec3b06a6a1bc127872bdfeb96a8f605e66ed6374f98c33e2",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk19_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-shadow.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk19_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk19_1",
+    "sourceSha256": "57e004f61a89aa2102824d6cc7046da961dc840fc1d28d5056fd864faacbe1a2",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk16_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-aurora.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk16_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk16_2",
+    "sourceSha256": "34e7fd8570a5b7196725db13e7470277720acc510b3894f818b7e9348e08c86b",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk16_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-gb.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk16_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk16_1",
+    "sourceSha256": "5a41d94b6324a7761d6e90bd02f7fd7f10eb92fdb429fa1d69024f845fe7e015",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk13_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-metal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk13_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk13_2",
+    "sourceSha256": "b7f96ac411a683eef6cd1a48ea90ff813858d233b2e11442296328929cd792e1",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk13_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-neon.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk13_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk13_1",
+    "sourceSha256": "264da63a5d90fabd32195b3149c65017c3e40c5336a46fc1b00d4313bc044e4b",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk10_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-crystal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk10_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk10_2",
+    "sourceSha256": "7bc3aaca8493ee5f6fb7f831fccd6710cacbf9627cc358640fab03fc3db08260",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk10_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-holo.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk10_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk10_1",
+    "sourceSha256": "5ebee742b61624b7149c0cd361d27bec3c382858b433678730645ce5dd085645",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk7_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-metal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk7_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk7_2",
+    "sourceSha256": "634b727632325fbd7acbe901393d38b8426d975875da3bda55eac503ce6cdc4f",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk7_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-gb.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk7_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk7_1",
+    "sourceSha256": "dadb8c5c9f9b2dc1e32648e5ab5b63e88663bc70a020b2bbfd8cd088a37ffd14",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk1_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-metal.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk1_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk1_2",
+    "sourceSha256": "4e2e7ee66bd88d17acd6c779b3268bf9b235949c08fca5dd0a7468d8a8807c3b",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk1_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-aurora.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk1_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk1_1",
+    "sourceSha256": "4723cf0a82add9d0a206c3e5a8ece9c0599ff7d7240755767ae98acb8a94f9a9",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk4_2-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-flame.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk4_2.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk4_2",
+    "sourceSha256": "3789b58458b88c397d4437f117a4bb76b301114fb7314575cff19540db0b92ed",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk4_1-frame.png",
+    "url": "https://pokebonk.com/assets/ui/frames/look-magma.png?v=uFGonG_k",
+    "kind": "Original Mastery Look frame",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  },
+  {
+    "file": "/images/achievements/looks/lk4_1.png",
+    "sourceRecord": "docs/research/official-ui-2026-10-28/looks.json#lk4_1",
+    "sourceSha256": "be7d10dd4245cf120590d5c4627dd21fe80d621b7c72c504be87ceacf36f1da0",
+    "kind": "Original game-rendered Mastery Look portrait",
+    "provider": "pokebonk.com",
+    "retrieved": "2026-10-28"
+  }
+]

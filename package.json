@@ -1,0 +1,35 @@
+{
+  "name": "pokebonk-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "npm run seo:check && next build",
+    "start": "next start",
+    "lint": "eslint",
+    "typecheck": "next typegen && tsc --noEmit",
+    "audit": "node scripts/audit-build.cjs",
+    "audit:content": "node scripts/audit-content-sources.cjs",
+    "audit:media": "node scripts/audit-media-sources.cjs",
+    "test:browser": "playwright test",
+    "seo:sync": "node scripts/update-page-history.cjs",
+    "seo:check": "node scripts/update-page-history.cjs --check",
+    "test:seo": "node --test tests/page-history.test.cjs"
+  },
+  "dependencies": {
+    "next": "16.4.2",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@tailwindcss/turbopack": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.4.2",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

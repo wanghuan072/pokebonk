@@ -1,0 +1,17 @@
+{
+  "checkedAt": "2026-10-23",
+  "status": "passed",
+  "contentUrls": 21,
+  "disabledDetailResponses": 741,
+  "internalLinks": 1625,
+  "imageReferences": 1962,
+  "sourceComparisons": 6566,
+  "browserTests": 13,
+  "officialLeaderboardRecords": {"kos": 100, "survival": 100, "time": 100},
+  "tierBuilderSpecies": 151,
+  "analyzedLeagueKits": 79,
+  "guides": 3,
+  "publishedReleases": 49,
+  "checks": ["production build", "TypeScript", "ESLint", "metadata and canonical paths", "unique H1 and anchors", "internal links", "image requests and decoding", "full-document navigation and history", "inline data", "drag and reorder", "keyboard placement", "local persistence", "official board switching and pagination", "mobile layout"],
+  "limitations": "Offline tests use production files and request interception. No project server was started. Deployed HTTP/CDN behavior and measured combat win rates are outside this check. Gameplay reference v0.8.13; release history and official leaderboard capture v0.8.25."
+}

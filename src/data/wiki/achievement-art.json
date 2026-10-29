@@ -1,0 +1,950 @@
+{
+  "lk150_2": {
+    "name": "Cosmic Genome",
+    "avatar": "/images/achievements/looks/lk150_2.png",
+    "frame": "/images/achievements/looks/lk150_2-frame.png",
+    "filter": null
+  },
+  "lk147_2": {
+    "name": "Golden Dragon",
+    "avatar": "/images/achievements/looks/lk147_2.png",
+    "frame": "/images/achievements/looks/lk147_2-frame.png",
+    "filter": null
+  },
+  "lk147_1": {
+    "name": "Lake Dragon",
+    "avatar": "/images/achievements/looks/lk147_1.png",
+    "frame": "/images/achievements/looks/lk147_1-frame.png",
+    "filter": null
+  },
+  "lk151_2": {
+    "name": "Origin",
+    "avatar": "/images/achievements/looks/lk151_2.png",
+    "frame": "/images/achievements/looks/lk151_2-frame.png",
+    "filter": null
+  },
+  "lk150_1": {
+    "name": "Dark Mewtwo",
+    "avatar": "/images/achievements/looks/lk150_1.png",
+    "frame": "/images/achievements/looks/lk150_1-frame.png",
+    "filter": null
+  },
+  "lk151_1": {
+    "name": "Pink Bubble",
+    "avatar": "/images/achievements/looks/lk151_1.png",
+    "frame": "/images/achievements/looks/lk151_1-frame.png",
+    "filter": null
+  },
+  "lk146_1": {
+    "name": "Phoenix",
+    "avatar": "/images/achievements/looks/lk146_1.png",
+    "frame": "/images/achievements/looks/lk146_1-frame.png",
+    "filter": null
+  },
+  "lk145_2": {
+    "name": "Dark Storm",
+    "avatar": "/images/achievements/looks/lk145_2.png",
+    "frame": "/images/achievements/looks/lk145_2-frame.png",
+    "filter": null
+  },
+  "lk145_1": {
+    "name": "Lightning",
+    "avatar": "/images/achievements/looks/lk145_1.png",
+    "frame": "/images/achievements/looks/lk145_1-frame.png",
+    "filter": null
+  },
+  "lk144_2": {
+    "name": "Aurora Borealis",
+    "avatar": "/images/achievements/looks/lk144_2.png",
+    "frame": "/images/achievements/looks/lk144_2-frame.png",
+    "filter": null
+  },
+  "lk144_1": {
+    "name": "Eternal Ice",
+    "avatar": "/images/achievements/looks/lk144_1.png",
+    "frame": "/images/achievements/looks/lk144_1-frame.png",
+    "filter": null
+  },
+  "lk143_2": {
+    "name": "Cosmic Dream",
+    "avatar": "/images/achievements/looks/lk143_2.png",
+    "frame": "/images/achievements/looks/lk143_2-frame.png",
+    "filter": null
+  },
+  "lk142_2": {
+    "name": "Prehistoric Sky",
+    "avatar": "/images/achievements/looks/lk142_2.png",
+    "frame": "/images/achievements/looks/lk142_2-frame.png",
+    "filter": null
+  },
+  "lk143_1": {
+    "name": "Classic Nap",
+    "avatar": "/images/achievements/looks/lk143_1.png",
+    "frame": "/images/achievements/looks/lk143_1-frame.png",
+    "filter": null
+  },
+  "lk142_1": {
+    "name": "Old Amber",
+    "avatar": "/images/achievements/looks/lk142_1.png",
+    "frame": "/images/achievements/looks/lk142_1-frame.png",
+    "filter": null
+  },
+  "lk140_2": {
+    "name": "Abyssal",
+    "avatar": "/images/achievements/looks/lk140_2.png",
+    "frame": "/images/achievements/looks/lk140_2-frame.png",
+    "filter": null
+  },
+  "lk146_2": {
+    "name": "Sinister Flame",
+    "avatar": "/images/achievements/looks/lk146_2.png",
+    "frame": "/images/achievements/looks/lk146_2-frame.png",
+    "filter": null
+  },
+  "lk140_1": {
+    "name": "Ancient Fossil",
+    "avatar": "/images/achievements/looks/lk140_1.png",
+    "frame": "/images/achievements/looks/lk140_1-frame.png",
+    "filter": null
+  },
+  "lk138_1": {
+    "name": "Amber",
+    "avatar": "/images/achievements/looks/lk138_1.png",
+    "frame": "/images/achievements/looks/lk138_1-frame.png",
+    "filter": null
+  },
+  "lk138_2": {
+    "name": "Lord Helix",
+    "avatar": "/images/achievements/looks/lk138_2.png",
+    "frame": "/images/achievements/looks/lk138_2-frame.png",
+    "filter": null
+  },
+  "lk137_2": {
+    "name": "Virtual Reality",
+    "avatar": "/images/achievements/looks/lk137_2.png",
+    "frame": "/images/achievements/looks/lk137_2-frame.png",
+    "filter": null
+  },
+  "lk137_1": {
+    "name": "Retro Polygon",
+    "avatar": "/images/achievements/looks/lk137_1.png",
+    "frame": "/images/achievements/looks/lk137_1-frame.png",
+    "filter": null
+  },
+  "lk133_2": {
+    "name": "Cosmic Eevee",
+    "avatar": "/images/achievements/looks/lk133_2.png",
+    "frame": "/images/achievements/looks/lk133_2-frame.png",
+    "filter": null
+  },
+  "lk133_1": {
+    "name": "Prism",
+    "avatar": "/images/achievements/looks/lk133_1.png",
+    "frame": "/images/achievements/looks/lk133_1-frame.png",
+    "filter": null
+  },
+  "lk132_1": {
+    "name": "Pixel",
+    "avatar": "/images/achievements/looks/lk132_1.png",
+    "frame": "/images/achievements/looks/lk132_1-frame.png",
+    "filter": null
+  },
+  "lk132_2": {
+    "name": "Glitch",
+    "avatar": "/images/achievements/looks/lk132_2.png",
+    "frame": "/images/achievements/looks/lk132_2-frame.png",
+    "filter": null
+  },
+  "lk131_2": {
+    "name": "Boreal Song",
+    "avatar": "/images/achievements/looks/lk131_2.png",
+    "frame": "/images/achievements/looks/lk131_2-frame.png",
+    "filter": null
+  },
+  "lk131_1": {
+    "name": "Sea Glass",
+    "avatar": "/images/achievements/looks/lk131_1.png",
+    "frame": "/images/achievements/looks/lk131_1-frame.png",
+    "filter": null
+  },
+  "lk129_2": {
+    "name": "Abyssal Fury",
+    "avatar": "/images/achievements/looks/lk129_2.png",
+    "frame": "/images/achievements/looks/lk129_2-frame.png",
+    "filter": null
+  },
+  "lk129_1": {
+    "name": "Golden Magikarp",
+    "avatar": "/images/achievements/looks/lk129_1.png",
+    "frame": "/images/achievements/looks/lk129_1-frame.png",
+    "filter": null
+  },
+  "lk128_2": {
+    "name": "Aquatic Breed",
+    "avatar": "/images/achievements/looks/lk128_2.png",
+    "frame": "/images/achievements/looks/lk128_2-frame.png",
+    "filter": null
+  },
+  "lk128_1": {
+    "name": "Blazing Breed",
+    "avatar": "/images/achievements/looks/lk128_1.png",
+    "frame": "/images/achievements/looks/lk128_1-frame.png",
+    "filter": null
+  },
+  "lk127_2": {
+    "name": "Gloomy Pincers",
+    "avatar": "/images/achievements/looks/lk127_2.png",
+    "frame": "/images/achievements/looks/lk127_2-frame.png",
+    "filter": null
+  },
+  "lk127_1": {
+    "name": "Golden Beetle",
+    "avatar": "/images/achievements/looks/lk127_1.png",
+    "frame": "/images/achievements/looks/lk127_1-frame.png",
+    "filter": null
+  },
+  "lk126_2": {
+    "name": "Solar Core",
+    "avatar": "/images/achievements/looks/lk126_2.png",
+    "frame": "/images/achievements/looks/lk126_2-frame.png",
+    "filter": null
+  },
+  "lk126_1": {
+    "name": "Pure Magma",
+    "avatar": "/images/achievements/looks/lk126_1.png",
+    "frame": "/images/achievements/looks/lk126_1-frame.png",
+    "filter": null
+  },
+  "lk125_2": {
+    "name": "Plasma",
+    "avatar": "/images/achievements/looks/lk125_2.png",
+    "frame": "/images/achievements/looks/lk125_2-frame.png",
+    "filter": null
+  },
+  "lk125_1": {
+    "name": "Voltage",
+    "avatar": "/images/achievements/looks/lk125_1.png",
+    "frame": "/images/achievements/looks/lk125_1-frame.png",
+    "filter": null
+  },
+  "lk124_2": {
+    "name": "Starsong",
+    "avatar": "/images/achievements/looks/lk124_2.png",
+    "frame": "/images/achievements/looks/lk124_2-frame.png",
+    "filter": null
+  },
+  "lk124_1": {
+    "name": "Ice Crystal",
+    "avatar": "/images/achievements/looks/lk124_1.png",
+    "frame": "/images/achievements/looks/lk124_1-frame.png",
+    "filter": null
+  },
+  "lk123_2": {
+    "name": "Ink Blade",
+    "avatar": "/images/achievements/looks/lk123_2.png",
+    "frame": "/images/achievements/looks/lk123_2-frame.png",
+    "filter": null
+  },
+  "lk123_1": {
+    "name": "Crimson Steel",
+    "avatar": "/images/achievements/looks/lk123_1.png",
+    "frame": "/images/achievements/looks/lk123_1-frame.png",
+    "filter": null
+  },
+  "lk122_2": {
+    "name": "Galarian Mime",
+    "avatar": "/images/achievements/looks/lk122_2.png",
+    "frame": "/images/achievements/looks/lk122_2-frame.png",
+    "filter": null
+  },
+  "lk122_1": {
+    "name": "Mime",
+    "avatar": "/images/achievements/looks/lk122_1.png",
+    "frame": "/images/achievements/looks/lk122_1-frame.png",
+    "filter": null
+  },
+  "lk120_2": {
+    "name": "Prismatic Core",
+    "avatar": "/images/achievements/looks/lk120_2.png",
+    "frame": "/images/achievements/looks/lk120_2-frame.png",
+    "filter": null
+  },
+  "lk120_1": {
+    "name": "Shooting Star",
+    "avatar": "/images/achievements/looks/lk120_1.png",
+    "frame": "/images/achievements/looks/lk120_1-frame.png",
+    "filter": null
+  },
+  "lk118_2": {
+    "name": "Koi",
+    "avatar": "/images/achievements/looks/lk118_2.png",
+    "frame": "/images/achievements/looks/lk118_2-frame.png",
+    "filter": null
+  },
+  "lk118_1": {
+    "name": "Goldfish",
+    "avatar": "/images/achievements/looks/lk118_1.png",
+    "frame": "/images/achievements/looks/lk118_1-frame.png",
+    "filter": null
+  },
+  "lk116_2": {
+    "name": "Reef",
+    "avatar": "/images/achievements/looks/lk116_2.png",
+    "frame": "/images/achievements/looks/lk116_2-frame.png",
+    "filter": null
+  },
+  "lk116_1": {
+    "name": "Ink",
+    "avatar": "/images/achievements/looks/lk116_1.png",
+    "frame": "/images/achievements/looks/lk116_1-frame.png",
+    "filter": null
+  },
+  "lk115_1": {
+    "name": "Bronze Mother",
+    "avatar": "/images/achievements/looks/lk115_1.png",
+    "frame": "/images/achievements/looks/lk115_1-frame.png",
+    "filter": null
+  },
+  "lk115_2": {
+    "name": "Motherly Fury",
+    "avatar": "/images/achievements/looks/lk115_2.png",
+    "frame": "/images/achievements/looks/lk115_2-frame.png",
+    "filter": null
+  },
+  "lk114_2": {
+    "name": "Tangle",
+    "avatar": "/images/achievements/looks/lk114_2.png",
+    "frame": "/images/achievements/looks/lk114_2-frame.png",
+    "filter": null
+  },
+  "lk114_1": {
+    "name": "Boreal Vines",
+    "avatar": "/images/achievements/looks/lk114_1.png",
+    "frame": "/images/achievements/looks/lk114_1-frame.png",
+    "filter": null
+  },
+  "lk113_1": {
+    "name": "Golden Egg",
+    "avatar": "/images/achievements/looks/lk113_1.png",
+    "frame": "/images/achievements/looks/lk113_1-frame.png",
+    "filter": null
+  },
+  "lk113_2": {
+    "name": "Prism Nurse",
+    "avatar": "/images/achievements/looks/lk113_2.png",
+    "frame": "/images/achievements/looks/lk113_2-frame.png",
+    "filter": null
+  },
+  "lk111_1": {
+    "name": "Ancient Stone",
+    "avatar": "/images/achievements/looks/lk111_1.png",
+    "frame": "/images/achievements/looks/lk111_1-frame.png",
+    "filter": null
+  },
+  "lk111_2": {
+    "name": "Magma Rhydon",
+    "avatar": "/images/achievements/looks/lk111_2.png",
+    "frame": "/images/achievements/looks/lk111_2-frame.png",
+    "filter": null
+  },
+  "lk109_2": {
+    "name": "Galarian Chimney",
+    "avatar": "/images/achievements/looks/lk109_2.png",
+    "frame": "/images/achievements/looks/lk109_2-frame.png",
+    "filter": null
+  },
+  "lk109_1": {
+    "name": "Toxic Smoke",
+    "avatar": "/images/achievements/looks/lk109_1.png",
+    "frame": "/images/achievements/looks/lk109_1-frame.png",
+    "filter": null
+  },
+  "lk108_2": {
+    "name": "Cosmic Tongue",
+    "avatar": "/images/achievements/looks/lk108_2.png",
+    "frame": "/images/achievements/looks/lk108_2-frame.png",
+    "filter": null
+  },
+  "lk108_1": {
+    "name": "Bubblegum",
+    "avatar": "/images/achievements/looks/lk108_1.png",
+    "frame": "/images/achievements/looks/lk108_1-frame.png",
+    "filter": null
+  },
+  "lk107_2": {
+    "name": "Neon Ring",
+    "avatar": "/images/achievements/looks/lk107_2.png",
+    "frame": "/images/achievements/looks/lk107_2-frame.png",
+    "filter": null
+  },
+  "lk107_1": {
+    "name": "Ice Fist",
+    "avatar": "/images/achievements/looks/lk107_1.png",
+    "frame": "/images/achievements/looks/lk107_1-frame.png",
+    "filter": null
+  },
+  "lk106_2": {
+    "name": "Volcanic Kick",
+    "avatar": "/images/achievements/looks/lk106_2.png",
+    "frame": "/images/achievements/looks/lk106_2-frame.png",
+    "filter": null
+  },
+  "lk106_1": {
+    "name": "Dojo Bronze",
+    "avatar": "/images/achievements/looks/lk106_1.png",
+    "frame": "/images/achievements/looks/lk106_1-frame.png",
+    "filter": null
+  },
+  "lk104_2": {
+    "name": "Ghost Flame",
+    "avatar": "/images/achievements/looks/lk104_2.png",
+    "frame": "/images/achievements/looks/lk104_2-frame.png",
+    "filter": null
+  },
+  "lk104_1": {
+    "name": "Fossil Bone",
+    "avatar": "/images/achievements/looks/lk104_1.png",
+    "frame": "/images/achievements/looks/lk104_1-frame.png",
+    "filter": null
+  },
+  "lk102_2": {
+    "name": "Golden Eggs",
+    "avatar": "/images/achievements/looks/lk102_2.png",
+    "frame": "/images/achievements/looks/lk102_2-frame.png",
+    "filter": null
+  },
+  "lk102_1": {
+    "name": "Alolan Palm",
+    "avatar": "/images/achievements/looks/lk102_1.png",
+    "frame": "/images/achievements/looks/lk102_1-frame.png",
+    "filter": null
+  },
+  "lk100_2": {
+    "name": "Aftermath",
+    "avatar": "/images/achievements/looks/lk100_2.png",
+    "frame": "/images/achievements/looks/lk100_2-frame.png",
+    "filter": null
+  },
+  "lk100_1": {
+    "name": "Neon Bomb",
+    "avatar": "/images/achievements/looks/lk100_1.png",
+    "frame": "/images/achievements/looks/lk100_1-frame.png",
+    "filter": null
+  },
+  "lk98_2": {
+    "name": "Golden Pincer",
+    "avatar": "/images/achievements/looks/lk98_2.png",
+    "frame": "/images/achievements/looks/lk98_2-frame.png",
+    "filter": null
+  },
+  "lk98_1": {
+    "name": "Volcanic Crab",
+    "avatar": "/images/achievements/looks/lk98_1.png",
+    "frame": "/images/achievements/looks/lk98_1-frame.png",
+    "filter": null
+  },
+  "lk96_2": {
+    "name": "Nightmare",
+    "avatar": "/images/achievements/looks/lk96_2.png",
+    "frame": "/images/achievements/looks/lk96_2-frame.png",
+    "filter": null
+  },
+  "lk96_1": {
+    "name": "Pendulum",
+    "avatar": "/images/achievements/looks/lk96_1.png",
+    "frame": "/images/achievements/looks/lk96_1-frame.png",
+    "filter": null
+  },
+  "lk95_2": {
+    "name": "Steel",
+    "avatar": "/images/achievements/looks/lk95_2.png",
+    "frame": "/images/achievements/looks/lk95_2-frame.png",
+    "filter": null
+  },
+  "lk95_1": {
+    "name": "Crystal Onyx",
+    "avatar": "/images/achievements/looks/lk95_1.png",
+    "frame": "/images/achievements/looks/lk95_1-frame.png",
+    "filter": null
+  },
+  "lk92_2": {
+    "name": "Pure Shadow",
+    "avatar": "/images/achievements/looks/lk92_2.png",
+    "frame": "/images/achievements/looks/lk92_2-frame.png",
+    "filter": null
+  },
+  "lk92_1": {
+    "name": "Galaxy",
+    "avatar": "/images/achievements/looks/lk92_1.png",
+    "frame": "/images/achievements/looks/lk92_1-frame.png",
+    "filter": null
+  },
+  "lk90_2": {
+    "name": "Black Pearl",
+    "avatar": "/images/achievements/looks/lk90_2.png",
+    "frame": "/images/achievements/looks/lk90_2-frame.png",
+    "filter": null
+  },
+  "lk90_1": {
+    "name": "Pearl",
+    "avatar": "/images/achievements/looks/lk90_1.png",
+    "frame": "/images/achievements/looks/lk90_1-frame.png",
+    "filter": null
+  },
+  "lk88_2": {
+    "name": "Alolan Muk",
+    "avatar": "/images/achievements/looks/lk88_2.png",
+    "frame": "/images/achievements/looks/lk88_2-frame.png",
+    "filter": null
+  },
+  "lk88_1": {
+    "name": "Radioactive Sludge",
+    "avatar": "/images/achievements/looks/lk88_1.png",
+    "frame": "/images/achievements/looks/lk88_1-frame.png",
+    "filter": null
+  },
+  "lk86_2": {
+    "name": "Southern Lights",
+    "avatar": "/images/achievements/looks/lk86_2.png",
+    "frame": "/images/achievements/looks/lk86_2-frame.png",
+    "filter": null
+  },
+  "lk86_1": {
+    "name": "Polar Seal",
+    "avatar": "/images/achievements/looks/lk86_1.png",
+    "frame": "/images/achievements/looks/lk86_1-frame.png",
+    "filter": null
+  },
+  "lk84_2": {
+    "name": "Three Shadows",
+    "avatar": "/images/achievements/looks/lk84_2.png",
+    "frame": "/images/achievements/looks/lk84_2-frame.png",
+    "filter": null
+  },
+  "lk84_1": {
+    "name": "Prism Plumage",
+    "avatar": "/images/achievements/looks/lk84_1.png",
+    "frame": "/images/achievements/looks/lk84_1-frame.png",
+    "filter": null
+  },
+  "lk83_2": {
+    "name": "Golden Leek",
+    "avatar": "/images/achievements/looks/lk83_2.png",
+    "frame": "/images/achievements/looks/lk83_2-frame.png",
+    "filter": null
+  },
+  "lk83_1": {
+    "name": "Samurai",
+    "avatar": "/images/achievements/looks/lk83_1.png",
+    "frame": "/images/achievements/looks/lk83_1-frame.png",
+    "filter": null
+  },
+  "lk81_2": {
+    "name": "Chrome",
+    "avatar": "/images/achievements/looks/lk81_2.png",
+    "frame": "/images/achievements/looks/lk81_2-frame.png",
+    "filter": null
+  },
+  "lk81_1": {
+    "name": "Neon Magnet",
+    "avatar": "/images/achievements/looks/lk81_1.png",
+    "frame": "/images/achievements/looks/lk81_1-frame.png",
+    "filter": null
+  },
+  "lk79_2": {
+    "name": "Cosmic Tide",
+    "avatar": "/images/achievements/looks/lk79_2.png",
+    "frame": "/images/achievements/looks/lk79_2-frame.png",
+    "filter": null
+  },
+  "lk79_1": {
+    "name": "Well Statue",
+    "avatar": "/images/achievements/looks/lk79_1.png",
+    "frame": "/images/achievements/looks/lk79_1-frame.png",
+    "filter": null
+  },
+  "lk77_2": {
+    "name": "Solar Mane",
+    "avatar": "/images/achievements/looks/lk77_2.png",
+    "frame": "/images/achievements/looks/lk77_2-frame.png",
+    "filter": null
+  },
+  "lk77_1": {
+    "name": "Galarian Unicorn",
+    "avatar": "/images/achievements/looks/lk77_1.png",
+    "frame": "/images/achievements/looks/lk77_1-frame.png",
+    "filter": null
+  },
+  "lk74_2": {
+    "name": "Steel",
+    "avatar": "/images/achievements/looks/lk74_2.png",
+    "frame": "/images/achievements/looks/lk74_2-frame.png",
+    "filter": null
+  },
+  "lk74_1": {
+    "name": "Volcanic Rock",
+    "avatar": "/images/achievements/looks/lk74_1.png",
+    "frame": "/images/achievements/looks/lk74_1-frame.png",
+    "filter": null
+  },
+  "lk72_2": {
+    "name": "Glowing Abyss",
+    "avatar": "/images/achievements/looks/lk72_2.png",
+    "frame": "/images/achievements/looks/lk72_2-frame.png",
+    "filter": null
+  },
+  "lk72_1": {
+    "name": "Crystal Jellyfish",
+    "avatar": "/images/achievements/looks/lk72_1.png",
+    "frame": "/images/achievements/looks/lk72_1-frame.png",
+    "filter": null
+  },
+  "lk69_2": {
+    "name": "Deep Jungle",
+    "avatar": "/images/achievements/looks/lk69_2.png",
+    "frame": "/images/achievements/looks/lk69_2-frame.png",
+    "filter": null
+  },
+  "lk69_1": {
+    "name": "Acid Trap",
+    "avatar": "/images/achievements/looks/lk69_1.png",
+    "frame": "/images/achievements/looks/lk69_1-frame.png",
+    "filter": null
+  },
+  "lk66_2": {
+    "name": "Volcanic Fist",
+    "avatar": "/images/achievements/looks/lk66_2.png",
+    "frame": "/images/achievements/looks/lk66_2-frame.png",
+    "filter": null
+  },
+  "lk66_1": {
+    "name": "Olympic Bronze",
+    "avatar": "/images/achievements/looks/lk66_1.png",
+    "frame": "/images/achievements/looks/lk66_1-frame.png",
+    "filter": null
+  },
+  "lk63_2": {
+    "name": "Cosmic Mind",
+    "avatar": "/images/achievements/looks/lk63_2.png",
+    "frame": "/images/achievements/looks/lk63_2-frame.png",
+    "filter": null
+  },
+  "lk63_1": {
+    "name": "Golden Spoon",
+    "avatar": "/images/achievements/looks/lk63_1.png",
+    "frame": "/images/achievements/looks/lk63_1-frame.png",
+    "filter": null
+  },
+  "lk60_2": {
+    "name": "Tropical Whirlpool",
+    "avatar": "/images/achievements/looks/lk60_2.png",
+    "frame": "/images/achievements/looks/lk60_2-frame.png",
+    "filter": null
+  },
+  "lk60_1": {
+    "name": "Spiral",
+    "avatar": "/images/achievements/looks/lk60_1.png",
+    "frame": "/images/achievements/looks/lk60_1-frame.png",
+    "filter": null
+  },
+  "lk58_2": {
+    "name": "Royal Guardian",
+    "avatar": "/images/achievements/looks/lk58_2.png",
+    "frame": "/images/achievements/looks/lk58_2-frame.png",
+    "filter": null
+  },
+  "lk58_1": {
+    "name": "Legendary Flame",
+    "avatar": "/images/achievements/looks/lk58_1.png",
+    "frame": "/images/achievements/looks/lk58_1-frame.png",
+    "filter": null
+  },
+  "lk56_2": {
+    "name": "Rage",
+    "avatar": "/images/achievements/looks/lk56_2.png",
+    "frame": "/images/achievements/looks/lk56_2-frame.png",
+    "filter": null
+  },
+  "lk54_2": {
+    "name": "Galactic Mind",
+    "avatar": "/images/achievements/looks/lk54_2.png",
+    "frame": "/images/achievements/looks/lk54_2-frame.png",
+    "filter": null
+  },
+  "lk56_1": {
+    "name": "Volcanic Fury",
+    "avatar": "/images/achievements/looks/lk56_1.png",
+    "frame": "/images/achievements/looks/lk56_1-frame.png",
+    "filter": null
+  },
+  "lk54_1": {
+    "name": "Migraine",
+    "avatar": "/images/achievements/looks/lk54_1.png",
+    "frame": "/images/achievements/looks/lk54_1-frame.png",
+    "filter": null
+  },
+  "lk52_2": {
+    "name": "Team Rocket",
+    "avatar": "/images/achievements/looks/lk52_2.png",
+    "frame": "/images/achievements/looks/lk52_2-frame.png",
+    "filter": null
+  },
+  "lk52_1": {
+    "name": "Lucky Cat",
+    "avatar": "/images/achievements/looks/lk52_1.png",
+    "frame": "/images/achievements/looks/lk52_1-frame.png",
+    "filter": null
+  },
+  "lk50_2": {
+    "name": "Golden Mane",
+    "avatar": "/images/achievements/looks/lk50_2.png",
+    "frame": "/images/achievements/looks/lk50_2-frame.png",
+    "filter": null
+  },
+  "lk50_1": {
+    "name": "Stone Mole",
+    "avatar": "/images/achievements/looks/lk50_1.png",
+    "frame": "/images/achievements/looks/lk50_1-frame.png",
+    "filter": null
+  },
+  "lk48_2": {
+    "name": "Lunar Moth",
+    "avatar": "/images/achievements/looks/lk48_2.png",
+    "frame": "/images/achievements/looks/lk48_2-frame.png",
+    "filter": null
+  },
+  "lk48_1": {
+    "name": "Radar Eyes",
+    "avatar": "/images/achievements/looks/lk48_1.png",
+    "frame": "/images/achievements/looks/lk48_1-frame.png",
+    "filter": null
+  },
+  "lk46_2": {
+    "name": "Cordyceps",
+    "avatar": "/images/achievements/looks/lk46_2.png",
+    "frame": "/images/achievements/looks/lk46_2-frame.png",
+    "filter": null
+  },
+  "lk46_1": {
+    "name": "Glowing Mushroom",
+    "avatar": "/images/achievements/looks/lk46_1.png",
+    "frame": "/images/achievements/looks/lk46_1-frame.png",
+    "filter": null
+  },
+  "lk43_2": {
+    "name": "Prism Petal",
+    "avatar": "/images/achievements/looks/lk43_2.png",
+    "frame": "/images/achievements/looks/lk43_2-frame.png",
+    "filter": null
+  },
+  "lk43_1": {
+    "name": "Night Bloom",
+    "avatar": "/images/achievements/looks/lk43_1.png",
+    "frame": "/images/achievements/looks/lk43_1-frame.png",
+    "filter": null
+  },
+  "lk41_2": {
+    "name": "Cosmic Bat",
+    "avatar": "/images/achievements/looks/lk41_2.png",
+    "frame": "/images/achievements/looks/lk41_2-frame.png",
+    "filter": null
+  },
+  "lk41_1": {
+    "name": "Eternal Night",
+    "avatar": "/images/achievements/looks/lk41_1.png",
+    "frame": "/images/achievements/looks/lk41_1-frame.png",
+    "filter": null
+  },
+  "lk39_2": {
+    "name": "Diva",
+    "avatar": "/images/achievements/looks/lk39_2.png",
+    "frame": "/images/achievements/looks/lk39_2-frame.png",
+    "filter": null
+  },
+  "lk39_1": {
+    "name": "Pop Star",
+    "avatar": "/images/achievements/looks/lk39_1.png",
+    "frame": "/images/achievements/looks/lk39_1-frame.png",
+    "filter": null
+  },
+  "lk37_2": {
+    "name": "Blue Kitsune",
+    "avatar": "/images/achievements/looks/lk37_2.png",
+    "frame": "/images/achievements/looks/lk37_2-frame.png",
+    "filter": null
+  },
+  "lk37_1": {
+    "name": "Alolan Snow",
+    "avatar": "/images/achievements/looks/lk37_1.png",
+    "frame": "/images/achievements/looks/lk37_1-frame.png",
+    "filter": null
+  },
+  "lk35_2": {
+    "name": "Star Fairy",
+    "avatar": "/images/achievements/looks/lk35_2.png",
+    "frame": "/images/achievements/looks/lk35_2-frame.png",
+    "filter": null
+  },
+  "lk35_1": {
+    "name": "Moondust",
+    "avatar": "/images/achievements/looks/lk35_1.png",
+    "frame": "/images/achievements/looks/lk35_1-frame.png",
+    "filter": null
+  },
+  "lk32_2": {
+    "name": "Silver King",
+    "avatar": "/images/achievements/looks/lk32_2.png",
+    "frame": "/images/achievements/looks/lk32_2-frame.png",
+    "filter": null
+  },
+  "lk32_1": {
+    "name": "Night King",
+    "avatar": "/images/achievements/looks/lk32_1.png",
+    "frame": "/images/achievements/looks/lk32_1-frame.png",
+    "filter": null
+  },
+  "lk29_2": {
+    "name": "Golden Queen",
+    "avatar": "/images/achievements/looks/lk29_2.png",
+    "frame": "/images/achievements/looks/lk29_2-frame.png",
+    "filter": null
+  },
+  "lk29_1": {
+    "name": "Amethyst",
+    "avatar": "/images/achievements/looks/lk29_1.png",
+    "frame": "/images/achievements/looks/lk29_1-frame.png",
+    "filter": null
+  },
+  "lk27_2": {
+    "name": "Alolan Frost",
+    "avatar": "/images/achievements/looks/lk27_2.png",
+    "frame": "/images/achievements/looks/lk27_2-frame.png",
+    "filter": null
+  },
+  "lk27_1": {
+    "name": "Sandstone",
+    "avatar": "/images/achievements/looks/lk27_1.png",
+    "frame": "/images/achievements/looks/lk27_1-frame.png",
+    "filter": null
+  },
+  "lk25_2": {
+    "name": "Neon Storm",
+    "avatar": "/images/achievements/looks/lk25_2.png",
+    "frame": "/images/achievements/looks/lk25_2-frame.png",
+    "filter": null
+  },
+  "lk25_1": {
+    "name": "Yellow Version",
+    "avatar": "/images/achievements/looks/lk25_1.png",
+    "frame": "/images/achievements/looks/lk25_1-frame.png",
+    "filter": null
+  },
+  "lk23_2": {
+    "name": "Obsidian",
+    "avatar": "/images/achievements/looks/lk23_2.png",
+    "frame": "/images/achievements/looks/lk23_2-frame.png",
+    "filter": null
+  },
+  "lk23_1": {
+    "name": "Acid Cobra",
+    "avatar": "/images/achievements/looks/lk23_1.png",
+    "frame": "/images/achievements/looks/lk23_1-frame.png",
+    "filter": null
+  },
+  "lk21_2": {
+    "name": "Scavenger",
+    "avatar": "/images/achievements/looks/lk21_2.png",
+    "frame": "/images/achievements/looks/lk21_2-frame.png",
+    "filter": null
+  },
+  "lk21_1": {
+    "name": "Gargoyle",
+    "avatar": "/images/achievements/looks/lk21_1.png",
+    "frame": "/images/achievements/looks/lk21_1-frame.png",
+    "filter": null
+  },
+  "lk19_2": {
+    "name": "Golden Fang",
+    "avatar": "/images/achievements/looks/lk19_2.png",
+    "frame": "/images/achievements/looks/lk19_2-frame.png",
+    "filter": null
+  },
+  "lk19_1": {
+    "name": "Sewer",
+    "avatar": "/images/achievements/looks/lk19_1.png",
+    "frame": "/images/achievements/looks/lk19_1-frame.png",
+    "filter": null
+  },
+  "lk16_2": {
+    "name": "North Wind",
+    "avatar": "/images/achievements/looks/lk16_2.png",
+    "frame": "/images/achievements/looks/lk16_2-frame.png",
+    "filter": null
+  },
+  "lk16_1": {
+    "name": "Pocket Pidgey",
+    "avatar": "/images/achievements/looks/lk16_1.png",
+    "frame": "/images/achievements/looks/lk16_1-frame.png",
+    "filter": null
+  },
+  "lk13_2": {
+    "name": "Golden Stinger",
+    "avatar": "/images/achievements/looks/lk13_2.png",
+    "frame": "/images/achievements/looks/lk13_2-frame.png",
+    "filter": null
+  },
+  "lk13_1": {
+    "name": "Neon Wasp",
+    "avatar": "/images/achievements/looks/lk13_1.png",
+    "frame": "/images/achievements/looks/lk13_1-frame.png",
+    "filter": null
+  },
+  "lk10_2": {
+    "name": "Crystal Butterfly",
+    "avatar": "/images/achievements/looks/lk10_2.png",
+    "frame": "/images/achievements/looks/lk10_2-frame.png",
+    "filter": null
+  },
+  "lk10_1": {
+    "name": "Prism Wings",
+    "avatar": "/images/achievements/looks/lk10_1.png",
+    "frame": "/images/achievements/looks/lk10_1-frame.png",
+    "filter": null
+  },
+  "lk7_2": {
+    "name": "Platinum Shell",
+    "avatar": "/images/achievements/looks/lk7_2.png",
+    "frame": "/images/achievements/looks/lk7_2-frame.png",
+    "filter": null
+  },
+  "lk7_1": {
+    "name": "Blue Game Boy",
+    "avatar": "/images/achievements/looks/lk7_1.png",
+    "frame": "/images/achievements/looks/lk7_1-frame.png",
+    "filter": null
+  },
+  "lk1_2": {
+    "name": "Jade",
+    "avatar": "/images/achievements/looks/lk1_2.png",
+    "frame": "/images/achievements/looks/lk1_2-frame.png",
+    "filter": null
+  },
+  "lk1_1": {
+    "name": "Boreal Garden",
+    "avatar": "/images/achievements/looks/lk1_1.png",
+    "frame": "/images/achievements/looks/lk1_1-frame.png",
+    "filter": null
+  },
+  "lk4_2": {
+    "name": "Blue Flame",
+    "avatar": "/images/achievements/looks/lk4_2.png",
+    "frame": "/images/achievements/looks/lk4_2-frame.png",
+    "filter": null
+  },
+  "lk4_1": {
+    "name": "Magma",
+    "avatar": "/images/achievements/looks/lk4_1.png",
+    "frame": "/images/achievements/looks/lk4_1-frame.png",
+    "filter": null
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "/": {
+    "h1": "PokeBonk - Plan Your Next Run",
+    "description": "Choose a partner, compare attacks and items, plan Lab spending or read a guide before your next run. Check seasonal challenges, dated standings and patch notes when you return."
+  },
+  "/play": {
+    "h1": "Play PokéBonk Online",
+    "description": "Open the free browser game, check the controls and choose your first partner. Keep these guides nearby when an upgrade or unlock needs explaining."
+  },
+  "/pokedex": {
+    "h1": "PokeBonk Pokédex - Compare Partners, Kits & Unlocks",
+    "description": "Browse 151 Pokémon and filter the 79 League partners. Select a portrait to check its stats, attacks, passive, evolution path and unlock condition."
+  },
+  "/wiki/items": {
+    "h1": "PokeBonk Wiki - Compare Item Effects & Unlocks",
+    "description": "Compare item effects, rarities and held limits. Filter the starting pool or Lab unlocks, then check the price before spending Stardust."
+  },
+  "/wiki/achievements": {
+    "h1": "PokeBonk Achievements - Find Your Next Unlock",
+    "description": "Find a goal worth working toward. Check its exact condition, Stardust reward or Mastery Look, then keep a personal checklist in this browser."
+  },
+  "/wiki/lab": {
+    "h1": "PokeBonk Lab - Plan Your Next Stardust Purchase",
+    "description": "Compare permanent upgrades, preview the next level’s price and calculate the cost of several levels. Check item unlocks before deciding what to buy."
+  },
+  "/tier-list": {
+    "h1": "PokeBonk Tier List - Compare Partners & Build Your Ranking",
+    "description": "Rank all 151 Pokémon on your own board, or read why we place each of the 79 starting kits where we do for a solo Classic opening."
+  },
+  "/builds": {
+    "h1": "PokeBonk Builds - Survival Combinations We Tested",
+    "description": "From our Survival testing, these are the partner combinations that made a run easier to keep going. Each one names the attack to keep, the level-8 fusion, three vitamins and the items to take first."
+  },
+  "/guides": {
+    "h1": "PokéBonk Guides - Survival & Co-op",
+    "description": "Pick the guide for the run you want to improve: your first Classic clear, PokéBonk Survival or PokéBonk Co-op. Follow the choices, examples and tradeoffs inside."
+  },
+  "/wiki/leaderboard": {
+    "h1": "PokeBonk Leaderboard - Compare Season Standings",
+    "description": "Browse the complete Season 2 Global top 100 for KOs, Survival and Time attack, recorded on October 28, 2026. Compare regional scores, player appearances and projected rewards."
+  },
+  "/updates": {
+    "h1": "PokeBonk Updates - Check What Changed",
+    "description": "Search published patch notes through v0.8.62. Find the balance changes, fixes and new features that affect your next run, with each release dated."
+  },
+  "/about": {
+    "h1": "About PokéBonk",
+    "description": "pokebonkdb.org is a planning site for PokéBonk. This page explains what you can look up here, and what the game itself asks you to do in a run."
+  },
+  "/privacy-policy": {
+    "h1": "Privacy Policy",
+    "description": "How this site handles browser storage, technical requests and information you choose to send by email."
+  },
+  "/terms": {
+    "h1": "Terms of Service",
+    "description": "The terms that apply when you browse pokebonkdb.org or use its local planning tools."
+  },
+  "/copyright": {
+    "h1": "Copyright",
+    "description": "An explanation of the site’s original content, third-party game material and independent fan-site status."
+  },
+  "/contact": {
+    "h1": "Contact Us",
+    "description": "Send a site question, content correction or artwork concern to support@pokebonkdb.org. This mailbox supports the fan site, not game accounts."
+  },
+  "/events": {
+    "h1": "PokeBonk Events - Check Challenges, Dates & Rewards",
+    "description": "Check the four daily modes and their permanent rewards, then browse seasonal challenges, event dates and Candle milestones. Each event is labeled by its schedule."
+  },
+  "/wiki/attacks": {
+    "h1": "PokeBonk Wiki - Compare Attacks & Find Fusions",
+    "description": "Find an attack by name, type, damage class or shape. Compare its effects, level growth and learners, or check the ingredients before committing to a fusion."
+  },
+  "/wiki/vitamins": {
+    "h1": "PokeBonk Wiki - Choose Vitamins for Your Build",
+    "description": "Compare what each vitamin improves, how its gains grow and what rarer cards add. Save a three-slot plan for a partner in this browser."
+  }
+}

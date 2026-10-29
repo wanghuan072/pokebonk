@@ -1,0 +1,6996 @@
+{
+  "source": "https://pokebonk.com/?lang=en",
+  "verifiedAt": "2026-10-23",
+  "gameVersion": "0.8.25",
+  "season": 2,
+  "mode": "Global KOs — sum of all regions",
+  "precision": "Official UI display values; KO totals and regional values are rounded. Historical snapshot, not a live feed.",
+  "entries": [
+    {
+      "rank": 1,
+      "player": "LLT ostvek",
+      "clan": null,
+      "value": "14.8M",
+      "badge": "Master",
+      "regions": [
+        {
+          "region": "VIRIDIAN",
+          "value": "3.7M"
+        },
+        {
+          "region": "ROCKY",
+          "value": "4.2M"
+        },
+        {
+          "region": "STORM",
+          "value": "4.0M"
+        },
+        {
+          "region": "CELESTIAL",
+          "value": "2.9M"
+        }
+      ],
+      "isDetails": false
+    },
+    {
+      "rank": 2,
+      "player": "RST Shunkiew",
+      "clan": null,
+      "value": "14.7M",
+      "badge": "Elite",
+      "regions": [
+        {
+          "region": "VIRIDIAN",
+          "value": "3.9M"
+        },
+        {
+          "region": "ROCKY",
+          "value": "3.7M"
+        },
+        {
+          "region": "STORM",
+          "value": "3.4M"
+        },
+        {
+          "region": "CELESTIAL",
+          "value": "3.8M"
+        }
+      ],
+      "isDetails": false
+    },
+    {
+      "rank": 3,
+      "player": "PACC 天玑",
+      "clan": null,
+      "value": "14.7M",
+      "badge": "Elite",
+      "regions": [
+        {
+          "region": "VIRIDIAN",
+          "value": "3.7M"
+        },
+        {
+          "region": "ROCKY",
+          "value": "4.0M"
+        },
+        {
+          "region": "STORM",
+          "value": "3.8M"
+        },
+        {
+          "region": "CELESTIAL",
+          "value": "3.3M"
+        }
+      ],
+      "isDetails": false
+    }
+  ],
+  "boards": [
+    {
+      "id": "kos",
+      "label": "KOs",
+      "rule": "Adds up the best KO run in each of the four regions, on any difficulty. Higher is better.",
+      "entries": [
+        {
+          "rank": 1,
+          "player": "LLT ostvek",
+          "clan": null,
+          "value": "14.8M",
+          "badge": "Master",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.7M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "4.2M"
+            },
+            {
+              "region": "STORM",
+              "value": "4.0M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.9M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 2,
+          "player": "RST Shunkiew",
+          "clan": null,
+          "value": "14.7M",
+          "badge": "Elite",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.9M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "3.7M"
+            },
+            {
+              "region": "STORM",
+              "value": "3.4M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "3.8M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 3,
+          "player": "PACC 天玑",
+          "clan": null,
+          "value": "14.7M",
+          "badge": "Elite",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.7M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "4.0M"
+            },
+            {
+              "region": "STORM",
+              "value": "3.8M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "3.3M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 4,
+          "player": "EOT JunglePTV",
+          "clan": null,
+          "value": "14.6M",
+          "badge": "Top 10",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "4.1M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "3.7M"
+            },
+            {
+              "region": "STORM",
+              "value": "3.4M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "3.3M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 5,
+          "player": "PACC 牧瀨優華",
+          "clan": null,
+          "value": "13.8M",
+          "badge": "Top 10",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.3M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "3.5M"
+            },
+            {
+              "region": "STORM",
+              "value": "3.1M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "4.0M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 6,
+          "player": "KUBI kkomei",
+          "clan": null,
+          "value": "13.6M",
+          "badge": "Top 10",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.7M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "3.6M"
+            },
+            {
+              "region": "STORM",
+              "value": "3.1M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "3.1M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 7,
+          "player": "OF Kisara",
+          "clan": null,
+          "value": "13.2M",
+          "badge": "Top 10",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.7M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "3.0M"
+            },
+            {
+              "region": "STORM",
+              "value": "3.1M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "3.4M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 8,
+          "player": "KUBI d3saix",
+          "clan": null,
+          "value": "13.0M",
+          "badge": "Top 10",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.2M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "3.3M"
+            },
+            {
+              "region": "STORM",
+              "value": "3.6M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "3.0M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 9,
+          "player": "KUBI Jihatsu",
+          "clan": null,
+          "value": "12.9M",
+          "badge": "Top 10",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.3M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "3.6M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.8M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "3.3M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 10,
+          "player": "KUBI kotahgens",
+          "clan": null,
+          "value": "12.8M",
+          "badge": "Top 10",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.1M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "3.0M"
+            },
+            {
+              "region": "STORM",
+              "value": "3.2M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "3.6M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 11,
+          "player": "OF Cirno99",
+          "clan": null,
+          "value": "12.8M",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.9M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "3.1M"
+            },
+            {
+              "region": "STORM",
+              "value": "3.3M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "3.5M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 12,
+          "player": "RST Silithur",
+          "clan": null,
+          "value": "12.6M",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.4M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "3.5M"
+            },
+            {
+              "region": "STORM",
+              "value": "3.4M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.3M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 13,
+          "player": "OF Arjiang",
+          "clan": null,
+          "value": "12.6M",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.4M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "3.4M"
+            },
+            {
+              "region": "STORM",
+              "value": "3.2M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "3.5M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 14,
+          "player": "LARP kizaaru",
+          "clan": null,
+          "value": "12.4M",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.5M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "3.5M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.6M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.8M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 15,
+          "player": "LARP ELMACHOTACHO",
+          "clan": null,
+          "value": "12.4M",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.1M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "3.3M"
+            },
+            {
+              "region": "STORM",
+              "value": "3.0M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "3.0M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 16,
+          "player": "RST knkriGonoreitaPA",
+          "clan": null,
+          "value": "12.1M",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.5M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.9M"
+            },
+            {
+              "region": "STORM",
+              "value": "3.2M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.5M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 17,
+          "player": "SWG Clinkz",
+          "clan": null,
+          "value": "12.0M",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.6M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "3.2M"
+            },
+            {
+              "region": "STORM",
+              "value": "3.0M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "3.2M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 18,
+          "player": "GBC 汐晨",
+          "clan": null,
+          "value": "11.7M",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.8M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.8M"
+            },
+            {
+              "region": "STORM",
+              "value": "3.2M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "3.0M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 19,
+          "player": "RST Gawl",
+          "clan": null,
+          "value": "11.7M",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.5M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "3.6M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.8M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.8M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 20,
+          "player": "PACC Jloader",
+          "clan": null,
+          "value": "11.6M",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.0M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "3.0M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.7M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.9M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 21,
+          "player": "BONK SlashBellamy",
+          "clan": null,
+          "value": "11.6M",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.8M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "1.6M"
+            },
+            {
+              "region": "STORM",
+              "value": "3.4M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.9M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 22,
+          "player": "RST Bacus01",
+          "clan": null,
+          "value": "11.4M",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.6M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "1.7M"
+            },
+            {
+              "region": "STORM",
+              "value": "3.0M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "3.0M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 23,
+          "player": "OF 春 夏 秋 冬",
+          "clan": null,
+          "value": "11.4M",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.0M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.5M"
+            },
+            {
+              "region": "STORM",
+              "value": "3.4M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.6M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 24,
+          "player": "KUBI onSTRANN1Y",
+          "clan": null,
+          "value": "11.4M",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.3M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.8M"
+            },
+            {
+              "region": "STORM",
+              "value": "3.3M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.0M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 25,
+          "player": "KUB2 cotope",
+          "clan": null,
+          "value": "11.1M",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.1M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.7M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.5M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.9M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 26,
+          "player": "LODN BobyBob",
+          "clan": null,
+          "value": "11.0M",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "1.9M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "3.2M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.9M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "3.0M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 27,
+          "player": "SKYD DIooo",
+          "clan": null,
+          "value": "10.8M",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.6M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.1M"
+            },
+            {
+              "region": "STORM",
+              "value": "3.3M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.8M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 28,
+          "player": "KUBI Max Verstappen",
+          "clan": null,
+          "value": "10.8M",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "1.9M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.5M"
+            },
+            {
+              "region": "STORM",
+              "value": "3.4M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "3.0M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 29,
+          "player": "VKY Bonnard",
+          "clan": null,
+          "value": "10.7M",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.0M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.8M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.5M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.3M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 30,
+          "player": "LARP 도파민",
+          "clan": null,
+          "value": "10.6M",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.6M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.7M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.8M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.5M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 31,
+          "player": "RST vipxx",
+          "clan": null,
+          "value": "10.6M",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.8M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.5M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.5M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.7M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 32,
+          "player": "BONK Hydraldinho",
+          "clan": null,
+          "value": "10.5M",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "1.9M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.4M"
+            },
+            {
+              "region": "STORM",
+              "value": "3.2M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "3.0M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 33,
+          "player": "RST Masiivez",
+          "clan": null,
+          "value": "10.4M",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.1M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.4M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.9M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.0M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 34,
+          "player": "AIS rexkater",
+          "clan": null,
+          "value": "10.3M",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.6M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "1.9M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.7M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "3.1M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 35,
+          "player": "EOT Odir",
+          "clan": null,
+          "value": "10.2M",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.5M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.9M"
+            },
+            {
+              "region": "STORM",
+              "value": "1.6M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.3M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 36,
+          "player": "RST Mono289",
+          "clan": null,
+          "value": "10.1M",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.6M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "3.2M"
+            },
+            {
+              "region": "STORM",
+              "value": "3.2M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "90.0k"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 37,
+          "player": "OF sreyess",
+          "clan": null,
+          "value": "10.0M",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.6M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.5M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.6M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.3M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 38,
+          "player": "PHA Refuuh",
+          "clan": null,
+          "value": "10.0M",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.7M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.5M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.2M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.6M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 39,
+          "player": "PPP maccha",
+          "clan": null,
+          "value": "10.0M",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.0M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "3.1M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.0M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.0M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 40,
+          "player": "BONK Xyleph",
+          "clan": null,
+          "value": "9.9M",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.6M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.8M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.3M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.2M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 41,
+          "player": "OF Foruka",
+          "clan": null,
+          "value": "9.7M",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "1.8M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "3.0M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.1M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.7M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 42,
+          "player": "OF chudweiser",
+          "clan": null,
+          "value": "9.6M",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.9M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.9M"
+            },
+            {
+              "region": "STORM",
+              "value": "1.6M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.2M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 43,
+          "player": "BONK Tayro",
+          "clan": null,
+          "value": "9.6M",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.1M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.3M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.9M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.4M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 44,
+          "player": "KUBI El_Rovando",
+          "clan": null,
+          "value": "9.5M",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "ROCKY",
+              "value": "3.6M"
+            },
+            {
+              "region": "STORM",
+              "value": "3.7M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.3M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 45,
+          "player": "BONK Pinut",
+          "clan": null,
+          "value": "9.3M",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.1M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.8M"
+            },
+            {
+              "region": "STORM",
+              "value": "1.6M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "1.8M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 46,
+          "player": "LCS branluv",
+          "clan": null,
+          "value": "9.3M",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.2M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "3.1M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.8M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "112.8k"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 47,
+          "player": "TL SussyPlus",
+          "clan": null,
+          "value": "9.2M",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.1M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.0M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.4M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.7M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 48,
+          "player": "BONK JaeLL",
+          "clan": null,
+          "value": "9.2M",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.1M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.9M"
+            },
+            {
+              "region": "STORM",
+              "value": "1.8M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.4M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 49,
+          "player": "RST poio",
+          "clan": null,
+          "value": "9.2M",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.3M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.6M"
+            },
+            {
+              "region": "STORM",
+              "value": "3.2M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "10.7k"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 50,
+          "player": "小猫三文鱼",
+          "clan": null,
+          "value": "9.1M",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.0M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.1M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.8M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.2M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 51,
+          "player": "RST Haliax",
+          "clan": null,
+          "value": "9.1M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.1M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.5M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.6M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.0M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 52,
+          "player": "UWU AlainS4",
+          "clan": null,
+          "value": "9.0M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.9M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "3.7M"
+            },
+            {
+              "region": "STORM",
+              "value": "1.4M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "1485"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 53,
+          "player": "RST patataotaku",
+          "clan": null,
+          "value": "9.0M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.9M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.5M"
+            },
+            {
+              "region": "STORM",
+              "value": "1.2M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.3M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 54,
+          "player": "EGG 巴皮包米雞",
+          "clan": null,
+          "value": "9.0M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.1M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.2M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.3M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.3M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 55,
+          "player": "EX 97709",
+          "clan": null,
+          "value": "8.8M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.8M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "1.8M"
+            },
+            {
+              "region": "STORM",
+              "value": "1.9M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.4M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 56,
+          "player": "KC27 Haouzen",
+          "clan": null,
+          "value": "8.8M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.2M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.9M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.7M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 57,
+          "player": "LLT neqdes",
+          "clan": null,
+          "value": "8.8M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.7M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "1.8M"
+            },
+            {
+              "region": "STORM",
+              "value": "1.7M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.6M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 58,
+          "player": "OF ELMO麤爆",
+          "clan": null,
+          "value": "8.7M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.5M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.5M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.5M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "1.2M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 59,
+          "player": "EOT PepsiDiCola",
+          "clan": null,
+          "value": "8.6M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.9M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.0M"
+            },
+            {
+              "region": "STORM",
+              "value": "1.4M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.4M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 60,
+          "player": "KUBI Однорукос",
+          "clan": null,
+          "value": "8.6M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.3M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "7484"
+            },
+            {
+              "region": "STORM",
+              "value": "2.1M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "3.2M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 61,
+          "player": "EGG Huyunatume",
+          "clan": null,
+          "value": "8.5M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.8M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.7M"
+            },
+            {
+              "region": "STORM",
+              "value": "3.1M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 62,
+          "player": "OF TangYuan",
+          "clan": null,
+          "value": "8.4M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.4M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.4M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.1M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "1.6M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 63,
+          "player": "BONK riahC",
+          "clan": null,
+          "value": "8.3M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.3M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "1.9M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.0M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.0M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 64,
+          "player": "BONK Ains",
+          "clan": null,
+          "value": "8.3M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.1M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.1M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.5M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "1.5M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 65,
+          "player": "KUBI im vem",
+          "clan": null,
+          "value": "8.2M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.8M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.8M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.7M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "681"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 66,
+          "player": "OF Goosepacks",
+          "clan": null,
+          "value": "8.2M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.6M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.2M"
+            },
+            {
+              "region": "STORM",
+              "value": "3.3M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "5586"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 67,
+          "player": "BLBL 荒天帝",
+          "clan": null,
+          "value": "8.1M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "1.7M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "1.7M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.1M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.7M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 68,
+          "player": "TOPG 7ter",
+          "clan": null,
+          "value": "8.1M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "1.3M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "1.8M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.4M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.6M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 69,
+          "player": "BBU 바보",
+          "clan": null,
+          "value": "8.1M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.2M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.0M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.4M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "1.5M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 70,
+          "player": "RST Nebu",
+          "clan": null,
+          "value": "8.1M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.5M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.2M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.1M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "1.2M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 71,
+          "player": "BONK 玛少爷",
+          "clan": null,
+          "value": "8.0M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.3M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.1M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.6M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2536"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 72,
+          "player": "LODN Mikachu",
+          "clan": null,
+          "value": "7.8M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.5M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "1.5M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.2M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "1.6M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 73,
+          "player": "YG Fize",
+          "clan": null,
+          "value": "7.8M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.3M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "1.9M"
+            },
+            {
+              "region": "STORM",
+              "value": "1.5M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.1M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 74,
+          "player": "yueju",
+          "clan": null,
+          "value": "7.8M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "1.9M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.1M"
+            },
+            {
+              "region": "STORM",
+              "value": "1.7M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.1M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 75,
+          "player": "RST mrtoniet",
+          "clan": null,
+          "value": "7.8M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.3M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "3.1M"
+            },
+            {
+              "region": "STORM",
+              "value": "1.4M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "1.0M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 76,
+          "player": "WRU swellificent",
+          "clan": null,
+          "value": "7.7M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.0M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.1M"
+            },
+            {
+              "region": "STORM",
+              "value": "1.9M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "1.7M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 77,
+          "player": "SUR mcyai",
+          "clan": null,
+          "value": "7.7M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.1M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "1.7M"
+            },
+            {
+              "region": "STORM",
+              "value": "1.9M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.1M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 78,
+          "player": "TOPG kurice",
+          "clan": null,
+          "value": "7.7M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "1.3M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "1.4M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.5M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.6M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 79,
+          "player": "RST SrGheru",
+          "clan": null,
+          "value": "7.7M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.0M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.4M"
+            },
+            {
+              "region": "STORM",
+              "value": "1.3M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "1.1M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 80,
+          "player": "BONK MinK",
+          "clan": null,
+          "value": "7.6M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.5M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.9M"
+            },
+            {
+              "region": "STORM",
+              "value": "1.3M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 81,
+          "player": "OF Blaauwe",
+          "clan": null,
+          "value": "7.6M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "1.2M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "1.8M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.0M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.5M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 82,
+          "player": "WAZZ Lettucee",
+          "clan": null,
+          "value": "7.6M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.9M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.4M"
+            },
+            {
+              "region": "STORM",
+              "value": "1.2M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "1.1M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 83,
+          "player": "EGG c89371",
+          "clan": null,
+          "value": "7.6M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "1.7M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.0M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.2M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "1.8M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 84,
+          "player": "SCY MatuteSSJ",
+          "clan": null,
+          "value": "7.6M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "1.8M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "1.5M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.1M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.1M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 85,
+          "player": "inSE",
+          "clan": null,
+          "value": "7.6M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "1.6M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "1.7M"
+            },
+            {
+              "region": "STORM",
+              "value": "1.7M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.5M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 86,
+          "player": "OF Judge",
+          "clan": null,
+          "value": "7.5M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.5M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.4M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.6M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 87,
+          "player": "Realyardie",
+          "clan": null,
+          "value": "7.5M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.0M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "1.4M"
+            },
+            {
+              "region": "STORM",
+              "value": "1.7M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.4M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 88,
+          "player": "KUBI Rentaro",
+          "clan": null,
+          "value": "7.5M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.1M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.3M"
+            },
+            {
+              "region": "STORM",
+              "value": "3.0M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "111.8k"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 89,
+          "player": "RST GamerLongudo",
+          "clan": null,
+          "value": "7.5M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.4M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "1.6M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.5M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 90,
+          "player": "KUB2 ArchPage",
+          "clan": null,
+          "value": "7.5M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.3M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.1M"
+            },
+            {
+              "region": "STORM",
+              "value": "1.8M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "1.2M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 91,
+          "player": "TOPG Uuuuü",
+          "clan": null,
+          "value": "7.4M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.1M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "1.8M"
+            },
+            {
+              "region": "STORM",
+              "value": "1.6M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "1.8M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 92,
+          "player": "PMR doufugan",
+          "clan": null,
+          "value": "7.4M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.6M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.6M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.2M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "4645"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 93,
+          "player": "BONK Ugart03",
+          "clan": null,
+          "value": "7.4M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.5M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "3.3M"
+            },
+            {
+              "region": "STORM",
+              "value": "575.1k"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "5128"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 94,
+          "player": "LODN Zasq",
+          "clan": null,
+          "value": "7.4M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "1.9M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "1.7M"
+            },
+            {
+              "region": "STORM",
+              "value": "1.7M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.1M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 95,
+          "player": "LARP jyyyyyyyyy",
+          "clan": null,
+          "value": "7.3M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.6M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "1.9M"
+            },
+            {
+              "region": "STORM",
+              "value": "2.8M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "6975"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 96,
+          "player": "BONK rojaroja",
+          "clan": null,
+          "value": "7.3M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.7M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "1.4M"
+            },
+            {
+              "region": "STORM",
+              "value": "1.5M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "1.8M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 97,
+          "player": "OF Fanatiko",
+          "clan": null,
+          "value": "7.2M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3.3M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "14.4k"
+            },
+            {
+              "region": "STORM",
+              "value": "1.2M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.8M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 98,
+          "player": "KUB2 hekogs",
+          "clan": null,
+          "value": "7.2M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.6M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "3.4M"
+            },
+            {
+              "region": "STORM",
+              "value": "1.0M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "168.3k"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 99,
+          "player": "Chest Silvers",
+          "clan": null,
+          "value": "7.1M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "1.1M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "2.1M"
+            },
+            {
+              "region": "STORM",
+              "value": "1.8M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "2.1M"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 100,
+          "player": "KUBI MOPCKOi",
+          "clan": null,
+          "value": "7.0M",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "2.7M"
+            },
+            {
+              "region": "ROCKY",
+              "value": "1.2M"
+            },
+            {
+              "region": "STORM",
+              "value": "1.8M"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "1.4M"
+            }
+          ],
+          "isDetails": false
+        }
+      ],
+      "trainerCount": "211.0k"
+    },
+    {
+      "id": "survival",
+      "label": "Survival",
+      "rule": "Adds up the longest survival time in each region. KOs break ties. Higher time is better.",
+      "entries": [
+        {
+          "rank": 1,
+          "player": "GAY7 Baymax",
+          "clan": null,
+          "value": "1080:00",
+          "badge": "Master",
+          "regions": [
+            {
+              "region": "ROCKY",
+              "value": "360:00"
+            },
+            {
+              "region": "STORM",
+              "value": "360:00"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "360:00"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 2,
+          "player": "CyclicPlains264",
+          "clan": null,
+          "value": "720:00",
+          "badge": "Elite",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "360:00"
+            },
+            {
+              "region": "ROCKY",
+              "value": "360:00"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 3,
+          "player": "SA TengWan",
+          "clan": null,
+          "value": "617:00",
+          "badge": "Elite",
+          "regions": [
+            {
+              "region": "STORM",
+              "value": "257:00"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "360:00"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 4,
+          "player": "HINJJ5",
+          "clan": null,
+          "value": "512:17",
+          "badge": "Top 10",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "152:17"
+            },
+            {
+              "region": "ROCKY",
+              "value": "360:00"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 5,
+          "player": "SSSS 墨桃",
+          "clan": null,
+          "value": "510:45",
+          "badge": "Top 10",
+          "regions": [
+            {
+              "region": "STORM",
+              "value": "360:00"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "150:45"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 6,
+          "player": "BHB lords66",
+          "clan": null,
+          "value": "448:38",
+          "badge": "Top 10",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "160:35"
+            },
+            {
+              "region": "ROCKY",
+              "value": "134:00"
+            },
+            {
+              "region": "STORM",
+              "value": "154:03"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 7,
+          "player": "NBT Thuglife",
+          "clan": null,
+          "value": "441:23",
+          "badge": "Top 10",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "99:39"
+            },
+            {
+              "region": "ROCKY",
+              "value": "240:11"
+            },
+            {
+              "region": "STORM",
+              "value": "101:33"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 8,
+          "player": "SA humortt7",
+          "clan": null,
+          "value": "392:52",
+          "badge": "Top 10",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "360:00"
+            },
+            {
+              "region": "ROCKY",
+              "value": "1:28"
+            },
+            {
+              "region": "STORM",
+              "value": "0:04"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "31:20"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 9,
+          "player": "SA DanteAlucard",
+          "clan": null,
+          "value": "360:00",
+          "badge": "Top 10",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "360:00"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 10,
+          "player": "PRAY Weso",
+          "clan": null,
+          "value": "360:00",
+          "badge": "Top 10",
+          "regions": [
+            {
+              "region": "ROCKY",
+              "value": "360:00"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 11,
+          "player": "GOLD Meow_BB",
+          "clan": null,
+          "value": "360:00",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "ROCKY",
+              "value": "360:00"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 12,
+          "player": "无敌奶龙大王",
+          "clan": null,
+          "value": "360:00",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "ROCKY",
+              "value": "360:00"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 13,
+          "player": "YUKIASUNA",
+          "clan": null,
+          "value": "360:00",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "360:00"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 14,
+          "player": "BUR Jackpot777",
+          "clan": null,
+          "value": "360:00",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "360:00"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 15,
+          "player": "DLS pokemaniatic",
+          "clan": null,
+          "value": "360:00",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "360:00"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 16,
+          "player": "1336775977",
+          "clan": null,
+          "value": "360:00",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "STORM",
+              "value": "360:00"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 17,
+          "player": "GBC LinLiL",
+          "clan": null,
+          "value": "335:14",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "ROCKY",
+              "value": "188:11"
+            },
+            {
+              "region": "STORM",
+              "value": "147:03"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 18,
+          "player": "squllpan",
+          "clan": null,
+          "value": "316:45",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "STORM",
+              "value": "129:29"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "187:16"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 19,
+          "player": "ZTMY WhoKorea",
+          "clan": null,
+          "value": "310:31",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "310:31"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 20,
+          "player": "彭贤德",
+          "clan": null,
+          "value": "309:53",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "84:12"
+            },
+            {
+              "region": "ROCKY",
+              "value": "225:41"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 21,
+          "player": "EYE skeletongang",
+          "clan": null,
+          "value": "305:29",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "305:29"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 22,
+          "player": "SA LaiNowa",
+          "clan": null,
+          "value": "298:31",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "142:41"
+            },
+            {
+              "region": "ROCKY",
+              "value": "155:50"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 23,
+          "player": "EGG kenq",
+          "clan": null,
+          "value": "295:35",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "123:20"
+            },
+            {
+              "region": "ROCKY",
+              "value": "55:05"
+            },
+            {
+              "region": "STORM",
+              "value": "117:10"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 24,
+          "player": "LJJ Gronckano",
+          "clan": null,
+          "value": "295:27",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "5:23"
+            },
+            {
+              "region": "ROCKY",
+              "value": "290:04"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 25,
+          "player": "GBC lucy231",
+          "clan": null,
+          "value": "294:22",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "152:20"
+            },
+            {
+              "region": "ROCKY",
+              "value": "142:02"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 26,
+          "player": "TWP 遊狼皇",
+          "clan": null,
+          "value": "290:47",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "290:47"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 27,
+          "player": "EGG YL1YongLong",
+          "clan": null,
+          "value": "290:04",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "CELESTIAL",
+              "value": "290:04"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 28,
+          "player": "BIKA k3345678",
+          "clan": null,
+          "value": "269:13",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "86:52"
+            },
+            {
+              "region": "ROCKY",
+              "value": "103:01"
+            },
+            {
+              "region": "STORM",
+              "value": "79:20"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 29,
+          "player": "HALL Mimik_26",
+          "clan": null,
+          "value": "266:19",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "54:17"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "212:02"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 30,
+          "player": "DM 4shen_0ne",
+          "clan": null,
+          "value": "262:42",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "262:42"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 31,
+          "player": "LHQqqq",
+          "clan": null,
+          "value": "260:15",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "260:15"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 32,
+          "player": "Trainer GJ",
+          "clan": null,
+          "value": "256:21",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "ROCKY",
+              "value": "152:59"
+            },
+            {
+              "region": "STORM",
+              "value": "92:36"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "10:46"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 33,
+          "player": "ZS MilkyT",
+          "clan": null,
+          "value": "255:55",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "255:55"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 34,
+          "player": "scz0428",
+          "clan": null,
+          "value": "255:53",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "77:20"
+            },
+            {
+              "region": "STORM",
+              "value": "79:49"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "98:44"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 35,
+          "player": "STEP TheCup",
+          "clan": null,
+          "value": "255:34",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "CELESTIAL",
+              "value": "255:34"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 36,
+          "player": "Zarhcos",
+          "clan": null,
+          "value": "252:44",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "147:30"
+            },
+            {
+              "region": "ROCKY",
+              "value": "105:14"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 37,
+          "player": "Fluki319",
+          "clan": null,
+          "value": "252:09",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "26:05"
+            },
+            {
+              "region": "STORM",
+              "value": "226:04"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 38,
+          "player": "ORG Protohobo",
+          "clan": null,
+          "value": "249:24",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "STORM",
+              "value": "112:46"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "136:38"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 39,
+          "player": "kyadmak",
+          "clan": null,
+          "value": "248:36",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "248:36"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 40,
+          "player": "Keiz",
+          "clan": null,
+          "value": "248:15",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "ROCKY",
+              "value": "119:22"
+            },
+            {
+              "region": "STORM",
+              "value": "128:53"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 41,
+          "player": "Lexida",
+          "clan": null,
+          "value": "244:42",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "100:04"
+            },
+            {
+              "region": "STORM",
+              "value": "144:38"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 42,
+          "player": "chenguiye",
+          "clan": null,
+          "value": "243:25",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "108:45"
+            },
+            {
+              "region": "ROCKY",
+              "value": "134:40"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 43,
+          "player": "GB asd545454487",
+          "clan": null,
+          "value": "243:11",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "STORM",
+              "value": "111:53"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "131:18"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 44,
+          "player": "yeer",
+          "clan": null,
+          "value": "242:05",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "242:05"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 45,
+          "player": "FSN seiweiy",
+          "clan": null,
+          "value": "241:55",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "241:55"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 46,
+          "player": "shimizu",
+          "clan": null,
+          "value": "241:21",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "241:21"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 47,
+          "player": "TOS LILING9",
+          "clan": null,
+          "value": "238:36",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "228:27"
+            },
+            {
+              "region": "ROCKY",
+              "value": "10:09"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 48,
+          "player": "Aliang12345",
+          "clan": null,
+          "value": "232:00",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "132:45"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "99:15"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 49,
+          "player": "摆摆摆",
+          "clan": null,
+          "value": "231:26",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "231:26"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 50,
+          "player": "NVG NekooDark22",
+          "clan": null,
+          "value": "231:10",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "231:10"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 51,
+          "player": "SA 十月潇潇逆水寒",
+          "clan": null,
+          "value": "230:45",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "100:14"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "130:31"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 52,
+          "player": "렁구",
+          "clan": null,
+          "value": "230:36",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "230:36"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 53,
+          "player": "GZLH Mst1z",
+          "clan": null,
+          "value": "230:00",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "ROCKY",
+              "value": "230:00"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 54,
+          "player": "夏目与鱼丶",
+          "clan": null,
+          "value": "229:44",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "229:44"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 55,
+          "player": "DIEU Limule",
+          "clan": null,
+          "value": "229:29",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "73:39"
+            },
+            {
+              "region": "ROCKY",
+              "value": "83:14"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "72:36"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 56,
+          "player": "GOL Casket",
+          "clan": null,
+          "value": "227:25",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "227:25"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 57,
+          "player": "LODN Jonathan3819",
+          "clan": null,
+          "value": "227:17",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "129:41"
+            },
+            {
+              "region": "ROCKY",
+              "value": "96:45"
+            },
+            {
+              "region": "STORM",
+              "value": "0:51"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 58,
+          "player": "RRR poipola",
+          "clan": null,
+          "value": "225:49",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "ROCKY",
+              "value": "225:25"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "0:24"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 59,
+          "player": "DO siaoya",
+          "clan": null,
+          "value": "220:56",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "80:16"
+            },
+            {
+              "region": "STORM",
+              "value": "140:40"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 60,
+          "player": "CSTG 神仙救狗",
+          "clan": null,
+          "value": "220:52",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "101:41"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "119:11"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 61,
+          "player": "kjchoi",
+          "clan": null,
+          "value": "220:50",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "220:50"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 62,
+          "player": "MAPX McQueeen",
+          "clan": null,
+          "value": "220:04",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "194:52"
+            },
+            {
+              "region": "ROCKY",
+              "value": "25:12"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 63,
+          "player": "EOT diaodiao",
+          "clan": null,
+          "value": "220:00",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "ROCKY",
+              "value": "220:00"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 64,
+          "player": "Reyalos",
+          "clan": null,
+          "value": "218:57",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "218:57"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 65,
+          "player": "阿纲",
+          "clan": null,
+          "value": "218:55",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "ROCKY",
+              "value": "218:55"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 66,
+          "player": "Chirkemon",
+          "clan": null,
+          "value": "217:10",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "119:23"
+            },
+            {
+              "region": "ROCKY",
+              "value": "97:15"
+            },
+            {
+              "region": "STORM",
+              "value": "0:32"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 67,
+          "player": "SKYD Apollyon93",
+          "clan": null,
+          "value": "216:34",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "ROCKY",
+              "value": "216:34"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 68,
+          "player": "城西小主",
+          "clan": null,
+          "value": "216:30",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "STORM",
+              "value": "216:30"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 69,
+          "player": "Hades_SnV",
+          "clan": null,
+          "value": "213:12",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "5:03"
+            },
+            {
+              "region": "ROCKY",
+              "value": "65:28"
+            },
+            {
+              "region": "STORM",
+              "value": "142:41"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 70,
+          "player": "IMI GuiltyOfFire",
+          "clan": null,
+          "value": "213:02",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "ROCKY",
+              "value": "134:25"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "78:37"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 71,
+          "player": "SUP God_",
+          "clan": null,
+          "value": "207:24",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "ROCKY",
+              "value": "207:24"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 72,
+          "player": "BONK Lawz",
+          "clan": null,
+          "value": "205:03",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "STORM",
+              "value": "2:00"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "203:03"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 73,
+          "player": "KC27 yungbaccycone",
+          "clan": null,
+          "value": "204:53",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "5:30"
+            },
+            {
+              "region": "ROCKY",
+              "value": "199:23"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 74,
+          "player": "STEP 令山泡茶",
+          "clan": null,
+          "value": "204:17",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "204:17"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 75,
+          "player": "lvl94Asuna",
+          "clan": null,
+          "value": "203:58",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "203:58"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 76,
+          "player": "WN1 圖坦卡門找鎖匠",
+          "clan": null,
+          "value": "203:42",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "203:42"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 77,
+          "player": "MMB 一只小火龙",
+          "clan": null,
+          "value": "203:18",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "97:06"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "106:12"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 78,
+          "player": "AIS 巰兿",
+          "clan": null,
+          "value": "202:59",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "92:29"
+            },
+            {
+              "region": "ROCKY",
+              "value": "110:30"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 79,
+          "player": "D4 lawleit",
+          "clan": null,
+          "value": "202:45",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "STORM",
+              "value": "2:37"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "200:08"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 80,
+          "player": "AT tabuzai",
+          "clan": null,
+          "value": "202:28",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "202:28"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 81,
+          "player": "PRHB h12teo",
+          "clan": null,
+          "value": "201:22",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "ROCKY",
+              "value": "201:22"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 82,
+          "player": "QAQ spenta",
+          "clan": null,
+          "value": "201:20",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "201:20"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 83,
+          "player": "Missordinary",
+          "clan": null,
+          "value": "201:19",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "201:19"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 84,
+          "player": "LeSouricier",
+          "clan": null,
+          "value": "201:09",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "84:56"
+            },
+            {
+              "region": "ROCKY",
+              "value": "116:13"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 85,
+          "player": "littledutra",
+          "clan": null,
+          "value": "200:47",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "200:47"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 86,
+          "player": "TL Pokemoooooon",
+          "clan": null,
+          "value": "200:34",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "ROCKY",
+              "value": "12:06"
+            },
+            {
+              "region": "STORM",
+              "value": "188:28"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 87,
+          "player": "OF Hoho_o",
+          "clan": null,
+          "value": "200:20",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "STORM",
+              "value": "200:20"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 88,
+          "player": "EOT AlphaMonke",
+          "clan": null,
+          "value": "200:18",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "200:18"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 89,
+          "player": "SA AnDR0X",
+          "clan": null,
+          "value": "200:13",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "200:13"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 90,
+          "player": "qxxzz",
+          "clan": null,
+          "value": "200:02",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "200:02"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 91,
+          "player": "芳心纵火犯",
+          "clan": null,
+          "value": "200:01",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "ROCKY",
+              "value": "200:01"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 92,
+          "player": "TRPA Moaisito",
+          "clan": null,
+          "value": "197:15",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "197:15"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 93,
+          "player": "LDL Fulnow",
+          "clan": null,
+          "value": "195:48",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "190:03"
+            },
+            {
+              "region": "ROCKY",
+              "value": "5:45"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 94,
+          "player": "DiexGod",
+          "clan": null,
+          "value": "194:53",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "140:23"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "54:30"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 95,
+          "player": "Leolitia",
+          "clan": null,
+          "value": "194:50",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "73:33"
+            },
+            {
+              "region": "STORM",
+              "value": "58:38"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "62:39"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 96,
+          "player": "CNI 沙雕",
+          "clan": null,
+          "value": "193:57",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "77:27"
+            },
+            {
+              "region": "ROCKY",
+              "value": "116:30"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 97,
+          "player": "DDDDY",
+          "clan": null,
+          "value": "192:19",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "192:19"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 98,
+          "player": "GOLD WRC",
+          "clan": null,
+          "value": "191:55",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "74:33"
+            },
+            {
+              "region": "ROCKY",
+              "value": "41:52"
+            },
+            {
+              "region": "STORM",
+              "value": "26:00"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "49:30"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 99,
+          "player": "RRR 带来和平",
+          "clan": null,
+          "value": "191:42",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "127:07"
+            },
+            {
+              "region": "STORM",
+              "value": "64:35"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 100,
+          "player": "Covers",
+          "clan": null,
+          "value": "191:41",
+          "badge": "Top 100",
+          "regions": [
+            {
+              "region": "ROCKY",
+              "value": "191:41"
+            }
+          ],
+          "isDetails": false
+        }
+      ],
+      "trainerCount": "24.0k"
+    },
+    {
+      "id": "time",
+      "label": "Time attack",
+      "rule": "Regions won comes first, then the sum of the fastest regional wins, on any difficulty. Lower time wins within the same region count.",
+      "entries": [
+        {
+          "rank": 1,
+          "player": "BONK Bazil",
+          "clan": null,
+          "value": "15:15.3",
+          "badge": "Master",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3:56"
+            },
+            {
+              "region": "ROCKY",
+              "value": "3:53"
+            },
+            {
+              "region": "STORM",
+              "value": "3:42"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "3:42"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 2,
+          "player": "FDM Dumbling",
+          "clan": null,
+          "value": "15:34.0",
+          "badge": "Elite",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "4:04"
+            },
+            {
+              "region": "ROCKY",
+              "value": "3:32"
+            },
+            {
+              "region": "STORM",
+              "value": "3:39"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "4:17"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 3,
+          "player": "TW01 暮初雨",
+          "clan": null,
+          "value": "15:37.0",
+          "badge": "Elite",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "4:09"
+            },
+            {
+              "region": "ROCKY",
+              "value": "3:49"
+            },
+            {
+              "region": "STORM",
+              "value": "3:35"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "4:02"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 4,
+          "player": "patowo",
+          "clan": null,
+          "value": "15:58.8",
+          "badge": "Top 10",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3:56"
+            },
+            {
+              "region": "ROCKY",
+              "value": "3:57"
+            },
+            {
+              "region": "STORM",
+              "value": "3:51"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "4:13"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 5,
+          "player": "BLBL xiaoqie",
+          "clan": null,
+          "value": "16:15.9",
+          "badge": "Top 10",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "3:53"
+            },
+            {
+              "region": "ROCKY",
+              "value": "3:58"
+            },
+            {
+              "region": "STORM",
+              "value": "4:17"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "4:06"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 6,
+          "player": "CNI Tok",
+          "clan": null,
+          "value": "18:52.6",
+          "badge": "Top 10",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "4:36"
+            },
+            {
+              "region": "ROCKY",
+              "value": "4:14"
+            },
+            {
+              "region": "STORM",
+              "value": "4:53"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "5:08"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 7,
+          "player": "SA 温澜潮生",
+          "clan": null,
+          "value": "19:31.3",
+          "badge": "Top 10",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "4:41"
+            },
+            {
+              "region": "ROCKY",
+              "value": "4:22"
+            },
+            {
+              "region": "STORM",
+              "value": "4:56"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "5:30"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 8,
+          "player": "BONK oUo_媽媽有雞",
+          "clan": null,
+          "value": "20:16.1",
+          "badge": "Top 10",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "5:15"
+            },
+            {
+              "region": "ROCKY",
+              "value": "4:13"
+            },
+            {
+              "region": "STORM",
+              "value": "5:46"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "5:01"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 9,
+          "player": "tim15677",
+          "clan": null,
+          "value": "20:16.8",
+          "badge": "Top 10",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "4:39"
+            },
+            {
+              "region": "ROCKY",
+              "value": "5:31"
+            },
+            {
+              "region": "STORM",
+              "value": "5:30"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "4:35"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 10,
+          "player": "传说中的锤子",
+          "clan": null,
+          "value": "20:20.1",
+          "badge": "Top 10",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "4:24"
+            },
+            {
+              "region": "ROCKY",
+              "value": "4:31"
+            },
+            {
+              "region": "STORM",
+              "value": "5:36"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "5:47"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 11,
+          "player": "zzjjbns",
+          "clan": null,
+          "value": "20:50.1",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "5:11"
+            },
+            {
+              "region": "ROCKY",
+              "value": "4:58"
+            },
+            {
+              "region": "STORM",
+              "value": "5:38"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "5:01"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 12,
+          "player": "DESJ lllll_gbf",
+          "clan": null,
+          "value": "20:52.8",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "4:59"
+            },
+            {
+              "region": "ROCKY",
+              "value": "5:15"
+            },
+            {
+              "region": "STORM",
+              "value": "4:48"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "5:48"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 13,
+          "player": "taigahu",
+          "clan": null,
+          "value": "21:15.8",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "5:12"
+            },
+            {
+              "region": "ROCKY",
+              "value": "5:28"
+            },
+            {
+              "region": "STORM",
+              "value": "4:55"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "5:39"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 14,
+          "player": "CAT 快乐的小男生",
+          "clan": null,
+          "value": "21:27.6",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "5:55"
+            },
+            {
+              "region": "ROCKY",
+              "value": "5:13"
+            },
+            {
+              "region": "STORM",
+              "value": "4:42"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "5:36"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 15,
+          "player": "MVM ericyeung1211",
+          "clan": null,
+          "value": "21:38.1",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "5:22"
+            },
+            {
+              "region": "ROCKY",
+              "value": "5:11"
+            },
+            {
+              "region": "STORM",
+              "value": "4:58"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "6:04"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 16,
+          "player": "tooqan",
+          "clan": null,
+          "value": "22:00.8",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "5:16"
+            },
+            {
+              "region": "ROCKY",
+              "value": "5:57"
+            },
+            {
+              "region": "STORM",
+              "value": "5:20"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "5:27"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 17,
+          "player": "QAQ Alpaca648",
+          "clan": null,
+          "value": "22:13.8",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "6:23"
+            },
+            {
+              "region": "ROCKY",
+              "value": "5:02"
+            },
+            {
+              "region": "STORM",
+              "value": "5:12"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "5:35"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 18,
+          "player": "KUBI whitearmor",
+          "clan": null,
+          "value": "22:51.0",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "5:33"
+            },
+            {
+              "region": "ROCKY",
+              "value": "5:12"
+            },
+            {
+              "region": "STORM",
+              "value": "6:32"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "5:32"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 19,
+          "player": "PkmnLudo",
+          "clan": null,
+          "value": "22:51.8",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "5:37"
+            },
+            {
+              "region": "ROCKY",
+              "value": "5:19"
+            },
+            {
+              "region": "STORM",
+              "value": "5:15"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "6:39"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 20,
+          "player": "OF OpYaD",
+          "clan": null,
+          "value": "23:08.3",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "5:31"
+            },
+            {
+              "region": "ROCKY",
+              "value": "5:06"
+            },
+            {
+              "region": "STORM",
+              "value": "7:16"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "5:14"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 21,
+          "player": "lin",
+          "clan": null,
+          "value": "23:26.3",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "5:37"
+            },
+            {
+              "region": "ROCKY",
+              "value": "5:41"
+            },
+            {
+              "region": "STORM",
+              "value": "5:07"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "6:59"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 22,
+          "player": "CDEX Juicebox",
+          "clan": null,
+          "value": "23:46.8",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "5:02"
+            },
+            {
+              "region": "ROCKY",
+              "value": "6:46"
+            },
+            {
+              "region": "STORM",
+              "value": "5:46"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "6:11"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 23,
+          "player": "DESJ ChaY",
+          "clan": null,
+          "value": "24:00.1",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "7:19"
+            },
+            {
+              "region": "ROCKY",
+              "value": "6:38"
+            },
+            {
+              "region": "STORM",
+              "value": "5:47"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "4:14"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 24,
+          "player": "pokemsj",
+          "clan": null,
+          "value": "24:03.6",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "5:30"
+            },
+            {
+              "region": "ROCKY",
+              "value": "6:09"
+            },
+            {
+              "region": "STORM",
+              "value": "5:28"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "6:54"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 25,
+          "player": "kimngana",
+          "clan": null,
+          "value": "24:12.5",
+          "badge": "Top 25",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "6:25"
+            },
+            {
+              "region": "ROCKY",
+              "value": "5:36"
+            },
+            {
+              "region": "STORM",
+              "value": "5:45"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "6:25"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 26,
+          "player": "ICBE 6666666",
+          "clan": null,
+          "value": "24:33.0",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "7:05"
+            },
+            {
+              "region": "ROCKY",
+              "value": "5:11"
+            },
+            {
+              "region": "STORM",
+              "value": "6:03"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "6:11"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 27,
+          "player": "xiaoQ",
+          "clan": null,
+          "value": "26:27.0",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "7:08"
+            },
+            {
+              "region": "ROCKY",
+              "value": "6:06"
+            },
+            {
+              "region": "STORM",
+              "value": "6:26"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "6:45"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 28,
+          "player": "CDEX Omn1verse",
+          "clan": null,
+          "value": "26:40.2",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "5:23"
+            },
+            {
+              "region": "ROCKY",
+              "value": "6:30"
+            },
+            {
+              "region": "STORM",
+              "value": "6:00"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "8:46"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 29,
+          "player": "Hiensu",
+          "clan": null,
+          "value": "27:23.0",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "6:00"
+            },
+            {
+              "region": "ROCKY",
+              "value": "7:30"
+            },
+            {
+              "region": "STORM",
+              "value": "6:37"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "7:14"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 30,
+          "player": "OF starfallenlove",
+          "clan": null,
+          "value": "28:40.3",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "5:47"
+            },
+            {
+              "region": "ROCKY",
+              "value": "6:55"
+            },
+            {
+              "region": "STORM",
+              "value": "7:25"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "8:32"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 31,
+          "player": "SIGM KC_Evilfiren",
+          "clan": null,
+          "value": "29:13.1",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "6:40"
+            },
+            {
+              "region": "ROCKY",
+              "value": "7:26"
+            },
+            {
+              "region": "STORM",
+              "value": "7:07"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "7:58"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 32,
+          "player": "TWII Lancee",
+          "clan": null,
+          "value": "29:31.9",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "6:43"
+            },
+            {
+              "region": "ROCKY",
+              "value": "7:01"
+            },
+            {
+              "region": "STORM",
+              "value": "8:49"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "6:58"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 33,
+          "player": "NBT Drake_Joris",
+          "clan": null,
+          "value": "30:29.7",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "7:25"
+            },
+            {
+              "region": "ROCKY",
+              "value": "6:08"
+            },
+            {
+              "region": "STORM",
+              "value": "6:46"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "10:09"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 34,
+          "player": "2yy1",
+          "clan": null,
+          "value": "30:40.2",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "7:27"
+            },
+            {
+              "region": "ROCKY",
+              "value": "7:18"
+            },
+            {
+              "region": "STORM",
+              "value": "7:37"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "8:17"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 35,
+          "player": "SuzuyaJuzo",
+          "clan": null,
+          "value": "31:01.4",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "7:43"
+            },
+            {
+              "region": "ROCKY",
+              "value": "9:56"
+            },
+            {
+              "region": "STORM",
+              "value": "5:56"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "7:24"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 36,
+          "player": "BONK zxc45468",
+          "clan": null,
+          "value": "31:02.7",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "4:22"
+            },
+            {
+              "region": "ROCKY",
+              "value": "6:42"
+            },
+            {
+              "region": "STORM",
+              "value": "11:19"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "8:38"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 37,
+          "player": "OF Kraggor",
+          "clan": null,
+          "value": "31:17.6",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "7:15"
+            },
+            {
+              "region": "ROCKY",
+              "value": "6:21"
+            },
+            {
+              "region": "STORM",
+              "value": "8:55"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "8:45"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 38,
+          "player": "SP KKOS",
+          "clan": null,
+          "value": "31:19.3",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "8:11"
+            },
+            {
+              "region": "ROCKY",
+              "value": "8:01"
+            },
+            {
+              "region": "STORM",
+              "value": "6:12"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "8:54"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 39,
+          "player": "云天明",
+          "clan": null,
+          "value": "31:50.4",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "8:39"
+            },
+            {
+              "region": "ROCKY",
+              "value": "7:41"
+            },
+            {
+              "region": "STORM",
+              "value": "7:58"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "7:31"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 40,
+          "player": "UR mew two",
+          "clan": null,
+          "value": "32:09.7",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "7:48"
+            },
+            {
+              "region": "ROCKY",
+              "value": "7:48"
+            },
+            {
+              "region": "STORM",
+              "value": "8:21"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "8:11"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 41,
+          "player": "CHL MonoEnMoto",
+          "clan": null,
+          "value": "32:28.9",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "6:12"
+            },
+            {
+              "region": "ROCKY",
+              "value": "7:50"
+            },
+            {
+              "region": "STORM",
+              "value": "5:50"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "12:35"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 42,
+          "player": "HJQS 吴彦祖",
+          "clan": null,
+          "value": "32:30.9",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "7:36"
+            },
+            {
+              "region": "ROCKY",
+              "value": "8:39"
+            },
+            {
+              "region": "STORM",
+              "value": "7:49"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "8:24"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 43,
+          "player": "Tea Lord",
+          "clan": null,
+          "value": "32:51.6",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "6:54"
+            },
+            {
+              "region": "ROCKY",
+              "value": "8:26"
+            },
+            {
+              "region": "STORM",
+              "value": "6:08"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "11:21"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 44,
+          "player": "HANLI",
+          "clan": null,
+          "value": "32:53.5",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "7:57"
+            },
+            {
+              "region": "ROCKY",
+              "value": "7:33"
+            },
+            {
+              "region": "STORM",
+              "value": "7:39"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "9:42"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 45,
+          "player": "Kaissha",
+          "clan": null,
+          "value": "33:05.5",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "8:48"
+            },
+            {
+              "region": "ROCKY",
+              "value": "7:48"
+            },
+            {
+              "region": "STORM",
+              "value": "7:55"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "8:33"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 46,
+          "player": "RTdcugrabqpaqf",
+          "clan": null,
+          "value": "33:45.1",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "8:21"
+            },
+            {
+              "region": "ROCKY",
+              "value": "8:21"
+            },
+            {
+              "region": "STORM",
+              "value": "8:21"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "8:40"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 47,
+          "player": "芝士仙贝",
+          "clan": null,
+          "value": "34:03.5",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "9:13"
+            },
+            {
+              "region": "ROCKY",
+              "value": "7:06"
+            },
+            {
+              "region": "STORM",
+              "value": "10:03"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "7:39"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 48,
+          "player": "CHUU 蛋包饭",
+          "clan": null,
+          "value": "34:21.7",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "7:24"
+            },
+            {
+              "region": "ROCKY",
+              "value": "8:04"
+            },
+            {
+              "region": "STORM",
+              "value": "7:11"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "11:40"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 49,
+          "player": "RRR 亡魂之雪",
+          "clan": null,
+          "value": "34:23.5",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "5:55"
+            },
+            {
+              "region": "ROCKY",
+              "value": "8:43"
+            },
+            {
+              "region": "STORM",
+              "value": "9:27"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "10:17"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 50,
+          "player": "GOL Casket",
+          "clan": null,
+          "value": "34:30.3",
+          "badge": "Top 50",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "8:09"
+            },
+            {
+              "region": "ROCKY",
+              "value": "11:07"
+            },
+            {
+              "region": "STORM",
+              "value": "7:29"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "7:43"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 51,
+          "player": "无敌黑旋风",
+          "clan": null,
+          "value": "34:41.9",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "8:28"
+            },
+            {
+              "region": "ROCKY",
+              "value": "8:27"
+            },
+            {
+              "region": "STORM",
+              "value": "7:21"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "10:23"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 52,
+          "player": "SA randblock",
+          "clan": null,
+          "value": "34:49.7",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "7:36"
+            },
+            {
+              "region": "ROCKY",
+              "value": "6:36"
+            },
+            {
+              "region": "STORM",
+              "value": "12:24"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "8:11"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 53,
+          "player": "iamhinson",
+          "clan": null,
+          "value": "34:58.1",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "7:56"
+            },
+            {
+              "region": "ROCKY",
+              "value": "6:56"
+            },
+            {
+              "region": "STORM",
+              "value": "9:14"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "10:50"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 54,
+          "player": "zayy",
+          "clan": null,
+          "value": "35:02.0",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "7:25"
+            },
+            {
+              "region": "ROCKY",
+              "value": "9:58"
+            },
+            {
+              "region": "STORM",
+              "value": "8:15"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "9:22"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 55,
+          "player": "WF lyb233",
+          "clan": null,
+          "value": "35:09.9",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "5:26"
+            },
+            {
+              "region": "ROCKY",
+              "value": "15:25"
+            },
+            {
+              "region": "STORM",
+              "value": "8:09"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "6:08"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 56,
+          "player": "KUBI K0Jleco",
+          "clan": null,
+          "value": "35:17.9",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "8:29"
+            },
+            {
+              "region": "ROCKY",
+              "value": "8:46"
+            },
+            {
+              "region": "STORM",
+              "value": "9:12"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "8:49"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 57,
+          "player": "wujiu",
+          "clan": null,
+          "value": "35:25.9",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "8:44"
+            },
+            {
+              "region": "ROCKY",
+              "value": "7:24"
+            },
+            {
+              "region": "STORM",
+              "value": "10:36"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "8:40"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 58,
+          "player": "awei1017",
+          "clan": null,
+          "value": "35:40.6",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "6:56"
+            },
+            {
+              "region": "ROCKY",
+              "value": "8:52"
+            },
+            {
+              "region": "STORM",
+              "value": "7:58"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "11:53"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 59,
+          "player": "MGK sqawd12001",
+          "clan": null,
+          "value": "35:42.7",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "6:59"
+            },
+            {
+              "region": "ROCKY",
+              "value": "6:17"
+            },
+            {
+              "region": "STORM",
+              "value": "11:45"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "10:40"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 60,
+          "player": "SMG Dynos",
+          "clan": null,
+          "value": "35:48.9",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "5:51"
+            },
+            {
+              "region": "ROCKY",
+              "value": "6:10"
+            },
+            {
+              "region": "STORM",
+              "value": "15:23"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "8:23"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 61,
+          "player": "isjyj",
+          "clan": null,
+          "value": "36:16.7",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "10:18"
+            },
+            {
+              "region": "ROCKY",
+              "value": "7:42"
+            },
+            {
+              "region": "STORM",
+              "value": "8:30"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "9:45"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 62,
+          "player": "SSR fiske53",
+          "clan": null,
+          "value": "36:21.4",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "7:59"
+            },
+            {
+              "region": "ROCKY",
+              "value": "8:19"
+            },
+            {
+              "region": "STORM",
+              "value": "9:04"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "10:57"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 63,
+          "player": "RRR UncleRed",
+          "clan": null,
+          "value": "36:23.5",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "11:07"
+            },
+            {
+              "region": "ROCKY",
+              "value": "9:34"
+            },
+            {
+              "region": "STORM",
+              "value": "8:14"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "7:27"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 64,
+          "player": "saq",
+          "clan": null,
+          "value": "36:26.4",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "9:25"
+            },
+            {
+              "region": "ROCKY",
+              "value": "8:30"
+            },
+            {
+              "region": "STORM",
+              "value": "8:02"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "10:27"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 65,
+          "player": "Elves",
+          "clan": null,
+          "value": "36:34.0",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "8:27"
+            },
+            {
+              "region": "ROCKY",
+              "value": "8:41"
+            },
+            {
+              "region": "STORM",
+              "value": "8:40"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "10:44"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 66,
+          "player": "DM 王木木",
+          "clan": null,
+          "value": "36:43.4",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "9:03"
+            },
+            {
+              "region": "ROCKY",
+              "value": "8:25"
+            },
+            {
+              "region": "STORM",
+              "value": "8:01"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "11:12"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 67,
+          "player": "Butuotap",
+          "clan": null,
+          "value": "36:44.9",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "8:11"
+            },
+            {
+              "region": "ROCKY",
+              "value": "10:47"
+            },
+            {
+              "region": "STORM",
+              "value": "8:44"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "9:00"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 68,
+          "player": "VRPK 夜城",
+          "clan": null,
+          "value": "36:50.4",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "8:27"
+            },
+            {
+              "region": "ROCKY",
+              "value": "10:54"
+            },
+            {
+              "region": "STORM",
+              "value": "8:27"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "9:00"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 69,
+          "player": "OF Shadow_Spectre",
+          "clan": null,
+          "value": "37:04.0",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "5:53"
+            },
+            {
+              "region": "ROCKY",
+              "value": "9:40"
+            },
+            {
+              "region": "STORM",
+              "value": "8:29"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "13:00"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 70,
+          "player": "小伙子不要慌",
+          "clan": null,
+          "value": "37:07.6",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "8:32"
+            },
+            {
+              "region": "ROCKY",
+              "value": "9:09"
+            },
+            {
+              "region": "STORM",
+              "value": "10:01"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "9:23"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 71,
+          "player": "dropshotZERO",
+          "clan": null,
+          "value": "37:09.4",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "9:23"
+            },
+            {
+              "region": "ROCKY",
+              "value": "9:21"
+            },
+            {
+              "region": "STORM",
+              "value": "9:43"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "8:40"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 72,
+          "player": "TM TorrSama",
+          "clan": null,
+          "value": "37:28.7",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "9:02"
+            },
+            {
+              "region": "ROCKY",
+              "value": "8:30"
+            },
+            {
+              "region": "STORM",
+              "value": "9:29"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "10:25"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 73,
+          "player": "OF Nekooo",
+          "clan": null,
+          "value": "37:35.7",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "10:03"
+            },
+            {
+              "region": "ROCKY",
+              "value": "7:45"
+            },
+            {
+              "region": "STORM",
+              "value": "9:17"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "10:29"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 74,
+          "player": "Yuzui12312",
+          "clan": null,
+          "value": "37:36.9",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "9:02"
+            },
+            {
+              "region": "ROCKY",
+              "value": "10:15"
+            },
+            {
+              "region": "STORM",
+              "value": "8:44"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "9:33"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 75,
+          "player": "PGMK Kotone",
+          "clan": null,
+          "value": "37:50.3",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "9:50"
+            },
+            {
+              "region": "ROCKY",
+              "value": "7:25"
+            },
+            {
+              "region": "STORM",
+              "value": "9:33"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "11:01"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 76,
+          "player": "chunjie",
+          "clan": null,
+          "value": "37:50.8",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "7:19"
+            },
+            {
+              "region": "ROCKY",
+              "value": "7:55"
+            },
+            {
+              "region": "STORM",
+              "value": "15:20"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "7:15"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 77,
+          "player": "OF Arjiang",
+          "clan": null,
+          "value": "38:00.2",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "9:39"
+            },
+            {
+              "region": "ROCKY",
+              "value": "12:23"
+            },
+            {
+              "region": "STORM",
+              "value": "7:50"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "8:07"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 78,
+          "player": "justen",
+          "clan": null,
+          "value": "38:02.1",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "7:33"
+            },
+            {
+              "region": "ROCKY",
+              "value": "7:57"
+            },
+            {
+              "region": "STORM",
+              "value": "12:51"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "9:39"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 79,
+          "player": "qiuhaosu",
+          "clan": null,
+          "value": "38:12.3",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "7:36"
+            },
+            {
+              "region": "ROCKY",
+              "value": "7:31"
+            },
+            {
+              "region": "STORM",
+              "value": "11:29"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "11:34"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 80,
+          "player": "IMI 一凡",
+          "clan": null,
+          "value": "38:17.7",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "7:00"
+            },
+            {
+              "region": "ROCKY",
+              "value": "7:55"
+            },
+            {
+              "region": "STORM",
+              "value": "8:03"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "15:18"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 81,
+          "player": "extendedKid",
+          "clan": null,
+          "value": "38:19.6",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "5:47"
+            },
+            {
+              "region": "ROCKY",
+              "value": "9:43"
+            },
+            {
+              "region": "STORM",
+              "value": "9:50"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "12:57"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 82,
+          "player": "Xinzai",
+          "clan": null,
+          "value": "38:23.9",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "8:58"
+            },
+            {
+              "region": "ROCKY",
+              "value": "8:25"
+            },
+            {
+              "region": "STORM",
+              "value": "10:11"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "10:49"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 83,
+          "player": "CTRL 小皮xpp",
+          "clan": null,
+          "value": "38:25.2",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "9:25"
+            },
+            {
+              "region": "ROCKY",
+              "value": "10:52"
+            },
+            {
+              "region": "STORM",
+              "value": "7:37"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "10:29"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 84,
+          "player": "EVER boribiro",
+          "clan": null,
+          "value": "38:28.5",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "9:46"
+            },
+            {
+              "region": "ROCKY",
+              "value": "6:43"
+            },
+            {
+              "region": "STORM",
+              "value": "13:16"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "8:42"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 85,
+          "player": "HNR kaitsit",
+          "clan": null,
+          "value": "38:31.2",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "9:08"
+            },
+            {
+              "region": "ROCKY",
+              "value": "10:16"
+            },
+            {
+              "region": "STORM",
+              "value": "9:53"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "9:13"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 86,
+          "player": "RB Ryann",
+          "clan": null,
+          "value": "38:40.8",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "8:24"
+            },
+            {
+              "region": "ROCKY",
+              "value": "7:10"
+            },
+            {
+              "region": "STORM",
+              "value": "13:45"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "9:20"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 87,
+          "player": "GOLD Showff",
+          "clan": null,
+          "value": "38:45.3",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "9:49"
+            },
+            {
+              "region": "ROCKY",
+              "value": "8:01"
+            },
+            {
+              "region": "STORM",
+              "value": "10:12"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "10:42"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 88,
+          "player": "Ki3k",
+          "clan": null,
+          "value": "38:51.6",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "8:55"
+            },
+            {
+              "region": "ROCKY",
+              "value": "10:03"
+            },
+            {
+              "region": "STORM",
+              "value": "7:59"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "11:53"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 89,
+          "player": "TGPT aiwan",
+          "clan": null,
+          "value": "38:58.9",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "9:17"
+            },
+            {
+              "region": "ROCKY",
+              "value": "9:09"
+            },
+            {
+              "region": "STORM",
+              "value": "11:03"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "9:28"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 90,
+          "player": "KUBI Elik",
+          "clan": null,
+          "value": "39:06.6",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "8:38"
+            },
+            {
+              "region": "ROCKY",
+              "value": "8:10"
+            },
+            {
+              "region": "STORM",
+              "value": "9:22"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "12:55"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 91,
+          "player": "GOR ronklas",
+          "clan": null,
+          "value": "39:07.4",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "6:42"
+            },
+            {
+              "region": "ROCKY",
+              "value": "10:49"
+            },
+            {
+              "region": "STORM",
+              "value": "10:50"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "10:43"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 92,
+          "player": "L0VE Zblæ",
+          "clan": null,
+          "value": "39:13.7",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "8:58"
+            },
+            {
+              "region": "ROCKY",
+              "value": "9:47"
+            },
+            {
+              "region": "STORM",
+              "value": "10:15"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "10:12"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 93,
+          "player": "CCP oooi",
+          "clan": null,
+          "value": "39:14.7",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "9:44"
+            },
+            {
+              "region": "ROCKY",
+              "value": "8:28"
+            },
+            {
+              "region": "STORM",
+              "value": "10:05"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "10:56"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 94,
+          "player": "MOTH Skyler123",
+          "clan": null,
+          "value": "39:27.9",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "10:10"
+            },
+            {
+              "region": "ROCKY",
+              "value": "9:21"
+            },
+            {
+              "region": "STORM",
+              "value": "8:05"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "11:50"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 95,
+          "player": "YK 魔哥",
+          "clan": null,
+          "value": "39:29.5",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "5:53"
+            },
+            {
+              "region": "ROCKY",
+              "value": "9:41"
+            },
+            {
+              "region": "STORM",
+              "value": "5:13"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "18:41"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 96,
+          "player": "LMM Myth",
+          "clan": null,
+          "value": "39:29.9",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "8:47"
+            },
+            {
+              "region": "ROCKY",
+              "value": "8:21"
+            },
+            {
+              "region": "STORM",
+              "value": "10:34"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "11:46"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 97,
+          "player": "GOL Camdogers",
+          "clan": null,
+          "value": "39:39.6",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "10:02"
+            },
+            {
+              "region": "ROCKY",
+              "value": "10:34"
+            },
+            {
+              "region": "STORM",
+              "value": "8:49"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "10:13"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 98,
+          "player": "ABL GapusGladius",
+          "clan": null,
+          "value": "39:42.8",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "11:08"
+            },
+            {
+              "region": "ROCKY",
+              "value": "8:59"
+            },
+            {
+              "region": "STORM",
+              "value": "9:56"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "9:38"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 99,
+          "player": "OREO 南雲霞",
+          "clan": null,
+          "value": "39:45.7",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "11:45"
+            },
+            {
+              "region": "ROCKY",
+              "value": "7:32"
+            },
+            {
+              "region": "STORM",
+              "value": "10:06"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "10:22"
+            }
+          ],
+          "isDetails": false
+        },
+        {
+          "rank": 100,
+          "player": "DDIT8877",
+          "clan": null,
+          "value": "39:48.9",
+          "badge": "Outside prize places",
+          "regions": [
+            {
+              "region": "VIRIDIAN",
+              "value": "8:57"
+            },
+            {
+              "region": "ROCKY",
+              "value": "9:24"
+            },
+            {
+              "region": "STORM",
+              "value": "10:43"
+            },
+            {
+              "region": "CELESTIAL",
+              "value": "10:42"
+            }
+          ],
+          "isDetails": false
+        }
+      ],
+      "trainerCount": "113.9k"
+    }
+  ],
+  "rewards": [
+    {
+      "rank": "#1",
+      "badge": "Master",
+      "kos": 1500,
+      "time": 1000
+    },
+    {
+      "rank": "#2–3",
+      "badge": "Elite",
+      "kos": 900,
+      "time": 600
+    },
+    {
+      "rank": "#4–10",
+      "badge": "Top 10",
+      "kos": 500,
+      "time": 300
+    },
+    {
+      "rank": "#11–25",
+      "badge": "Top 25",
+      "kos": 300,
+      "time": 180
+    },
+    {
+      "rank": "#26–50",
+      "badge": "Top 50",
+      "kos": 180,
+      "time": 100
+    },
+    {
+      "rank": "#51–100",
+      "badge": "Top 100",
+      "kos": 100,
+      "time": 0
+    }
+  ]
+}

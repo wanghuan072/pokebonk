@@ -1,0 +1,221 @@
+.pokemon-overview-content {
+  display: grid;
+  grid-template-columns: 360px 1fr;
+  gap: 45px;
+  align-items: center;
+}
+.pokemon-detail-art {
+  border: 1px solid #3e608b;
+  border-radius: 15px;
+  background: #112c4c;
+  overflow: hidden;
+}
+.pokemon-detail-art .pokemon-card-art {
+  height: 275px;
+}
+.pokemon-detail-art > span {
+  display: block;
+  text-align: center;
+  padding: 8px;
+  font-size: 9px;
+  color: #8fa9c8;
+  border-top: 1px solid #375577;
+}
+.pokemon-overview-copy .type-tags {
+  margin: 17px 0;
+}
+.pokemon-overview-copy .type-tag {
+  font-size: 12px;
+  padding: 4px 12px;
+}
+.pokemon-overview-copy dl {
+  margin: 0;
+}
+.pokemon-overview-copy dl > div {
+  padding: 11px 0;
+  border-bottom: 1px solid #294366;
+  display: grid;
+  grid-template-columns: 150px 1fr;
+  font-size: 13px;
+  gap: 15px;
+}
+.pokemon-overview-copy dt {
+  color: #89a7cc;
+}
+.pokemon-overview-copy dd {
+  margin: 0;
+}
+.pokemon-overview-copy dd a {
+  color: #8ad6ff;
+}
+.pokemon-detail-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 240px;
+  gap: 55px;
+}
+.pokemon-passive {
+  border: 1px solid #5a4c93;
+  border-radius: 10px;
+  padding: 20px;
+  background: linear-gradient(130deg, #32234f66, #112d4c);
+}
+.pokemon-passive h3 {
+  margin: 9px 0 10px;
+}
+.pokemon-passive p {
+  margin: 0;
+  font-size: 13px;
+}
+.pokemon-move-list {
+  margin-top: 18px;
+  display: grid;
+  gap: 8px;
+}
+.pokemon-move-list > a {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  border: 1px solid #335579;
+  background: #102847;
+  border-radius: 8px;
+  padding: 11px 16px;
+  text-decoration: none;
+}
+.pokemon-move-list > a > span {
+  color: #7399bf;
+  font-size: 10px;
+}
+.pokemon-move-list > a > strong {
+  font-size: 13px;
+}
+.pokemon-move-list > a > small {
+  margin-left: auto;
+  font-size: 10px;
+  color: #8facca;
+}
+.pokemon-move-list > a > b {
+  font-size: 16px;
+  color: #77c8ff;
+}
+.pokemon-evolution-chain {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 18px;
+}
+.pokemon-evolution-chain a {
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid #304f76;
+  border-radius: 9px;
+  background: #112a46;
+  padding: 8px;
+  font-size: 12px;
+}
+.pokemon-related-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 18px;
+  margin-top: 20px;
+  max-width: 950px;
+}
+.pokemon-stat-bars {
+  display: grid;
+  gap: 12px;
+  margin: 22px 0 30px;
+  padding: 22px;
+  background: #102945;
+  border: 1px solid #31577d;
+  border-radius: 10px;
+}
+.pokemon-stat-bars > div {
+  display: grid;
+  grid-template-columns: 90px 35px 1fr;
+  gap: 15px;
+  align-items: center;
+  font-size: 12px;
+  color: #b8cee7;
+}
+.pokemon-stat-bars b {
+  color: #eef6ff;
+}
+.pokemon-stat-bars progress {
+  appearance: none;
+  border: 0;
+  height: 8px;
+  width: 100%;
+  background: #07182e;
+  border-radius: 5px;
+  overflow: hidden;
+}
+.pokemon-stat-bars progress::-webkit-progress-bar {
+  background: #07182e;
+}
+.pokemon-stat-bars progress::-webkit-progress-value {
+  background: linear-gradient(90deg, #159ad4, #8ce8ff);
+  border-radius: 5px;
+}
+.pokemon-ultimates {
+  display: grid;
+  gap: 12px;
+}
+.pokemon-ultimates > article {
+  padding: 19px 22px;
+  border: 1px solid #72578f;
+  border-radius: 10px;
+  background: linear-gradient(130deg, #35254988, #142943);
+}
+.pokemon-ultimates article > h3 {
+  margin: 8px 0 12px;
+}
+.pokemon-ultimates article > p {
+  margin: 0;
+}
+@media (max-width: 1024px) {
+  .pokemon-overview-content {
+    grid-template-columns: 300px 1fr;
+    gap: 30px;
+  }
+  .pokemon-detail-layout {
+    grid-template-columns: minmax(0, 1fr) 200px;
+    gap: 30px;
+  }
+}
+@media (max-width: 768px) {
+  .pokemon-overview-content,
+  .pokemon-detail-layout {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+  .pokemon-detail-art {
+    max-width: 400px;
+    width: 100%;
+    margin: auto;
+  }
+  .pokemon-overview-copy dl > div {
+    grid-template-columns: 120px 1fr;
+  }
+  .pokemon-related-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+  }
+  .pokemon-move-list > a {
+    gap: 9px;
+    padding: 11px;
+  }
+  .pokemon-move-list > a > small {
+    font-size: 8px;
+  }
+  .pokemon-evolution-chain {
+    gap: 6px;
+  }
+  .pokemon-evolution-chain a {
+    font-size: 11px;
+    padding: 5px;
+  }
+  .pokemon-evolution-chain img {
+    width: 86px;
+  }
+}

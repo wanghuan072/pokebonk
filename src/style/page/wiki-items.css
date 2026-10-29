@@ -1,0 +1,74 @@
+.item-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 15px;
+}
+.item-card {
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+  border: 1px solid #304f77;
+  border-radius: 10px;
+  padding: 19px 19px 28px;
+  background: linear-gradient(125deg, #15314c, #10213f);
+}
+.item-card:hover {
+  border-color: #61b9e7;
+}
+.item-symbol {
+  display: grid;
+  place-items: center;
+  flex-shrink: 0;
+  width: 47px;
+  height: 49px;
+  border: 1px solid #328087;
+  border-radius: 10px;
+  background: radial-gradient(#315a6988, #0d283d);
+}
+.item-symbol .game-icon {
+  font-size: 30px;
+}
+.item-symbol img {
+  image-rendering: pixelated;
+  object-fit: contain;
+}
+.item-vitamin {
+  border-color: #8265b4;
+  background: radial-gradient(#6b3a8a88, #192343);
+}
+.item-card .small-label {
+  font-size: 8px;
+  letter-spacing: 0.7px;
+}
+.item-card h3 {
+  font-size: 17px;
+  margin: 6px 0 10px;
+}
+.item-card p {
+  font-size: 11px;
+  line-height: 1.7;
+  margin: 0;
+}
+.item-arrow {
+  position: absolute;
+  right: 13px;
+  bottom: 8px;
+  color: #7bcfff;
+}
+@media (max-width: 1024px) {
+  .item-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (max-width: 768px) {
+  .item-grid {
+    grid-template-columns: 1fr;
+  }
+  .item-card {
+    padding: 17px 17px 27px;
+  }
+  .item-card p {
+    font-size: 12px;
+  }
+}

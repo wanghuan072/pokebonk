@@ -1,0 +1,16 @@
+{
+  "checkedAt": "2026-10-28",
+  "gameplaySnapshot": "0.8.62",
+  "releaseHistory": "0.8.62",
+  "assertions": 10501,
+  "counts": {
+    "pokemon": 151,
+    "moves": 389,
+    "items": 152,
+    "fusions": 79,
+    "achievements": 228,
+    "lab": 24,
+    "releases": 86
+  },
+  "status": "passed"
+}

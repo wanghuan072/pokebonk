@@ -1,0 +1,493 @@
+{
+  "version": "0.8.62",
+  "build": "mvr5gbc0",
+  "checkedAt": "2026-10-28",
+  "source": "https://pokebonk.com/",
+  "manifest": "docs/research/recheck-2026-10-28/sources.json",
+  "calculatorMappings": [
+    {
+      "previous": "jv",
+      "current": "Ey",
+      "exact": true
+    },
+    {
+      "previous": "fv",
+      "current": "sy",
+      "exact": true
+    },
+    {
+      "previous": "pv",
+      "current": "cy",
+      "exact": true
+    },
+    {
+      "previous": "Mv",
+      "current": "Dy",
+      "exact": true
+    },
+    {
+      "previous": "Nv",
+      "current": "Oy",
+      "exact": true
+    },
+    {
+      "previous": "Pv",
+      "current": "ky",
+      "exact": true
+    },
+    {
+      "previous": "Fv",
+      "current": "Ay",
+      "exact": true
+    },
+    {
+      "previous": "Iv",
+      "current": "jy",
+      "exact": true
+    },
+    {
+      "previous": "Lv",
+      "current": "My",
+      "exact": true
+    },
+    {
+      "previous": "Rv",
+      "current": "Ny",
+      "exact": true
+    },
+    {
+      "previous": "_v",
+      "current": "fy",
+      "exact": true
+    },
+    {
+      "previous": "vv",
+      "current": "py",
+      "exact": true
+    },
+    {
+      "previous": "bv",
+      "current": "hy",
+      "exact": true
+    },
+    {
+      "previous": "xv",
+      "current": "gy",
+      "exact": true
+    },
+    {
+      "previous": "Cv",
+      "current": "vy",
+      "exact": true
+    },
+    {
+      "previous": "wv",
+      "current": "yy",
+      "exact": true
+    },
+    {
+      "previous": "Ev",
+      "current": "xy",
+      "exact": true
+    },
+    {
+      "previous": "Dv",
+      "current": "Sy",
+      "exact": true
+    },
+    {
+      "previous": "kv",
+      "current": "wy",
+      "exact": true
+    },
+    {
+      "previous": "Av",
+      "current": "Ty",
+      "exact": true
+    },
+    {
+      "previous": "i_",
+      "current": "$_",
+      "exact": true
+    },
+    {
+      "previous": "ig",
+      "current": "Qg",
+      "exact": true
+    },
+    {
+      "previous": "sg",
+      "current": "t_",
+      "exact": true
+    },
+    {
+      "previous": "vg",
+      "current": "f_",
+      "exact": true
+    },
+    {
+      "previous": "wg",
+      "current": "v_",
+      "exact": true
+    },
+    {
+      "previous": "Ag",
+      "current": "w_",
+      "exact": true
+    },
+    {
+      "previous": "G_",
+      "current": "Bv",
+      "exact": true
+    },
+    {
+      "previous": "Dy",
+      "current": "Tb",
+      "exact": true
+    },
+    {
+      "previous": "b_",
+      "current": "hv",
+      "exact": true
+    },
+    {
+      "previous": "D_",
+      "current": "Sv",
+      "exact": true
+    },
+    {
+      "previous": "N_",
+      "current": "Ov",
+      "exact": true
+    },
+    {
+      "previous": "H_",
+      "current": "Lv",
+      "exact": true
+    },
+    {
+      "previous": "q_",
+      "current": "Hv",
+      "exact": true
+    },
+    {
+      "previous": "_C",
+      "current": "hw",
+      "exact": true
+    },
+    {
+      "previous": "yC",
+      "current": "_w",
+      "exact": true
+    },
+    {
+      "previous": "SC",
+      "current": "bw",
+      "exact": true
+    },
+    {
+      "previous": "AC",
+      "current": "Ow",
+      "exact": true
+    },
+    {
+      "previous": "IC",
+      "current": "Pw",
+      "exact": true
+    },
+    {
+      "previous": "GC",
+      "current": "Uw",
+      "exact": true
+    },
+    {
+      "previous": "mv",
+      "current": "ly",
+      "exact": true
+    },
+    {
+      "previous": "Hv",
+      "current": "Ly",
+      "exact": true
+    },
+    {
+      "previous": "Uv",
+      "current": "Ry",
+      "exact": true
+    },
+    {
+      "previous": "Wv",
+      "current": "zy",
+      "exact": true
+    },
+    {
+      "previous": "by",
+      "current": "vb",
+      "exact": true
+    },
+    {
+      "previous": "Dz",
+      "current": "YB",
+      "exact": true
+    }
+  ],
+  "collections": {
+    "pokedex/pokemon": {
+      "count": 151,
+      "unchanged": false
+    },
+    "wiki/moves": {
+      "count": 389,
+      "unchanged": true
+    },
+    "wiki/fusions": {
+      "count": 79,
+      "unchanged": true
+    },
+    "wiki/generic-fusions": {
+      "count": 27,
+      "unchanged": true
+    },
+    "wiki/items": {
+      "count": 152,
+      "unchanged": true
+    },
+    "wiki/achievements": {
+      "count": 228,
+      "unchanged": true
+    },
+    "wiki/lab": {
+      "count": 24,
+      "unchanged": true
+    },
+    "wiki/meta-progression": {
+      "unchanged": true
+    }
+  },
+  "correctedUnlock": {
+    "pokemon": "Lickitung",
+    "previous": "Have 15 members in your League. Recover 8,000 HP in a single run.",
+    "current": "Have 15 members in your League. Recover 7,000 HP in a single run."
+  },
+  "tierScoresUnchanged": true,
+  "looks": {
+    "total": 158,
+    "coop": 155,
+    "soloOnly": [
+      "lk1_2",
+      "lk113_1",
+      "lk122_1"
+    ]
+  },
+  "dailyMutations": {
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "reset": "00:00 UTC",
+    "bagAllowed": false,
+    "coopAllowed": false,
+    "ranking": "Furthest progress, then KOs; only the best run of the day counts.",
+    "stardust": [
+      0,
+      0,
+      60,
+      120,
+      180,
+      300
+    ],
+    "milestones": [
+      {
+        "at": 3,
+        "label": "Reach zone 3",
+        "kind": "title"
+      },
+      {
+        "at": 4,
+        "label": "Reach the shrine",
+        "kind": "frame"
+      },
+      {
+        "at": 5,
+        "label": "Win",
+        "kind": "banner"
+      }
+    ],
+    "allFourTitle": "Mutation King",
+    "mutations": [
+      {
+        "tier": 2,
+        "swap": 30,
+        "enemy": {
+          "size": 1,
+          "hp": 1,
+          "dmg": 1,
+          "speed": 1
+        },
+        "scaling": 1,
+        "xp": 1,
+        "gold": 1,
+        "hp": 1,
+        "dmg": 1,
+        "id": "metronome",
+        "name": "Metronome",
+        "color": "#e0569a",
+        "icon": "mut-metronome",
+        "prize": {
+          "title": "Metronome Master",
+          "frame": "Metronome Frame",
+          "banner": "Metronome Stage"
+        },
+        "desc": "Every 30 seconds one of your attacks turns into another at random.",
+        "rules": [
+          "Every 30 seconds, one of your attacks swaps for a random one of the same level.",
+          "The new attacks come from the kits of the whole League.",
+          "Your first attack and Bill's fusions never change."
+        ],
+        "image": "/images/events/mut-metronome.png"
+      },
+      {
+        "tier": 1,
+        "swap": 0,
+        "enemy": {
+          "size": 2,
+          "hp": 2,
+          "dmg": 1.5,
+          "speed": 0.85
+        },
+        "scaling": 1,
+        "xp": 1,
+        "gold": 1,
+        "hp": 1,
+        "dmg": 1,
+        "id": "dynamax",
+        "name": "Dynamax Wilds",
+        "color": "#d8324a",
+        "icon": "mut-dynamax",
+        "prize": {
+          "title": "Giant Hunter",
+          "frame": "Dynamax Frame",
+          "banner": "Dynamax Crater"
+        },
+        "desc": "Every wild Pokémon is a giant: twice as big and as tough, but slower.",
+        "rules": [
+          "Wild Pokémon are twice as big and have twice the HP.",
+          "They hit 50% harder, but move 15% slower.",
+          "Bosses don't change."
+        ],
+        "image": "/images/events/mut-dynamax.png"
+      },
+      {
+        "tier": 1,
+        "swap": 0,
+        "enemy": {
+          "size": 1,
+          "hp": 1,
+          "dmg": 1,
+          "speed": 1
+        },
+        "scaling": 1.6,
+        "xp": 2,
+        "gold": 2,
+        "hp": 1,
+        "dmg": 1,
+        "id": "candy",
+        "name": "Candy Fever",
+        "color": "#f0a020",
+        "icon": "mut-candy",
+        "prize": {
+          "title": "Kanto Sweet Tooth",
+          "frame": "Candy Frame",
+          "banner": "Candy Meadow"
+        },
+        "desc": "Double experience and PokéDollars, but Pokémon get strong much faster.",
+        "rules": [
+          "You earn double experience and PokéDollars.",
+          "Pokémon gain HP and damage over time 60% faster."
+        ],
+        "image": "/images/events/mut-candy.png"
+      },
+      {
+        "tier": 0,
+        "swap": 0,
+        "enemy": {
+          "size": 1,
+          "hp": 1,
+          "dmg": 1,
+          "speed": 1
+        },
+        "scaling": 1,
+        "xp": 1,
+        "gold": 1,
+        "hp": 0.25,
+        "dmg": 2,
+        "id": "glass",
+        "name": "Crystal",
+        "color": "#38b8d8",
+        "icon": "mut-glass",
+        "prize": {
+          "title": "Glass Heart",
+          "frame": "Crystal Frame",
+          "banner": "Crystal Cave"
+        },
+        "desc": "You deal double damage, but you only have a quarter of your HP.",
+        "rules": [
+          "Your max HP drops to a quarter.",
+          "All your damage is doubled."
+        ],
+        "image": "/images/events/mut-glass.png"
+      }
+    ]
+  },
+  "publishedReleases": 86,
+  "originalAssetVersions": [
+    {
+      "key": "data/pokemon.json",
+      "previous": "5l9YG1H_",
+      "current": "5l9YG1H_",
+      "unchanged": true
+    },
+    {
+      "key": "data/moves.json",
+      "previous": "Ixf0MGdc",
+      "current": "Ixf0MGdc",
+      "unchanged": true
+    },
+    {
+      "key": "data/items.json",
+      "previous": "3BUkWvy1",
+      "current": "3BUkWvy1",
+      "unchanged": true
+    },
+    {
+      "key": "data/sprites.json",
+      "previous": "wXYqoD57",
+      "current": "wXYqoD57",
+      "unchanged": true
+    },
+    {
+      "key": "portraits",
+      "previous": "OEZJxMKF",
+      "current": "OEZJxMKF",
+      "unchanged": true
+    },
+    {
+      "key": "pmd",
+      "previous": "jHYDFj7_",
+      "current": "jHYDFj7_",
+      "unchanged": true
+    },
+    {
+      "key": "items",
+      "previous": "mDHJtEFo",
+      "current": "mDHJtEFo",
+      "unchanged": true
+    }
+  ],
+  "reviewNotes": [
+    "Core values were compared, not inferred from a version number.",
+    "Co-op permits Bag supplies; most Looks now count individual actions and team wins, with hit-limit goals solo-only.",
+    "Daily Mutation rotation is described without inventing a live or server-confirmed daily record.",
+    "Editorial tier scores are unchanged because reviewed baseline/kit inputs are unchanged."
+  ]
+}

@@ -1,0 +1,4023 @@
+{
+  "gameVersion": "0.8.62",
+  "lastVerified": "2026-10-28",
+  "scope": "All 79 League starting kits; evolved forms belong to their original partner",
+  "basis": "Editorial Classic opening-comfort model. No measured DPS or win-rate claim. Player board includes all 151 species.",
+  "method": {
+    "weights": {
+      "comfort": 50,
+      "pressure": 30,
+      "utility": 20
+    },
+    "description": "Comfort combines relative baseline HP (55%), armor (20%) and regen (25%), then curated recovery, defense and control bonuses with a setup penalty. Pressure uses the stronger physical/special baseline percentile plus an editorial offensive-kit bonus. Utility rewards recovery, protection and control. Scores compare openings, not endgame damage.",
+    "limitations": [
+      "Baselines exclude passive modifiers, Lab, vitamins, items and enemy resistances.",
+      "Passive bonuses are editorial judgments, not measured effect sizes.",
+      "Attack geometry, targeting, status immunity and late-run scaling can reverse an ordering.",
+      "Non-evolving partners also receive growth; they are not penalized for lacking evolution.",
+      "A later patch may alter these versioned kits."
+    ],
+    "sources": [
+      {
+        "label": "Original game client / League",
+        "url": "https://pokebonk.com/"
+      },
+      {
+        "label": "Community numeric tier model (different assumptions)",
+        "url": "https://poke-bonk.wiki/tier-list/"
+      },
+      {
+        "label": "Community kit / coverage comparison",
+        "url": "https://pokebonk.run/builds/tier-list/"
+      }
+    ]
+  },
+  "entries": [
+    {
+      "slug": "slowpoke",
+      "name": "Slowpoke",
+      "id": 79,
+      "isDetails": false,
+      "tier": "S",
+      "score": 81,
+      "comfort": 96,
+      "pressure": 61,
+      "utility": 75,
+      "durability": 90,
+      "focus": "Recovery",
+      "passive": "+25% HP, +1.5 regen and -10% speed. Every 6 s you yawn: enemies within 6 m may fall asleep. As Slowbro, the Shellder on its tail gives you +20 armor.",
+      "kit": [
+        {
+          "name": "Yawn",
+          "slug": "yawn",
+          "type": "normal",
+          "shape": "homing"
+        },
+        {
+          "name": "Scald",
+          "slug": "scald",
+          "type": "water",
+          "shape": "cone"
+        },
+        {
+          "name": "Psychic Noise",
+          "slug": "psychic-noise",
+          "type": "psychic",
+          "shape": "wave"
+        },
+        {
+          "name": "Expanding Force",
+          "slug": "expanding-force",
+          "type": "psychic",
+          "shape": "nova"
+        }
+      ],
+      "baseline": {
+        "hp": 147,
+        "armor": 9.71,
+        "regen": 0.68,
+        "moveSpeed": 0.954,
+        "physical": 1.068,
+        "special": 0.972
+      },
+      "caution": "A slower baseline makes route choice and spacing more important."
+    },
+    {
+      "slug": "clefairy",
+      "name": "Clefairy",
+      "id": 35,
+      "isDetails": false,
+      "tier": "S",
+      "score": 80,
+      "comfort": 91,
+      "pressure": 64,
+      "utility": 75,
+      "durability": 80,
+      "focus": "Recovery",
+      "passive": "+20 luck and +1 regen. Your Ultimate charges 30% faster and when you cast it you recover 15% HP.",
+      "kit": [
+        {
+          "name": "Draining Kiss",
+          "slug": "draining-kiss",
+          "type": "fairy",
+          "shape": "drain"
+        },
+        {
+          "name": "Stored Power",
+          "slug": "stored-power",
+          "type": "psychic",
+          "shape": "homing"
+        },
+        {
+          "name": "Gravity",
+          "slug": "gravity",
+          "type": "psychic",
+          "shape": "vortex"
+        },
+        {
+          "name": "Moonblast",
+          "slug": "moonblast",
+          "type": "fairy",
+          "shape": "orb"
+        }
+      ],
+      "baseline": {
+        "hp": 129,
+        "armor": 8.97,
+        "regen": 0.58,
+        "moveSpeed": 0.998,
+        "physical": 0.987,
+        "special": 1.043
+      },
+      "caution": "A slower baseline makes route choice and spacing more important."
+    },
+    {
+      "slug": "tangela",
+      "name": "Tangela",
+      "id": 114,
+      "isDetails": false,
+      "tier": "S",
+      "score": 78,
+      "comfort": 82,
+      "pressure": 74,
+      "utility": 75,
+      "durability": 59,
+      "focus": "Recovery",
+      "passive": "+2 regen. Every 5 s your vines trap (root) and damage the 4 closest enemies within 7 m.",
+      "kit": [
+        {
+          "name": "Bind",
+          "slug": "bind",
+          "type": "normal",
+          "shape": "strike"
+        },
+        {
+          "name": "Giga Drain",
+          "slug": "giga-drain",
+          "type": "grass",
+          "shape": "drain"
+        },
+        {
+          "name": "Grass Knot",
+          "slug": "grass-knot",
+          "type": "grass",
+          "shape": "smite"
+        },
+        {
+          "name": "Solar Blade",
+          "slug": "solar-blade",
+          "type": "grass",
+          "shape": "beam"
+        }
+      ],
+      "baseline": {
+        "hp": 110,
+        "armor": 11.17,
+        "regen": 0.47,
+        "moveSpeed": 1.019,
+        "physical": 0.972,
+        "special": 1.096
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "rhyhorn",
+      "name": "Rhyhorn",
+      "id": 111,
+      "isDetails": false,
+      "tier": "A",
+      "score": 71,
+      "comfort": 81,
+      "pressure": 68,
+      "utility": 50,
+      "durability": 92,
+      "focus": "Defense",
+      "passive": "+15 armor. After 1.5 s of running without stopping, you charge: enemies you touch take damage and are sent flying.",
+      "kit": [
+        {
+          "name": "Smack Down",
+          "slug": "smack-down",
+          "type": "rock",
+          "shape": "bolt"
+        },
+        {
+          "name": "Rock Blast",
+          "slug": "rock-blast",
+          "type": "rock",
+          "shape": "barrage"
+        },
+        {
+          "name": "High Horsepower",
+          "slug": "high-horsepower",
+          "type": "ground",
+          "shape": "dash"
+        },
+        {
+          "name": "Rock Wrecker",
+          "slug": "rock-wrecker",
+          "type": "rock",
+          "shape": "meteor"
+        }
+      ],
+      "baseline": {
+        "hp": 133,
+        "armor": 11.48,
+        "regen": 0.6,
+        "moveSpeed": 0.972,
+        "physical": 1.116,
+        "special": 0.924
+      },
+      "caution": "A slower baseline makes route choice and spacing more important."
+    },
+    {
+      "slug": "ekans",
+      "name": "Ekans",
+      "id": 23,
+      "isDetails": false,
+      "tier": "A",
+      "score": 69,
+      "comfort": 71,
+      "pressure": 63,
+      "utility": 75,
+      "durability": 35,
+      "focus": "Recovery",
+      "passive": "+1 regen (Shed Skin). Every 4 s your gaze paralyzes the enemies in front of you (7 m).",
+      "kit": [
+        {
+          "name": "Wrap",
+          "slug": "wrap",
+          "type": "normal",
+          "shape": "spin"
+        },
+        {
+          "name": "Acid",
+          "slug": "acid",
+          "type": "poison",
+          "shape": "cone"
+        },
+        {
+          "name": "Sludge Bomb",
+          "slug": "sludge-bomb",
+          "type": "poison",
+          "shape": "lob"
+        },
+        {
+          "name": "Gunk Shot",
+          "slug": "gunk-shot",
+          "type": "poison",
+          "shape": "meteor"
+        }
+      ],
+      "baseline": {
+        "hp": 103,
+        "armor": 8.88,
+        "regen": 0.43,
+        "moveSpeed": 1.058,
+        "physical": 1.07,
+        "special": 0.987
+      },
+      "caution": "A smaller opening HP pool leaves less room for contact mistakes."
+    },
+    {
+      "slug": "bellsprout",
+      "name": "Bellsprout",
+      "id": 69,
+      "isDetails": false,
+      "tier": "A",
+      "score": 69,
+      "comfort": 73,
+      "pressure": 70,
+      "utility": 55,
+      "durability": 62,
+      "focus": "Recovery",
+      "passive": "+10% HP. Your Strikes and Spins deal +15% damage and can root (20%). KOs of rooted enemies heal you for 2% of HP.",
+      "kit": [
+        {
+          "name": "Slam",
+          "slug": "slam",
+          "type": "normal",
+          "shape": "strike"
+        },
+        {
+          "name": "Gastro Acid",
+          "slug": "gastro-acid",
+          "type": "poison",
+          "shape": "lob"
+        },
+        {
+          "name": "Knock Off",
+          "slug": "knock-off",
+          "type": "dark",
+          "shape": "boomerang"
+        },
+        {
+          "name": "Power Whip",
+          "slug": "power-whip",
+          "type": "grass",
+          "shape": "spin"
+        }
+      ],
+      "baseline": {
+        "hp": 115,
+        "armor": 6,
+        "regen": 0.5,
+        "moveSpeed": 1.016,
+        "physical": 1.12,
+        "special": 1.1
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "mewtwo",
+      "name": "Mewtwo",
+      "id": 150,
+      "isDetails": false,
+      "tier": "A",
+      "score": 69,
+      "comfort": 65,
+      "pressure": 88,
+      "utility": 50,
+      "durability": 55,
+      "focus": "Defense",
+      "passive": "+15% damage, area and speed. Every 8 s a psychic barrier gives you a shield worth 15% of your HP. Your crits stun.",
+      "kit": [
+        {
+          "name": "Psycho Cut",
+          "slug": "psycho-cut",
+          "type": "psychic",
+          "shape": "boomerang"
+        },
+        {
+          "name": "Psystrike",
+          "slug": "psystrike",
+          "type": "psychic",
+          "shape": "orb"
+        },
+        {
+          "name": "Prismatic Laser",
+          "slug": "prismatic-laser",
+          "type": "psychic",
+          "shape": "beam"
+        },
+        {
+          "name": "Psycho Boost",
+          "slug": "psycho-boost",
+          "type": "psychic",
+          "shape": "meteor"
+        }
+      ],
+      "baseline": {
+        "hp": 112,
+        "armor": 7.15,
+        "regen": 0.48,
+        "moveSpeed": 1.058,
+        "physical": 1.014,
+        "special": 1.092
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "lapras",
+      "name": "Lapras",
+      "id": 131,
+      "isDetails": false,
+      "tier": "A",
+      "score": 68,
+      "comfort": 83,
+      "pressure": 52,
+      "utility": 55,
+      "durability": 85,
+      "focus": "Recovery",
+      "passive": "You take -15% damage. +0.5 regen.",
+      "kit": [
+        {
+          "name": "Water Pulse",
+          "slug": "water-pulse",
+          "type": "water",
+          "shape": "orb"
+        },
+        {
+          "name": "Ice Beam",
+          "slug": "ice-beam",
+          "type": "ice",
+          "shape": "beam"
+        },
+        {
+          "name": "Surf",
+          "slug": "surf",
+          "type": "water",
+          "shape": "wave"
+        },
+        {
+          "name": "Blizzard",
+          "slug": "blizzard",
+          "type": "ice",
+          "shape": "cone"
+        }
+      ],
+      "baseline": {
+        "hp": 136,
+        "armor": 8.58,
+        "regen": 0.61,
+        "moveSpeed": 1.001,
+        "physical": 1.011,
+        "special": 1.011
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "oddish",
+      "name": "Oddish",
+      "id": 43,
+      "isDetails": false,
+      "tier": "A",
+      "score": 67,
+      "comfort": 70,
+      "pressure": 70,
+      "utility": 55,
+      "durability": 55,
+      "focus": "Recovery",
+      "passive": "+10% speed and +1 regen. In sun, +30% speed and +20% damage. Every 6 s you release a pollen cloud (4.5 m) that poisons.",
+      "kit": [
+        {
+          "name": "Mega Drain",
+          "slug": "mega-drain",
+          "type": "grass",
+          "shape": "drain"
+        },
+        {
+          "name": "Poison Powder",
+          "slug": "poison-powder",
+          "type": "poison",
+          "shape": "cone"
+        },
+        {
+          "name": "Petal Blizzard",
+          "slug": "petal-blizzard",
+          "type": "grass",
+          "shape": "nova"
+        },
+        {
+          "name": "Petal Dance",
+          "slug": "petal-dance",
+          "type": "grass",
+          "shape": "orbit"
+        }
+      ],
+      "baseline": {
+        "hp": 108,
+        "armor": 9.84,
+        "regen": 0.46,
+        "moveSpeed": 0.988,
+        "physical": 1.007,
+        "special": 1.101
+      },
+      "caution": "A slower baseline makes route choice and spacing more important."
+    },
+    {
+      "slug": "bulbasaur",
+      "name": "Bulbasaur",
+      "id": 1,
+      "isDetails": false,
+      "tier": "A",
+      "score": 65,
+      "comfort": 69,
+      "pressure": 64,
+      "utility": 55,
+      "durability": 53,
+      "focus": "Recovery",
+      "passive": "+1.5 regen and +25% healing. Your Grass attacks heal you a little (0.4% of HP per hit, up to 5 times per second).",
+      "kit": [
+        {
+          "name": "Vine Whip",
+          "slug": "vine-whip",
+          "type": "grass",
+          "shape": "strike"
+        },
+        {
+          "name": "Razor Leaf",
+          "slug": "razor-leaf",
+          "type": "grass",
+          "shape": "barrage"
+        },
+        {
+          "name": "Sleep Powder",
+          "slug": "sleep-powder",
+          "type": "grass",
+          "shape": "cone"
+        },
+        {
+          "name": "Solar Beam",
+          "slug": "solar-beam",
+          "type": "grass",
+          "shape": "beam"
+        }
+      ],
+      "baseline": {
+        "hp": 108,
+        "armor": 9.23,
+        "regen": 0.46,
+        "moveSpeed": 1.022,
+        "physical": 1.005,
+        "special": 1.065
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "gastly",
+      "name": "Gastly",
+      "id": 92,
+      "isDetails": false,
+      "tier": "A",
+      "score": 65,
+      "comfort": 55,
+      "pressure": 79,
+      "utility": 70,
+      "durability": 11,
+      "focus": "Defense",
+      "passive": "You plow through the horde: -20% damage taken and +10% evasion.",
+      "kit": [
+        {
+          "name": "Lick",
+          "slug": "lick",
+          "type": "ghost",
+          "shape": "strike"
+        },
+        {
+          "name": "Night Shade",
+          "slug": "night-shade",
+          "type": "ghost",
+          "shape": "homing"
+        },
+        {
+          "name": "Shadow Ball",
+          "slug": "shadow-ball",
+          "type": "ghost",
+          "shape": "orb"
+        },
+        {
+          "name": "Hex",
+          "slug": "hex",
+          "type": "ghost",
+          "shape": "chain"
+        }
+      ],
+      "baseline": {
+        "hp": 96,
+        "armor": 5.52,
+        "regen": 0.4,
+        "moveSpeed": 1.106,
+        "physical": 0.955,
+        "special": 1.207
+      },
+      "caution": "A smaller opening HP pool leaves less room for contact mistakes."
+    },
+    {
+      "slug": "mr-mime",
+      "name": "Mr. Mime",
+      "id": 122,
+      "isDetails": false,
+      "tier": "A",
+      "score": 65,
+      "comfort": 59,
+      "pressure": 72,
+      "utility": 70,
+      "durability": 19,
+      "focus": "Defense",
+      "passive": "Every 6 s you raise an invisible barrier: a shield worth 10% of your HP and a wall that pushes back enemies within 4 m.",
+      "kit": [
+        {
+          "name": "Barrier",
+          "slug": "barrier",
+          "type": "psychic",
+          "shape": "orbit"
+        },
+        {
+          "name": "Light Screen",
+          "slug": "light-screen",
+          "type": "psychic",
+          "shape": "wave"
+        },
+        {
+          "name": "Trick Room",
+          "slug": "trick-room",
+          "type": "psychic",
+          "shape": "vortex"
+        },
+        {
+          "name": "Misty Explosion",
+          "slug": "misty-explosion",
+          "type": "fairy",
+          "shape": "nova"
+        }
+      ],
+      "baseline": {
+        "hp": 93,
+        "armor": 9.78,
+        "regen": 0.38,
+        "moveSpeed": 1.061,
+        "physical": 0.937,
+        "special": 1.081
+      },
+      "caution": "A smaller opening HP pool leaves less room for contact mistakes."
+    },
+    {
+      "slug": "abra",
+      "name": "Abra",
+      "id": 63,
+      "isDetails": false,
+      "tier": "A",
+      "score": 64,
+      "comfort": 52,
+      "pressure": 80,
+      "utility": 70,
+      "durability": 4,
+      "focus": "Defense",
+      "passive": "Immune to damage from the ground (lava, fire pools, cracks, spore clouds). -30% damage from projectiles and area attacks.",
+      "kit": [
+        {
+          "name": "Confusion",
+          "slug": "confusion",
+          "type": "psychic",
+          "shape": "bolt"
+        },
+        {
+          "name": "Psybeam",
+          "slug": "psybeam",
+          "type": "psychic",
+          "shape": "beam"
+        },
+        {
+          "name": "Psychic",
+          "slug": "psychic",
+          "type": "psychic",
+          "shape": "nova"
+        },
+        {
+          "name": "Future Sight",
+          "slug": "future-sight",
+          "type": "psychic",
+          "shape": "meteor"
+        }
+      ],
+      "baseline": {
+        "hp": 92,
+        "armor": 4.94,
+        "regen": 0.37,
+        "moveSpeed": 1.129,
+        "physical": 0.897,
+        "special": 1.226
+      },
+      "caution": "A smaller opening HP pool leaves less room for contact mistakes."
+    },
+    {
+      "slug": "machop",
+      "name": "Machop",
+      "id": 66,
+      "isDetails": false,
+      "tier": "A",
+      "score": 64,
+      "comfort": 60,
+      "pressure": 92,
+      "utility": 30,
+      "durability": 78,
+      "focus": "Offense",
+      "passive": "+25% physical damage.",
+      "kit": [
+        {
+          "name": "Karate Chop",
+          "slug": "karate-chop",
+          "type": "fighting",
+          "shape": "strike"
+        },
+        {
+          "name": "Low Kick",
+          "slug": "low-kick",
+          "type": "fighting",
+          "shape": "spin"
+        },
+        {
+          "name": "Cross Chop",
+          "slug": "cross-chop",
+          "type": "fighting",
+          "shape": "strike"
+        },
+        {
+          "name": "Dynamic Punch",
+          "slug": "dynamic-punch",
+          "type": "fighting",
+          "shape": "nova"
+        }
+      ],
+      "baseline": {
+        "hp": 132,
+        "armor": 7.97,
+        "regen": 0.59,
+        "moveSpeed": 1.003,
+        "physical": 1.135,
+        "special": 0.958
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "geodude",
+      "name": "Geodude",
+      "id": 74,
+      "isDetails": false,
+      "tier": "A",
+      "score": 64,
+      "comfort": 64,
+      "pressure": 73,
+      "utility": 50,
+      "durability": 53,
+      "focus": "Defense",
+      "passive": "You survive a lethal hit with 1 HP once per run. +10 armor.",
+      "kit": [
+        {
+          "name": "Rock Throw",
+          "slug": "rock-throw",
+          "type": "rock",
+          "shape": "lob"
+        },
+        {
+          "name": "Rollout",
+          "slug": "rollout",
+          "type": "rock",
+          "shape": "boomerang"
+        },
+        {
+          "name": "Magnitude",
+          "slug": "magnitude",
+          "type": "ground",
+          "shape": "nova"
+        },
+        {
+          "name": "Rock Slide",
+          "slug": "rock-slide",
+          "type": "rock",
+          "shape": "smite"
+        }
+      ],
+      "baseline": {
+        "hp": 106,
+        "armor": 13.8,
+        "regen": 0.45,
+        "moveSpeed": 0.968,
+        "physical": 1.14,
+        "special": 0.94
+      },
+      "caution": "A slower baseline makes route choice and spacing more important."
+    },
+    {
+      "slug": "zubat",
+      "name": "Zubat",
+      "id": 41,
+      "isDetails": false,
+      "tier": "A",
+      "score": 63,
+      "comfort": 73,
+      "pressure": 50,
+      "utility": 55,
+      "durability": 62,
+      "focus": "Recovery",
+      "passive": "+8% lifesteal and +20% healing.",
+      "kit": [
+        {
+          "name": "Leech Life",
+          "slug": "leech-life",
+          "type": "bug",
+          "shape": "drain"
+        },
+        {
+          "name": "Wing Attack",
+          "slug": "wing-attack",
+          "type": "flying",
+          "shape": "boomerang"
+        },
+        {
+          "name": "Poison Fang",
+          "slug": "poison-fang",
+          "type": "poison",
+          "shape": "strike"
+        },
+        {
+          "name": "Air Cutter",
+          "slug": "air-cutter",
+          "type": "flying",
+          "shape": "barrage"
+        }
+      ],
+      "baseline": {
+        "hp": 114,
+        "armor": 8.08,
+        "regen": 0.49,
+        "moveSpeed": 1.082,
+        "physical": 1.04,
+        "special": 0.967
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "nidoran-f",
+      "name": "Nidoran♀",
+      "id": 29,
+      "isDetails": false,
+      "tier": "A",
+      "score": 62,
+      "comfort": 76,
+      "pressure": 46,
+      "utility": 50,
+      "durability": 80,
+      "focus": "Defense",
+      "passive": "+15% HP and +10 armor. Anyone who touches you is poisoned, and poisoned enemies spread it when they die.",
+      "kit": [
+        {
+          "name": "Toxic",
+          "slug": "toxic",
+          "type": "poison",
+          "shape": "homing"
+        },
+        {
+          "name": "Double Kick",
+          "slug": "double-kick",
+          "type": "fighting",
+          "shape": "barrage"
+        },
+        {
+          "name": "Body Press",
+          "slug": "body-press",
+          "type": "fighting",
+          "shape": "nova"
+        },
+        {
+          "name": "Sludge Wave",
+          "slug": "sludge-wave",
+          "type": "poison",
+          "shape": "wave"
+        }
+      ],
+      "baseline": {
+        "hp": 124,
+        "armor": 9.43,
+        "regen": 0.55,
+        "moveSpeed": 1.027,
+        "physical": 1.025,
+        "special": 0.995
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "mew",
+      "name": "Mew",
+      "id": 151,
+      "isDetails": false,
+      "tier": "A",
+      "score": 62,
+      "comfort": 57,
+      "pressure": 76,
+      "utility": 55,
+      "durability": 72,
+      "focus": "Offense",
+      "passive": "+10% damage, speed, area and HP. Can learn moves of any type.",
+      "kit": [
+        {
+          "name": "Psychic",
+          "slug": "psychic",
+          "type": "psychic",
+          "shape": "nova"
+        },
+        {
+          "name": "Aura Sphere",
+          "slug": "aura-sphere",
+          "type": "fighting",
+          "shape": "homing"
+        },
+        {
+          "name": "Ancient Power",
+          "slug": "ancient-power",
+          "type": "rock",
+          "shape": "orbit"
+        },
+        {
+          "name": "Moonblast",
+          "slug": "moonblast",
+          "type": "fairy",
+          "shape": "orb"
+        }
+      ],
+      "baseline": {
+        "hp": 115,
+        "armor": 9,
+        "regen": 0.5,
+        "moveSpeed": 1.04,
+        "physical": 1.02,
+        "special": 1.02
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "jynx",
+      "name": "Jynx",
+      "id": 124,
+      "isDetails": false,
+      "tier": "A",
+      "score": 61,
+      "comfort": 55,
+      "pressure": 77,
+      "utility": 50,
+      "durability": 44,
+      "focus": "Control",
+      "passive": "Anyone who touches you is charmed. Your hits on charmed enemies gradually freeze them.",
+      "kit": [
+        {
+          "name": "Lovely Kiss",
+          "slug": "lovely-kiss",
+          "type": "normal",
+          "shape": "homing"
+        },
+        {
+          "name": "Frost Breath",
+          "slug": "frost-breath",
+          "type": "ice",
+          "shape": "cone"
+        },
+        {
+          "name": "Heart Stamp",
+          "slug": "heart-stamp",
+          "type": "psychic",
+          "shape": "strike"
+        },
+        {
+          "name": "Perish Song",
+          "slug": "perish-song",
+          "type": "normal",
+          "shape": "meteor"
+        }
+      ],
+      "baseline": {
+        "hp": 109,
+        "armor": 6.53,
+        "regen": 0.46,
+        "moveSpeed": 1.07,
+        "physical": 0.952,
+        "special": 1.123
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "growlithe",
+      "name": "Growlithe",
+      "id": 58,
+      "isDetails": false,
+      "tier": "B",
+      "score": 60,
+      "comfort": 61,
+      "pressure": 66,
+      "utility": 50,
+      "durability": 57,
+      "focus": "Control",
+      "passive": "+10% speed. Every 3 s, nearby enemies are intimidated (they deal -40% damage).",
+      "kit": [
+        {
+          "name": "Fire Fang",
+          "slug": "fire-fang",
+          "type": "fire",
+          "shape": "strike"
+        },
+        {
+          "name": "Flame Wheel",
+          "slug": "flame-wheel",
+          "type": "fire",
+          "shape": "trail"
+        },
+        {
+          "name": "Extreme Speed",
+          "slug": "extreme-speed",
+          "type": "normal",
+          "shape": "dash"
+        },
+        {
+          "name": "Flare Blitz",
+          "slug": "flare-blitz",
+          "type": "fire",
+          "shape": "dash"
+        }
+      ],
+      "baseline": {
+        "hp": 112,
+        "armor": 7.2,
+        "regen": 0.49,
+        "moveSpeed": 1.043,
+        "physical": 1.06,
+        "special": 1.06
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "goldeen",
+      "name": "Goldeen",
+      "id": 118,
+      "isDetails": false,
+      "tier": "B",
+      "score": 60,
+      "comfort": 64,
+      "pressure": 60,
+      "utility": 50,
+      "durability": 54,
+      "focus": "Defense",
+      "passive": "+10% evasion. Every dodge wraps you in water: a shield worth 6% of your HP. As Seaking, +5% evasion.",
+      "kit": [
+        {
+          "name": "Aqua Cutter",
+          "slug": "aqua-cutter",
+          "type": "water",
+          "shape": "boomerang"
+        },
+        {
+          "name": "Smart Strike",
+          "slug": "smart-strike",
+          "type": "steel",
+          "shape": "homing"
+        },
+        {
+          "name": "Horn Leech",
+          "slug": "horn-leech",
+          "type": "grass",
+          "shape": "dash"
+        },
+        {
+          "name": "Fishious Rend",
+          "slug": "fishious-rend",
+          "type": "water",
+          "shape": "strike"
+        }
+      ],
+      "baseline": {
+        "hp": 108,
+        "armor": 9.56,
+        "regen": 0.46,
+        "moveSpeed": 1.062,
+        "physical": 1.071,
+        "special": 0.951
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "articuno",
+      "name": "Articuno",
+      "id": 144,
+      "isDetails": false,
+      "tier": "B",
+      "score": 60,
+      "comfort": 66,
+      "pressure": 57,
+      "utility": 50,
+      "durability": 68,
+      "focus": "Control",
+      "passive": "Legendary: +10% damage, HP and speed. Every second, enemies within 6 m gradually freeze.",
+      "kit": [
+        {
+          "name": "Freeze-Dry",
+          "slug": "freeze-dry",
+          "type": "ice",
+          "shape": "orb"
+        },
+        {
+          "name": "Mist",
+          "slug": "mist",
+          "type": "ice",
+          "shape": "aura"
+        },
+        {
+          "name": "Bleakwind Storm",
+          "slug": "bleakwind-storm",
+          "type": "flying",
+          "shape": "cone"
+        },
+        {
+          "name": "Glaciate",
+          "slug": "glaciate",
+          "type": "ice",
+          "shape": "wave"
+        }
+      ],
+      "baseline": {
+        "hp": 112,
+        "armor": 10.09,
+        "regen": 0.48,
+        "moveSpeed": 1.026,
+        "physical": 0.996,
+        "special": 1.017
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "squirtle",
+      "name": "Squirtle",
+      "id": 7,
+      "isDetails": false,
+      "tier": "B",
+      "score": 59,
+      "comfort": 66,
+      "pressure": 52,
+      "utility": 50,
+      "durability": 58,
+      "focus": "Defense",
+      "passive": "+15 armor and +20 shield. Below 40% HP, +40% damage.",
+      "kit": [
+        {
+          "name": "Water Gun",
+          "slug": "water-gun",
+          "type": "water",
+          "shape": "bolt"
+        },
+        {
+          "name": "Bubble",
+          "slug": "bubble",
+          "type": "water",
+          "shape": "barrage"
+        },
+        {
+          "name": "Rapid Spin",
+          "slug": "rapid-spin",
+          "type": "normal",
+          "shape": "spin"
+        },
+        {
+          "name": "Hydro Pump",
+          "slug": "hydro-pump",
+          "type": "water",
+          "shape": "beam"
+        }
+      ],
+      "baseline": {
+        "hp": 108,
+        "armor": 11.12,
+        "regen": 0.46,
+        "moveSpeed": 1.019,
+        "physical": 1.003,
+        "special": 1.011
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "omanyte",
+      "name": "Omanyte",
+      "id": 138,
+      "isDetails": false,
+      "tier": "B",
+      "score": 59,
+      "comfort": 54,
+      "pressure": 73,
+      "utility": 50,
+      "durability": 32,
+      "focus": "Defense",
+      "passive": "+20 armor. Your Rock and Water attacks deal +15% damage. Every 5 s, a ring of rocks bursts from your shell (5 m; Omastar 6.5 m).",
+      "kit": [
+        {
+          "name": "Constrict",
+          "slug": "constrict",
+          "type": "normal",
+          "shape": "spin"
+        },
+        {
+          "name": "Spike Cannon",
+          "slug": "spike-cannon",
+          "type": "normal",
+          "shape": "barrage"
+        },
+        {
+          "name": "Water Spout",
+          "slug": "water-spout",
+          "type": "water",
+          "shape": "nova"
+        },
+        {
+          "name": "Meteor Beam",
+          "slug": "meteor-beam",
+          "type": "rock",
+          "shape": "beam"
+        }
+      ],
+      "baseline": {
+        "hp": 97,
+        "armor": 12.93,
+        "regen": 0.4,
+        "moveSpeed": 0.991,
+        "physical": 0.955,
+        "special": 1.124
+      },
+      "caution": "A smaller opening HP pool leaves less room for contact mistakes."
+    },
+    {
+      "slug": "sandshrew",
+      "name": "Sandshrew",
+      "id": 27,
+      "isDetails": false,
+      "tier": "B",
+      "score": 58,
+      "comfort": 61,
+      "pressure": 70,
+      "utility": 30,
+      "durability": 79,
+      "focus": "Flexible",
+      "passive": "+10 armor and +6% crit. In a sandstorm, +30% speed.",
+      "kit": [
+        {
+          "name": "Fury Swipes",
+          "slug": "fury-swipes",
+          "type": "normal",
+          "shape": "barrage"
+        },
+        {
+          "name": "Rollout",
+          "slug": "rollout",
+          "type": "rock",
+          "shape": "boomerang"
+        },
+        {
+          "name": "Crush Claw",
+          "slug": "crush-claw",
+          "type": "normal",
+          "shape": "strike"
+        },
+        {
+          "name": "Bulldoze",
+          "slug": "bulldoze",
+          "type": "ground",
+          "shape": "nova"
+        }
+      ],
+      "baseline": {
+        "hp": 115,
+        "armor": 12,
+        "regen": 0.5,
+        "moveSpeed": 1.016,
+        "physical": 1.12,
+        "special": 0.9
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "paras",
+      "name": "Paras",
+      "id": 46,
+      "isDetails": false,
+      "tier": "B",
+      "score": 58,
+      "comfort": 53,
+      "pressure": 72,
+      "utility": 50,
+      "durability": 40,
+      "focus": "Control",
+      "passive": "+20% status chance. Anyone who touches you falls asleep, gets paralyzed or gets poisoned. As Parasect, the mushroom is in control: +20% damage against enemies with any status.",
+      "kit": [
+        {
+          "name": "Slash",
+          "slug": "slash",
+          "type": "normal",
+          "shape": "strike"
+        },
+        {
+          "name": "Stun Spore",
+          "slug": "stun-spore",
+          "type": "grass",
+          "shape": "cone"
+        },
+        {
+          "name": "Spore",
+          "slug": "spore",
+          "type": "grass",
+          "shape": "trap"
+        },
+        {
+          "name": "Energy Ball",
+          "slug": "energy-ball",
+          "type": "grass",
+          "shape": "orb"
+        }
+      ],
+      "baseline": {
+        "hp": 103,
+        "armor": 10.42,
+        "regen": 0.43,
+        "moveSpeed": 0.983,
+        "physical": 1.115,
+        "special": 1.009
+      },
+      "caution": "A smaller opening HP pool leaves less room for contact mistakes."
+    },
+    {
+      "slug": "grimer",
+      "name": "Grimer",
+      "id": 88,
+      "isDetails": false,
+      "tier": "B",
+      "score": 58,
+      "comfort": 63,
+      "pressure": 67,
+      "utility": 30,
+      "durability": 84,
+      "focus": "Flexible",
+      "passive": "-15% damage taken. When hit, you leave a toxic puddle for 4 s that poisons and traps anyone who steps in it. As Muk, the puddles are bigger.",
+      "kit": [
+        {
+          "name": "Poison Gas",
+          "slug": "poison-gas",
+          "type": "poison",
+          "shape": "trail"
+        },
+        {
+          "name": "Sludge",
+          "slug": "sludge",
+          "type": "poison",
+          "shape": "orb"
+        },
+        {
+          "name": "Shadow Sneak",
+          "slug": "shadow-sneak",
+          "type": "ghost",
+          "shape": "dash"
+        },
+        {
+          "name": "Belch",
+          "slug": "belch",
+          "type": "poison",
+          "shape": "cone"
+        }
+      ],
+      "baseline": {
+        "hp": 136,
+        "armor": 8.31,
+        "regen": 0.62,
+        "moveSpeed": 0.975,
+        "physical": 1.115,
+        "special": 0.968
+      },
+      "caution": "A slower baseline makes route choice and spacing more important."
+    },
+    {
+      "slug": "chansey",
+      "name": "Chansey",
+      "id": 113,
+      "isDetails": false,
+      "tier": "B",
+      "score": 58,
+      "comfort": 81,
+      "pressure": 20,
+      "utility": 55,
+      "durability": 81,
+      "focus": "Recovery",
+      "passive": "+40% HP and +40% healing. Every 10 s you lay an egg beside you that heals you for 10% when picked up.",
+      "kit": [
+        {
+          "name": "Sweet Kiss",
+          "slug": "sweet-kiss",
+          "type": "fairy",
+          "shape": "homing"
+        },
+        {
+          "name": "Echoed Voice",
+          "slug": "echoed-voice",
+          "type": "normal",
+          "shape": "wave"
+        },
+        {
+          "name": "Egg Bomb",
+          "slug": "egg-bomb",
+          "type": "normal",
+          "shape": "lob"
+        },
+        {
+          "name": "Boomburst",
+          "slug": "boomburst",
+          "type": "normal",
+          "shape": "nova"
+        }
+      ],
+      "baseline": {
+        "hp": 220,
+        "armor": 4.6,
+        "regen": 1.08,
+        "moveSpeed": 1,
+        "physical": 0.833,
+        "special": 0.913
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "kangaskhan",
+      "name": "Kangaskhan",
+      "id": 115,
+      "isDetails": false,
+      "tier": "B",
+      "score": 58,
+      "comfort": 61,
+      "pressure": 72,
+      "utility": 30,
+      "durability": 79,
+      "focus": "Offense",
+      "passive": "Your baby fights alongside you: every hit of your attacks is repeated at 25% of its damage.",
+      "kit": [
+        {
+          "name": "Dizzy Punch",
+          "slug": "dizzy-punch",
+          "type": "normal",
+          "shape": "strike"
+        },
+        {
+          "name": "Mega Kick",
+          "slug": "mega-kick",
+          "type": "normal",
+          "shape": "dash"
+        },
+        {
+          "name": "Reversal",
+          "slug": "reversal",
+          "type": "fighting",
+          "shape": "nova"
+        },
+        {
+          "name": "Mega Punch",
+          "slug": "mega-punch",
+          "type": "normal",
+          "shape": "meteor"
+        }
+      ],
+      "baseline": {
+        "hp": 128,
+        "armor": 8.82,
+        "regen": 0.57,
+        "moveSpeed": 1.052,
+        "physical": 1.053,
+        "special": 0.918
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "zapdos",
+      "name": "Zapdos",
+      "id": 145,
+      "isDetails": false,
+      "tier": "B",
+      "score": 58,
+      "comfort": 52,
+      "pressure": 87,
+      "utility": 30,
+      "durability": 59,
+      "focus": "Offense",
+      "passive": "Legendary: +10% damage, HP and speed. Every 5 s three lightning bolts strike nearby enemies and paralyze them.",
+      "kit": [
+        {
+          "name": "Bolt Beak",
+          "slug": "bolt-beak",
+          "type": "electric",
+          "shape": "dash"
+        },
+        {
+          "name": "Wildbolt Storm",
+          "slug": "wildbolt-storm",
+          "type": "electric",
+          "shape": "cone"
+        },
+        {
+          "name": "Thunderclap",
+          "slug": "thunderclap",
+          "type": "electric",
+          "shape": "smite"
+        },
+        {
+          "name": "Electro Shot",
+          "slug": "electro-shot",
+          "type": "electric",
+          "shape": "beam"
+        }
+      ],
+      "baseline": {
+        "hp": 112,
+        "armor": 8.07,
+        "regen": 0.48,
+        "moveSpeed": 1.044,
+        "physical": 1.006,
+        "special": 1.079
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "moltres",
+      "name": "Moltres",
+      "id": 146,
+      "isDetails": false,
+      "tier": "B",
+      "score": 58,
+      "comfort": 52,
+      "pressure": 87,
+      "utility": 30,
+      "durability": 60,
+      "focus": "Offense",
+      "passive": "Legendary: +10% damage, HP and speed. Every 6 s a 6 m ring of flames burns the enemies.",
+      "kit": [
+        {
+          "name": "Incinerate",
+          "slug": "incinerate",
+          "type": "fire",
+          "shape": "cone"
+        },
+        {
+          "name": "Fly",
+          "slug": "fly",
+          "type": "flying",
+          "shape": "dash"
+        },
+        {
+          "name": "Searing Shot",
+          "slug": "searing-shot",
+          "type": "fire",
+          "shape": "orb"
+        },
+        {
+          "name": "Overheat",
+          "slug": "overheat",
+          "type": "fire",
+          "shape": "meteor"
+        }
+      ],
+      "baseline": {
+        "hp": 112,
+        "armor": 8.22,
+        "regen": 0.48,
+        "moveSpeed": 1.032,
+        "physical": 1.027,
+        "special": 1.079
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "horsea",
+      "name": "Horsea",
+      "id": 116,
+      "isDetails": false,
+      "tier": "B",
+      "score": 57,
+      "comfort": 48,
+      "pressure": 76,
+      "utility": 50,
+      "durability": 28,
+      "focus": "Control",
+      "passive": "+10% crit and +25% crit damage. Your crits cover the enemy in ink and blind it: it deals -40% damage and common enemies stop attacking.",
+      "kit": [
+        {
+          "name": "Snipe Shot",
+          "slug": "snipe-shot",
+          "type": "water",
+          "shape": "bolt"
+        },
+        {
+          "name": "Octazooka",
+          "slug": "octazooka",
+          "type": "water",
+          "shape": "orb"
+        },
+        {
+          "name": "Scale Shot",
+          "slug": "scale-shot",
+          "type": "dragon",
+          "shape": "barrage"
+        },
+        {
+          "name": "Hydro Cannon",
+          "slug": "hydro-cannon",
+          "type": "water",
+          "shape": "beam"
+        }
+      ],
+      "baseline": {
+        "hp": 97,
+        "armor": 10.07,
+        "regen": 0.4,
+        "moveSpeed": 1.066,
+        "physical": 0.983,
+        "special": 1.105
+      },
+      "caution": "A smaller opening HP pool leaves less room for contact mistakes."
+    },
+    {
+      "slug": "staryu",
+      "name": "Staryu",
+      "id": 120,
+      "isDetails": false,
+      "tier": "B",
+      "score": 57,
+      "comfort": 53,
+      "pressure": 64,
+      "utility": 55,
+      "durability": 17,
+      "focus": "Recovery",
+      "passive": "+20% projectile speed. Every 8 s your core heals you for 5%. As Starmie, +10% special damage.",
+      "kit": [
+        {
+          "name": "Water Shuriken",
+          "slug": "water-shuriken",
+          "type": "water",
+          "shape": "barrage"
+        },
+        {
+          "name": "Confuse Ray",
+          "slug": "confuse-ray",
+          "type": "ghost",
+          "shape": "homing"
+        },
+        {
+          "name": "Mirror Shot",
+          "slug": "mirror-shot",
+          "type": "steel",
+          "shape": "orb"
+        },
+        {
+          "name": "Photon Geyser",
+          "slug": "photon-geyser",
+          "type": "psychic",
+          "shape": "beam"
+        }
+      ],
+      "baseline": {
+        "hp": 94,
+        "armor": 8.74,
+        "regen": 0.38,
+        "moveSpeed": 1.1,
+        "physical": 0.979,
+        "special": 1.067
+      },
+      "caution": "A smaller opening HP pool leaves less room for contact mistakes."
+    },
+    {
+      "slug": "pinsir",
+      "name": "Pinsir",
+      "id": 127,
+      "isDetails": false,
+      "tier": "B",
+      "score": 56,
+      "comfort": 45,
+      "pressure": 90,
+      "utility": 30,
+      "durability": 44,
+      "focus": "Offense",
+      "passive": "+15% damage. You ignore enemy shields (like Fighting attacks) and deal +20% to bosses and mini-bosses. Storm Throw is always a crit.",
+      "kit": [
+        {
+          "name": "Storm Throw",
+          "slug": "storm-throw",
+          "type": "fighting",
+          "shape": "strike"
+        },
+        {
+          "name": "Lunge",
+          "slug": "lunge",
+          "type": "bug",
+          "shape": "dash"
+        },
+        {
+          "name": "Vital Throw",
+          "slug": "vital-throw",
+          "type": "fighting",
+          "shape": "spin"
+        },
+        {
+          "name": "Superpower",
+          "slug": "superpower",
+          "type": "fighting",
+          "shape": "nova"
+        }
+      ],
+      "baseline": {
+        "hp": 105,
+        "armor": 9.72,
+        "regen": 0.45,
+        "moveSpeed": 1.042,
+        "physical": 1.12,
+        "special": 0.952
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "scyther",
+      "name": "Scyther",
+      "id": 123,
+      "isDetails": false,
+      "tier": "B",
+      "score": 55,
+      "comfort": 48,
+      "pressure": 82,
+      "utility": 30,
+      "durability": 51,
+      "focus": "Offense",
+      "passive": "+15% attack speed and +10% damage.",
+      "kit": [
+        {
+          "name": "Fury Cutter",
+          "slug": "fury-cutter",
+          "type": "bug",
+          "shape": "strike"
+        },
+        {
+          "name": "Aerial Ace",
+          "slug": "aerial-ace",
+          "type": "flying",
+          "shape": "homing"
+        },
+        {
+          "name": "Air Slash",
+          "slug": "air-slash",
+          "type": "flying",
+          "shape": "boomerang"
+        },
+        {
+          "name": "X-Scissor",
+          "slug": "x-scissor",
+          "type": "bug",
+          "shape": "boomerang"
+        }
+      ],
+      "baseline": {
+        "hp": 108,
+        "armor": 8.64,
+        "regen": 0.46,
+        "moveSpeed": 1.071,
+        "physical": 1.084,
+        "special": 0.952
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "exeggcute",
+      "name": "Exeggcute",
+      "id": 102,
+      "isDetails": false,
+      "tier": "B",
+      "score": 54,
+      "comfort": 61,
+      "pressure": 58,
+      "utility": 30,
+      "durability": 81,
+      "focus": "Flexible",
+      "passive": "+20% healing. Every 15 s a berry appears beside you. As Exeggutor, +10% area.",
+      "kit": [
+        {
+          "name": "Barrage",
+          "slug": "barrage",
+          "type": "normal",
+          "shape": "barrage"
+        },
+        {
+          "name": "Leech Seed",
+          "slug": "leech-seed",
+          "type": "grass",
+          "shape": "drain"
+        },
+        {
+          "name": "Seed Bomb",
+          "slug": "seed-bomb",
+          "type": "grass",
+          "shape": "lob"
+        },
+        {
+          "name": "Wood Hammer",
+          "slug": "wood-hammer",
+          "type": "grass",
+          "shape": "strike"
+        }
+      ],
+      "baseline": {
+        "hp": 120,
+        "armor": 11.35,
+        "regen": 0.53,
+        "moveSpeed": 1.009,
+        "physical": 0.968,
+        "special": 1.042
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "lickitung",
+      "name": "Lickitung",
+      "id": 108,
+      "isDetails": false,
+      "tier": "B",
+      "score": 54,
+      "comfort": 66,
+      "pressure": 49,
+      "utility": 30,
+      "durability": 90,
+      "focus": "Flexible",
+      "passive": "+4 pickup range and +20% HP. Every 4 s your tongue grabs the closest enemy within 8 m, pulls it toward you and paralyzes it.",
+      "kit": [
+        {
+          "name": "Wring Out",
+          "slug": "wring-out",
+          "type": "normal",
+          "shape": "strike"
+        },
+        {
+          "name": "Snore",
+          "slug": "snore",
+          "type": "normal",
+          "shape": "nova"
+        },
+        {
+          "name": "Strength",
+          "slug": "strength",
+          "type": "normal",
+          "shape": "dash"
+        },
+        {
+          "name": "Heavy Slam",
+          "slug": "heavy-slam",
+          "type": "steel",
+          "shape": "smite"
+        }
+      ],
+      "baseline": {
+        "hp": 133,
+        "armor": 10.52,
+        "regen": 0.6,
+        "moveSpeed": 0.976,
+        "physical": 0.991,
+        "special": 1.007
+      },
+      "caution": "A slower baseline makes route choice and spacing more important."
+    },
+    {
+      "slug": "porygon",
+      "name": "Porygon",
+      "id": 137,
+      "isDetails": false,
+      "tier": "B",
+      "score": 54,
+      "comfort": 57,
+      "pressure": 65,
+      "utility": 30,
+      "durability": 72,
+      "focus": "Flexible",
+      "passive": "+12% special damage and projectile speed. Every 10 s you download data: your next 5 hits are crits.",
+      "kit": [
+        {
+          "name": "Lock-On",
+          "slug": "lock-on",
+          "type": "normal",
+          "shape": "homing"
+        },
+        {
+          "name": "Parabolic Charge",
+          "slug": "parabolic-charge",
+          "type": "electric",
+          "shape": "aura"
+        },
+        {
+          "name": "Fusion Bolt",
+          "slug": "fusion-bolt",
+          "type": "electric",
+          "shape": "chain"
+        },
+        {
+          "name": "Techno Blast",
+          "slug": "techno-blast",
+          "type": "normal",
+          "shape": "beam"
+        }
+      ],
+      "baseline": {
+        "hp": 114,
+        "armor": 9.8,
+        "regen": 0.5,
+        "moveSpeed": 0.993,
+        "physical": 1.002,
+        "special": 1.078
+      },
+      "caution": "A slower baseline makes route choice and spacing more important."
+    },
+    {
+      "slug": "kabuto",
+      "name": "Kabuto",
+      "id": 140,
+      "isDetails": false,
+      "tier": "B",
+      "score": 54,
+      "comfort": 50,
+      "pressure": 64,
+      "utility": 50,
+      "durability": 23,
+      "focus": "Defense",
+      "passive": "+15 armor. Each hit you take is reduced by 3 + 0.3 per level. As Kabutops, your Strikes and Boomerangs deal +20% damage.",
+      "kit": [
+        {
+          "name": "Aqua Jet",
+          "slug": "aqua-jet",
+          "type": "water",
+          "shape": "dash"
+        },
+        {
+          "name": "Sacred Sword",
+          "slug": "sacred-sword",
+          "type": "fighting",
+          "shape": "boomerang"
+        },
+        {
+          "name": "Stone Axe",
+          "slug": "stone-axe",
+          "type": "rock",
+          "shape": "trap"
+        },
+        {
+          "name": "Razor Shell",
+          "slug": "razor-shell",
+          "type": "water",
+          "shape": "strike"
+        }
+      ],
+      "baseline": {
+        "hp": 93,
+        "armor": 11.41,
+        "regen": 0.38,
+        "moveSpeed": 1.032,
+        "physical": 1.09,
+        "special": 1.006
+      },
+      "caution": "A smaller opening HP pool leaves less room for contact mistakes."
+    },
+    {
+      "slug": "snorlax",
+      "name": "Snorlax",
+      "id": 143,
+      "isDetails": false,
+      "tier": "B",
+      "score": 54,
+      "comfort": 63,
+      "pressure": 54,
+      "utility": 30,
+      "durability": 84,
+      "focus": "Flexible",
+      "passive": "+30% healing.",
+      "kit": [
+        {
+          "name": "Tackle",
+          "slug": "tackle",
+          "type": "normal",
+          "shape": "dash"
+        },
+        {
+          "name": "Body Slam",
+          "slug": "body-slam",
+          "type": "normal",
+          "shape": "nova"
+        },
+        {
+          "name": "Stomp",
+          "slug": "stomp",
+          "type": "normal",
+          "shape": "nova"
+        },
+        {
+          "name": "Giga Impact",
+          "slug": "giga-impact",
+          "type": "normal",
+          "shape": "meteor"
+        }
+      ],
+      "baseline": {
+        "hp": 150,
+        "armor": 8,
+        "regen": 0.69,
+        "moveSpeed": 0.96,
+        "physical": 1.064,
+        "special": 0.964
+      },
+      "caution": "A slower baseline makes route choice and spacing more important."
+    },
+    {
+      "slug": "jigglypuff",
+      "name": "Jigglypuff",
+      "id": 39,
+      "isDetails": false,
+      "tier": "B",
+      "score": 53,
+      "comfort": 61,
+      "pressure": 56,
+      "utility": 30,
+      "durability": 79,
+      "focus": "Flexible",
+      "passive": "Anyone who touches you is charmed. +5% evasion.",
+      "kit": [
+        {
+          "name": "Pound",
+          "slug": "pound",
+          "type": "normal",
+          "shape": "strike"
+        },
+        {
+          "name": "Sing",
+          "slug": "sing",
+          "type": "normal",
+          "shape": "nova"
+        },
+        {
+          "name": "Round",
+          "slug": "round",
+          "type": "normal",
+          "shape": "homing"
+        },
+        {
+          "name": "Hyper Voice",
+          "slug": "hyper-voice",
+          "type": "normal",
+          "shape": "nova"
+        }
+      ],
+      "baseline": {
+        "hp": 185,
+        "armor": 4.33,
+        "regen": 0.89,
+        "moveSpeed": 0.973,
+        "physical": 1.02,
+        "special": 1.02
+      },
+      "caution": "A slower baseline makes route choice and spacing more important."
+    },
+    {
+      "slug": "krabby",
+      "name": "Krabby",
+      "id": 98,
+      "isDetails": false,
+      "tier": "B",
+      "score": 53,
+      "comfort": 36,
+      "pressure": 95,
+      "utility": 30,
+      "durability": 25,
+      "focus": "Offense",
+      "passive": "+6 armor. Your Strikes deal +20% damage. Every 5th hit of a Strike is a pincer that deals double damage and stuns (Kingler, every 4th).",
+      "kit": [
+        {
+          "name": "Vise Grip",
+          "slug": "vice-grip",
+          "type": "normal",
+          "shape": "strike"
+        },
+        {
+          "name": "Liquidation",
+          "slug": "liquidation",
+          "type": "water",
+          "shape": "dash"
+        },
+        {
+          "name": "Crabhammer",
+          "slug": "crabhammer",
+          "type": "water",
+          "shape": "smite"
+        },
+        {
+          "name": "Guillotine",
+          "slug": "guillotine",
+          "type": "normal",
+          "shape": "meteor"
+        }
+      ],
+      "baseline": {
+        "hp": 95,
+        "armor": 11.35,
+        "regen": 0.39,
+        "moveSpeed": 1.031,
+        "physical": 1.208,
+        "special": 0.912
+      },
+      "caution": "A smaller opening HP pool leaves less room for contact mistakes."
+    },
+    {
+      "slug": "nidoran-m",
+      "name": "Nidoran♂",
+      "id": 32,
+      "isDetails": false,
+      "tier": "B",
+      "score": 52,
+      "comfort": 55,
+      "pressure": 60,
+      "utility": 30,
+      "durability": 67,
+      "focus": "Flexible",
+      "passive": "+10% damage and +25% against elites, Alphas and bosses.",
+      "kit": [
+        {
+          "name": "Horn Attack",
+          "slug": "horn-attack",
+          "type": "normal",
+          "shape": "strike"
+        },
+        {
+          "name": "Thrash",
+          "slug": "thrash",
+          "type": "normal",
+          "shape": "spin"
+        },
+        {
+          "name": "Horn Drill",
+          "slug": "horn-drill",
+          "type": "normal",
+          "shape": "dash"
+        },
+        {
+          "name": "Earth Power",
+          "slug": "earth-power",
+          "type": "ground",
+          "shape": "smite"
+        }
+      ],
+      "baseline": {
+        "hp": 115,
+        "armor": 7.91,
+        "regen": 0.5,
+        "moveSpeed": 1.052,
+        "physical": 1.071,
+        "special": 0.996
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "hitmonlee",
+      "name": "Hitmonlee",
+      "id": 106,
+      "isDetails": false,
+      "tier": "B",
+      "score": 52,
+      "comfort": 37,
+      "pressure": 93,
+      "utility": 30,
+      "durability": 26,
+      "focus": "Offense",
+      "passive": "+20% area and +1 jump. Your kicks (attacks with \"kick\") deal +20% damage.",
+      "kit": [
+        {
+          "name": "Rolling Kick",
+          "slug": "rolling-kick",
+          "type": "fighting",
+          "shape": "spin"
+        },
+        {
+          "name": "Blaze Kick",
+          "slug": "blaze-kick",
+          "type": "fire",
+          "shape": "strike"
+        },
+        {
+          "name": "Jump Kick",
+          "slug": "jump-kick",
+          "type": "fighting",
+          "shape": "dash"
+        },
+        {
+          "name": "High Jump Kick",
+          "slug": "high-jump-kick",
+          "type": "fighting",
+          "shape": "smite"
+        }
+      ],
+      "baseline": {
+        "hp": 100,
+        "armor": 8.55,
+        "regen": 0.41,
+        "moveSpeed": 1.058,
+        "physical": 1.136,
+        "special": 0.912
+      },
+      "caution": "A smaller opening HP pool leaves less room for contact mistakes."
+    },
+    {
+      "slug": "hitmonchan",
+      "name": "Hitmonchan",
+      "id": 107,
+      "isDetails": false,
+      "tier": "B",
+      "score": 52,
+      "comfort": 40,
+      "pressure": 85,
+      "utility": 30,
+      "durability": 33,
+      "focus": "Offense",
+      "passive": "+5% physical damage. Your punches (attacks with \"punch\") deal +20% damage. Every 3 s you throw an automatic punch at the closest enemy within 4 m.",
+      "kit": [
+        {
+          "name": "Comet Punch",
+          "slug": "comet-punch",
+          "type": "normal",
+          "shape": "barrage"
+        },
+        {
+          "name": "Ice Punch",
+          "slug": "ice-punch",
+          "type": "ice",
+          "shape": "strike"
+        },
+        {
+          "name": "Drain Punch",
+          "slug": "drain-punch",
+          "type": "fighting",
+          "shape": "strike"
+        },
+        {
+          "name": "Focus Punch",
+          "slug": "focus-punch",
+          "type": "fighting",
+          "shape": "meteor"
+        }
+      ],
+      "baseline": {
+        "hp": 100,
+        "armor": 10.6,
+        "regen": 0.41,
+        "moveSpeed": 1.04,
+        "physical": 1.097,
+        "special": 0.912
+      },
+      "caution": "A smaller opening HP pool leaves less room for contact mistakes."
+    },
+    {
+      "slug": "venonat",
+      "name": "Venonat",
+      "id": 48,
+      "isDetails": false,
+      "tier": "B",
+      "score": 51,
+      "comfort": 60,
+      "pressure": 49,
+      "utility": 30,
+      "durability": 78,
+      "focus": "Flexible",
+      "passive": "+8% crit and +15% status chance. Confused enemies take +25% damage. As Venomoth, +12% attack speed.",
+      "kit": [
+        {
+          "name": "Supersonic",
+          "slug": "supersonic",
+          "type": "normal",
+          "shape": "homing"
+        },
+        {
+          "name": "U-turn",
+          "slug": "u-turn",
+          "type": "bug",
+          "shape": "boomerang"
+        },
+        {
+          "name": "Silver Wind",
+          "slug": "silver-wind",
+          "type": "bug",
+          "shape": "cone"
+        },
+        {
+          "name": "Signal Beam",
+          "slug": "signal-beam",
+          "type": "bug",
+          "shape": "beam"
+        }
+      ],
+      "baseline": {
+        "hp": 123,
+        "armor": 9.15,
+        "regen": 0.55,
+        "moveSpeed": 1.026,
+        "physical": 1.036,
+        "special": 0.977
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "psyduck",
+      "name": "Psyduck",
+      "id": 54,
+      "isDetails": false,
+      "tier": "B",
+      "score": 51,
+      "comfort": 52,
+      "pressure": 63,
+      "utility": 30,
+      "durability": 60,
+      "focus": "Flexible",
+      "passive": "+10% HP. The hits you take and the passage of time charge your headache; when full, it bursts into a psychic wave (7 m) that damages and confuses. As Golduck, the wave is 10 m and heals you for 8%.",
+      "kit": [
+        {
+          "name": "Soak",
+          "slug": "soak",
+          "type": "water",
+          "shape": "cone"
+        },
+        {
+          "name": "Zen Headbutt",
+          "slug": "zen-headbutt",
+          "type": "psychic",
+          "shape": "dash"
+        },
+        {
+          "name": "Aqua Tail",
+          "slug": "aqua-tail",
+          "type": "water",
+          "shape": "strike"
+        },
+        {
+          "name": "Psyshock",
+          "slug": "psyshock",
+          "type": "psychic",
+          "shape": "orb"
+        }
+      ],
+      "baseline": {
+        "hp": 112,
+        "armor": 8.21,
+        "regen": 0.48,
+        "moveSpeed": 1.044,
+        "physical": 1.015,
+        "special": 1.064
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "rattata",
+      "name": "Rattata",
+      "id": 19,
+      "isDetails": false,
+      "tier": "B",
+      "score": 49,
+      "comfort": 37,
+      "pressure": 83,
+      "utility": 30,
+      "durability": 26,
+      "focus": "Offense",
+      "passive": "+25% physical damage and +10% attack speed, in exchange for -8% HP.",
+      "kit": [
+        {
+          "name": "Hyper Fang",
+          "slug": "hyper-fang",
+          "type": "normal",
+          "shape": "strike"
+        },
+        {
+          "name": "Pursuit",
+          "slug": "pursuit",
+          "type": "dark",
+          "shape": "homing"
+        },
+        {
+          "name": "Double-Edge",
+          "slug": "double-edge",
+          "type": "normal",
+          "shape": "dash"
+        },
+        {
+          "name": "Super Fang",
+          "slug": "super-fang",
+          "type": "normal",
+          "shape": "chain"
+        }
+      ],
+      "baseline": {
+        "hp": 102,
+        "armor": 7.47,
+        "regen": 0.43,
+        "moveSpeed": 1.125,
+        "physical": 1.086,
+        "special": 0.939
+      },
+      "caution": "A smaller opening HP pool leaves less room for contact mistakes."
+    },
+    {
+      "slug": "spearow",
+      "name": "Spearow",
+      "id": 21,
+      "isDetails": false,
+      "tier": "B",
+      "score": 49,
+      "comfort": 47,
+      "pressure": 64,
+      "utility": 30,
+      "durability": 49,
+      "focus": "Flexible",
+      "passive": "+8% crit and +50% crit damage.",
+      "kit": [
+        {
+          "name": "Peck",
+          "slug": "peck",
+          "type": "flying",
+          "shape": "strike"
+        },
+        {
+          "name": "Fury Attack",
+          "slug": "fury-attack",
+          "type": "normal",
+          "shape": "barrage"
+        },
+        {
+          "name": "Drill Run",
+          "slug": "drill-run",
+          "type": "ground",
+          "shape": "dash"
+        },
+        {
+          "name": "Drill Peck",
+          "slug": "drill-peck",
+          "type": "flying",
+          "shape": "smite"
+        }
+      ],
+      "baseline": {
+        "hp": 111,
+        "armor": 6.25,
+        "regen": 0.48,
+        "moveSpeed": 1.112,
+        "physical": 1.095,
+        "special": 0.962
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "pikachu",
+      "name": "Pikachu",
+      "id": 25,
+      "isDetails": false,
+      "tier": "B",
+      "score": 49,
+      "comfort": 45,
+      "pressure": 54,
+      "utility": 50,
+      "durability": 22,
+      "focus": "Control",
+      "passive": "Anyone who touches you is paralyzed. Every 4 s you fire a discharge at an enemy.",
+      "kit": [
+        {
+          "name": "Thunder Shock",
+          "slug": "thunder-shock",
+          "type": "electric",
+          "shape": "bolt"
+        },
+        {
+          "name": "Electro Ball",
+          "slug": "electro-ball",
+          "type": "electric",
+          "shape": "orb"
+        },
+        {
+          "name": "Thunderbolt",
+          "slug": "thunderbolt",
+          "type": "electric",
+          "shape": "chain"
+        },
+        {
+          "name": "Thunder",
+          "slug": "thunder",
+          "type": "electric",
+          "shape": "smite"
+        }
+      ],
+      "baseline": {
+        "hp": 100,
+        "armor": 7.31,
+        "regen": 0.41,
+        "moveSpeed": 1.123,
+        "physical": 1.026,
+        "special": 1.007
+      },
+      "caution": "A smaller opening HP pool leaves less room for contact mistakes."
+    },
+    {
+      "slug": "seel",
+      "name": "Seel",
+      "id": 86,
+      "isDetails": false,
+      "tier": "B",
+      "score": 49,
+      "comfort": 62,
+      "pressure": 41,
+      "utility": 30,
+      "durability": 82,
+      "focus": "Flexible",
+      "passive": "+15% HP and +10 armor. Every 4 s ice shards burst around you (5 m) and gradually freeze enemies. As Dewgong, 6.5 m.",
+      "kit": [
+        {
+          "name": "Icy Wind",
+          "slug": "icy-wind",
+          "type": "ice",
+          "shape": "cone"
+        },
+        {
+          "name": "Dive",
+          "slug": "dive",
+          "type": "water",
+          "shape": "dash"
+        },
+        {
+          "name": "Aurora Beam",
+          "slug": "aurora-beam",
+          "type": "ice",
+          "shape": "beam"
+        },
+        {
+          "name": "Sheer Cold",
+          "slug": "sheer-cold",
+          "type": "ice",
+          "shape": "nova"
+        }
+      ],
+      "baseline": {
+        "hp": 124,
+        "armor": 9.97,
+        "regen": 0.55,
+        "moveSpeed": 1.02,
+        "physical": 0.986,
+        "special": 0.986
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "tauros",
+      "name": "Tauros",
+      "id": 128,
+      "isDetails": false,
+      "tier": "B",
+      "score": 49,
+      "comfort": 52,
+      "pressure": 55,
+      "utility": 30,
+      "durability": 60,
+      "focus": "Flexible",
+      "passive": "+15% speed. While running, every 0.5 s you ram the enemies in front of you (2.5 m): damage and a good shove.",
+      "kit": [
+        {
+          "name": "Payback",
+          "slug": "payback",
+          "type": "dark",
+          "shape": "strike"
+        },
+        {
+          "name": "Rock Climb",
+          "slug": "rock-climb",
+          "type": "normal",
+          "shape": "spin"
+        },
+        {
+          "name": "Raging Bull",
+          "slug": "raging-bull",
+          "type": "normal",
+          "shape": "dash"
+        },
+        {
+          "name": "Headlong Rush",
+          "slug": "headlong-rush",
+          "type": "ground",
+          "shape": "meteor"
+        }
+      ],
+      "baseline": {
+        "hp": 111,
+        "armor": 9.55,
+        "regen": 0.48,
+        "moveSpeed": 1.082,
+        "physical": 1.065,
+        "special": 0.918
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "mankey",
+      "name": "Mankey",
+      "id": 56,
+      "isDetails": false,
+      "tier": "B",
+      "score": 48,
+      "comfort": 40,
+      "pressure": 72,
+      "utility": 30,
+      "durability": 33,
+      "focus": "Flexible",
+      "passive": "+8 armor. Every hit you take enrages you: +6% damage per charge (up to 6; as Primeape, up to 8). The rage fades after 5 s without taking damage.",
+      "kit": [
+        {
+          "name": "Seismic Toss",
+          "slug": "seismic-toss",
+          "type": "fighting",
+          "shape": "smite"
+        },
+        {
+          "name": "Rage Fist",
+          "slug": "rage-fist",
+          "type": "ghost",
+          "shape": "homing"
+        },
+        {
+          "name": "Stomping Tantrum",
+          "slug": "stomping-tantrum",
+          "type": "ground",
+          "shape": "nova"
+        },
+        {
+          "name": "Final Gambit",
+          "slug": "final-gambit",
+          "type": "fighting",
+          "shape": "meteor"
+        }
+      ],
+      "baseline": {
+        "hp": 105,
+        "armor": 6.79,
+        "regen": 0.45,
+        "moveSpeed": 1.085,
+        "physical": 1.135,
+        "special": 0.958
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "farfetchd",
+      "name": "Farfetch’d",
+      "id": 83,
+      "isDetails": false,
+      "tier": "B",
+      "score": 48,
+      "comfort": 45,
+      "pressure": 66,
+      "utility": 30,
+      "durability": 45,
+      "focus": "Flexible",
+      "passive": "+10% crit. You always carry a leek: 4% of your hits are an ×8 \"Bonk!\" (stacks with the Leek item).",
+      "kit": [
+        {
+          "name": "Cut",
+          "slug": "cut",
+          "type": "normal",
+          "shape": "strike"
+        },
+        {
+          "name": "False Swipe",
+          "slug": "false-swipe",
+          "type": "normal",
+          "shape": "boomerang"
+        },
+        {
+          "name": "Brave Bird",
+          "slug": "brave-bird",
+          "type": "flying",
+          "shape": "dash"
+        },
+        {
+          "name": "Meteor Assault",
+          "slug": "meteor-assault",
+          "type": "fighting",
+          "shape": "meteor"
+        }
+      ],
+      "baseline": {
+        "hp": 107,
+        "armor": 8.21,
+        "regen": 0.46,
+        "moveSpeed": 1.035,
+        "physical": 1.106,
+        "special": 1.005
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "aerodactyl",
+      "name": "Aerodactyl",
+      "id": 142,
+      "isDetails": false,
+      "tier": "B",
+      "score": 48,
+      "comfort": 50,
+      "pressure": 55,
+      "utility": 30,
+      "durability": 56,
+      "focus": "Flexible",
+      "passive": "+15% speed and +1 jump; you glide by holding Jump. While airborne, your attacks deal +25% damage.",
+      "kit": [
+        {
+          "name": "Thunder Fang",
+          "slug": "thunder-fang",
+          "type": "electric",
+          "shape": "strike"
+        },
+        {
+          "name": "Dual Wingbeat",
+          "slug": "dual-wingbeat",
+          "type": "flying",
+          "shape": "barrage"
+        },
+        {
+          "name": "Iron Head",
+          "slug": "iron-head",
+          "type": "steel",
+          "shape": "dash"
+        },
+        {
+          "name": "Dragon Ascent",
+          "slug": "dragon-ascent",
+          "type": "flying",
+          "shape": "meteor"
+        }
+      ],
+      "baseline": {
+        "hp": 112,
+        "armor": 7.17,
+        "regen": 0.48,
+        "moveSpeed": 1.102,
+        "physical": 1.065,
+        "special": 0.96
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "pidgey",
+      "name": "Pidgey",
+      "id": 16,
+      "isDetails": false,
+      "tier": "C",
+      "score": 47,
+      "comfort": 53,
+      "pressure": 49,
+      "utility": 30,
+      "durability": 62,
+      "focus": "Flexible",
+      "passive": "+12% speed, +20% projectile speed and +1 jump. Like any good Flying type, you glide by holding Jump.",
+      "kit": [
+        {
+          "name": "Quick Attack",
+          "slug": "quick-attack",
+          "type": "normal",
+          "shape": "dash"
+        },
+        {
+          "name": "Feather Dance",
+          "slug": "feather-dance",
+          "type": "flying",
+          "shape": "homing"
+        },
+        {
+          "name": "Wing Attack",
+          "slug": "wing-attack",
+          "type": "flying",
+          "shape": "boomerang"
+        },
+        {
+          "name": "Hurricane",
+          "slug": "hurricane",
+          "type": "flying",
+          "shape": "vortex"
+        }
+      ],
+      "baseline": {
+        "hp": 113,
+        "armor": 8.25,
+        "regen": 0.49,
+        "moveSpeed": 1.081,
+        "physical": 1.035,
+        "special": 0.987
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "drowzee",
+      "name": "Drowzee",
+      "id": 96,
+      "isDetails": false,
+      "tier": "C",
+      "score": 47,
+      "comfort": 60,
+      "pressure": 37,
+      "utility": 30,
+      "durability": 77,
+      "focus": "Flexible",
+      "passive": "+10% status chance. Every 7 s your pendulum puts the 3 closest enemies to sleep (Hypno, 5). Sleeping enemies within 6 m heal you for 0.5% of HP per second each (up to 5).",
+      "kit": [
+        {
+          "name": "Psywave",
+          "slug": "psywave",
+          "type": "psychic",
+          "shape": "wave"
+        },
+        {
+          "name": "Nightmare",
+          "slug": "nightmare",
+          "type": "ghost",
+          "shape": "homing"
+        },
+        {
+          "name": "Dream Eater",
+          "slug": "dream-eater",
+          "type": "psychic",
+          "shape": "drain"
+        },
+        {
+          "name": "Focus Blast",
+          "slug": "focus-blast",
+          "type": "fighting",
+          "shape": "orb"
+        }
+      ],
+      "baseline": {
+        "hp": 119,
+        "armor": 9.88,
+        "regen": 0.52,
+        "moveSpeed": 1.012,
+        "physical": 0.996,
+        "special": 0.977
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "doduo",
+      "name": "Doduo",
+      "id": 84,
+      "isDetails": false,
+      "tier": "C",
+      "score": 46,
+      "comfort": 35,
+      "pressure": 74,
+      "utility": 30,
+      "durability": 22,
+      "focus": "Flexible",
+      "passive": "+10% speed. Each attack has a 25% chance to repeat instantly with the other head. As Dodrio, 35%.",
+      "kit": [
+        {
+          "name": "Pluck",
+          "slug": "pluck",
+          "type": "flying",
+          "shape": "strike"
+        },
+        {
+          "name": "Double Hit",
+          "slug": "double-hit",
+          "type": "normal",
+          "shape": "barrage"
+        },
+        {
+          "name": "Uproar",
+          "slug": "uproar",
+          "type": "normal",
+          "shape": "nova"
+        },
+        {
+          "name": "Acrobatics",
+          "slug": "acrobatics",
+          "type": "flying",
+          "shape": "dash"
+        }
+      ],
+      "baseline": {
+        "hp": 100,
+        "armor": 7.26,
+        "regen": 0.42,
+        "moveSpeed": 1.094,
+        "physical": 1.149,
+        "special": 0.955
+      },
+      "caution": "A smaller opening HP pool leaves less room for contact mistakes."
+    },
+    {
+      "slug": "cubone",
+      "name": "Cubone",
+      "id": 104,
+      "isDetails": false,
+      "tier": "C",
+      "score": 46,
+      "comfort": 57,
+      "pressure": 37,
+      "utility": 30,
+      "durability": 72,
+      "focus": "Flexible",
+      "passive": "+10 armor. Your bone attacks deal +20% damage. Below 40% HP, +35% damage.",
+      "kit": [
+        {
+          "name": "Bone Club",
+          "slug": "bone-club",
+          "type": "ground",
+          "shape": "strike"
+        },
+        {
+          "name": "Bonemerang",
+          "slug": "bonemerang",
+          "type": "ground",
+          "shape": "boomerang"
+        },
+        {
+          "name": "Bone Rush",
+          "slug": "bone-rush",
+          "type": "ground",
+          "shape": "orbit"
+        },
+        {
+          "name": "Shadow Bone",
+          "slug": "shadow-bone",
+          "type": "ghost",
+          "shape": "boomerang"
+        }
+      ],
+      "baseline": {
+        "hp": 112,
+        "armor": 13.5,
+        "regen": 0.48,
+        "moveSpeed": 0.999,
+        "physical": 1.007,
+        "special": 0.97
+      },
+      "caution": "A slower baseline makes route choice and spacing more important."
+    },
+    {
+      "slug": "magnemite",
+      "name": "Magnemite",
+      "id": 81,
+      "isDetails": false,
+      "tier": "C",
+      "score": 45,
+      "comfort": 34,
+      "pressure": 73,
+      "utility": 30,
+      "durability": 19,
+      "focus": "Flexible",
+      "passive": "+4 pickup range. Every 4 s a magnetic pulse pulls in enemies within 9 m and may paralyze them. As Magneton, the pulse also damages them.",
+      "kit": [
+        {
+          "name": "Thunder Wave",
+          "slug": "thunder-wave",
+          "type": "electric",
+          "shape": "chain"
+        },
+        {
+          "name": "Gyro Ball",
+          "slug": "gyro-ball",
+          "type": "steel",
+          "shape": "spin"
+        },
+        {
+          "name": "Magnet Bomb",
+          "slug": "magnet-bomb",
+          "type": "steel",
+          "shape": "homing"
+        },
+        {
+          "name": "Flash Cannon",
+          "slug": "flash-cannon",
+          "type": "steel",
+          "shape": "beam"
+        }
+      ],
+      "baseline": {
+        "hp": 91,
+        "armor": 10.8,
+        "regen": 0.37,
+        "moveSpeed": 1.02,
+        "physical": 0.949,
+        "special": 1.171
+      },
+      "caution": "A smaller opening HP pool leaves less room for contact mistakes."
+    },
+    {
+      "slug": "koffing",
+      "name": "Koffing",
+      "id": 109,
+      "isDetails": false,
+      "tier": "C",
+      "score": 45,
+      "comfort": 43,
+      "pressure": 58,
+      "utility": 30,
+      "durability": 40,
+      "focus": "Flexible",
+      "passive": "You levitate: hold Jump to glide and you can climb walls. A 4 m gas cloud surrounds you and poisons every second. As Weezing, 5.5 m.",
+      "kit": [
+        {
+          "name": "Smog",
+          "slug": "smog",
+          "type": "poison",
+          "shape": "cone"
+        },
+        {
+          "name": "Clear Smog",
+          "slug": "clear-smog",
+          "type": "poison",
+          "shape": "orb"
+        },
+        {
+          "name": "Self-Destruct",
+          "slug": "self-destruct",
+          "type": "normal",
+          "shape": "nova"
+        },
+        {
+          "name": "Explosion",
+          "slug": "explosion",
+          "type": "normal",
+          "shape": "meteor"
+        }
+      ],
+      "baseline": {
+        "hp": 102,
+        "armor": 12.44,
+        "regen": 0.43,
+        "moveSpeed": 0.994,
+        "physical": 1.049,
+        "special": 1.032
+      },
+      "caution": "A smaller opening HP pool leaves less room for contact mistakes."
+    },
+    {
+      "slug": "electabuzz",
+      "name": "Electabuzz",
+      "id": 125,
+      "isDetails": false,
+      "tier": "C",
+      "score": 45,
+      "comfort": 42,
+      "pressure": 61,
+      "utility": 30,
+      "durability": 38,
+      "focus": "Flexible",
+      "passive": "Every time you paralyze an enemy you gain +2% damage for 4 s (up to 15 stacks).",
+      "kit": [
+        {
+          "name": "Thunder Punch",
+          "slug": "thunder-punch",
+          "type": "electric",
+          "shape": "strike"
+        },
+        {
+          "name": "Wild Charge",
+          "slug": "wild-charge",
+          "type": "electric",
+          "shape": "dash"
+        },
+        {
+          "name": "Thunder Cage",
+          "slug": "thunder-cage",
+          "type": "electric",
+          "shape": "vortex"
+        },
+        {
+          "name": "Bolt Strike",
+          "slug": "bolt-strike",
+          "type": "electric",
+          "shape": "meteor"
+        }
+      ],
+      "baseline": {
+        "hp": 106,
+        "armor": 7.31,
+        "regen": 0.45,
+        "moveSpeed": 1.074,
+        "physical": 1.023,
+        "special": 1.053
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "magmar",
+      "name": "Magmar",
+      "id": 126,
+      "isDetails": false,
+      "tier": "C",
+      "score": 45,
+      "comfort": 41,
+      "pressure": 62,
+      "utility": 30,
+      "durability": 35,
+      "focus": "Flexible",
+      "passive": "Anyone who touches you is burned. Burned enemies you defeat burst into flames (3 m) and burn those around them.",
+      "kit": [
+        {
+          "name": "Fire Punch",
+          "slug": "fire-punch",
+          "type": "fire",
+          "shape": "strike"
+        },
+        {
+          "name": "Mystical Fire",
+          "slug": "mystical-fire",
+          "type": "fire",
+          "shape": "homing"
+        },
+        {
+          "name": "Lava Plume",
+          "slug": "lava-plume",
+          "type": "fire",
+          "shape": "nova"
+        },
+        {
+          "name": "Eruption",
+          "slug": "eruption",
+          "type": "fire",
+          "shape": "meteor"
+        }
+      ],
+      "baseline": {
+        "hp": 105,
+        "armor": 7.24,
+        "regen": 0.45,
+        "moveSpeed": 1.055,
+        "physical": 1.05,
+        "special": 1.062
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "charmander",
+      "name": "Charmander",
+      "id": 4,
+      "isDetails": false,
+      "tier": "C",
+      "score": 44,
+      "comfort": 39,
+      "pressure": 61,
+      "utility": 30,
+      "durability": 32,
+      "focus": "Flexible",
+      "passive": "Below 40% HP, +40% damage. +10% Fire damage.",
+      "kit": [
+        {
+          "name": "Ember",
+          "slug": "ember",
+          "type": "fire",
+          "shape": "bolt"
+        },
+        {
+          "name": "Fire Spin",
+          "slug": "fire-spin",
+          "type": "fire",
+          "shape": "vortex"
+        },
+        {
+          "name": "Flamethrower",
+          "slug": "flamethrower",
+          "type": "fire",
+          "shape": "cone"
+        },
+        {
+          "name": "Fire Blast",
+          "slug": "fire-blast",
+          "type": "fire",
+          "shape": "orb"
+        }
+      ],
+      "baseline": {
+        "hp": 104,
+        "armor": 7.92,
+        "regen": 0.44,
+        "moveSpeed": 1.071,
+        "physical": 1.022,
+        "special": 1.053
+      },
+      "caution": "A smaller opening HP pool leaves less room for contact mistakes."
+    },
+    {
+      "slug": "vulpix",
+      "name": "Vulpix",
+      "id": 37,
+      "isDetails": false,
+      "tier": "C",
+      "score": 44,
+      "comfort": 41,
+      "pressure": 57,
+      "utility": 30,
+      "durability": 36,
+      "focus": "Flexible",
+      "passive": "+20% Fire damage and +15% status damage.",
+      "kit": [
+        {
+          "name": "Will-O-Wisp",
+          "slug": "will-o-wisp",
+          "type": "fire",
+          "shape": "homing"
+        },
+        {
+          "name": "Flame Burst",
+          "slug": "flame-burst",
+          "type": "fire",
+          "shape": "orb"
+        },
+        {
+          "name": "Extrasensory",
+          "slug": "extrasensory",
+          "type": "psychic",
+          "shape": "homing"
+        },
+        {
+          "name": "Heat Wave",
+          "slug": "heat-wave",
+          "type": "fire",
+          "shape": "cone"
+        }
+      ],
+      "baseline": {
+        "hp": 104,
+        "armor": 8.73,
+        "regen": 0.44,
+        "moveSpeed": 1.077,
+        "physical": 0.985,
+        "special": 1.021
+      },
+      "caution": "A smaller opening HP pool leaves less room for contact mistakes."
+    },
+    {
+      "slug": "shellder",
+      "name": "Shellder",
+      "id": 90,
+      "isDetails": false,
+      "tier": "C",
+      "score": 44,
+      "comfort": 39,
+      "pressure": 61,
+      "utility": 30,
+      "durability": 32,
+      "focus": "Flexible",
+      "passive": "+20 armor and +1 projectile. As Cloyster, +1 projectile and +10 more armor.",
+      "kit": [
+        {
+          "name": "Clamp",
+          "slug": "clamp",
+          "type": "water",
+          "shape": "strike"
+        },
+        {
+          "name": "Icicle Spear",
+          "slug": "icicle-spear",
+          "type": "ice",
+          "shape": "barrage"
+        },
+        {
+          "name": "Ice Spinner",
+          "slug": "ice-spinner",
+          "type": "ice",
+          "shape": "spin"
+        },
+        {
+          "name": "Icicle Crash",
+          "slug": "icicle-crash",
+          "type": "ice",
+          "shape": "smite"
+        }
+      ],
+      "baseline": {
+        "hp": 97,
+        "armor": 13.28,
+        "regen": 0.4,
+        "moveSpeed": 1.014,
+        "physical": 1.076,
+        "special": 0.997
+      },
+      "caution": "A smaller opening HP pool leaves less room for contact mistakes."
+    },
+    {
+      "slug": "ditto",
+      "name": "Ditto",
+      "id": 132,
+      "isDetails": false,
+      "tier": "C",
+      "score": 44,
+      "comfort": 42,
+      "pressure": 56,
+      "utility": 30,
+      "durability": 72,
+      "focus": "Setup",
+      "passive": "+10% damage, HP and speed. Every 30 s you copy the types of the nearest enemy: your type bonus and your weaknesses change.",
+      "kit": [
+        {
+          "name": "Transform",
+          "slug": "transform",
+          "type": "normal",
+          "shape": "random"
+        },
+        {
+          "name": "Mimic",
+          "slug": "mimic",
+          "type": "normal",
+          "shape": "random"
+        },
+        {
+          "name": "Copycat",
+          "slug": "copycat",
+          "type": "normal",
+          "shape": "random"
+        },
+        {
+          "name": "Sketch",
+          "slug": "sketch",
+          "type": "normal",
+          "shape": "random"
+        }
+      ],
+      "baseline": {
+        "hp": 115,
+        "armor": 9,
+        "regen": 0.5,
+        "moveSpeed": 1.04,
+        "physical": 1.02,
+        "special": 1.02
+      },
+      "caution": "Needs a deliberate opening and a plan for its payoff."
+    },
+    {
+      "slug": "voltorb",
+      "name": "Voltorb",
+      "id": 100,
+      "isDetails": false,
+      "tier": "C",
+      "score": 43,
+      "comfort": 40,
+      "pressure": 56,
+      "utility": 30,
+      "durability": 33,
+      "focus": "Flexible",
+      "passive": "+15% speed. Enemies you defeat have a 12% chance to explode (3 m, Electric damage that paralyzes); with Electrode, 20%.",
+      "kit": [
+        {
+          "name": "Spark",
+          "slug": "spark",
+          "type": "electric",
+          "shape": "dash"
+        },
+        {
+          "name": "Electroweb",
+          "slug": "electroweb",
+          "type": "electric",
+          "shape": "cone"
+        },
+        {
+          "name": "Rising Voltage",
+          "slug": "rising-voltage",
+          "type": "electric",
+          "shape": "smite"
+        },
+        {
+          "name": "Discharge",
+          "slug": "discharge",
+          "type": "electric",
+          "shape": "nova"
+        }
+      ],
+      "baseline": {
+        "hp": 103,
+        "armor": 8.45,
+        "regen": 0.43,
+        "moveSpeed": 1.138,
+        "physical": 0.929,
+        "special": 1.02
+      },
+      "caution": "A smaller opening HP pool leaves less room for contact mistakes."
+    },
+    {
+      "slug": "weedle",
+      "name": "Weedle",
+      "id": 13,
+      "isDetails": false,
+      "tier": "C",
+      "score": 42,
+      "comfort": 43,
+      "pressure": 49,
+      "utility": 30,
+      "durability": 73,
+      "focus": "Setup",
+      "passive": "+10% attack speed. Your crits poison and poisoned enemies take +20% damage. Evolves soon (Kakuna at Lv. 8, Beedrill at Lv. 36); as Kakuna, +30 armor.",
+      "kit": [
+        {
+          "name": "Poison Sting",
+          "slug": "poison-sting",
+          "type": "poison",
+          "shape": "bolt"
+        },
+        {
+          "name": "Twineedle",
+          "slug": "twineedle",
+          "type": "bug",
+          "shape": "barrage"
+        },
+        {
+          "name": "Toxic Spikes",
+          "slug": "toxic-spikes",
+          "type": "poison",
+          "shape": "trap"
+        },
+        {
+          "name": "Poison Jab",
+          "slug": "poison-jab",
+          "type": "poison",
+          "shape": "strike"
+        }
+      ],
+      "baseline": {
+        "hp": 125,
+        "armor": 7.38,
+        "regen": 0.56,
+        "moveSpeed": 1.105,
+        "physical": 1.035,
+        "special": 0.943
+      },
+      "caution": "Needs a deliberate opening and a plan for its payoff."
+    },
+    {
+      "slug": "ponyta",
+      "name": "Ponyta",
+      "id": 77,
+      "isDetails": false,
+      "tier": "C",
+      "score": 42,
+      "comfort": 38,
+      "pressure": 58,
+      "utility": 30,
+      "durability": 29,
+      "focus": "Flexible",
+      "passive": "+15% speed. As you move you leave fire footprints that burn enemies. As Rapidash, +10% speed and bigger footprints.",
+      "kit": [
+        {
+          "name": "Flame Charge",
+          "slug": "flame-charge",
+          "type": "fire",
+          "shape": "dash"
+        },
+        {
+          "name": "Bounce",
+          "slug": "bounce",
+          "type": "flying",
+          "shape": "smite"
+        },
+        {
+          "name": "Inferno",
+          "slug": "inferno",
+          "type": "fire",
+          "shape": "orb"
+        },
+        {
+          "name": "Sacred Fire",
+          "slug": "sacred-fire",
+          "type": "fire",
+          "shape": "meteor"
+        }
+      ],
+      "baseline": {
+        "hp": 103,
+        "armor": 7.68,
+        "regen": 0.43,
+        "moveSpeed": 1.078,
+        "physical": 1.069,
+        "special": 1.01
+      },
+      "caution": "A smaller opening HP pool leaves less room for contact mistakes."
+    },
+    {
+      "slug": "eevee",
+      "name": "Eevee",
+      "id": 133,
+      "isDetails": false,
+      "tier": "C",
+      "score": 41,
+      "comfort": 43,
+      "pressure": 44,
+      "utility": 30,
+      "durability": 73,
+      "focus": "Setup",
+      "passive": "+25% damage with moves of your own type (the type bonus goes from ×1.25 to ×1.56).",
+      "kit": [
+        {
+          "name": "Swift",
+          "slug": "swift",
+          "type": "normal",
+          "shape": "homing"
+        },
+        {
+          "name": "Quick Attack",
+          "slug": "quick-attack",
+          "type": "normal",
+          "shape": "dash"
+        },
+        {
+          "name": "Bite",
+          "slug": "bite",
+          "type": "dark",
+          "shape": "strike"
+        },
+        {
+          "name": "Last Resort",
+          "slug": "last-resort",
+          "type": "normal",
+          "shape": "meteor"
+        }
+      ],
+      "baseline": {
+        "hp": 116,
+        "armor": 9.14,
+        "regen": 0.5,
+        "moveSpeed": 1.042,
+        "physical": 1.023,
+        "special": 0.986
+      },
+      "caution": "Needs a deliberate opening and a plan for its payoff."
+    },
+    {
+      "slug": "meowth",
+      "name": "Meowth",
+      "id": 52,
+      "isDetails": false,
+      "tier": "C",
+      "score": 40,
+      "comfort": 43,
+      "pressure": 41,
+      "utility": 30,
+      "durability": 40,
+      "focus": "Flexible",
+      "passive": "+40% PokéDollars and +2 pickup. Every 100 ₽ you earn in a run gives you +1% crit (up to +15%). As Persian, +10% speed.",
+      "kit": [
+        {
+          "name": "Pay Day",
+          "slug": "pay-day",
+          "type": "normal",
+          "shape": "barrage"
+        },
+        {
+          "name": "Fake Out",
+          "slug": "fake-out",
+          "type": "normal",
+          "shape": "strike"
+        },
+        {
+          "name": "Assurance",
+          "slug": "assurance",
+          "type": "dark",
+          "shape": "dash"
+        },
+        {
+          "name": "Play Rough",
+          "slug": "play-rough",
+          "type": "fairy",
+          "shape": "spin"
+        }
+      ],
+      "baseline": {
+        "hp": 107,
+        "armor": 6.83,
+        "regen": 0.46,
+        "moveSpeed": 1.143,
+        "physical": 1.006,
+        "special": 0.986
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "poliwag",
+      "name": "Poliwag",
+      "id": 60,
+      "isDetails": false,
+      "tier": "C",
+      "score": 40,
+      "comfort": 42,
+      "pressure": 43,
+      "utility": 30,
+      "durability": 37,
+      "focus": "Flexible",
+      "passive": "+10% HP and +20% projectile speed. In rain, +30% speed and +20% damage. As Poliwrath, +15% physical damage.",
+      "kit": [
+        {
+          "name": "Bubble Beam",
+          "slug": "bubble-beam",
+          "type": "water",
+          "shape": "barrage"
+        },
+        {
+          "name": "Hypnosis",
+          "slug": "hypnosis",
+          "type": "psychic",
+          "shape": "homing"
+        },
+        {
+          "name": "Circle Throw",
+          "slug": "circle-throw",
+          "type": "fighting",
+          "shape": "spin"
+        },
+        {
+          "name": "Submission",
+          "slug": "submission",
+          "type": "fighting",
+          "shape": "dash"
+        }
+      ],
+      "baseline": {
+        "hp": 106,
+        "armor": 7.2,
+        "regen": 0.45,
+        "moveSpeed": 1.136,
+        "physical": 1.02,
+        "special": 0.98
+      },
+      "caution": "Passive benefits still depend on the attacks and targets in your run."
+    },
+    {
+      "slug": "tentacool",
+      "name": "Tentacool",
+      "id": 72,
+      "isDetails": false,
+      "tier": "C",
+      "score": 40,
+      "comfort": 40,
+      "pressure": 46,
+      "utility": 30,
+      "durability": 33,
+      "focus": "Flexible",
+      "passive": "+10 armor. Every 2 s your tentacles lash the 2 closest enemies within 7 m (they poison); Tentacruel lashes 4.",
+      "kit": [
+        {
+          "name": "Brine",
+          "slug": "brine",
+          "type": "water",
+          "shape": "orb"
+        },
+        {
+          "name": "Acid Spray",
+          "slug": "acid-spray",
+          "type": "poison",
+          "shape": "lob"
+        },
+        {
+          "name": "Venoshock",
+          "slug": "venoshock",
+          "type": "poison",
+          "shape": "chain"
+        },
+        {
+          "name": "Whirlpool",
+          "slug": "whirlpool",
+          "type": "water",
+          "shape": "vortex"
+        }
+      ],
+      "baseline": {
+        "hp": 102,
+        "armor": 9.13,
+        "regen": 0.43,
+        "moveSpeed": 1.07,
+        "physical": 0.963,
+        "special": 0.999
+      },
+      "caution": "A smaller opening HP pool leaves less room for contact mistakes."
+    },
+    {
+      "slug": "caterpie",
+      "name": "Caterpie",
+      "id": 10,
+      "isDetails": false,
+      "tier": "C",
+      "score": 39,
+      "comfort": 46,
+      "pressure": 34,
+      "utility": 30,
+      "durability": 81,
+      "focus": "Setup",
+      "passive": "+15% experience and +20 shield. Evolves soon (Metapod at Lv. 8, Butterfree at Lv. 36). As Metapod, the cocoon gives you +30 armor.",
+      "kit": [
+        {
+          "name": "String Shot",
+          "slug": "string-shot",
+          "type": "bug",
+          "shape": "cone"
+        },
+        {
+          "name": "Bug Bite",
+          "slug": "bug-bite",
+          "type": "bug",
+          "shape": "strike"
+        },
+        {
+          "name": "Gust",
+          "slug": "gust",
+          "type": "flying",
+          "shape": "vortex"
+        },
+        {
+          "name": "Bug Buzz",
+          "slug": "bug-buzz",
+          "type": "bug",
+          "shape": "nova"
+        }
+      ],
+      "baseline": {
+        "hp": 132,
+        "armor": 8.31,
+        "regen": 0.6,
+        "moveSpeed": 1.086,
+        "physical": 1.005,
+        "special": 0.943
+      },
+      "caution": "Needs a deliberate opening and a plan for its payoff."
+    },
+    {
+      "slug": "dratini",
+      "name": "Dratini",
+      "id": 147,
+      "isDetails": false,
+      "tier": "C",
+      "score": 39,
+      "comfort": 29,
+      "pressure": 61,
+      "utility": 30,
+      "durability": 43,
+      "focus": "Setup",
+      "passive": "At full HP you take -50% damage.",
+      "kit": [
+        {
+          "name": "Twister",
+          "slug": "twister",
+          "type": "dragon",
+          "shape": "vortex"
+        },
+        {
+          "name": "Dragon Rage",
+          "slug": "dragon-rage",
+          "type": "dragon",
+          "shape": "homing"
+        },
+        {
+          "name": "Dragon Pulse",
+          "slug": "dragon-pulse",
+          "type": "dragon",
+          "shape": "beam"
+        },
+        {
+          "name": "Draco Meteor",
+          "slug": "draco-meteor",
+          "type": "dragon",
+          "shape": "meteor"
+        }
+      ],
+      "baseline": {
+        "hp": 107,
+        "armor": 8.4,
+        "regen": 0.45,
+        "moveSpeed": 1.04,
+        "physical": 1.076,
+        "special": 1.02
+      },
+      "caution": "Needs a deliberate opening and a plan for its payoff."
+    },
+    {
+      "slug": "diglett",
+      "name": "Diglett",
+      "id": 50,
+      "isDetails": false,
+      "tier": "C",
+      "score": 36,
+      "comfort": 26,
+      "pressure": 58,
+      "utility": 30,
+      "durability": 3,
+      "focus": "Flexible",
+      "passive": "+10 armor. Every 2 s the ground shakes around you (4.5 m): it damages and traps enemies in the sand (root). As Dugtrio, 6 m.",
+      "kit": [
+        {
+          "name": "Scratch",
+          "slug": "scratch",
+          "type": "normal",
+          "shape": "strike"
+        },
+        {
+          "name": "Mud Shot",
+          "slug": "mud-shot",
+          "type": "ground",
+          "shape": "bolt"
+        },
+        {
+          "name": "Tri Attack",
+          "slug": "tri-attack",
+          "type": "normal",
+          "shape": "chain"
+        },
+        {
+          "name": "Fissure",
+          "slug": "fissure",
+          "type": "ground",
+          "shape": "wave"
+        }
+      ],
+      "baseline": {
+        "hp": 80,
+        "armor": 6.45,
+        "regen": 0.31,
+        "moveSpeed": 1.178,
+        "physical": 1.069,
+        "special": 0.978
+      },
+      "caution": "A smaller opening HP pool leaves less room for contact mistakes."
+    },
+    {
+      "slug": "onix",
+      "name": "Onix",
+      "id": 95,
+      "isDetails": false,
+      "tier": "C",
+      "score": 32,
+      "comfort": 38,
+      "pressure": 23,
+      "utility": 30,
+      "durability": 28,
+      "focus": "Flexible",
+      "passive": "+25 armor and +15% HP, in exchange for -8% speed. Your Charges deal +30% damage. Every 6 s rocks fall on the 3 closest enemies.",
+      "kit": [
+        {
+          "name": "Rock Tomb",
+          "slug": "rock-tomb",
+          "type": "rock",
+          "shape": "smite"
+        },
+        {
+          "name": "Stealth Rock",
+          "slug": "stealth-rock",
+          "type": "rock",
+          "shape": "trap"
+        },
+        {
+          "name": "Iron Tail",
+          "slug": "iron-tail",
+          "type": "steel",
+          "shape": "strike"
+        },
+        {
+          "name": "Head Smash",
+          "slug": "head-smash",
+          "type": "rock",
+          "shape": "dash"
+        }
+      ],
+      "baseline": {
+        "hp": 95,
+        "armor": 17.06,
+        "regen": 0.39,
+        "moveSpeed": 1.051,
+        "physical": 0.96,
+        "special": 0.914
+      },
+      "caution": "A smaller opening HP pool leaves less room for contact mistakes."
+    },
+    {
+      "slug": "magikarp",
+      "name": "Magikarp",
+      "id": 129,
+      "isDetails": false,
+      "tier": "C",
+      "score": 23,
+      "comfort": 24,
+      "pressure": 17,
+      "utility": 30,
+      "durability": 31,
+      "focus": "Setup",
+      "passive": "+60% experience. With it, it reaches a fearsome evolution before anyone else (Lv. 40).",
+      "kit": [
+        {
+          "name": "Tackle",
+          "slug": "tackle",
+          "type": "normal",
+          "shape": "dash"
+        },
+        {
+          "name": "Flail",
+          "slug": "flail",
+          "type": "normal",
+          "shape": "strike"
+        },
+        {
+          "name": "Waterfall",
+          "slug": "waterfall",
+          "type": "water",
+          "shape": "dash"
+        },
+        {
+          "name": "Hyper Beam",
+          "slug": "hyper-beam",
+          "type": "normal",
+          "shape": "beam"
+        }
+      ],
+      "baseline": {
+        "hp": 97,
+        "armor": 11.7,
+        "regen": 0.4,
+        "moveSpeed": 1.208,
+        "physical": 0.88,
+        "special": 0.91
+      },
+      "caution": "Needs a deliberate opening and a plan for its payoff."
+    }
+  ],
+  "versionReview": {
+    "build": "mvr5gbc0",
+    "kitsChecked": 79,
+    "movesChecked": 389,
+    "summary": "Recalculated for v0.8.62 from all 79 current League kits, original baseline calculators and passive definitions. The checked opening inputs are unchanged from v0.8.25, so the model scores stay the same. Co-op target sharing, fusion scaling and cosmetic unlocks are outside this solo Classic opening comparison."
+  },
+  "tiers": [
+    {
+      "tier": "S",
+      "label": "Strong opening",
+      "pokemon": [
+        "slowpoke",
+        "clefairy",
+        "tangela"
+      ],
+      "reason": "Classic opening-comfort model; see the full criteria and kit evidence on the tier-list page."
+    },
+    {
+      "tier": "A",
+      "label": "Reliable",
+      "pokemon": [
+        "rhyhorn",
+        "ekans",
+        "bellsprout",
+        "mewtwo",
+        "lapras",
+        "oddish",
+        "bulbasaur",
+        "gastly",
+        "mr-mime",
+        "abra",
+        "machop",
+        "geodude",
+        "zubat",
+        "nidoran-f",
+        "mew",
+        "jynx"
+      ],
+      "reason": "Classic opening-comfort model; see the full criteria and kit evidence on the tier-list page."
+    },
+    {
+      "tier": "B",
+      "label": "Build dependent",
+      "pokemon": [
+        "growlithe",
+        "goldeen",
+        "articuno",
+        "squirtle",
+        "omanyte",
+        "sandshrew",
+        "paras",
+        "grimer",
+        "chansey",
+        "kangaskhan",
+        "zapdos",
+        "moltres",
+        "horsea",
+        "staryu",
+        "pinsir",
+        "scyther",
+        "exeggcute",
+        "lickitung",
+        "porygon",
+        "kabuto",
+        "snorlax",
+        "jigglypuff",
+        "krabby",
+        "nidoran-m",
+        "hitmonlee",
+        "hitmonchan",
+        "venonat",
+        "psyduck",
+        "rattata",
+        "spearow",
+        "pikachu",
+        "seel",
+        "tauros",
+        "mankey",
+        "farfetchd",
+        "aerodactyl"
+      ],
+      "reason": "Classic opening-comfort model; see the full criteria and kit evidence on the tier-list page."
+    },
+    {
+      "tier": "C",
+      "label": "Needs a plan",
+      "pokemon": [
+        "pidgey",
+        "drowzee",
+        "doduo",
+        "cubone",
+        "magnemite",
+        "koffing",
+        "electabuzz",
+        "magmar",
+        "charmander",
+        "vulpix",
+        "shellder",
+        "ditto",
+        "voltorb",
+        "weedle",
+        "ponyta",
+        "eevee",
+        "meowth",
+        "poliwag",
+        "tentacool",
+        "caterpie",
+        "dratini",
+        "diglett",
+        "onix",
+        "magikarp"
+      ],
+      "reason": "Classic opening-comfort model; see the full criteria and kit evidence on the tier-list page."
+    }
+  ]
+}

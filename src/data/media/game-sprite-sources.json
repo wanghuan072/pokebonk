@@ -1,0 +1,4863 @@
+{
+  "version": "0.8.55",
+  "metadataUrl": "https://pokebonk.com/data/sprites.json?v=wXYqoD57",
+  "metadataSha256": "b85bf1061400dedcb234329f5ceac7999433ec80b8f2c5795ea08fd39cc1dc9f",
+  "records": [
+    {
+      "file": "/images/pokemon/game/idle/1.png",
+      "url": "https://pokebonk.com/assets/pmd/1.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "6137245bee05315f3b2c82690427b015adb16721c7922f0c41b4bfb84bfa7b13",
+      "sha256": "087fe6709db2e3d96dbea60ac129648eed6cf99c35b635ad62e34fa51d456e4b",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 96,
+        "height": 40
+      },
+      "frameDurations": [
+        40,
+        6,
+        6
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "0a993da9c7c1c5c5511bd36d0819687fb99a91ded23da66bcf6af86584c89ac2"
+    },
+    {
+      "file": "/images/pokemon/game/idle/10.png",
+      "url": "https://pokebonk.com/assets/pmd/10.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "7803473b398cce78f2b6ed1e58959c87381e31aecb565ca7573f64059da7e694",
+      "sha256": "cf2a1e81b8f1a0812f2c080d58889da3725753d201a5367104d1728f6989464c",
+      "crop": {
+        "left": 0,
+        "top": 256,
+        "width": 320,
+        "height": 32
+      },
+      "frameDurations": [
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        4,
+        10,
+        4
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "14e2beaf1ad1585d700e52c615b67ea37585f369bb4c4eca1c955263ce3d0c7c"
+    },
+    {
+      "file": "/images/pokemon/game/idle/100.png",
+      "url": "https://pokebonk.com/assets/pmd/100.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "a326aed3e1ef85d54e65e59cb56ba5c0e9ccf7211863131eb4e53308570b0bc8",
+      "sha256": "6ce451ee15b18cd6edd59f9cf8528a416ff645f5e24fe0efb6d31036fe683105",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 120,
+        "height": 32
+      },
+      "frameDurations": [
+        22,
+        6,
+        2,
+        6,
+        6
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "e99c7c4e6f65f1b1c03cc1efa2a67e354ca1e6c099d81e0056351739fb979206"
+    },
+    {
+      "file": "/images/pokemon/game/idle/101.png",
+      "url": "https://pokebonk.com/assets/pmd/101.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "dfe77e6c6a3db2bd274d9dbb9a84523eec4ec530dd616418aa28e559b01011d1",
+      "sha256": "3b56a77411db38fe0eee7e466689a7d3040fab6bf695334cfc588221b7b56363",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 96,
+        "height": 32
+      },
+      "frameDurations": [
+        10,
+        18,
+        10,
+        18
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "eb413b8365acf26a909800a0fca3185091f33aea442b4b21cf5727ed9a669200"
+    },
+    {
+      "file": "/images/pokemon/game/idle/102.png",
+      "url": "https://pokebonk.com/assets/pmd/102.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "110b66a7d153bc85c22424095d477221aabcbab60f6ac8caacaa8925e165eac6",
+      "sha256": "230967a3500565bcb62dd9f26030e9d5db17139ce8bb448e71b891d3f79ca8f6",
+      "crop": {
+        "left": 0,
+        "top": 256,
+        "width": 192,
+        "height": 40
+      },
+      "frameDurations": [
+        30,
+        2,
+        4,
+        4,
+        4,
+        2
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "ab287690f5f6b1f8dad88ea36ed38708ca424b3dbf48ee05292466ea40394a4a"
+    },
+    {
+      "file": "/images/pokemon/game/idle/103.png",
+      "url": "https://pokebonk.com/assets/pmd/103.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "52d6df8924bd5ef41044a8be07e15e05672ea207360c442f152b0cec2f3e8ac7",
+      "sha256": "3a068a6793c56522218cb59a94391f55a6adc5a4ca3927293f54fc75455a8634",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 160,
+        "height": 56
+      },
+      "frameDurations": [
+        40,
+        12,
+        8,
+        12
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "c5e6f5155d8b274e08f45aa851856867849a09f5f68ba460f0cc2694358b2c5f"
+    },
+    {
+      "file": "/images/pokemon/game/idle/104.png",
+      "url": "https://pokebonk.com/assets/pmd/104.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "539c8426e760d8c2ba0c8d838effb6521623bea017b0801ca5f4ceed6f0d4f6a",
+      "sha256": "5ca07332ee1bb53467b4b43234ef140ac91a54cef58a352031d55d2194f11f4b",
+      "crop": {
+        "left": 0,
+        "top": 256,
+        "width": 192,
+        "height": 40
+      },
+      "frameDurations": [
+        40,
+        1,
+        2,
+        3,
+        2,
+        1
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "55b4d2aa7a55a66031889abfdbe93609d5704d34abeeca0ec703370ee2eda4d6"
+    },
+    {
+      "file": "/images/pokemon/game/idle/105.png",
+      "url": "https://pokebonk.com/assets/pmd/105.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "16e2ab14ca20b20b9b816501bb25ac2a5b3af7a8b7d24a3a817702ee66cdfffd",
+      "sha256": "ae2abf9376ad48365c43aa026cf68939f5dcf33fbd9aaeb0ce4dec5e27b0ce62",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 128,
+        "height": 48
+      },
+      "frameDurations": [
+        40,
+        6,
+        16,
+        6
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "20efa197be563589e9026a5927e556d0a46d0361dbf333d67b39b465ae5f9a61"
+    },
+    {
+      "file": "/images/pokemon/game/idle/106.png",
+      "url": "https://pokebonk.com/assets/pmd/106.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "03c6d239a75638eb21c0045a0948e33cf03fd20b6a1f25e303cb86a9c1610327",
+      "sha256": "5765943aeaac4d4231522827780f858fbfe53b873fa9d05a66fdb62fa454fb23",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 80,
+        "height": 48
+      },
+      "frameDurations": [
+        40,
+        20
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "c96544b3b90d1c22e906fd051e66abd9f017199c0b378012ba66c170d3ac1aea"
+    },
+    {
+      "file": "/images/pokemon/game/idle/107.png",
+      "url": "https://pokebonk.com/assets/pmd/107.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "ec43013206bc17424282abb1d8afa71828d26695432e45296e0077036c3e0955",
+      "sha256": "acf02de0246a18f14335fbb38eeb550f756ecb8f6f5974933b4772a0804a6369",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 192,
+        "height": 56
+      },
+      "frameDurations": [
+        30,
+        6,
+        8,
+        6
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "f5e67135f0d4e14acd4d452c45b093ef6807783c76ec410e822823bcfdc3eaea"
+    },
+    {
+      "file": "/images/pokemon/game/idle/108.png",
+      "url": "https://pokebonk.com/assets/pmd/108.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "ce856379bc4cc06d155bdb43f72256ebe7e2130e21b2d62cd3985c3292253b8c",
+      "sha256": "1206cca23552364d1a8fb569816696a269bf45a03323d1336528538cce68b6f4",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 192,
+        "height": 48
+      },
+      "frameDurations": [
+        36,
+        12,
+        10,
+        12
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "0bff78d0738eefdc42b8ff9807cc94d0517b92c76c1bdbd948f15a099f0bc98b"
+    },
+    {
+      "file": "/images/pokemon/game/idle/109.png",
+      "url": "https://pokebonk.com/assets/pmd/109.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "ba3c31c24c3371df87a8935abd4414d61aecb96fa86c32a9925ec11b084518a9",
+      "sha256": "6c90e99d542e50d7dd29d328842b212135bd27e629bc2bf2f57fc648a619e530",
+      "crop": {
+        "left": 0,
+        "top": 448,
+        "width": 192,
+        "height": 56
+      },
+      "frameDurations": [
+        10,
+        10,
+        8,
+        10,
+        10,
+        8
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "f022237961ff4fb0dd7839852bc75a2d29ce5cc5c44be5cbc000e22ac0d3bbb3"
+    },
+    {
+      "file": "/images/pokemon/game/idle/11.png",
+      "url": "https://pokebonk.com/assets/pmd/11.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "87b49aff3f2e9103609701696b7425b33a4fca1a071090c2e76d3319e5779588",
+      "sha256": "f68cdd7415c8176a47d55bf0e700f5a03a245d81b00332260299517f534d6b1d",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 128,
+        "height": 40
+      },
+      "frameDurations": [
+        10,
+        14,
+        10,
+        14
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "187621543728f652ab2f0ef5028e46494b42e576ab150a51e2b7422854dba5ed"
+    },
+    {
+      "file": "/images/pokemon/game/idle/110.png",
+      "url": "https://pokebonk.com/assets/pmd/110.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "6b1a49668f0667062eb6068342dc66241f986d0a37eeb88fff8567a5d8c68339",
+      "sha256": "ebcbda414cab8d20a3d553387f236a9182207e7ee980c54ceedf9ebd2355dc9f",
+      "crop": {
+        "left": 0,
+        "top": 448,
+        "width": 352,
+        "height": 64
+      },
+      "frameDurations": [
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "b84d71a21039c70859a93bfa987447beff93d28655c46e038dc5ea4f37b8f56a"
+    },
+    {
+      "file": "/images/pokemon/game/idle/111.png",
+      "url": "https://pokebonk.com/assets/pmd/111.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "68b1a22da74a04eea18d8fd2cf6e3cdcf51121711807ac86f9565879ca54f144",
+      "sha256": "481e45011b49a8ac92b0389e891be744e02d6649545327191d22992f71817fe7",
+      "crop": {
+        "left": 0,
+        "top": 256,
+        "width": 120,
+        "height": 32
+      },
+      "frameDurations": [
+        40,
+        20,
+        15
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "f8204d9b476b87ae438c3b3677cf7502a27a053c914d5e058cbe10753f614ffd"
+    },
+    {
+      "file": "/images/pokemon/game/idle/112.png",
+      "url": "https://pokebonk.com/assets/pmd/112.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "d80eb76a77116a6ee56a576c42e95c3ad8591cac8b9a89ffb7c576df19857962",
+      "sha256": "2030c0d4d3749145da968602360a8c1b99f704c7d59aee4838d001817faa34bc",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 96,
+        "height": 48
+      },
+      "frameDurations": [
+        40,
+        26
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "05aae80b307fae1b043eeb16807d8118fa1913b29fb937ef837a3a5bd869f21a"
+    },
+    {
+      "file": "/images/pokemon/game/idle/113.png",
+      "url": "https://pokebonk.com/assets/pmd/113.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "c78927733a55a8bc2f23a5d351a3f2d25640fd4a4f824200139dabb376e1c86f",
+      "sha256": "88b36a6e5fd7ed8ed9216632235eeeee87272cbd61b293cf213d7c90f252d5ca",
+      "crop": {
+        "left": 0,
+        "top": 256,
+        "width": 144,
+        "height": 40
+      },
+      "frameDurations": [
+        40,
+        2,
+        3,
+        4,
+        3,
+        2
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "fda69e7c6d1a18fbe4bdaa7d0c60d9c811bd8da807e352ff2f37e53fcbd7c2c0"
+    },
+    {
+      "file": "/images/pokemon/game/idle/114.png",
+      "url": "https://pokebonk.com/assets/pmd/114.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "b308b3977dc86a91c2f6defa620c5e4e3daa1127b52d77ff8686d7054f0f035b",
+      "sha256": "3e258550caa1b76e7e63f26462559978b320d0ec835a37e7f92e11c37ff228e0",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 128,
+        "height": 48
+      },
+      "frameDurations": [
+        34,
+        6,
+        6,
+        6
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "00573b292caceffc3f8dfde7be14010be5c4eed2984d9f2bf43e222fe3e7946d"
+    },
+    {
+      "file": "/images/pokemon/game/idle/115.png",
+      "url": "https://pokebonk.com/assets/pmd/115.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "3c4c5896bcdd57abd2906bbb1aaa3c60d3e51b6cd27aebc5e4e80b4753d896cb",
+      "sha256": "191cead213e0e7d781b77950cfe345f8a85232b3ffd2ed349693cd38b1023a95",
+      "crop": {
+        "left": 0,
+        "top": 448,
+        "width": 200,
+        "height": 56
+      },
+      "frameDurations": [
+        30,
+        3,
+        4,
+        3,
+        20
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "271c3ad0f2c35d920c3d74f250b8301f833533d8f33912a8c09ae66b19dca61e"
+    },
+    {
+      "file": "/images/pokemon/game/idle/116.png",
+      "url": "https://pokebonk.com/assets/pmd/116.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "b39edad65030b1830c17b167e4f517254cfaa8f30b3a6f1f6cce76fb5597cf81",
+      "sha256": "3b50882c8427406842f56bef327081c6d9b06a829d723fa188fc37d9da948399",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 96,
+        "height": 48
+      },
+      "frameDurations": [
+        8,
+        16,
+        8,
+        16
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "1e193f765f8a846fb32cec53c9b79e143ec5c3a2c16502f9003cf2297fdc3567"
+    },
+    {
+      "file": "/images/pokemon/game/idle/117.png",
+      "url": "https://pokebonk.com/assets/pmd/117.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "053adeca5455c25120081ad62fa227f091514784e3de7cb08b58249bb175572c",
+      "sha256": "ff391b652632a70743d3c5e2d05b661718aa031f3ca0541f29e57a48aee63b8f",
+      "crop": {
+        "left": 0,
+        "top": 448,
+        "width": 256,
+        "height": 64
+      },
+      "frameDurations": [
+        12,
+        12,
+        12,
+        12,
+        8,
+        8,
+        8,
+        8
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "52a0a1d4a6aa955b9f54ab6d238c3fd97030044727e28c986aed4f40ca6366c1"
+    },
+    {
+      "file": "/images/pokemon/game/idle/118.png",
+      "url": "https://pokebonk.com/assets/pmd/118.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "0d2f02b9d82efb2327333e5adc38663a6c4de008cf4ff81e425c74242246db34",
+      "sha256": "9dfc9afe777ca7b9941c9d53fba42efaed1c98044ca85accf50600e136e1f5c0",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 480,
+        "height": 40
+      },
+      "frameDurations": [
+        16,
+        10,
+        16,
+        10,
+        16,
+        10,
+        16,
+        2,
+        4,
+        4,
+        4,
+        12,
+        10,
+        16,
+        10
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "0b234f7ffbc27ee19ef9d822344e13b04748c01cdd93de6523b0399808be8991"
+    },
+    {
+      "file": "/images/pokemon/game/idle/119.png",
+      "url": "https://pokebonk.com/assets/pmd/119.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "e0c45b4d4ff3bbf7adb942e494dd1921402ee96939bb4ba7aa6cd354a48f826d",
+      "sha256": "30dbd0aa2788110b23e0fadcb1d12116776c1a13a42052b11599a995c9195276",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 480,
+        "height": 48
+      },
+      "frameDurations": [
+        16,
+        10,
+        16,
+        10,
+        16,
+        10,
+        16,
+        2,
+        4,
+        4,
+        4,
+        12,
+        10,
+        16,
+        10
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "3294d4ff3a2698c76ad1d0bf9f76cf62b83c843a357a4230c477ba592614bce2"
+    },
+    {
+      "file": "/images/pokemon/game/idle/12.png",
+      "url": "https://pokebonk.com/assets/pmd/12.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "2f766c8b9e6052fec6fb351dcef82418fbd1a287b916db4820f5980610ffceeb",
+      "sha256": "5235277e8f3eb1f5fe1e2541e5a82b3e4f8014faa44065b221d2d266e5c9eefe",
+      "crop": {
+        "left": 0,
+        "top": 448,
+        "width": 128,
+        "height": 56
+      },
+      "frameDurations": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "f031e24327e138156457c94d45441ffc9dae6b512092288670a2ff5e83997ccd"
+    },
+    {
+      "file": "/images/pokemon/game/idle/120.png",
+      "url": "https://pokebonk.com/assets/pmd/120.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "8cd66830010debd6102776188bf8270cfdae74d2556e1aac6aef7a50c2103e67",
+      "sha256": "2b8123dd62c117f688b2e7ddff6068251fc026985da75e4ab00a6cf2752dc3ec",
+      "crop": {
+        "left": 0,
+        "top": 256,
+        "width": 96,
+        "height": 32
+      },
+      "frameDurations": [
+        36,
+        10,
+        6,
+        10
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "f8de773e8400003880242758c01ba7606ea57c5bc7359c2de1661401da26b0d4"
+    },
+    {
+      "file": "/images/pokemon/game/idle/121.png",
+      "url": "https://pokebonk.com/assets/pmd/121.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "7351d7e09f6a4f4854bb81e9f4d92cf31ac0f0aab3b58dd08266deb4cbcc281f",
+      "sha256": "c824d4c0727a793d31f5bd7fd531a200083b6ff1f033dc078900ea3db167cb0a",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 192,
+        "height": 32
+      },
+      "frameDurations": [
+        60,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "40bd310f10350dcf8da388257b90b720d8edfd09b652a950db348bb319a9f542"
+    },
+    {
+      "file": "/images/pokemon/game/idle/122.png",
+      "url": "https://pokebonk.com/assets/pmd/122.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "4dcb4dcbfb8b547921bf68321d1794541de3ecb931bdacfeff2ce5eda6c44cb6",
+      "sha256": "980acb3261e07d32f3b22f941bd66cac48f58cac843fb6cb1825ef710900312b",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 64,
+        "height": 48
+      },
+      "frameDurations": [
+        20,
+        12
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "5109e6f1cd2eb9051aa46539a99ef1bcefd2c3d3d5c0e93c1d0a47ef8e00a6d2"
+    },
+    {
+      "file": "/images/pokemon/game/idle/123.png",
+      "url": "https://pokebonk.com/assets/pmd/123.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "df9407c06851c04e2987dafe0a1c7a2f7eb2aa3d97d6a19270f633186af644ee",
+      "sha256": "b45869b05d6ccfb12b172a91828adb070093452588d0f6e9631733ba7835908d",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 128,
+        "height": 48
+      },
+      "frameDurations": [
+        40,
+        10,
+        14,
+        10
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "fd4938d1284af8d2d9275218d899590a99987847c6f70ea07ca7f59e64afa6ca"
+    },
+    {
+      "file": "/images/pokemon/game/idle/124.png",
+      "url": "https://pokebonk.com/assets/pmd/124.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "057f67f20149a1a7541fc539f1766c30afa3dbe355a77494db20dd5451b123ab",
+      "sha256": "10139d94809e70c3603ed0d76f4ef419e35e584f1207f36496d5acf221ebdda4",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 128,
+        "height": 40
+      },
+      "frameDurations": [
+        30,
+        14,
+        30,
+        14
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "eae6adf2fdf11be2136862207b4fa9e5d30ce1d94c2e0cc7d71f409f84184864"
+    },
+    {
+      "file": "/images/pokemon/game/idle/125.png",
+      "url": "https://pokebonk.com/assets/pmd/125.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "59d8c21e05b78a111d4c1391e3f49a2fee5f64dcc8f6922fb1e50ad68f4ee967",
+      "sha256": "87ecbfef6d699ae7440e2c0b8b14c8259ddd83140a8b4ca047a32386b26a266f",
+      "crop": {
+        "left": 0,
+        "top": 448,
+        "width": 160,
+        "height": 56
+      },
+      "frameDurations": [
+        28,
+        18,
+        28,
+        18
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "232b40bdc57045cf5a71904e8ec8d153c4700922f7a6376d14367324a59cfd4c"
+    },
+    {
+      "file": "/images/pokemon/game/idle/126.png",
+      "url": "https://pokebonk.com/assets/pmd/126.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "192c73cbb38b7cd57b946347f001c4b5682e5ede631d4a19b1b899b936463887",
+      "sha256": "6536a2206ce6dd3770c54137aaef4f01f80c841c00bb668e44ec65fccc84debb",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 128,
+        "height": 48
+      },
+      "frameDurations": [
+        40,
+        6,
+        12,
+        6
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "eecee0e010f95c0442611a4b8af3d9292c6d96ee47161cd231338d8ff1d474db"
+    },
+    {
+      "file": "/images/pokemon/game/idle/127.png",
+      "url": "https://pokebonk.com/assets/pmd/127.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "a78fe790272b041dde1af4bb21a14aa2dd04288426f3ad9d22ff9ac69ccc0e7e",
+      "sha256": "881dd523335d3775107e623278705653501c93e7a7c5b5b952badd23203c0134",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 160,
+        "height": 48
+      },
+      "frameDurations": [
+        40,
+        2,
+        6,
+        3,
+        2
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "30c19721a8c9ad931af53edf82e335cc900455e0e6c7cf0fa6d38d96e2f7d67e"
+    },
+    {
+      "file": "/images/pokemon/game/idle/128.png",
+      "url": "https://pokebonk.com/assets/pmd/128.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "5b34ea55c7d05a733c0f2a6ec7560269c9c13a56ce77480fb9e47850d198a403",
+      "sha256": "db4c51d4319c082608d7ed562882ef17be6eae340f2902fdd720714a0e17891f",
+      "crop": {
+        "left": 0,
+        "top": 448,
+        "width": 160,
+        "height": 56
+      },
+      "frameDurations": [
+        40,
+        3,
+        6,
+        3,
+        2
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "6f3d3e0d156361783002fc83f0b9936ec1389df629fdf6047d711a9b46d85f2b"
+    },
+    {
+      "file": "/images/pokemon/game/idle/129.png",
+      "url": "https://pokebonk.com/assets/pmd/129.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "80e82af376fe69d23066e81bf470f01f66c9679ba9f3b5282d1f1261545a0438",
+      "sha256": "2f8f2e4471d0f04ee23fc95ce1cea54f0f14565dbac048ee0ee46ca9e630614d",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 128,
+        "height": 32
+      },
+      "frameDurations": [
+        8,
+        10,
+        10,
+        12
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "d3a9baf207d4571e076a63ff3ec4f72bcce0a2ea73e4bd0fbaa48273b74aa739"
+    },
+    {
+      "file": "/images/pokemon/game/idle/13.png",
+      "url": "https://pokebonk.com/assets/pmd/13.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "f569401975fe3551c9d52288622ec5fa5cfb148d26f94352389d7919a20ca07b",
+      "sha256": "189a39725fba08204ef6d1a75f87f25b3ae03c26f01e96a4ba74795c7df89d84",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 128,
+        "height": 40
+      },
+      "frameDurations": [
+        40,
+        8,
+        8,
+        8
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "55afba738b57e83f9ccbd433bf6a934d7bc528eaf2663f8097174851138dadc7"
+    },
+    {
+      "file": "/images/pokemon/game/idle/130.png",
+      "url": "https://pokebonk.com/assets/pmd/130.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "803286f61d6feeba4d0692ca08533b266c8871e40c903141fb76a52029cd300e",
+      "sha256": "ce98975761683d6cbbe14dceb7ff9af0677ef396bca4bbefd2427e3b7366d343",
+      "crop": {
+        "left": 0,
+        "top": 1024,
+        "width": 288,
+        "height": 128
+      },
+      "frameDurations": [
+        18,
+        8,
+        18,
+        8
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "35c069a913f022c2e87c9ebd28f7edd630e350415475bbc76e070cdd475147b2"
+    },
+    {
+      "file": "/images/pokemon/game/idle/131.png",
+      "url": "https://pokebonk.com/assets/pmd/131.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "5b7cad282cbf5dd17ebfa48d5bf7461e177ec193657ab229d253ba4afdf8673b",
+      "sha256": "40f6536b8582e008321b6c17a3ef74cefb73d04f6e7217967402ab8246c89a5b",
+      "crop": {
+        "left": 0,
+        "top": 448,
+        "width": 192,
+        "height": 56
+      },
+      "frameDurations": [
+        40,
+        12,
+        16,
+        12
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "8ef5fec685f50cdff2b346dd14976e92e4be90cf148f19a6aa0a45b80690a1b3"
+    },
+    {
+      "file": "/images/pokemon/game/idle/132.png",
+      "url": "https://pokebonk.com/assets/pmd/132.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "89ea6359e3683cf7764ce1828ed2e2b081dc39b7b8d452a80e79e243ad3c056d",
+      "sha256": "beadfe4aebc74305bc16be971037c30ee6f73626e9a97cf7c058b55b2a404d85",
+      "crop": {
+        "left": 0,
+        "top": 256,
+        "width": 48,
+        "height": 32
+      },
+      "frameDurations": [
+        16,
+        16
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "2a8718025a2bafb8e0d1502de5ff0fa492bf3d4ea96adf80a39b3b3c9c2114ac"
+    },
+    {
+      "file": "/images/pokemon/game/idle/133.png",
+      "url": "https://pokebonk.com/assets/pmd/133.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "21f740564ebc12c03c27bc70ab082d456efec59dde3f2f5ebc6187aa61d36554",
+      "sha256": "1034544dcf467bc53af743718f864688f3eda619ab48b2170a6964262a129418",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 48,
+        "height": 32
+      },
+      "frameDurations": [
+        16,
+        16
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "9687f85298200492e65a7a2ed0b5907170dfbc07a1e3c953b27a38535974a94e"
+    },
+    {
+      "file": "/images/pokemon/game/idle/134.png",
+      "url": "https://pokebonk.com/assets/pmd/134.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "0542b8b52107249e39070468f681577d54361e243f0145aa0536d3d9412bf412",
+      "sha256": "1ae26176bb48e4bf732978d0f7d9fd6f286a4c798a76e7472fb2545d73300433",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 80,
+        "height": 56
+      },
+      "frameDurations": [
+        60,
+        16
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "567dd4bf11f99721e1d8ab84fe961e7e091a067bb19a8366c9ea16fbc163a8c9"
+    },
+    {
+      "file": "/images/pokemon/game/idle/135.png",
+      "url": "https://pokebonk.com/assets/pmd/135.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "d7cbcbbf618eba42a37467abe0793177b1412118258267561d17eea303507778",
+      "sha256": "f0b1383764e6db3e10ce74e2f0497f56910a8d69f159fa88dc1b660a37d775e9",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 64,
+        "height": 40
+      },
+      "frameDurations": [
+        60,
+        16
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "0dd44421bf78e4d78a7e7bbc25635bd80613c59a51e5e9012d220ef132ccdc16"
+    },
+    {
+      "file": "/images/pokemon/game/idle/136.png",
+      "url": "https://pokebonk.com/assets/pmd/136.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "ffc4be773938e79a00aa5831adf03fe2d69236eb04ca8867bc59d0911355a761",
+      "sha256": "be74588efcd2f018334b152f1e48950e0f5a6bf6bbf9f543efe751598e6a3960",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 128,
+        "height": 40
+      },
+      "frameDurations": [
+        12,
+        16,
+        12,
+        16
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "362240dcaa639bc39445f67d2bd6ac2ee0df786dfec9c8031fc8655a722b5ecb"
+    },
+    {
+      "file": "/images/pokemon/game/idle/137.png",
+      "url": "https://pokebonk.com/assets/pmd/137.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "a28b3ba932e9c213f7c4e9f38fd50673bf5191695b894e44aaefc8daa025e144",
+      "sha256": "e00655e93709eeb9c49348da983f4d3b79727444b8c08561ec6b5281c99a304b",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 128,
+        "height": 40
+      },
+      "frameDurations": [
+        12,
+        8,
+        12,
+        8
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "fcddddc3cfe3927108b4c40f321df72ab0c3dc68bd72c7c11298805b4503ef0a"
+    },
+    {
+      "file": "/images/pokemon/game/idle/138.png",
+      "url": "https://pokebonk.com/assets/pmd/138.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "31e56a2535ebfc72f036170bdb384a1a64bb46b2bdec319a5b498f03a333438e",
+      "sha256": "a703771345891d5702f94fabf72a8a5bf51c6a6f96f0c5c22419fe31cf29b02b",
+      "crop": {
+        "left": 0,
+        "top": 256,
+        "width": 64,
+        "height": 32
+      },
+      "frameDurations": [
+        30,
+        12
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "2dd46494a083670b5f07ac8d3148c1b7d4b020461eb6d56e5d8c7da120e9bb8f"
+    },
+    {
+      "file": "/images/pokemon/game/idle/139.png",
+      "url": "https://pokebonk.com/assets/pmd/139.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "0fa178173d2c464c0eac462d3b65d2c00249d6b139e294a7d711b6e8e2abe9dd",
+      "sha256": "361bed5015e1ee1f9fbadb41ec742d149da46a63f7acb7b81815b1b5538be538",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 64,
+        "height": 40
+      },
+      "frameDurations": [
+        30,
+        20
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "efe07852838c95b0afce44baa6a11afd48e3be9cb2bcbd5a69cfde420b4612d1"
+    },
+    {
+      "file": "/images/pokemon/game/idle/14.png",
+      "url": "https://pokebonk.com/assets/pmd/14.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "c03fdd2a44532a50adb4f2e2a27d97ba531dc000bfc7ff3af515af08a1e96587",
+      "sha256": "c5723a17351d3e306eaf5c08e0dff23ebff52afe477476021cabe461d882f19c",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 144,
+        "height": 40
+      },
+      "frameDurations": [
+        40,
+        1,
+        1,
+        4,
+        1,
+        1
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "b7c29d3cb682aa55340783169d53420290ef0c7e19c296fe137e6e89579168c1"
+    },
+    {
+      "file": "/images/pokemon/game/idle/140.png",
+      "url": "https://pokebonk.com/assets/pmd/140.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "46404cbd7ea40c40790b2ac01ef2bc895a8c37b1f570c97e092bc7799a6b741f",
+      "sha256": "9ea6558b18b60a37e82f88ab4e8fe7f139309345c67a3ddda33cddda1f9a5218",
+      "crop": {
+        "left": 0,
+        "top": 192,
+        "width": 72,
+        "height": 24
+      },
+      "frameDurations": [
+        40,
+        4,
+        4
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "3e2f3480c4490f7ef3af28c238dd998f65bbb206dda01a52340d54d3c8753477"
+    },
+    {
+      "file": "/images/pokemon/game/idle/141.png",
+      "url": "https://pokebonk.com/assets/pmd/141.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "e15cd4992021fd83f156f07102ec27108bd35519b64eb8b73cd7c072e017fd8e",
+      "sha256": "1db1e5fe8cf3143d0c33553933e257291eb72d7119182bf21acca6b5bd6edce6",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 160,
+        "height": 48
+      },
+      "frameDurations": [
+        20,
+        10,
+        20,
+        10
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "8b1da9897992dd2f4a5a62358145f4ae71f5b5ca7c8429846f7462f71255bc64"
+    },
+    {
+      "file": "/images/pokemon/game/idle/142.png",
+      "url": "https://pokebonk.com/assets/pmd/142.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "28067a73475ffa576b61f209209b0ebf5ca55c35e5ee5a0f7d740d8c1492ea49",
+      "sha256": "5c2b9c6d1f25c46d24254a677e7390b307a06cdb0631d85c30d67bbd74dbabc8",
+      "crop": {
+        "left": 0,
+        "top": 512,
+        "width": 320,
+        "height": 64
+      },
+      "frameDurations": [
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "259a5913a5672abf71d1b95e52c305620fecafe2c94efd73d244f003ccb7c71d"
+    },
+    {
+      "file": "/images/pokemon/game/idle/143.png",
+      "url": "https://pokebonk.com/assets/pmd/143.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "5dd684b81951856d906e5903343b09919391f575d9f858f0d0979f94459ef3b9",
+      "sha256": "48aefee2fc6a7dac29eb20d50cafcfbd614c7b48f7e8a9203997f3d3c7258459",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 192,
+        "height": 64
+      },
+      "frameDurations": [
+        40,
+        1,
+        3,
+        4,
+        3,
+        1
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "45a944f055158713fe8d80dce0b9b77c50e608c1d17bc51efdd73f81c8312403"
+    },
+    {
+      "file": "/images/pokemon/game/idle/144.png",
+      "url": "https://pokebonk.com/assets/pmd/144.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "8e69743dc8fe20d9f8c6e3530561977279b79998ae87081fc93db1453fec2acf",
+      "sha256": "13bd7c8d7480b92297a5aef1db95cd0042d4ed160bb465414ff48a3d704dce56",
+      "crop": {
+        "left": 0,
+        "top": 704,
+        "width": 352,
+        "height": 88
+      },
+      "frameDurations": [
+        8,
+        10,
+        8,
+        16
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "3383f79f416316c2a582cf0c2f8f183923de3dcb93d19946db9c00f8b6b676a7"
+    },
+    {
+      "file": "/images/pokemon/game/idle/145.png",
+      "url": "https://pokebonk.com/assets/pmd/145.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "3296f2d3e629c97130e73e5d0bf87b683f535442ac8a07a56372ea69615cf67b",
+      "sha256": "26480273c183964fae903f0a34e4d8ff3fabf088b6632e70a9f24fe7297ecd50",
+      "crop": {
+        "left": 0,
+        "top": 768,
+        "width": 224,
+        "height": 96
+      },
+      "frameDurations": [
+        8,
+        10,
+        8,
+        10
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "7ec0a2c85828269d8d17632ac565f7b0a0a20e28a8339dee1136ffdfd6d936ce"
+    },
+    {
+      "file": "/images/pokemon/game/idle/146.png",
+      "url": "https://pokebonk.com/assets/pmd/146.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "6f7a4f02241c34e53b475f1e261d906589d7713fbb1e31680378740e96ee80fc",
+      "sha256": "8e96e77903ef919d1edd57e157cde2bddf17a53b17151f7f2823eaa3d7c02ddd",
+      "crop": {
+        "left": 0,
+        "top": 768,
+        "width": 320,
+        "height": 96
+      },
+      "frameDurations": [
+        8,
+        12,
+        8,
+        12
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "f8a417d4024d2a7fef1da287e43aa4666c62631809c117f194233a5aaf2bdf42"
+    },
+    {
+      "file": "/images/pokemon/game/idle/147.png",
+      "url": "https://pokebonk.com/assets/pmd/147.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "6fc70b722144d65f842c3c81316d6f2b6ea1ae0ae57cf83072068b94416ef91f",
+      "sha256": "64948dee6b4320420342204fbc9fe75e67573bfe31ba1dd281fa7b973bfa1a0e",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 128,
+        "height": 40
+      },
+      "frameDurations": [
+        10,
+        20,
+        10,
+        20
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "a4d0c77fbd0215abebfcea97d78989c6cb8800984b4d61828801f4aa0092a40a"
+    },
+    {
+      "file": "/images/pokemon/game/idle/148.png",
+      "url": "https://pokebonk.com/assets/pmd/148.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "beb4c87a0c0df58e18493117936c5c52a8496c3e6a046665696bfc57bb80e2aa",
+      "sha256": "2a910986a3bb475ed734d7bf39a2977fc6a7d0d72b0a861328448e0585314e3b",
+      "crop": {
+        "left": 0,
+        "top": 0,
+        "width": 336,
+        "height": 56
+      },
+      "frameDurations": [
+        8,
+        6,
+        6,
+        8,
+        6,
+        6,
+        6
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "6323ca4642af32b54f835b74c1820081fec29ee3c4c871ded85d0ea3f8b8cf02"
+    },
+    {
+      "file": "/images/pokemon/game/idle/149.png",
+      "url": "https://pokebonk.com/assets/pmd/149.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "4d0a5e0e43b3c5250eb140ca9c5d19a0a6f21831496ffe295660dcf8ab3a6a4d",
+      "sha256": "fce08d0f44b9358df551d9d8b7a21ef912cb42a62c578148f156b01e068044ea",
+      "crop": {
+        "left": 0,
+        "top": 448,
+        "width": 280,
+        "height": 64
+      },
+      "frameDurations": [
+        40,
+        2,
+        2,
+        3,
+        3,
+        2,
+        2
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "17403a3af8b4d147064b897850786082fadc103a5dc3f6c70def0978e5dc3436"
+    },
+    {
+      "file": "/images/pokemon/game/idle/15.png",
+      "url": "https://pokebonk.com/assets/pmd/15.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "5c048210fddb49aa800b81c9d1b5435aa601f6432f51779095c08f01b02c2bdb",
+      "sha256": "37cce873e771e25b34dc672666143ee953a1c79b23108879f96ccd4c4eda1d65",
+      "crop": {
+        "left": 0,
+        "top": 0,
+        "width": 128,
+        "height": 48
+      },
+      "frameDurations": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "6f5282bfeb57c43f488081af65ef2d778d2631e9bc89f48b8be3cb8a6a2dbedb"
+    },
+    {
+      "file": "/images/pokemon/game/idle/150.png",
+      "url": "https://pokebonk.com/assets/pmd/150.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "a93efab161429c1653b3ade1d547b5ee6723598db595bb0e430750d9efe4a442",
+      "sha256": "d72cac0802d559f7a5edb9ae72b148df320a4faf7f8568565f4f9fcda967087d",
+      "crop": {
+        "left": 0,
+        "top": 448,
+        "width": 256,
+        "height": 64
+      },
+      "frameDurations": [
+        40,
+        2,
+        4,
+        6,
+        8,
+        6,
+        4,
+        2
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "721065f9cfae1fc3465703a254ed3f3f84c083e2f69e4d4d2125166694e1e32c"
+    },
+    {
+      "file": "/images/pokemon/game/idle/151.png",
+      "url": "https://pokebonk.com/assets/pmd/151.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "cbc77e90db3f0807f7f5181a55c7032f061e9096aa555450f805075dbe04643a",
+      "sha256": "6f65190460e9bc012d5321bb8e2d50eaf64386c08c84fe336962d7cbad4cf303",
+      "crop": {
+        "left": 0,
+        "top": 512,
+        "width": 128,
+        "height": 56
+      },
+      "frameDurations": [
+        12,
+        8,
+        12,
+        8
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "8e0a28cd1db7e268ccd8bf343bbddf57d248a158275dad960abdfe6615ecf3ac"
+    },
+    {
+      "file": "/images/pokemon/game/idle/16.png",
+      "url": "https://pokebonk.com/assets/pmd/16.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "1a6bc0a5111a354079bafa1b9534e325fc76201402bffa605f37ba5011d46444",
+      "sha256": "f4cc6e9a078ab912722aa8d5386bca52e735d58b8e58540e341101341cdbe4ed",
+      "crop": {
+        "left": 0,
+        "top": 256,
+        "width": 120,
+        "height": 40
+      },
+      "frameDurations": [
+        30,
+        4,
+        4,
+        4,
+        4
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "a68b69e7f82c44f5d67e19100eb28d8e78b84a878cb71cefcce831c3aa5a875d"
+    },
+    {
+      "file": "/images/pokemon/game/idle/17.png",
+      "url": "https://pokebonk.com/assets/pmd/17.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "b1caa2abc3200232c8073dfa756ca52bb4e929b0972665fafc45c57b800bde3d",
+      "sha256": "7b98f54f50c1494ac5badac62208818ccbe1bde5fbdde496ae1eaaa5083228ba",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 128,
+        "height": 48
+      },
+      "frameDurations": [
+        40,
+        2,
+        4,
+        2
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "608813ab7f1a6c1fe7ce60b2c3419463764b8c2128c11879a194e4805aa59fcf"
+    },
+    {
+      "file": "/images/pokemon/game/idle/18.png",
+      "url": "https://pokebonk.com/assets/pmd/18.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "25c8355660faaebdbb239184049ff6c8e4921f2faf9be222c10eb29cd1787f6c",
+      "sha256": "61b2794d378ae78f1d670e7d7fbcb8451359d9fb05a550e97ca78b1d7e5cab66",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 128,
+        "height": 48
+      },
+      "frameDurations": [
+        40,
+        2,
+        4,
+        2
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "6704501000c2b09166778d09f1653e9316935a79710ecf07c4a92d78c0e7c813"
+    },
+    {
+      "file": "/images/pokemon/game/idle/19.png",
+      "url": "https://pokebonk.com/assets/pmd/19.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "672441ddedbee6d19a49bf2a4fa52b5487860e61662b4076fdece2409c74e4c4",
+      "sha256": "0581dc7b1c1c45321adbe1f4438a0a63c4d46a948fbbdbb558f3fbf9f292613d",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 256,
+        "height": 32
+      },
+      "frameDurations": [
+        40,
+        2,
+        2,
+        2,
+        4,
+        2,
+        2,
+        2
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "99b48674647494cd05f3035bb6814c035ab1aa33b961ae88f46b913d90abdb43"
+    },
+    {
+      "file": "/images/pokemon/game/idle/2.png",
+      "url": "https://pokebonk.com/assets/pmd/2.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "96a7db46ee6b4e49545d6b7ff0dcb4e949589ceeea216ce8b13bcba4027ea2d6",
+      "sha256": "8f272f62b1f1c9c879e5ac50f28f52dcd932e4c16388e9b69aa9bb68d8e3a640",
+      "crop": {
+        "left": 0,
+        "top": 256,
+        "width": 128,
+        "height": 32
+      },
+      "frameDurations": [
+        40,
+        12,
+        12,
+        12
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "9a4ff195e45f3f7bf07fe2d4431affb92ebe2fe418fef12659dd0231a7d105dc"
+    },
+    {
+      "file": "/images/pokemon/game/idle/20.png",
+      "url": "https://pokebonk.com/assets/pmd/20.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "5e961e34b518a3b9fcbbd7d066b20b9f34105ac623d894be9cccbaaf130a3534",
+      "sha256": "655933f6ef62ef3728905bc1c9707932f63867e426196f35f6233403ef1db404",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 192,
+        "height": 48
+      },
+      "frameDurations": [
+        30,
+        6,
+        3,
+        4,
+        3,
+        6
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "748fb22a9bb39f2958f773f7057512cc595b4cf0e38f7af871c45f708a40df80"
+    },
+    {
+      "file": "/images/pokemon/game/idle/21.png",
+      "url": "https://pokebonk.com/assets/pmd/21.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "0095454ca56676dcc2357e1c57198bfc301f44eea42eb4f424cc0b50282f047f",
+      "sha256": "c6a831e2ff584bec46342e9cf92f9e2d4c2d3cc2a042e0687ac95999927bfbdf",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 144,
+        "height": 40
+      },
+      "frameDurations": [
+        40,
+        2,
+        3,
+        4,
+        3,
+        2
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "3f4e7003f4f21fc32df334de30132fb7c36f6c5e0488fbee216cb426c401f06c"
+    },
+    {
+      "file": "/images/pokemon/game/idle/22.png",
+      "url": "https://pokebonk.com/assets/pmd/22.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "d5f831294ebce8272ce5dcecb9ed81d5de7123dc8b541888d476a3d8610c0a58",
+      "sha256": "981a6631bd4a6b16bb3cf399a0069675800bea374151b7c5ac253ff04346fbfa",
+      "crop": {
+        "left": 0,
+        "top": 512,
+        "width": 400,
+        "height": 72
+      },
+      "frameDurations": [
+        40,
+        20,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "2b26bcfbd9c0d044365f1e65793e5f81747348d0273009209a6bc03639c585df"
+    },
+    {
+      "file": "/images/pokemon/game/idle/23.png",
+      "url": "https://pokebonk.com/assets/pmd/23.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "d68d39e8bdb9e52483558f277b4830ef88f60a751bef7b40ed0e291bf7788da1",
+      "sha256": "8589bbee4cb8e934856b8f3326ea2de0b7d4d388eddf4a66d2f2f5c5120a25b6",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 64,
+        "height": 48
+      },
+      "frameDurations": [
+        16,
+        16
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "39b417f883a827eb23d5ec2f76b92c4e169de8e2808e5ad2a19e08ce1da0370c"
+    },
+    {
+      "file": "/images/pokemon/game/idle/24.png",
+      "url": "https://pokebonk.com/assets/pmd/24.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "c60b2882cc6bda89df5d63afccd2ab545b9be9ddfbbdede2766330b80935348f",
+      "sha256": "634788ac5d7d5c289259f6d2519d421ad92a26ab45d35154474399e0073b1d00",
+      "crop": {
+        "left": 0,
+        "top": 448,
+        "width": 64,
+        "height": 56
+      },
+      "frameDurations": [
+        32,
+        14
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "2bfb8221a75050eaa0c579e6f0b8c625152d6946fbfeab835860c4800e81530a"
+    },
+    {
+      "file": "/images/pokemon/game/idle/25.png",
+      "url": "https://pokebonk.com/assets/pmd/25.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "809ea0d472d3a2efc329a8398e37aba42e71bee8a19dcc1f5a2c8d4ba7dcb4e2",
+      "sha256": "702fa79b047aa31d4fde8aa2b9d34b734728a3b366bcd1e1cdc38d3f948cc2bf",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 240,
+        "height": 56
+      },
+      "frameDurations": [
+        40,
+        2,
+        3,
+        3,
+        3,
+        2
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "d1a2714a299caf09f02b7474b9ff3f57ecc72e3656bbe30cf258313b3be1f6ae"
+    },
+    {
+      "file": "/images/pokemon/game/idle/26.png",
+      "url": "https://pokebonk.com/assets/pmd/26.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "4d65cdb405a290db2375d9f3cb18050122846c06d8480fad83b398dae011abd8",
+      "sha256": "fb9eaff812783aa3b25ded306bd7f6aef0ca095c9ac6b0a914e35c2a1e556297",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 240,
+        "height": 56
+      },
+      "frameDurations": [
+        40,
+        2,
+        4,
+        4,
+        4,
+        2
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "580bb934a7f4649714e48ef3a566b115ca33665eb62a0a1285de7a6c4a882c32"
+    },
+    {
+      "file": "/images/pokemon/game/idle/27.png",
+      "url": "https://pokebonk.com/assets/pmd/27.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "251105545f1893c8d23707b0cc15e9d7b9f0c6555be66d5e3517f9628c4c1e36",
+      "sha256": "f2f10741c9059385eea37e8fadde7249a6f34e63f8c9bad3c9388cb5baac5d7b",
+      "crop": {
+        "left": 0,
+        "top": 256,
+        "width": 128,
+        "height": 40
+      },
+      "frameDurations": [
+        40,
+        2,
+        2,
+        2
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "c2c80f61ebc33763cf143b24bdd73896ca2d00f2df5522f179e83246fc1a8df9"
+    },
+    {
+      "file": "/images/pokemon/game/idle/28.png",
+      "url": "https://pokebonk.com/assets/pmd/28.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "77f0ed0e6261cb2dcc81f499aff803771b6646d77452903bb5915146b0790ea7",
+      "sha256": "0b14ca9cf84b793573f8e6ed0665b7f8a917c92106e43d548da19e5effa042ba",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 128,
+        "height": 40
+      },
+      "frameDurations": [
+        25,
+        10,
+        25,
+        10
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "b48c78f54cd52b76da96668b45cc139d6ae83bd209fadea56529be9eb62fef16"
+    },
+    {
+      "file": "/images/pokemon/game/idle/29.png",
+      "url": "https://pokebonk.com/assets/pmd/29.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "cbcdb249f00b18a6dd73ca4ced8f015e145bf74db40dded44e6324bb786e9d77",
+      "sha256": "4285036bb40bd91896d05e357adccc594215c21266235cbf80ef468343ba0e5c",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 120,
+        "height": 40
+      },
+      "frameDurations": [
+        24,
+        6,
+        6,
+        6,
+        6
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "284036ea441a6b7092120847db934c12d073d5a549cefcfa810be7dc74e6ea54"
+    },
+    {
+      "file": "/images/pokemon/game/idle/3.png",
+      "url": "https://pokebonk.com/assets/pmd/3.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "3521d60a530b0674080c4e445fe5e94ff99fae666f3163736c3e06518eda06dd",
+      "sha256": "f371ed27de14cfe2f7a9c3d319a92f58977f6905f94d675b2a2817c690160cf5",
+      "crop": {
+        "left": 0,
+        "top": 256,
+        "width": 128,
+        "height": 32
+      },
+      "frameDurations": [
+        30,
+        16,
+        12,
+        16
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "f2d835e6f3976c04249546988ca0c18e79582a2fc08b2ab6a70a1b377049e2f8"
+    },
+    {
+      "file": "/images/pokemon/game/idle/30.png",
+      "url": "https://pokebonk.com/assets/pmd/30.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "7b4d85422d94425c5bccdef1229df5ea73b05a85ba08cad8cb8b4e26aef5aa51",
+      "sha256": "1bf1f43411fa1ad7a7977607dfeb15700c36b7ef54b9cc941016ae5492623353",
+      "crop": {
+        "left": 0,
+        "top": 256,
+        "width": 96,
+        "height": 40
+      },
+      "frameDurations": [
+        40,
+        2,
+        4,
+        2
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "828782e6b62483e70483c5d7229fdea215eaa6687e11a9bf1fcc50ad66a77dcc"
+    },
+    {
+      "file": "/images/pokemon/game/idle/31.png",
+      "url": "https://pokebonk.com/assets/pmd/31.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "f1c219bdb2cc62c44be87e56264ede599f32da092978aa49f3cf21f0ee12ebfd",
+      "sha256": "7abd7b69f0bb913a2267f19cec66802f80bb50e68a7876fdd6ebd938e2fe2271",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 160,
+        "height": 40
+      },
+      "frameDurations": [
+        20,
+        6,
+        6,
+        6,
+        12
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "2dc73beabc9b550f4376d998c423dd934eee5b64ed10eae9ab14e4320329f3d1"
+    },
+    {
+      "file": "/images/pokemon/game/idle/32.png",
+      "url": "https://pokebonk.com/assets/pmd/32.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "7d22683e16d64576df20db19e6c9aa5f549bba8abe12d715c4ad054f96143ff8",
+      "sha256": "c56c6b7e53bbe7c987106ae8b6cc97a8f16e70cc3211cc6b687130ec5b088a79",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 160,
+        "height": 48
+      },
+      "frameDurations": [
+        30,
+        4,
+        4,
+        4,
+        4
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "89d7086babbcaf6eabde944302d8f9b7238464c0f8f01e9ba9aa8655f5b33488"
+    },
+    {
+      "file": "/images/pokemon/game/idle/33.png",
+      "url": "https://pokebonk.com/assets/pmd/33.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "4bd080e9ff7089e9e817a60b59825554cb737a924a0d1b350faf5eded4e39329",
+      "sha256": "04be2d747d0cd59b6cd358df2fbd082cbaebe88601666218545d0180ecb0a7fd",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 400,
+        "height": 40
+      },
+      "frameDurations": [
+        40,
+        10,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        6
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "575db25faaf4a5106ce8357fbdf5e1da3ab1e54012037af20bc99a8305505a05"
+    },
+    {
+      "file": "/images/pokemon/game/idle/34.png",
+      "url": "https://pokebonk.com/assets/pmd/34.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "b40354ca95dc0b3b9d9997b6df141c30695d5de5b9d6a605433cedcdbf5fe91c",
+      "sha256": "fae143add1c1dcddb2dc9474f8f086fed3ef6cf0b5f5b0767848b2235612bd93",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 64,
+        "height": 48
+      },
+      "frameDurations": [
+        35,
+        12
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "7f3543a0382ec4af215fc4c87c73a68a62c423351cc734e6af82301775574190"
+    },
+    {
+      "file": "/images/pokemon/game/idle/35.png",
+      "url": "https://pokebonk.com/assets/pmd/35.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "2909d7073cf8bbb7c4852d4c8cf8e21f0159fe5feddf4128c0fd6775cfcc07a4",
+      "sha256": "85f2535c1cb7c23b28a34b9ab20775c0b62b887062074d343a1e850784961dc3",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 192,
+        "height": 40
+      },
+      "frameDurations": [
+        30,
+        3,
+        4,
+        5,
+        4,
+        3
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "2a1fa6a5123628b8c17dd913707f02eb80def2ac5532fcdcd82cb50c035656a7"
+    },
+    {
+      "file": "/images/pokemon/game/idle/36.png",
+      "url": "https://pokebonk.com/assets/pmd/36.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "ba82d4eda44481becd0e0c5ed2e40dd69957ae9f5c7d8fcd2674f6a2b97ef3ea",
+      "sha256": "c4e53b231933dc1f131f3c4d54efd9ea04c80a7f7950d986d4d6c760ded3a723",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 192,
+        "height": 48
+      },
+      "frameDurations": [
+        30,
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "37459a3ddee30845ca5856c9a03ecc2cd2c0892c512d23151b8c0277ec68ccee"
+    },
+    {
+      "file": "/images/pokemon/game/idle/37.png",
+      "url": "https://pokebonk.com/assets/pmd/37.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "92dbc46b3056acc44690dc6e64b59135c7586735dd771b1081065d4e441c3b05",
+      "sha256": "e15b378d4742cb6c73bbf3e2781d9c8750a6acc9c88342b5ef58fdec3343ee36",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 128,
+        "height": 32
+      },
+      "frameDurations": [
+        40,
+        12,
+        20,
+        12
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "a12a31fdc5def5905422ca038f7edee69fc64664a4c803b4b091f90bd512d146"
+    },
+    {
+      "file": "/images/pokemon/game/idle/38.png",
+      "url": "https://pokebonk.com/assets/pmd/38.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "e98a194a1b0eda6f2d2bb00d5bd666a904e240b8e0303ad22ade7b7d7cbd1a48",
+      "sha256": "2800c4dd4928c1e67b52f0da0b1482325d145fce039d629219a3257e025588a9",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 560,
+        "height": 40
+      },
+      "frameDurations": [
+        60,
+        10,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        10
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "45a12f49cbafe99066f56584cd63b7e459582a7518be5fe21ca32e535a87a6f5"
+    },
+    {
+      "file": "/images/pokemon/game/idle/39.png",
+      "url": "https://pokebonk.com/assets/pmd/39.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "835149bb1b8191a935ed3498927898a5c1a6651264d91cc31703f8d6982cc5ee",
+      "sha256": "ea56b5f7fdb1a684c2f5710a997c871e57e55bddf1643019067891001b98d2fa",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 120,
+        "height": 32
+      },
+      "frameDurations": [
+        25,
+        8,
+        15,
+        8,
+        15
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "d7f5cdc9ccdfd5f54b657d4e283c755f19ca945344926282044ad6fc351b7cc6"
+    },
+    {
+      "file": "/images/pokemon/game/idle/4.png",
+      "url": "https://pokebonk.com/assets/pmd/4.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "bf7019957aee6427d9086203bcec89cf3a12b9271a9a17cfee6b0191495b5f94",
+      "sha256": "e53a6f76a2f58df88387794052cb88bff19148e2778b900d43edc2229f208067",
+      "crop": {
+        "left": 0,
+        "top": 256,
+        "width": 128,
+        "height": 40
+      },
+      "frameDurations": [
+        12,
+        8,
+        8,
+        8
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "3b5e353ccd9bd3bbb7551df005ec991448db6d9a04d3e3c16cf85bea1541cfd2"
+    },
+    {
+      "file": "/images/pokemon/game/idle/40.png",
+      "url": "https://pokebonk.com/assets/pmd/40.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "dd802173b0ee48288068710be65aeefe0fc2c442dd68663a5b759f9206b962b7",
+      "sha256": "ac94b15dc82b63f441811975fa0816387c934d13fa628b36bc047fb05311f866",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 128,
+        "height": 48
+      },
+      "frameDurations": [
+        40,
+        4,
+        6,
+        4
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "a56c4e3b19ae09b2b20f90764cba114f75e4c118b3175746debfcd8a9bcc2333"
+    },
+    {
+      "file": "/images/pokemon/game/idle/41.png",
+      "url": "https://pokebonk.com/assets/pmd/41.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "b606c9100533a9d4ddc0873ef1a5ec85e1d0ee5e3e279abe3d34b4a4afd767d3",
+      "sha256": "d44ed473b00659d78a65a567d21ca2ee6fb10f22e219b0ca9b3e125c82a64d3d",
+      "crop": {
+        "left": 0,
+        "top": 448,
+        "width": 256,
+        "height": 56
+      },
+      "frameDurations": [
+        10,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        8
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "64ea129b92eff7f9eafebf2b0a4d7aba05511ac270121de2d3a8cea4a06a86ac"
+    },
+    {
+      "file": "/images/pokemon/game/idle/42.png",
+      "url": "https://pokebonk.com/assets/pmd/42.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "7c14676fa4bfba4dd4706c2c47a5aee9709092aa4dfde6f1139c4256886e2735",
+      "sha256": "9e0c6302ba64abacbcb36a52f1f8f07386aa79e5054feef64acef3f1b67341f0",
+      "crop": {
+        "left": 0,
+        "top": 512,
+        "width": 160,
+        "height": 56
+      },
+      "frameDurations": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "494d25a43cea2130df2972585745290b8fc69353ff5ec1b0336df0c7c83d2f8a"
+    },
+    {
+      "file": "/images/pokemon/game/idle/43.png",
+      "url": "https://pokebonk.com/assets/pmd/43.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "c6c3f0538ca2cf29100b6e9c7d0ed271c475d3ff052bbc85e6328285a61420b2",
+      "sha256": "662d73f2791faa972dc4d8a4d20c91823d53bbe764c655fba29389a2486df9d6",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 120,
+        "height": 40
+      },
+      "frameDurations": [
+        30,
+        4,
+        4,
+        4,
+        4
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "32903b45569dc0908635145fb6e726ae72c2b10d658bd23d1e4ed08afbb06699"
+    },
+    {
+      "file": "/images/pokemon/game/idle/44.png",
+      "url": "https://pokebonk.com/assets/pmd/44.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "885b65682189f25433938382270cfee2f0d345ba3f8cbb7aaf23d67ea4643a03",
+      "sha256": "0941e0b1816f38c5b15c8aad94c31a6587a7a98deaeb0aeca7e04d60e2aeae90",
+      "crop": {
+        "left": 0,
+        "top": 256,
+        "width": 160,
+        "height": 32
+      },
+      "frameDurations": [
+        30,
+        8,
+        8,
+        8,
+        8
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "77fbed48d8b3574c061027aa4539839e140cedf1bb324e6ef7416ecb0b699a3a"
+    },
+    {
+      "file": "/images/pokemon/game/idle/45.png",
+      "url": "https://pokebonk.com/assets/pmd/45.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "01c42b86740d1bd215c92c5a9e89f45e213249eb00dce7c8bd7b7422ca52a81b",
+      "sha256": "e465dd600ab16a5e143c1fbc72fb6fec35072810dd62abb82370e68b1e59e275",
+      "crop": {
+        "left": 0,
+        "top": 256,
+        "width": 384,
+        "height": 40
+      },
+      "frameDurations": [
+        30,
+        3,
+        3,
+        8,
+        3,
+        3,
+        30,
+        3,
+        3,
+        8,
+        3,
+        3
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "7fe1ce5e90daa774a607b28569bcfc0c67e8d156e578527e7f667d618fc26dc3"
+    },
+    {
+      "file": "/images/pokemon/game/idle/46.png",
+      "url": "https://pokebonk.com/assets/pmd/46.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "d8a6338189400043bfb3a98250e74b96d22c745d9d5072b597643251973a1435",
+      "sha256": "555fc3eb1ba3a9372a8cd35fe8704e5bbbe9eac7a9428023c9d5eb2a7c96767b",
+      "crop": {
+        "left": 0,
+        "top": 192,
+        "width": 96,
+        "height": 24
+      },
+      "frameDurations": [
+        24,
+        6,
+        6,
+        6
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "ff28acb83198f98f503ffa2056b1f45b04d0b0340016a386ed74133189d3c016"
+    },
+    {
+      "file": "/images/pokemon/game/idle/47.png",
+      "url": "https://pokebonk.com/assets/pmd/47.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "ba59531b319429691e4b101aa9428c62ae7eb135a777e1a88e1b1654347cd341",
+      "sha256": "862d3fbfba7da17074667b5bbfb8d8bb28d045ab6b6f5bf75b7f7cb07c3622ad",
+      "crop": {
+        "left": 0,
+        "top": 256,
+        "width": 96,
+        "height": 32
+      },
+      "frameDurations": [
+        40,
+        4,
+        2
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "ca2e150fcd6c4dfff4d3d7eabfccd6b12312887fdc414e9b89cfe137f7f4c49c"
+    },
+    {
+      "file": "/images/pokemon/game/idle/48.png",
+      "url": "https://pokebonk.com/assets/pmd/48.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "14bfbd615a03ca8b7daa06fdf13b57f9beff90ccfb83bf19f572aed7e152f19f",
+      "sha256": "2975ae6af20a3311c24ec154f51d7ccdaec9304ef4e6f493b2b5325b097557f1",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 48,
+        "height": 40
+      },
+      "frameDurations": [
+        16,
+        16
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "2f5343b02fb4da0b8d518b1a2506133fd98fccb3024a247d87c19870ed382881"
+    },
+    {
+      "file": "/images/pokemon/game/idle/49.png",
+      "url": "https://pokebonk.com/assets/pmd/49.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "fb94dfd801fd6dce30bd85865086c11bad805cdcdb4da58d460bc925d0c65c82",
+      "sha256": "1840ac86faaca5e4ca1274547b158b1318ba3410e9c716b6f38daa7e2a59c2ed",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 256,
+        "height": 56
+      },
+      "frameDurations": [
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "1e84b646b623b1d6684095c1ffe5aabcc2e4caf796da6aa8ec98b6a5e16fdad1"
+    },
+    {
+      "file": "/images/pokemon/game/idle/5.png",
+      "url": "https://pokebonk.com/assets/pmd/5.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "85d6ffb9be0e0c2eef1d83e9c8d5e8c55d746a8954c025c2ca37f17e0a39a255",
+      "sha256": "b7b2127d131035c1571138c47be0b5bbd072328304ffca3a3f5e4e39f8235980",
+      "crop": {
+        "left": 0,
+        "top": 256,
+        "width": 192,
+        "height": 56
+      },
+      "frameDurations": [
+        40,
+        2,
+        3,
+        3,
+        3,
+        2
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "ab15a20bde07b2bba5011dfa4ef3f78c6fc39b84c9350f331a5fc014eb843b96"
+    },
+    {
+      "file": "/images/pokemon/game/idle/50.png",
+      "url": "https://pokebonk.com/assets/pmd/50.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "01e0e287fc3a2f1d37048a0777c408a4a433d4fc2bd32596bc4f908a2b312166",
+      "sha256": "64843af0db5204bc55400148157a1ba97d5bfdb42030036702a9d1773bdd9a0d",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 48,
+        "height": 24
+      },
+      "frameDurations": [
+        16,
+        16
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "4dc287a66d9398d37c9e1d370184f77778a12076734527b2d37b9be4f015d638"
+    },
+    {
+      "file": "/images/pokemon/game/idle/51.png",
+      "url": "https://pokebonk.com/assets/pmd/51.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "fcdf422b9e14c19be010b659d10b40e466a6e52e34540f7dec1a490d5807887b",
+      "sha256": "7741d5a2d5f8f9ec350843c1794e5f4d43bc8f6374c2cbcda1fef314a8da548c",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 64,
+        "height": 32
+      },
+      "frameDurations": [
+        12,
+        16
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "2af274d09f8a4ae797ce3079392c04f0fecfe497a4bea958bf54116e088de27b"
+    },
+    {
+      "file": "/images/pokemon/game/idle/52.png",
+      "url": "https://pokebonk.com/assets/pmd/52.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "25ea9b525f1a3b419eae1bd07abe9ea18ec89c125e0b253e13c5f8ff66ce69a8",
+      "sha256": "cad600c4d6c464980f27e78f2ad5dcce14b8c0cde457debb1b9e9e604728d3d2",
+      "crop": {
+        "left": 0,
+        "top": 256,
+        "width": 128,
+        "height": 32
+      },
+      "frameDurations": [
+        12,
+        12,
+        12,
+        12
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "8c7144b57b2dbbd76badc541b901044b2b3545f06d6dbb139959aaab460fd401"
+    },
+    {
+      "file": "/images/pokemon/game/idle/53.png",
+      "url": "https://pokebonk.com/assets/pmd/53.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "7d7db99af27134d22239447a4b1982c27ad8933e43fd76d13eccb410a596b3de",
+      "sha256": "f956c35a406e0007a8efd80b78e0ea47d76b4a5e25fc1fc5dac5b5f1dd3a2472",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 32,
+        "height": 48
+      },
+      "frameDurations": [
+        8
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "0a0a543ac9cbaa3c64985b0fa07512a92c050c651e56106874256f59cf85d608"
+    },
+    {
+      "file": "/images/pokemon/game/idle/54.png",
+      "url": "https://pokebonk.com/assets/pmd/54.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "804db339521ed787cb6892ba794c1d561747c1ee4a271384443face45b9eed35",
+      "sha256": "4ab0f63886d321a79927fc40c7c8ca4b78b5c47bb20c052458ba99593126dcd5",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 96,
+        "height": 40
+      },
+      "frameDurations": [
+        16,
+        20,
+        16,
+        20
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "7d8c76383a7cd00fe256d8d5f8479ede145f634bb7b40b5c9f0ab495cd5cf79a"
+    },
+    {
+      "file": "/images/pokemon/game/idle/55.png",
+      "url": "https://pokebonk.com/assets/pmd/55.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "de9a897de82b0e8211094e52ef6a51ebaaa55cdde5a571026369ed9e03cd72e1",
+      "sha256": "aaaa00a8a70e927aff72229ce031adca99f7defdf61dc916d3bc6096313299a8",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 128,
+        "height": 40
+      },
+      "frameDurations": [
+        40,
+        20,
+        40,
+        20
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "929a04a8f12d0363da6fd1f394e7b1defbf93a2b9b7f41054a95e0b2326a13e4"
+    },
+    {
+      "file": "/images/pokemon/game/idle/56.png",
+      "url": "https://pokebonk.com/assets/pmd/56.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "2491000820bb95dea579e0ef84ac78bac691331e5033fb60aaf677124a938111",
+      "sha256": "aa4ed22883a8ee94352d44b585a38540511506df725d2094d7202559fe0d162c",
+      "crop": {
+        "left": 0,
+        "top": 448,
+        "width": 160,
+        "height": 56
+      },
+      "frameDurations": [
+        40,
+        4,
+        4,
+        4,
+        4
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "28ccf02ddf7291d3946e44916f8924d4229befa2dcd91b7bff23c7d841a7bfb3"
+    },
+    {
+      "file": "/images/pokemon/game/idle/57.png",
+      "url": "https://pokebonk.com/assets/pmd/57.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "add7d4d5b4fd740b152085247bacce169e8f7fbc12ac11f35bb4cf3497131bf1",
+      "sha256": "566720acdbfbbef181ffc48c00239d441783d973b7ace8dfa2377f7edcd7e6a4",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 256,
+        "height": 56
+      },
+      "frameDurations": [
+        22,
+        4,
+        6,
+        4,
+        22,
+        4,
+        6,
+        4
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "3ee5d989c0e170d4715bde82529caddca78e05e1cb3e0b387418f372d2fd7702"
+    },
+    {
+      "file": "/images/pokemon/game/idle/58.png",
+      "url": "https://pokebonk.com/assets/pmd/58.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "1186359b2bf30350bf13a86e7d02b04df722b4682a7be79cb27560a7f6e9cdb2",
+      "sha256": "af0034ebfdffd317b01e2d4d765f573af7d128aa2107f46aa0d941032afcd8c9",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 120,
+        "height": 48
+      },
+      "frameDurations": [
+        40,
+        4,
+        2
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "965b923b8e83c440eca5c9056d405abb30c98b4344c8273b0e6b6877972971f2"
+    },
+    {
+      "file": "/images/pokemon/game/idle/59.png",
+      "url": "https://pokebonk.com/assets/pmd/59.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "79d8b567b91084b3308bb2e26b0266e80c5bbe011b5b8bec6b674e57d71c603c",
+      "sha256": "3c63f36cbe1e54a4f5923a62cfff4979e99f5917b19debabc48d3a97a15ac750",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 40,
+        "height": 48
+      },
+      "frameDurations": [
+        8
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "9d684e70aab27ad83a85b490346afdc7460038b18c4f110408c875e215f107cd"
+    },
+    {
+      "file": "/images/pokemon/game/idle/6.png",
+      "url": "https://pokebonk.com/assets/pmd/6.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "34cfab1176b03a84396870440fa111736e0f77a66b6ea175256d5677505a1951",
+      "sha256": "b7e4af20b357779bf21c414e8ec1c75838d1083be7a28b173e24ef7c135fa136",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 160,
+        "height": 48
+      },
+      "frameDurations": [
+        15,
+        15,
+        15,
+        15
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "f30b3edbc87dcdcf5654a41edb86796b57a0883d49ef026a4f452276575e2cb3"
+    },
+    {
+      "file": "/images/pokemon/game/idle/60.png",
+      "url": "https://pokebonk.com/assets/pmd/60.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "a7210c3928120edc7e152314b421048a9a0869e5958003d02559f57b9a9427aa",
+      "sha256": "386c282b5bc988f88400e31eeb60898504a614e50858503fb2538e73b9f8c11d",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 320,
+        "height": 48
+      },
+      "frameDurations": [
+        30,
+        8,
+        6,
+        6,
+        4,
+        4,
+        4,
+        4
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "17b34e7290a1184983eb06efb970f134f92a5d8642967600e204e30585d87fdd"
+    },
+    {
+      "file": "/images/pokemon/game/idle/61.png",
+      "url": "https://pokebonk.com/assets/pmd/61.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "7837c3afdfacea070955c601be4c30fc02bc295c3dcb8b88e61c85bf0afc4752",
+      "sha256": "2f37dc97db01cab257fcd10b80b844d7574f3023d7121a0bec2997f637dc26c7",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 160,
+        "height": 40
+      },
+      "frameDurations": [
+        40,
+        2,
+        4,
+        4,
+        2
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "9424b1588ceca6968c25c3c34fecbf0e0b6541b494d8edb366d7f10f1a4d1d25"
+    },
+    {
+      "file": "/images/pokemon/game/idle/62.png",
+      "url": "https://pokebonk.com/assets/pmd/62.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "b0b9d5fd26259fd4f5bff76bc5d55e290bb19ce28693c555fd7462610a1fe113",
+      "sha256": "eb7b736eb561d18876469364d8880f9a6216696b9b27fc42f526b9e3a1360652",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 128,
+        "height": 48
+      },
+      "frameDurations": [
+        40,
+        2,
+        4,
+        2
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "a7f4251c4b3085ed7155f0a3b02cc530e079a2d74e539890d959375675aba9ef"
+    },
+    {
+      "file": "/images/pokemon/game/idle/63.png",
+      "url": "https://pokebonk.com/assets/pmd/63.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "0b359a4f3598e5bfa6848a23e0aaf2bfc71eab05cddbb6a5e469921d1b31245c",
+      "sha256": "75b04c37cf5d92ceed91116db26e90181ddbc1d8e26aeaafbe983a29bfede8c0",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 144,
+        "height": 48
+      },
+      "frameDurations": [
+        24,
+        8,
+        8,
+        24,
+        8,
+        8
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "7bea63d8071a85f1a79932f789e8565a0c1f93af3645f56ff37fbc4d99d39122"
+    },
+    {
+      "file": "/images/pokemon/game/idle/64.png",
+      "url": "https://pokebonk.com/assets/pmd/64.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "a6fbfdb481a884403acfff1edee5eb51da25546250bf74fe8f955c81566a64ae",
+      "sha256": "298ca27b6333b12af74f140f3a722ecb6ccb606edd7dd4935efff091d89b69ee",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 360,
+        "height": 56
+      },
+      "frameDurations": [
+        4,
+        4,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        4
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "76ea274e9953cdfd25137b3239cbe5841923ca42e46dbd19d3eab734fefd68cc"
+    },
+    {
+      "file": "/images/pokemon/game/idle/65.png",
+      "url": "https://pokebonk.com/assets/pmd/65.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "eb80852269f007e4e9c067272ffcd816934d8b11ee57eafca426c9834dc85c97",
+      "sha256": "a1e328a1275544a602257ba526b0a5df4f054583703d5f568085b35c6beecc59",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 256,
+        "height": 48
+      },
+      "frameDurations": [
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "a6f41ca1bffc9a6781e6a81633302679d8794a6304add3301d65d948bc7307fe"
+    },
+    {
+      "file": "/images/pokemon/game/idle/66.png",
+      "url": "https://pokebonk.com/assets/pmd/66.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "52b011ddd9f7ab0272f5bd2ee1a28ab7a122e93274a33b66472749e4a76f7cef",
+      "sha256": "1c1b09b382d263d238cd77f55f5327a7cf73e39c230479b1fd5e1f58f929132d",
+      "crop": {
+        "left": 0,
+        "top": 256,
+        "width": 96,
+        "height": 40
+      },
+      "frameDurations": [
+        40,
+        4,
+        4,
+        4
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "9f105fa0c79192780f7440ba796e668c9672a21a4996fdeba13d8023529ecf46"
+    },
+    {
+      "file": "/images/pokemon/game/idle/67.png",
+      "url": "https://pokebonk.com/assets/pmd/67.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "b7784cba29374079f26553ddea774139fc578f7e345d6730bc0b4a7e3416544f",
+      "sha256": "fcd77ed99f3c5932eeac5f9571fd6fdf94d235e226ffd13e7884e2f1ccbd6c36",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 128,
+        "height": 48
+      },
+      "frameDurations": [
+        40,
+        4,
+        4,
+        4
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "25a52b5d2b3a397ec7a8bff6e579deec745b6375b837fc21c51c20b316c5d212"
+    },
+    {
+      "file": "/images/pokemon/game/idle/68.png",
+      "url": "https://pokebonk.com/assets/pmd/68.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "21473c7ffa5152a7c601cc4d1a2f96f7d1a5cb6a9af49907f02cd2321f9888af",
+      "sha256": "0b357b06ad14b1ead5a2b18ab21b504bec2da7a2add44978bacccebaa0469c4e",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 400,
+        "height": 48
+      },
+      "frameDurations": [
+        40,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        12
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "f3216843d7865bf4b4fd633be84dbf71124f082c437f1432b611a23fa90b32ce"
+    },
+    {
+      "file": "/images/pokemon/game/idle/69.png",
+      "url": "https://pokebonk.com/assets/pmd/69.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "dca56df1d5c424c1799ce6106a8d2571bfc7d8b659d330b9279d81aadbe8748e",
+      "sha256": "42f4532b4b9ac438007acd8d9abf5531f8d767546c36def4da5cee286d9f7b68",
+      "crop": {
+        "left": 0,
+        "top": 256,
+        "width": 48,
+        "height": 32
+      },
+      "frameDurations": [
+        20,
+        22
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "a35d6f1a9fb2d214e01632cb2a003618ad105ee346e5d7e5d104aff983344a1e"
+    },
+    {
+      "file": "/images/pokemon/game/idle/7.png",
+      "url": "https://pokebonk.com/assets/pmd/7.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "e0263f15afa53f20c87c0f9ea03a8bbc616d405fde01d33e155a75a1a11132c3",
+      "sha256": "37022f76aafc40b0a2b7bb008db2f0985ef3196d99a26d005fd508fcaee2237e",
+      "crop": {
+        "left": 0,
+        "top": 256,
+        "width": 256,
+        "height": 32
+      },
+      "frameDurations": [
+        30,
+        2,
+        2,
+        4,
+        4,
+        4,
+        2,
+        2
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "e6cbaff14a82e3626f86bf30379cd4d6e602623f7eead9a3c8a22914e04b905d"
+    },
+    {
+      "file": "/images/pokemon/game/idle/70.png",
+      "url": "https://pokebonk.com/assets/pmd/70.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "34ee44b357f6351c9ef3bbe5592cb90761c806335d959c99f1ff53e661cc2695",
+      "sha256": "02871261e9df444d9af50d355f6cc470251a16f76aecd5ff2df697325839c11e",
+      "crop": {
+        "left": 0,
+        "top": 256,
+        "width": 128,
+        "height": 32
+      },
+      "frameDurations": [
+        16,
+        8,
+        16,
+        8
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "b9ef4f5765003a2da406baba63e858a7a4baabe7a00c6348782c7dd2f6ddeb00"
+    },
+    {
+      "file": "/images/pokemon/game/idle/71.png",
+      "url": "https://pokebonk.com/assets/pmd/71.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "0326137b7f1c02ba92a0feda9f7db35c1d04dbe0603563a8d3b97640a42a55ee",
+      "sha256": "60edb5858954dc107898295c5587a8d50fc2ab3cc6782f43cc68b9fe3e257d0f",
+      "crop": {
+        "left": 0,
+        "top": 448,
+        "width": 288,
+        "height": 56
+      },
+      "frameDurations": [
+        35,
+        3,
+        3,
+        5,
+        5,
+        5,
+        3,
+        3,
+        3
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "7411b930ba98d86a8095815d02e18a44291a8318cdd919da42ff2b04cf876b18"
+    },
+    {
+      "file": "/images/pokemon/game/idle/72.png",
+      "url": "https://pokebonk.com/assets/pmd/72.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "c62a49dc75f2fa59bc4e48ffbc1cab0f3967b7570c57beea839b8159ad622f5d",
+      "sha256": "8c0c63b4a7c14f493c4fd7ee6271486f44bd6b68585221572fe15da42952a6f0",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 168,
+        "height": 48
+      },
+      "frameDurations": [
+        4,
+        8,
+        8,
+        4,
+        8,
+        8,
+        8
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "dd294c742e6cd05e91297807b0ecefb403586c4c312181d73153990eb8ddfa94"
+    },
+    {
+      "file": "/images/pokemon/game/idle/73.png",
+      "url": "https://pokebonk.com/assets/pmd/73.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "6bc4f9817fa64460fae03bb6f2419b0b01953a165a76da9a84da144c311b92b3",
+      "sha256": "d35c9fcf9df6c52d7052509f37f312ec14c7340596597df753f88f30a72a0745",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 224,
+        "height": 48
+      },
+      "frameDurations": [
+        6,
+        10,
+        10,
+        6,
+        10,
+        10,
+        10
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "aed6aefabddbf0ac40904b911e3440a0c4179eb62fa0056b960d0a2c9ab8513e"
+    },
+    {
+      "file": "/images/pokemon/game/idle/74.png",
+      "url": "https://pokebonk.com/assets/pmd/74.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "c4fcdf6cf212ba52cabf35fcd43e502e2ad845853c692df586efa203bdfa0135",
+      "sha256": "c773a869765cc7a82a6df71854a18556efb1468be1f532b30231d3e93a8fccb5",
+      "crop": {
+        "left": 0,
+        "top": 256,
+        "width": 128,
+        "height": 24
+      },
+      "frameDurations": [
+        8,
+        12,
+        8,
+        12
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "22e9800f6badb7d84a6485b6e1c0765a51414c6b01174dfc80c52498464f3ed1"
+    },
+    {
+      "file": "/images/pokemon/game/idle/75.png",
+      "url": "https://pokebonk.com/assets/pmd/75.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "d8dff9a40dcc98a9ed1089276c7e0260283aa13005a565d989ee5100508c1271",
+      "sha256": "bc66f6e6cfbcb87df18d59d68c41de8e369ca7570b5d06a47e000c937fac8194",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 560,
+        "height": 48
+      },
+      "frameDurations": [
+        60,
+        10,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        10
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "c6c532163afb5d41b5b37ff27c015d7e50f8eefa8dade36f413f1534ce663b4f"
+    },
+    {
+      "file": "/images/pokemon/game/idle/76.png",
+      "url": "https://pokebonk.com/assets/pmd/76.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "790b70afd06d5488736358d4d334ed2ecd1d3fc622c1556725af12d668d2c455",
+      "sha256": "b9637aec83d546207a354540d65f24f3b24ca4241624877e68a0f4446ebda6c8",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 64,
+        "height": 40
+      },
+      "frameDurations": [
+        30,
+        25
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "8542c532875e90e18757767519f500ad22275fc7a50b34a979577a5ffda99f0c"
+    },
+    {
+      "file": "/images/pokemon/game/idle/77.png",
+      "url": "https://pokebonk.com/assets/pmd/77.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "a0388c1ef1e38825aa068307f97ce90499a202870ffa722996d89004c35afbe2",
+      "sha256": "de8858490958f92f953146007852d1a46c0658d1c8b4c5e070dc90597cb4143c",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 448,
+        "height": 40
+      },
+      "frameDurations": [
+        60,
+        10,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        10
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "787a9bfdb4fee59a2825267d7f3e8b3040e3a277fe9f87272036e28cedc41ba8"
+    },
+    {
+      "file": "/images/pokemon/game/idle/78.png",
+      "url": "https://pokebonk.com/assets/pmd/78.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "0190e9ec304b2a9dd0fa3f5b942ce34b8313e5c610b53ed3bf5a56aaad1d385b",
+      "sha256": "5f97bbf56f1e941fabe4fb518075d43f79871d3c36fb1c4e06c572afa3a94280",
+      "crop": {
+        "left": 0,
+        "top": 448,
+        "width": 560,
+        "height": 56
+      },
+      "frameDurations": [
+        60,
+        10,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        10
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "b4709aaf50fe507462c46cbe941ff764f8cadfd3ea86086c4b0a47aa10dd5b63"
+    },
+    {
+      "file": "/images/pokemon/game/idle/79.png",
+      "url": "https://pokebonk.com/assets/pmd/79.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "b6576563782cea18a991100b3d130c70a120ed3d78d56381b1c6a1eba02e23ce",
+      "sha256": "4e4c906fd1751d5b612f2aaccf3d940632c3691c658121fad1a185283471a1c9",
+      "crop": {
+        "left": 0,
+        "top": 256,
+        "width": 96,
+        "height": 32
+      },
+      "frameDurations": [
+        40,
+        8,
+        8,
+        8
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "20d4fbf2c664521761ab59dc3b60237325a9b0b3ebf627b90dd34606d8223aa3"
+    },
+    {
+      "file": "/images/pokemon/game/idle/8.png",
+      "url": "https://pokebonk.com/assets/pmd/8.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "579f6e88874a366398fabc04ceb9a4f72083b9ddc09a246483f150d91ce3e071",
+      "sha256": "1e0cc25e532fdbc1ae981295f1eae577c71eb5f4068229f56e6d5facf35e7460",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 96,
+        "height": 40
+      },
+      "frameDurations": [
+        40,
+        2,
+        2,
+        2
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "72115d89f1d223da5072f902f41ac2e1d69e8ccb2e4d9750acf9d845dd0f2f09"
+    },
+    {
+      "file": "/images/pokemon/game/idle/80.png",
+      "url": "https://pokebonk.com/assets/pmd/80.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "1551407c4be031259f37f6b3039f0f8dc097a9efdbb994127c0f04e8424f4f6f",
+      "sha256": "2ee7f0d2e93a7b8eaf5a1f36a19a93d40e835500114d89f0f0337b00fb7a88d5",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 80,
+        "height": 40
+      },
+      "frameDurations": [
+        30,
+        30
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "d33651ad70a1b1e2446585aaa96b4846f7c1aeb2f629b8775c9e343af65bac61"
+    },
+    {
+      "file": "/images/pokemon/game/idle/81.png",
+      "url": "https://pokebonk.com/assets/pmd/81.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "3a7f3e12ec5059384233c7aff8e4195f4832d9dd26cc910780266ccf40df2f82",
+      "sha256": "f60b9597d1de26e3e09c3d8214497ce7dacd935ce91c0c5118e394f418b7c7ae",
+      "crop": {
+        "left": 0,
+        "top": 256,
+        "width": 96,
+        "height": 32
+      },
+      "frameDurations": [
+        10,
+        14,
+        10,
+        14
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "27b2e3d2c706d8579b9bfdc226ba2d81a3077c0da7d52ba94ea991b99b88d103"
+    },
+    {
+      "file": "/images/pokemon/game/idle/82.png",
+      "url": "https://pokebonk.com/assets/pmd/82.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "f62b235892436d50e7b3c9ba2d1a17f9b93828d976bddb6bfacd537a6a64054d",
+      "sha256": "ab82f1e6b31ed24b3ec9b6c95c3dc54f006a0fe7736847051cd8dc5fda9cddc7",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 128,
+        "height": 40
+      },
+      "frameDurations": [
+        14,
+        10,
+        14,
+        10
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "6bad39089bc8b3cf87a7371555e58a26aa65fe8e330de45494202694725c7b7f"
+    },
+    {
+      "file": "/images/pokemon/game/idle/83.png",
+      "url": "https://pokebonk.com/assets/pmd/83.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "6c3c2b7d82ace8ccf9b00d58918a797f74aae22fba9fe4e08202cd0354eaecaf",
+      "sha256": "160f8e89973ffcf870befad9b8d7dd6a6d5e46c056aeed7115826641013923e2",
+      "crop": {
+        "left": 0,
+        "top": 256,
+        "width": 96,
+        "height": 32
+      },
+      "frameDurations": [
+        30,
+        12,
+        30,
+        12
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "a1f3a704b89ca3fd5bbdcd3a2dc70744569d484b12afee09506b61f6acc6adb2"
+    },
+    {
+      "file": "/images/pokemon/game/idle/84.png",
+      "url": "https://pokebonk.com/assets/pmd/84.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "9421bcbee262edc4ab18b6ebaca8b36a8c7a45ab6d2717c8746ae1c98a6c36e5",
+      "sha256": "1ceb2be9ef794ab419a142600b9cb0fed779b9d333217ee03c2da4f0e4df5e10",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 160,
+        "height": 40
+      },
+      "frameDurations": [
+        40,
+        6,
+        12,
+        6
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "dcd22d75a0daa580ca2d7839d2eae6efa5339e866f52d6e67b7f368a7443496d"
+    },
+    {
+      "file": "/images/pokemon/game/idle/85.png",
+      "url": "https://pokebonk.com/assets/pmd/85.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "8f6034a248d8494651fbb04630b0f1ba536387dcca367aad311fd9fc36abe1c9",
+      "sha256": "69af9aec180d7fbd41416574b9f03c12a329987c07ecb01f902598c3cdd72037",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 240,
+        "height": 48
+      },
+      "frameDurations": [
+        40,
+        10,
+        16,
+        10,
+        16,
+        10
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "07bc58dfb2914255dbcb2432e62111b09ce5217f2a3363a30ce7888bd2970b5c"
+    },
+    {
+      "file": "/images/pokemon/game/idle/86.png",
+      "url": "https://pokebonk.com/assets/pmd/86.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "e354f3962c29f1ef980541dfc556cdc1a85bf284d4efa21eaa0b3f4f4b386d6d",
+      "sha256": "e1a6df9b8c040d86cd3bdbed3c92ca744d99a7109a434d9fb7031ff1b86c6f1e",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 64,
+        "height": 32
+      },
+      "frameDurations": [
+        30,
+        20
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "43d38bf5bcfce9ac6a692574c46197578e2ef6b21b8c3dc97c146b5ce5f6e327"
+    },
+    {
+      "file": "/images/pokemon/game/idle/87.png",
+      "url": "https://pokebonk.com/assets/pmd/87.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "1cb94cdeab60faed4e8c1ae323de893023374c41f2a2c980bc6a707d891b16b4",
+      "sha256": "9a36e42c5014a77c8fe07ab409011eae2413f7504c4bc51c23465afeed28f033",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 288,
+        "height": 40
+      },
+      "frameDurations": [
+        30,
+        12,
+        8,
+        12,
+        8,
+        12
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "d4401305175e9b17821a79577780bb749011857bf7d446466791bf8ce5c4d698"
+    },
+    {
+      "file": "/images/pokemon/game/idle/88.png",
+      "url": "https://pokebonk.com/assets/pmd/88.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "c8b3b82eebdaa4901098be95b9230e84b4ea00301ba337a37d1da49da9ada585",
+      "sha256": "c64e2f6e2e84a07ab809dac98225a649ac1684c795bb8c41faae801296ec700c",
+      "crop": {
+        "left": 0,
+        "top": 256,
+        "width": 96,
+        "height": 32
+      },
+      "frameDurations": [
+        40,
+        8,
+        30,
+        8
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "110902301a9ce5e587a81c62824974b447cd567c0fcee42a85d511a989482241"
+    },
+    {
+      "file": "/images/pokemon/game/idle/89.png",
+      "url": "https://pokebonk.com/assets/pmd/89.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "00c1031b8e1d1138a465e0de888b9c53a3d9a68a0108f6cb673570cb39ec2207",
+      "sha256": "fc2168ade0cc0a7f21a6443b251534c562c45f10ad053c0318194e0d8833d47f",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 160,
+        "height": 40
+      },
+      "frameDurations": [
+        40,
+        8,
+        30,
+        8
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "b015b6e60c4ad8483d6d48bfae9fa8c22231c5ef2f49eef90d58d7c42273273c"
+    },
+    {
+      "file": "/images/pokemon/game/idle/9.png",
+      "url": "https://pokebonk.com/assets/pmd/9.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "e757f1766217224ecb055406d42cff5d458822e2058a7460e68a6be95ec24551",
+      "sha256": "227d9c87b09288c054552da3c5b2c350c0d60d1b48dda92d3cc5625433ed4621",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 320,
+        "height": 40
+      },
+      "frameDurations": [
+        32,
+        12,
+        4,
+        4,
+        4,
+        4,
+        4,
+        8
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "ca5ba6a083bc33e27a62ad0b6dc239ca576e3cddd9971e91e49f09eaba824f2f"
+    },
+    {
+      "file": "/images/pokemon/game/idle/90.png",
+      "url": "https://pokebonk.com/assets/pmd/90.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "6a978d61441a2f239dd26828ec2fcb1a92d029f0b5f6757cf32c8663fe754eaf",
+      "sha256": "fc8f4c6bdff2e3b9499ffd5193525493f3eb4ccf378e502f91e8ef314401e816",
+      "crop": {
+        "left": 0,
+        "top": 256,
+        "width": 96,
+        "height": 32
+      },
+      "frameDurations": [
+        14,
+        40,
+        14,
+        30
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "b75a4b05573e453fed62047890662394321147f356b192a21044e5456f1230bd"
+    },
+    {
+      "file": "/images/pokemon/game/idle/91.png",
+      "url": "https://pokebonk.com/assets/pmd/91.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "aa46371262ffcb906651eb517682e78862ff08a917c16bca7c6053aa6fdeb7e7",
+      "sha256": "44801049ae28db705b42667f735f00ae2774a33b9eb4fbb509018ad8e0ecd56f",
+      "crop": {
+        "left": 0,
+        "top": 384,
+        "width": 192,
+        "height": 48
+      },
+      "frameDurations": [
+        12,
+        12,
+        12,
+        14,
+        12,
+        12
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "1433468f948ed00e8d05fc8ebe63ed55d46303455eacfa25b2bbfb714641e911"
+    },
+    {
+      "file": "/images/pokemon/game/idle/92.png",
+      "url": "https://pokebonk.com/assets/pmd/92.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "7d1f2a8bdd1242726ed487d142e1799cd58239770f8b10560863fcab9e975899",
+      "sha256": "f558c059a604a0ca4a1fe1a44791715d09af6b364db7744359033d95e4f177e2",
+      "crop": {
+        "left": 0,
+        "top": 512,
+        "width": 288,
+        "height": 56
+      },
+      "frameDurations": [
+        10,
+        10,
+        10,
+        10,
+        10,
+        10
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "02fa2d9532d434be230ae2b0993797f8ef04f978a1d60551cc75742e5f3fcbdb"
+    },
+    {
+      "file": "/images/pokemon/game/idle/93.png",
+      "url": "https://pokebonk.com/assets/pmd/93.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "2cc45f2493344f9f31b679bb4cfe6a964f2dc0d983fbaaf15041fe8c267f770f",
+      "sha256": "edc16fb3425d1fc452b740169d7ad900b18fdc8fb9cb93547f8f50eda4a07d81",
+      "crop": {
+        "left": 0,
+        "top": 448,
+        "width": 128,
+        "height": 56
+      },
+      "frameDurations": [
+        14,
+        8,
+        14,
+        8
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "0e541eb487c6b3643fb001f36820450d868f1854fd2de02e0024c3e52eda74e4"
+    },
+    {
+      "file": "/images/pokemon/game/idle/94.png",
+      "url": "https://pokebonk.com/assets/pmd/94.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "e4bd0ace983bf44eabb1e1a0040195965fb9f34a5428382652dd6830db4e6f60",
+      "sha256": "d892e361e132c76a5b7fe5bd3332ec2e685c45c1d4cb6c4ba16ae5d4a155dd2e",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 256,
+        "height": 40
+      },
+      "frameDurations": [
+        40,
+        4,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "0b7d233f1690684c6451db1054a1e4f80109fe0b09967a6b742cd92f0f60f611"
+    },
+    {
+      "file": "/images/pokemon/game/idle/95.png",
+      "url": "https://pokebonk.com/assets/pmd/95.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "85b1f16e7d81b0cc6faf0e1f0807037e6e85662294f1c3a590584150ba02a777",
+      "sha256": "983a6c8af0cdf93938627935591aeb094fbe9c4a6da335aef80b4e096d64e94d",
+      "crop": {
+        "left": 0,
+        "top": 896,
+        "width": 384,
+        "height": 104
+      },
+      "frameDurations": [
+        16,
+        16,
+        16,
+        16
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "96fe2c38d77c8cab1f30e2eec35625b3b7c0a1bde1569d333aa0dfd812302678"
+    },
+    {
+      "file": "/images/pokemon/game/idle/96.png",
+      "url": "https://pokebonk.com/assets/pmd/96.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "b96fbef5a7f7309ade713aaf00cbd3979beb486c7d9ab82fba1894b608f99ca8",
+      "sha256": "4177dbf5b919d24e450422a5ec2b456262794f971ddac7a9855b2899c7430cab",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 128,
+        "height": 40
+      },
+      "frameDurations": [
+        40,
+        10,
+        6,
+        10
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "f78c4c8e824c155284768cbf568ecbcc666ff7bc2b6b14ace56400a7ad5a75ea"
+    },
+    {
+      "file": "/images/pokemon/game/idle/97.png",
+      "url": "https://pokebonk.com/assets/pmd/97.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "527756bf049fb65cb19ca99b3c932123b731160f1f5438a035db1f20a7c22efb",
+      "sha256": "1550200064e0586c86b8834c1d221a9f495c9fd6ff82c3451866e0380e146d65",
+      "crop": {
+        "left": 0,
+        "top": 320,
+        "width": 320,
+        "height": 48
+      },
+      "frameDurations": [
+        30,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "8937912b5cc95e7b08de02cbf325e9ca5b8d82d69628044ecb2c6cb91271ec31"
+    },
+    {
+      "file": "/images/pokemon/game/idle/98.png",
+      "url": "https://pokebonk.com/assets/pmd/98.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "a23bfd4f2ee41a5d0926cf94465bfe857c2906ac6f62e2d27714d2a19a733698",
+      "sha256": "56fe5dc5009e272463fe70f03c6dfe4c1d48a4bfc3734ef05773a58a0850937a",
+      "crop": {
+        "left": 0,
+        "top": 256,
+        "width": 48,
+        "height": 40
+      },
+      "frameDurations": [
+        30,
+        30
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "bfa7436286ae971eb39148f75831167ccb9c7fb972210fb535b8ddcd09799e81"
+    },
+    {
+      "file": "/images/pokemon/game/idle/99.png",
+      "url": "https://pokebonk.com/assets/pmd/99.png?v=jHYDFj7_",
+      "kind": "Original PokeBonk idle animation, lossless atlas extraction",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sourceSha256": "71b52b7360afe6cdf8ab77eb7a6764b20647958fc802b093f2e0733621039c06",
+      "sha256": "776fa27d0414e6f620e377a80dff9c2fb8695db8e5a965b3eff8d881a757405e",
+      "crop": {
+        "left": 0,
+        "top": 256,
+        "width": 64,
+        "height": 48
+      },
+      "frameDurations": [
+        30,
+        30
+      ],
+      "ticksPerSecond": 60,
+      "pixelSha256": "a7b8ac37d55f9cd215490d80856feb50fde93e2f7a275aed37ebce714e7a8940"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/1.png",
+      "url": "https://pokebonk.com/assets/portraits/1.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "65fa5e2a0e655aff61e6b1bac0b4d8aab3d72496a7f0609761e3e9977ab8fa96"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/10.png",
+      "url": "https://pokebonk.com/assets/portraits/10.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "8c06969fb305e6c9e37095f34f8d99079ca1fa77a4e22a43b4a59faa83d71d43"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/100.png",
+      "url": "https://pokebonk.com/assets/portraits/100.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "e92ce8cf49a74ac51b8d45ef2a72da2d348305713d1a1fded34df090ff9dd2d1"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/101.png",
+      "url": "https://pokebonk.com/assets/portraits/101.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "33fa4bdf353b2b93166458f83b5b26b68b3cd236baa1ec5c1853f8f8b54d123e"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/102.png",
+      "url": "https://pokebonk.com/assets/portraits/102.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "0b58ac3775c0643e4dab6a97cfd3342e0efb2bf88124432ea45011554c79cfdd"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/103.png",
+      "url": "https://pokebonk.com/assets/portraits/103.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "9839f4700d29c0fcab22273de9c7130c8cfd3d5499aae5b036014f706fcab6f9"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/104.png",
+      "url": "https://pokebonk.com/assets/portraits/104.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "9962a0c11360fc7796031a040054f2f3c2ec26887ce5bf69d6838ff0c879e730"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/105.png",
+      "url": "https://pokebonk.com/assets/portraits/105.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "2c7c1a7a9f2c3ba93dcf0fd385e34601d16e73964734e2e30a9dbeb0c5f34cb8"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/106.png",
+      "url": "https://pokebonk.com/assets/portraits/106.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "a18ebbb699b39a91dd13d29fd572956cf241db9d0db2ec3ca783307e65bfb795"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/107.png",
+      "url": "https://pokebonk.com/assets/portraits/107.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "9a506c4a99802144b0820b2ef2c16258aa187d2330abef240430cca39aa298ca"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/108.png",
+      "url": "https://pokebonk.com/assets/portraits/108.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "0c4019b0625a830eb5831ed45deb21c1028cabae9b0b0e39abcd8691a57e7de4"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/109.png",
+      "url": "https://pokebonk.com/assets/portraits/109.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "98cb8f8b8c0924bee79fca23e3c361d31b59664a79a2f1781fd5aeab8d6c979c"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/11.png",
+      "url": "https://pokebonk.com/assets/portraits/11.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "2df60c5f0f2114131e502aec7a8ccd2d36ea7efa7ffef5a54c1dbb5bf6a9b6dc"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/110.png",
+      "url": "https://pokebonk.com/assets/portraits/110.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "7a75a5854c49626a42d0faf4069b5d9700f4d121aed10630794455fd1ffe87f3"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/111.png",
+      "url": "https://pokebonk.com/assets/portraits/111.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "710f9df7c7a3991eed993747b6b57c4c25eca49461b0cb83d73fa315d3a47a02"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/112.png",
+      "url": "https://pokebonk.com/assets/portraits/112.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "91b07435835c509acc9eba478441a19ea697735eba42a625d81f49388c4cd2ed"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/113.png",
+      "url": "https://pokebonk.com/assets/portraits/113.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "bf552fb07e1f1cc1f558a519977b0b0d5fe38592f846b718a167802ed33613ef"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/114.png",
+      "url": "https://pokebonk.com/assets/portraits/114.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "10883ff0d22ea1c52c2145c3df06b12868023f5e2064ed5ffeb0a00205734fb0"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/115.png",
+      "url": "https://pokebonk.com/assets/portraits/115.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "530cf7aa528c4b61f9134a39358c14f2417e14a28647b491ce2e094e9ed16466"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/116.png",
+      "url": "https://pokebonk.com/assets/portraits/116.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "b969bb792a397f7ffcf04d6ba36851ec71d41f6b6835e4aa22b8ae557e424123"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/117.png",
+      "url": "https://pokebonk.com/assets/portraits/117.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "ab267cbf02bed771568b17be9f2160741b9dd37a09e1bfa13edeedbb9539ede4"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/118.png",
+      "url": "https://pokebonk.com/assets/portraits/118.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "9e6265a78c80b56a854099b5c10208a486d49ebb06b2a2ede86f6fbf7d4c45e3"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/119.png",
+      "url": "https://pokebonk.com/assets/portraits/119.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "2f6741710626347e168afb72aec7fcd87b6122f223e03e3bbf3241f19d5fbb6b"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/12.png",
+      "url": "https://pokebonk.com/assets/portraits/12.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "ef86a8ae098fb1c51b11950567e5add10d6db919e87c9f795f5b52495dc3c4af"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/120.png",
+      "url": "https://pokebonk.com/assets/portraits/120.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "8715d813341c86edb7f9a2dccd5bf5d964347f51c6210418cac159a01a425bfa"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/121.png",
+      "url": "https://pokebonk.com/assets/portraits/121.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "8d7ad8a9244e24e8ab7f6d840fdbaa6b50f5e803cb70d6759e5532d4c0dad134"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/122.png",
+      "url": "https://pokebonk.com/assets/portraits/122.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "02238e6178c45b42dd6ce9ac82b857a412e4d045fcbea65689fcd64a5c4d8978"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/123.png",
+      "url": "https://pokebonk.com/assets/portraits/123.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "b86e37ce47ef98409651413502ab0312413f81318646de141d99303e9a21049f"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/124.png",
+      "url": "https://pokebonk.com/assets/portraits/124.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "f4c3006e10ed5082c14b5410b425f1e0808bba59f281dd633233c100a8750c63"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/125.png",
+      "url": "https://pokebonk.com/assets/portraits/125.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "d9885ddbf0accad187dcd4e0eb4bbda0fb4d8f29bb3991ea86efcf1bcb1814d8"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/126.png",
+      "url": "https://pokebonk.com/assets/portraits/126.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "c40e173a92189a784c1e32f84e0f271189bbfebce2938581320ecd042dbf0f7f"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/127.png",
+      "url": "https://pokebonk.com/assets/portraits/127.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "03462a2be61aa01cb5917248550d188fc387b9de257cfdfa988aedeaa2822469"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/128.png",
+      "url": "https://pokebonk.com/assets/portraits/128.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "4338a14a82b83441e47a6d62d610c4757969b30cde9ccdd1b5c69e3e5b72081f"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/129.png",
+      "url": "https://pokebonk.com/assets/portraits/129.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "09ea8c029125aceb3ced749cc855fa4f36406f6436764085275a4cbdb29b7e05"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/13.png",
+      "url": "https://pokebonk.com/assets/portraits/13.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "8a8c5b92d9273fcab4ecd564ba728a3a4a4de1248665b6c76cd7bfc54a357e97"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/130.png",
+      "url": "https://pokebonk.com/assets/portraits/130.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "27c04643260c74fb28ac53bdfa565f5d872c5aeb998294eb11fa7e70a586b3a1"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/131.png",
+      "url": "https://pokebonk.com/assets/portraits/131.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "379b7458b03e84d972efaf8112f02ccca6b2699d2b4cdaf9ee77984a35d74916"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/132.png",
+      "url": "https://pokebonk.com/assets/portraits/132.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "04f5f6c14ff79bf394a58de9c9720bfec036953b6e4555422dc70040f2939969"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/133.png",
+      "url": "https://pokebonk.com/assets/portraits/133.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "daa8255f13f8c2cf8abd99ebf8b54a862ba018f6fea53b754367ceb3c8d60ab5"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/134.png",
+      "url": "https://pokebonk.com/assets/portraits/134.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "6487e2e12ca28e9e6017e25baa91aa9396863b058f9b29d18e831c73a7548479"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/135.png",
+      "url": "https://pokebonk.com/assets/portraits/135.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "7e8421830a34bce2d48ab1c7a608a094621a28afed10a524c45a298f47199151"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/136.png",
+      "url": "https://pokebonk.com/assets/portraits/136.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "f013904cb043fb96e43144b4a5d233f5ea6d02eb5117f78b884bcc4006ab3297"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/137.png",
+      "url": "https://pokebonk.com/assets/portraits/137.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "d30e3eae5f209ec4c5afcf7369d5c3c38555386140eeddf90854c6099b1ec504"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/138.png",
+      "url": "https://pokebonk.com/assets/portraits/138.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "8dcd76e1fe96d8d252a8a5f5ff2034c4fa71fa8e9b112da066ed5d50b6a20f86"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/139.png",
+      "url": "https://pokebonk.com/assets/portraits/139.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "12ff2fce5b854bbbb3af74f491d427d35761eb2dc65960052dcf73923668ead7"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/14.png",
+      "url": "https://pokebonk.com/assets/portraits/14.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "f45f549d367225806b055e8808cb49c226cf687c258af238e7b66fe1b55af690"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/140.png",
+      "url": "https://pokebonk.com/assets/portraits/140.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "0cc6f6806f81ea0f23b52b3226456f4271ffec0c7727994fc6efce8c2c3edf16"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/141.png",
+      "url": "https://pokebonk.com/assets/portraits/141.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "3e4ffec18ae8f98c979c67f22b791888c5595cd4a479180d1914a514bbae220e"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/142.png",
+      "url": "https://pokebonk.com/assets/portraits/142.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "d571d9a01b48c3fed8f394cffdd6257a8d14d7603afbf6b02ee43b1a6d3c8022"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/143.png",
+      "url": "https://pokebonk.com/assets/portraits/143.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "386c58dfc42381f25d2e490544cea21d52116febf42e39dc409d87a79e66ccba"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/144.png",
+      "url": "https://pokebonk.com/assets/portraits/144.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "29701c2a25a973600e2a7200d5c661890431179d8e857161c561dc7900c389e7"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/145.png",
+      "url": "https://pokebonk.com/assets/portraits/145.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "097f4f023c9dcd529ae7d55934f6f13b324e3af08c0b736fc295c7b27899951f"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/146.png",
+      "url": "https://pokebonk.com/assets/portraits/146.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "8187c99f03152d94a77f218f538ab45953350405357336ebcb891df05eab5931"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/147.png",
+      "url": "https://pokebonk.com/assets/portraits/147.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "c4f72e3a2519528c354a5005356722190f53c0f60ea66485f7220094eed776cc"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/148.png",
+      "url": "https://pokebonk.com/assets/portraits/148.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "8d0b0fe7a6479e6bf130576e8c176157801237103d7a206d292b5139295afa5a"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/149.png",
+      "url": "https://pokebonk.com/assets/portraits/149.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "6d843369c5b418bd46795cc35e33dda90390bf9a32a614273ec014be04271fc6"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/15.png",
+      "url": "https://pokebonk.com/assets/portraits/15.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "c7b8a8bbc62ac0e6cf5eebb18b1ce87f5b054c0d4f9afbdcd790fbb62ee6771e"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/150.png",
+      "url": "https://pokebonk.com/assets/portraits/150.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "56bd149a8de98441de858b69caf604fc1ef8a2dfd9d813a80e42ea48dfb38aba"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/151.png",
+      "url": "https://pokebonk.com/assets/portraits/151.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "ecc71d719f7cc447cde95c44948ca6d1f6a878c8dfefda8efffce3fef6348cb9"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/16.png",
+      "url": "https://pokebonk.com/assets/portraits/16.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "690ae834990266ea66e4853dc95d3297f83328bf146524bdfd4c19c467cadd2f"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/17.png",
+      "url": "https://pokebonk.com/assets/portraits/17.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "5ea09da2e7d45f840d1dc6d608211ad46f1b84ca22e9eb277198a552ad759422"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/18.png",
+      "url": "https://pokebonk.com/assets/portraits/18.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "dcef887c04360edb5d7687997e49212d6ea17f89627461bfd0fc9ec9e8b7befe"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/19.png",
+      "url": "https://pokebonk.com/assets/portraits/19.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "d6dce854b5d7366a0506181aa6b613e4b5981d431579bf5488d2522cebc88ac1"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/2.png",
+      "url": "https://pokebonk.com/assets/portraits/2.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "9ed265687bfa0f543605bc80d923ab637d3c36808d56965ef6677e1a53416377"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/20.png",
+      "url": "https://pokebonk.com/assets/portraits/20.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "56d1fd3191ab25fc43deb55c79e58301ae29906a4941ecb386ff03d70cd4c185"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/21.png",
+      "url": "https://pokebonk.com/assets/portraits/21.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "1f538eb2473e28b00040bc518f91d1ba54c601617a54f7fd88cc674ebd410d8c"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/22.png",
+      "url": "https://pokebonk.com/assets/portraits/22.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "9759555ff7a6fc201a8bf9f05e267aada06dc8ddff1b00a9aa5117d6343c3aaf"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/23.png",
+      "url": "https://pokebonk.com/assets/portraits/23.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "917f2a3ea94b7677462bccd8eb3c76b1d4669db5f99c075febe00c3b79ca6b29"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/24.png",
+      "url": "https://pokebonk.com/assets/portraits/24.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "740a27678a54a1feed4e8c42cf2c23858b101a4f18d3db11144245ceb86df921"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/25.png",
+      "url": "https://pokebonk.com/assets/portraits/25.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "d8b4b0ca1243cc868cf628a4b3bda9f57b99d05dbf5be372c17c1f3a5c255eba"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/26.png",
+      "url": "https://pokebonk.com/assets/portraits/26.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "f0f636171aab8b200c8ce47781b79e0b179325a1613f94d4667c94aaab20b903"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/27.png",
+      "url": "https://pokebonk.com/assets/portraits/27.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "aa3ca50a4b80a3e313a632949e69d317d3ba9175e0ab12aad7cc6acc30ca05a2"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/28.png",
+      "url": "https://pokebonk.com/assets/portraits/28.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "4d027527e77e1fa52afa57eb62dc665a91572a725ae48fdc62297a44200bc0ee"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/29.png",
+      "url": "https://pokebonk.com/assets/portraits/29.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "e18f339de0d03de00f5e41eb69350c694d045ce7befb061eb35b7b8ef2385337"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/3.png",
+      "url": "https://pokebonk.com/assets/portraits/3.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "ad837a186afb8399c9c2a1ac832dc77256709e832d71851e2ebade2497daf191"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/30.png",
+      "url": "https://pokebonk.com/assets/portraits/30.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "5a3339c3d41140a917ffa0e36903f4e74808bb54865f64cc685528a1a0ba0035"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/31.png",
+      "url": "https://pokebonk.com/assets/portraits/31.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "6e0ebd3fb8ec7a67b10dbe201b22fd38f847a0b21247f49feae77b2d3cc754a8"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/32.png",
+      "url": "https://pokebonk.com/assets/portraits/32.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "a3409a399ccf69008f46fbed196aada6c293d0a694c0a376989c94e465e09e65"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/33.png",
+      "url": "https://pokebonk.com/assets/portraits/33.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "06f9f2978f73f6755f646a9c39b044799c0c6eb5ed20816cd1e4fa945212d753"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/34.png",
+      "url": "https://pokebonk.com/assets/portraits/34.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "e68ab68c35fc39345b41218feb472382f41f47836ad3b9027db25fc2e38afd87"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/35.png",
+      "url": "https://pokebonk.com/assets/portraits/35.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "7aaae3c9a92a922d0671033997cfbcd854976afca53b355f6a549c610846ae35"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/36.png",
+      "url": "https://pokebonk.com/assets/portraits/36.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "6a408c990e94ff43931b65bd6b586bd48356b5e06ec9f717bf7f3d480100bf90"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/37.png",
+      "url": "https://pokebonk.com/assets/portraits/37.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "3fa5e56d2d8abd1df1c2d80e1d3b7db070fa894337bb4768145dc17df99d4e7f"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/38.png",
+      "url": "https://pokebonk.com/assets/portraits/38.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "9ab072a10504e49714707261145341ae85176d409784d0cb4e38ad8c65e137cb"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/39.png",
+      "url": "https://pokebonk.com/assets/portraits/39.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "2aa672368217d7ac9d466276db868e90f937ddf7b9dff676ca7455aaa20cd6d8"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/4.png",
+      "url": "https://pokebonk.com/assets/portraits/4.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "19ece460b8336a72fba5c8615ee1746bb70aa357fd3d9dd5500cbb54cf7109f5"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/40.png",
+      "url": "https://pokebonk.com/assets/portraits/40.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "95dfc23b22a87c86beac12a286730206b361554f77c5b579c82b3715682406d5"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/41.png",
+      "url": "https://pokebonk.com/assets/portraits/41.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "f4b5d2b353eeacbf38a289c646d92395f7912d68156a685cc5010b82d8f55755"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/42.png",
+      "url": "https://pokebonk.com/assets/portraits/42.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "1c5216aeaae32e63c9608c7e891fbb914623073c4217f6dea1d7a47b452881af"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/43.png",
+      "url": "https://pokebonk.com/assets/portraits/43.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "3ef0142b454020481f3ee30961dff59a7c93d41198db26d77fd7831e4a1e3669"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/44.png",
+      "url": "https://pokebonk.com/assets/portraits/44.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "3d73de0b4b00da9f7cd41856977ab6cec25d18c4a565ec2234f2cfa8b6924e41"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/45.png",
+      "url": "https://pokebonk.com/assets/portraits/45.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "62d6195bbc92b0944896b0e270fe6fc842f9841ac113caffb2c94d2d6883b362"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/46.png",
+      "url": "https://pokebonk.com/assets/portraits/46.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "2e369f113e852a740d12a4f177a3e8a88a78882ce70650f4c3d80e589613e8d9"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/47.png",
+      "url": "https://pokebonk.com/assets/portraits/47.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "f71f38caf9012e480436d1e0f785ca5107a34f8718db7c967440457375bbd88e"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/48.png",
+      "url": "https://pokebonk.com/assets/portraits/48.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "d234c74bdd5a5aab08d048813186cc58c4921a7619e716c395e6efb51aa9809b"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/49.png",
+      "url": "https://pokebonk.com/assets/portraits/49.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "0896dbfd2512eee897743ac90b5f5b4a27ea65fbf46f4782fac9de0f38451b0e"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/5.png",
+      "url": "https://pokebonk.com/assets/portraits/5.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "8420abc5ed79d9c7bd2be9072671afd38c5141a3876d1bc4a63e237b2cdd437d"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/50.png",
+      "url": "https://pokebonk.com/assets/portraits/50.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "aa3614b0db6ac2ba608a819f222fd2fe8333064b437066fce2c2508229df81cb"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/51.png",
+      "url": "https://pokebonk.com/assets/portraits/51.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "a7f19ce2c5fa14f4cd70609ae71602021e7aba6a3bb4a0502d82b8603380294e"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/52.png",
+      "url": "https://pokebonk.com/assets/portraits/52.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "43871b52d93a4fe8e91588c1baa0593c0fdfaccfd1ae7b1a3fe9faa6097212c8"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/53.png",
+      "url": "https://pokebonk.com/assets/portraits/53.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "91a70fed00965441a961117aea85842fc69fcae47e3c65f748368187905f0c45"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/54.png",
+      "url": "https://pokebonk.com/assets/portraits/54.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "e93ed7dbb47945570b244ffc6a7319d7989450eb6915c32801436e9078324bee"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/55.png",
+      "url": "https://pokebonk.com/assets/portraits/55.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "a0f0cff962d23ad84d746172329d74153b4841542a537351af0ff49ea1e2d023"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/56.png",
+      "url": "https://pokebonk.com/assets/portraits/56.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "14b16bd66557c988891f3085bc4b42b68c8daccbdd0cda09f4310db3ed12f3e7"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/57.png",
+      "url": "https://pokebonk.com/assets/portraits/57.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "4f07e75669e3b505dbbc3a311b7d58f8d457dc06ee6b97be5349a00237be378e"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/58.png",
+      "url": "https://pokebonk.com/assets/portraits/58.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "571c6a11b83c8622e0b77e45b879c86bab55f9067ca017b92faff20131a67bdc"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/59.png",
+      "url": "https://pokebonk.com/assets/portraits/59.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "ca862c03cc8a13cdf649fdd9f0dcaf118b0d408153b18c8628072dc7ce0f8370"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/6.png",
+      "url": "https://pokebonk.com/assets/portraits/6.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "0f35ef09a0a2fbc6d9187bcb270954b30aa2dbb51c2f13f21ed9ce648f67a591"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/60.png",
+      "url": "https://pokebonk.com/assets/portraits/60.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "c482c9d87d06d8b1dd398e25d8d3f6ff6d3fa8b78e29bbc63f9059deb1a649be"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/61.png",
+      "url": "https://pokebonk.com/assets/portraits/61.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "8841555e1e6dbeed9635086783800ddb51fa1ccd0e84d372d10569840b472aad"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/62.png",
+      "url": "https://pokebonk.com/assets/portraits/62.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "95ad343b60e5de8e9fd254340e663ce60ec6228824706a1a3b55228b845ac779"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/63.png",
+      "url": "https://pokebonk.com/assets/portraits/63.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "46806da17bc250f4ccd16bc6b8ade0922cdfa48b6f325470fffb53b0ab8b998f"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/64.png",
+      "url": "https://pokebonk.com/assets/portraits/64.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "5ac8ec0c4fdf021a593612a9b5457acbe9ef06dd883e1bab038aebaacfaaf8dd"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/65.png",
+      "url": "https://pokebonk.com/assets/portraits/65.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "0d870a7276d136536a2c5f13f87b8843d7eb8520e69491081fa31f72bb78941a"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/66.png",
+      "url": "https://pokebonk.com/assets/portraits/66.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "d4a7c918cb5ac6c9580d0210f70faebeddc42124a7071974ed8116621f2e6669"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/67.png",
+      "url": "https://pokebonk.com/assets/portraits/67.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "2deec300a0ec8d3e14101581c4bd66ce0409bede031df223180f7856b220e628"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/68.png",
+      "url": "https://pokebonk.com/assets/portraits/68.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "bb2ad88a3cc71112a627ef1c0d2e72756b04a8c3f845baf35869a3cb112b8a29"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/69.png",
+      "url": "https://pokebonk.com/assets/portraits/69.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "eea916baa38109b1a0fadf4d11191a49448c72a9e04f6f122e5aadedea7cb349"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/7.png",
+      "url": "https://pokebonk.com/assets/portraits/7.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "3d3f7f82309d1e422b4eedf689979584d70144921fa712daa06727e70731212c"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/70.png",
+      "url": "https://pokebonk.com/assets/portraits/70.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "ce472486bfcbdc19b8414fca12a0e6409dabbc5a4fabccdac8536d3267c0d0fb"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/71.png",
+      "url": "https://pokebonk.com/assets/portraits/71.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "65633999fcd16c417cf13b0ffb0aeb9bc971e78ef70ea550348cc24c30dbe08c"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/72.png",
+      "url": "https://pokebonk.com/assets/portraits/72.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "31773cd3c23e58ee4edba1e068a6892b344b07a12a19637caeb6fc9d2b9a84a9"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/73.png",
+      "url": "https://pokebonk.com/assets/portraits/73.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "abecb51db7c79f70a52112ec466d46b386ec257da556ab4e079aa813e7ff00ca"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/74.png",
+      "url": "https://pokebonk.com/assets/portraits/74.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "d9de4a1396e6ae5cd7fe2eee936c2a2ee618b1e38eafd29339f287ed04238a8f"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/75.png",
+      "url": "https://pokebonk.com/assets/portraits/75.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "0400b41589439d4ef0c29ade42702bfc727d9b55fb411bfb6fd909c7b3af309c"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/76.png",
+      "url": "https://pokebonk.com/assets/portraits/76.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "b01989c5b3533bd0cef4b7dfd2fa3ed2e6fd99d77d718f5590765cc6f5d0fc35"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/77.png",
+      "url": "https://pokebonk.com/assets/portraits/77.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "304ed4c6996e6e10c4b3a12825fec7f3ba861b0161b939eb079e4d13ecb8b9fc"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/78.png",
+      "url": "https://pokebonk.com/assets/portraits/78.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "a6ef9286f31bae3ec2c4ed759676f2b40c4b827135d38cd5018bb9228994bccd"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/79.png",
+      "url": "https://pokebonk.com/assets/portraits/79.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "cb07a76630d997b8730dabfab4d989b866831fd7ae29f83c682072355ece9362"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/8.png",
+      "url": "https://pokebonk.com/assets/portraits/8.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "623588f3d602be694872ea614aa4f5cb9db7706451d3b1ecc3bb94bbb3af66a4"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/80.png",
+      "url": "https://pokebonk.com/assets/portraits/80.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "9a018dc016a02a459828a4e2b42c95b1c779af77c77c507a481895a75e165e93"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/81.png",
+      "url": "https://pokebonk.com/assets/portraits/81.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "a439e5ef650cc5b9c13e7b4ab592fa00bc0fbf77b52611c19da7df164b71e101"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/82.png",
+      "url": "https://pokebonk.com/assets/portraits/82.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "0979a1dbe0e9d231882d7dd9bc15c72ad65cd69d611cd9a6db4f28215182a106"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/83.png",
+      "url": "https://pokebonk.com/assets/portraits/83.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "aef2d88834cc20e354c1c3640df71dbee241247b23e3b9a2500dc95d32b7219d"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/84.png",
+      "url": "https://pokebonk.com/assets/portraits/84.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "af9b74c9341595c2ef9effc29be4ad6a47625d6753a3bdfe653d8fff70ae6f1e"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/85.png",
+      "url": "https://pokebonk.com/assets/portraits/85.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "567c3c622fee4d91873109908dae43342671cb10da24456c00bce7b7c772a316"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/86.png",
+      "url": "https://pokebonk.com/assets/portraits/86.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "664f41736c7047474d01c55443aba826f20e696ff624a7554d4af5c1449be520"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/87.png",
+      "url": "https://pokebonk.com/assets/portraits/87.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "7e0ed6cf3318319c7789145ca0fa0f804986f4bd01c5e0e570afce8d81224ec1"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/88.png",
+      "url": "https://pokebonk.com/assets/portraits/88.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "678c0b67360567f2fbd1a9434a9a1030b53b1c76a61a79e2c4afe36b56295dd9"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/89.png",
+      "url": "https://pokebonk.com/assets/portraits/89.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "beff87e9db6fd908a9c7cc70f38b03c1147ff09f48d8a1e991b9b6fddd424c4c"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/9.png",
+      "url": "https://pokebonk.com/assets/portraits/9.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "32d5f208c19f55eecb713eea1eb02e81d435ee85a46cee97c15da7f060d7fabf"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/90.png",
+      "url": "https://pokebonk.com/assets/portraits/90.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "971e4c5e3a93442b895f997d24cafb404b3d515676f7e1ecef46fbe7126922df"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/91.png",
+      "url": "https://pokebonk.com/assets/portraits/91.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "b003df3ee94a4f66c764804529e796cbd1c2641992d1278189be58da1e5460af"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/92.png",
+      "url": "https://pokebonk.com/assets/portraits/92.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "70bc9d236837cc442be4fc34822506ca5dce2ae0e137346c1227b72e7b40fe7b"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/93.png",
+      "url": "https://pokebonk.com/assets/portraits/93.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "a3fb3198f28069bbe6d5901070aee9f6712be93dd6047ce896eb192e759280a1"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/94.png",
+      "url": "https://pokebonk.com/assets/portraits/94.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "fc8b85ba9fb6267f6c7e8737154aa2058c6edfacb476f45055ab93e3dd209385"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/95.png",
+      "url": "https://pokebonk.com/assets/portraits/95.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "95edb26aa78c4c58de551e45f6e4bc517df613a0dbcad995f7f450978108694b"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/96.png",
+      "url": "https://pokebonk.com/assets/portraits/96.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "8d97a0cce8bbf415a17709b9c91a439449833bcc3322be5286fa87abcaa07447"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/97.png",
+      "url": "https://pokebonk.com/assets/portraits/97.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "7fa5cebbaab2adc55c82eebec9253fc7dd389f217a662058e84a2c4a5519da44"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/98.png",
+      "url": "https://pokebonk.com/assets/portraits/98.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "c87829713b1c47909842120c975ea26de89c04e398edd9b8b072bef5e655e9b0"
+    },
+    {
+      "file": "/images/pokemon/game/portraits/99.png",
+      "url": "https://pokebonk.com/assets/portraits/99.png?v=OEZJxMKF",
+      "kind": "Original PokeBonk portrait",
+      "provider": "pokebonk.com",
+      "retrieved": "2026-10-26",
+      "sha256": "2b9ca3ee69935e25152877b51935ae25c75f63148bde2f79aae2e0aefd9e334b"
+    }
+  ]
+}

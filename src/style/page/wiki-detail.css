@@ -1,0 +1,65 @@
+.wiki-detail-content {
+  display: grid;
+  grid-template-columns: 200px minmax(0, 1fr);
+  gap: 50px;
+  margin-bottom: 35px;
+}
+.wiki-detail-symbol {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 35px 20px;
+  border: 1px solid #425789;
+  border-radius: 15px;
+  background:
+    radial-gradient(ellipse at 50% 0, #6c57a966, transparent), #112746;
+  align-self: start;
+  gap: 25px;
+}
+.wiki-detail-symbol .game-icon {
+  font-size: 100px;
+}
+.wiki-detail-symbol > img {
+  object-fit: contain;
+  image-rendering: pixelated;
+}
+.wiki-detail-symbol > small {
+  color: #9eb7d6;
+  text-align: center;
+  font-size: 11px;
+}
+.wiki-detail-symbol > span:last-child {
+  font-size: 12px;
+  color: #a6bfdb;
+}
+.wiki-related-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 15px;
+  margin: 22px 0;
+}
+.wiki-detail-content .notice p {
+  margin: 8px 0;
+}
+@media (max-width: 1024px) {
+  .wiki-related-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+@media (max-width: 768px) {
+  .wiki-detail-content {
+    grid-template-columns: 1fr;
+    gap: 25px;
+  }
+  .wiki-detail-symbol {
+    padding: 22px;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .wiki-detail-symbol .game-icon {
+    font-size: 65px;
+  }
+  .wiki-related-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

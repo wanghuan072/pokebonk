@@ -1,0 +1,143 @@
+.tier-list-content > .tier-rows {
+  max-width: 1050px;
+}
+.tier-list-content .tier-row {
+  min-height: 90px;
+}
+.tier-list-content .tier-rank {
+  width: 105px;
+}
+.tier-list-content .tier-rank strong {
+  font-size: 38px;
+}
+.tier-list-content .tier-rank small {
+  font-size: 9px;
+}
+.tier-list-content .tier-members {
+  padding: 12px 18px;
+  gap: 18px;
+}
+.tier-list-content .tier-members img {
+  width: 90px;
+  height: 68px;
+}
+.tier-list-content .tier-members a {
+  font-size: 15px;
+  gap: 15px;
+}
+.tier-list-content .tier-members p {
+  flex: 1;
+  min-width: 200px;
+}
+.tier-list-content > .notice {
+  max-width: 1050px;
+  margin-bottom: 35px;
+}
+.tier-starter-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
+  max-width: 1024px;
+  margin-top: 22px;
+}
+.tier-mode-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 25px;
+  margin: 35px 0;
+}
+.tier-mode-grid article {
+  border: 1px solid #34517c;
+  background: linear-gradient(130deg, #172c4b, #10213f);
+  border-radius: 12px;
+  padding: 25px;
+}
+.tier-mode-grid h2 {
+  font-size: 23px;
+}
+.tier-mode-grid p {
+  font-size: 13px;
+  line-height: 1.9;
+}
+.tier-mode-grid a {
+  font-size: 12px;
+}
+.tier-criteria {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 13px;
+}
+.tier-criteria > div {
+  padding: 19px;
+  border: 1px solid #2e4b71;
+  border-radius: 9px;
+  background: #11243e;
+}
+.tier-criteria h3 {
+  font-size: 16px;
+  margin: 0 0 10px;
+}
+.tier-criteria p {
+  font-size: 11px;
+  margin: 0;
+}
+@media (max-width: 1024px) {
+  .tier-criteria {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+@media (max-width: 768px) {
+  .tier-list-content .tier-rank {
+    width: 67px;
+  }
+  .tier-list-content .tier-rank small {
+    font-size: 7px;
+  }
+  .tier-list-content .tier-members {
+    padding: 10px;
+    gap: 5px;
+  }
+  .tier-list-content .tier-members a {
+    font-size: 12px;
+    gap: 8px;
+  }
+  .tier-list-content .tier-members p {
+    font-size: 11px;
+    margin: 8px 0;
+    min-width: 0;
+    flex-basis: 100%;
+  }
+  .tier-list-content .tier-members img {
+    width: 75px;
+    height: 56px;
+  }
+  .tier-starter-grid {
+    gap: 8px;
+  }
+  .tier-starter-grid .pokemon-card-art {
+    height: 100px;
+  }
+  .tier-starter-grid .pokemon-card h3 {
+    font-size: 13px;
+  }
+  .tier-starter-grid .pokemon-card-info {
+    padding: 8px;
+  }
+  .tier-starter-grid .pokemon-card-status {
+    font-size: 8px;
+  }
+  .tier-mode-grid {
+    grid-template-columns: 1fr;
+    gap: 15px;
+  }
+  .tier-mode-grid article {
+    padding: 20px;
+  }
+  .tier-criteria {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+  .tier-criteria > div {
+    padding: 15px;
+  }
+}

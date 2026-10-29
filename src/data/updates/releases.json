@@ -1,0 +1,1924 @@
+[
+  {
+    "slug": "v0-8-62",
+    "version": "0.8.62",
+    "title": "Daily Mutation fixes and a sharper anti-cheat.",
+    "noteTypes": [
+      "event",
+      "event",
+      "better",
+      "better"
+    ],
+    "date": "2026-10-27",
+    "notes": [
+      "Metronome: moves that turned into a beam no longer get stuck; they keep changing every 30 seconds in every zone.",
+      "The Daily Mutation frames you've already earned now show up in the Frames tab of the avatar picker.",
+      "On a run's build card, the damage of each move no longer stops at the same cap in long runs: you'll see how much each one really did.",
+      "Sharper anti-cheat: fewer false positives with Gengar and in co-op, and the bots flooding the Desert leaderboard no longer get through."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-61",
+    "version": "0.8.61",
+    "title": "Daily Mutation: a different run every day, with its own leaderboard and prizes to keep.",
+    "noteTypes": [
+      "new",
+      "new",
+      "new",
+      "new",
+      "new",
+      "new",
+      "new",
+      "new",
+      "new",
+      "new",
+      "new",
+      "better",
+      "better",
+      "better",
+      "fix"
+    ],
+    "date": "2026-10-27",
+    "notes": [
+      "New mode: the Daily Mutation. Every day, a classic run with a different twist, the same for everyone: same map, same world and same mutation. Find it in the menu's first row, next to Survival.",
+      "Play with any League Pokémon you like and try as many times as you want: your best run of the day counts (how far you get, then your KOs). No Bag and no co-op.",
+      "Metronome (Nightmare): every 30 seconds one of your moves turns into a random one from the whole League, at the same level. Your first move and fusions never change.",
+      "Dynamax Wilds (Hard): wild Pokémon are twice as big with twice the HP; they hit 50% harder but move 15% slower. Bosses don't change.",
+      "Candy Fever (Hard): double experience and Pokédollars, but Pokémon get stronger 60% faster.",
+      "Glass (Normal): only a quarter of your HP, but all your damage is doubled.",
+      "The four take turns: each comes once every 4 days, never two days in a row, and moves to a new map each time. It changes at 00:00 UTC, and the screen shows the ones coming next.",
+      "A daily leaderboard for each mutation, plus yesterday's and the day before's. Stardust once a day: 60 for zone 2, 60 for zone 3, 60 for the sanctuary and 120 for winning (300 in total).",
+      "Prizes to keep in every mutation: its title for reaching zone 3, its avatar frame for reaching the sanctuary and its profile background for winning it. With all four backgrounds, the title King of Mutations.",
+      "Profile backgrounds, a new cosmetic: the picture behind your name on your trainer card. Pick it in the Backgrounds tab, next to avatar, frame and title.",
+      "You can feel the mutation in the run: a banner at the start of each zone, its medallion next to the top plate and, in Metronome, a countdown and every move swap shown big.",
+      "Slot machine: hold E (or the gamepad button) to spin non-stop. Prizes pile up in a tray and you see them all when you let go or run out of Pokédollars.",
+      "Leaderboard goals: once you reach the prize top you no longer jump from #50 to #25: you chase every rival, one by one (#50, #49, #48…).",
+      "When you catch a second shiny, you now tap the one you release, just like replacing an Alpha.",
+      "The Play button no longer gets cut off in the menu."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-60",
+    "version": "0.8.60",
+    "title": "Looks challenges in co-op, your Bag in the room and a clearer wallet.",
+    "noteTypes": [
+      "coop",
+      "coop",
+      "coop",
+      "coop",
+      "coop",
+      "coop",
+      "better",
+      "better",
+      "better",
+      "better",
+      "fix",
+      "fix",
+      "fix",
+      "fix",
+      "fix",
+      "fix"
+    ],
+    "date": "2026-10-27",
+    "notes": [
+      "Looks challenges now count in co-op: «win» is the team's victory and each challenge looks at what you do. Only the «taking at most N hits» ones stay solo. Runs you finish from now on count.",
+      "You can now bring your Bag to co-op: pick your items in the room, under the difficulty. They're only used up if the run starts.",
+      "The legendary's shiny roll is the same for the whole team: if one of you gets it, you all do.",
+      "Falling while a teammate's connection hiccups no longer ends the run.",
+      "If your team beats the guardian and the portal didn't show up for you, it now appears after a few seconds.",
+      "The «Ready» window no longer stays on top of the run, and the room connects better when the server is busy or the network is tricky.",
+      "New wallet at the top centre: your PokéDollars, bigger, and on the same line what the Poké Ball, the slot machine and refreshing Meowth cost right now. Each price turns green when you can afford it.",
+      "Goodbye to the «Calm / Dangerous…» meter under the clock: more room on screen.",
+      "Controller: L3 releases the fallen Alpha, Select shows the map without pausing, and the stick no longer drifts on its own.",
+      "Shinies: Venusaur no longer looks normal, and 14 nearly grey Pokémon (Geodude, Onix, Dewgong, Magnemite, Mewtwo…) get a shiny that really stands out.",
+      "Chinese or Japanese keyboard: if your input method blocks WASD, the game tells you how to switch it, and E and your attacks respond.",
+      "Android: the «back» gesture from the screen edge no longer pauses the run while you use the joystick, and the stick no longer gets stuck.",
+      "If the picture goes black with the interface still visible, the game tries to bring it back on its own.",
+      "Sound effects no longer vanish leaving only the music, and there are fewer volume spikes.",
+      "Light Screen looks like glass, not white squares.",
+      "The keyboard's skip track key no longer stops your Pokémon."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-59",
+    "version": "0.8.59",
+    "title": "Fixes from your reports: shinies, challenges, older iPhones and attack effects.",
+    "noteTypes": [
+      "fix",
+      "fix",
+      "fix",
+      "fix",
+      "fix",
+      "better",
+      "better",
+      "coop",
+      "better",
+      "fix"
+    ],
+    "date": "2026-10-26",
+    "notes": [
+      "The sanctuary's legendary shiny is no longer lost when you already have many shinies in the same run.",
+      "The Dawn Stone is no longer spent without a shiny: if you clear the first zone very fast, it shows up in the next one.",
+      "The no-evolving challenges (Charmander, Dratini) count your form when you beat the final boss, even if its experience evolves you afterwards. By a hair checks your HP when you beat it, so the berry it drops no longer takes it away.",
+      "Many attacks of the newest League Pokémon came out with another move's effect and sound (Thunder Cage with a pink moon). They look right now.",
+      "The game opens again on iPhone and iPad with iOS 15, which were stuck on «Retry».",
+      "Chansey can learn Transformation and Mimic at the same time to make Ditto's fusion.",
+      "On the rooftop of the Lavender Tower, the way-down stairs ask you to confirm before ending the run.",
+      "The summary of a co-op run reminds you that Looks challenges only count in solo.",
+      "View my team (Tab on level-up) also shows what each attack's level-up upgrades add up to.",
+      "Fewer honest runs sent to review: co-op, gold and long runs get more leeway."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-58",
+    "version": "0.8.58",
+    "title": "Clan prizes for everyone who contributes, password change in Settings and boss health as a percentage.",
+    "noteTypes": [
+      "balance",
+      "new",
+      "new",
+      "better",
+      "fix"
+    ],
+    "date": "2026-10-26",
+    "notes": [
+      "Clan season prizes: you no longer need 2% of the clan's total. 500 points and a quarter of the average of the members who scored is enough: if everyone contributes about the same, everyone gets it. In the Clan tab, \"Your contribution\" shows how many points you have and how many you need.",
+      "You can now change your password in Settings → Account. Changing it signs you out on your other devices.",
+      "Settings → Interface → Boss health: boss bars can show the percentage they have left instead of HP.",
+      "In the pause menu, Stats show how much a mega crit deals and make clear that crit damage has no cap.",
+      "In the Clan tab, Clan slots and Season prizes are no longer squashed; \"From levels\" says hits for melee attacks, and the Change button is better translated in English, Japanese and Korean."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-57",
+    "version": "0.8.57",
+    "title": "Solo runs save again on every browser.",
+    "noteTypes": [
+      "fix",
+      "better"
+    ],
+    "date": "2026-10-26",
+    "notes": [
+      "Solo runs now save even if your browser doesn't keep data (some tablets and apps): before, the server couldn't save them and their rewards and catches were lost.",
+      "In the Lab, every item you haven't unlocked yet says how many copies you can take into a run."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-56",
+    "version": "0.8.56",
+    "title": "Much better clan rewards, new avatar frames and fixes from your reports.",
+    "noteTypes": [
+      "new",
+      "new",
+      "new",
+      "better",
+      "better",
+      "balance",
+      "coop",
+      "fix"
+    ],
+    "date": "2026-10-26",
+    "notes": [
+      "Much better clan rewards: each mission star gives up to 2,000 Stardust and a Bag item, and the third one a Bonkoin. Winning the rivalry gives 1,500 Stardust, 2 Bonkoins and a Master Ball.",
+      "Three clan avatar frames, each with its title: Clan Star, Unbeaten Rival and Legendary Clan. See them in the Clan tab.",
+      "The Aspect frames you own can be worn as your avatar frame.",
+      "The Shop tells you how many items fit in your Bag and how many you can still buy.",
+      "Attack cards show the minimum cooldown (0.12 s) and tell you when an attack cannot get any faster.",
+      "The Lickitung challenge asks for 7,000 HP healed in one run (it was 8,000).",
+      "A room no longer opens in the middle of a solo run, the same Pokémon can no longer be caught several times, the next map unlocks without remaking the room, and a teammate fainted in mid-air falls to the ground so you can revive them.",
+      "Fixed: the Korean keyboard (A/S/D), the Release button on mobile, the Golden Magikarp challenge, extra Bonkoins that dropped without being paid, and going back to Seen and Families in the Pokédex."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-55",
+    "version": "0.8.55",
+    "title": "A bigger Archive as you unlock items, and level-up upgrades shown in the pause.",
+    "noteTypes": [
+      "better",
+      "new"
+    ],
+    "date": "2026-10-25",
+    "notes": [
+      "Archive: every 2 items you unlock give you 1 more slot (up to 59). The Lab upgrade tells you how many you have and where they come from.",
+      "In the pause, each move shows what its level-up upgrades add up to (damage, cooldown, projectiles…)."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-54",
+    "version": "0.8.54",
+    "title": "PokeBonk 0.8.54",
+    "noteTypes": [
+      "coop",
+      "fix",
+      "better"
+    ],
+    "date": "2026-10-25",
+    "notes": [
+      "Co-op runs no longer start by skipping zones when you play again with the same team.",
+      "Fewer honest runs sent to review: co-op, very long Survival runs and back-to-back short runs.",
+      "Over 100 cheating accounts and bots removed from the leaderboards."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-53",
+    "version": "0.8.53",
+    "title": "PokeBonk 0.8.53",
+    "noteTypes": [
+      "fix"
+    ],
+    "date": "2026-10-25",
+    "notes": [
+      "The event image in the menu, news covers, the Treasures background and the Lab's 4th move icon show again."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-52",
+    "version": "0.8.52",
+    "title": "Altars by zone in the pause menu, Rhydon's roars on screen and clearer item stats.",
+    "noteTypes": [
+      "new",
+      "new",
+      "better",
+      "coop"
+    ],
+    "date": "2026-10-25",
+    "notes": [
+      "Altars in the pause menu: what each altar gave you, zone by zone, plus the total.",
+      "Rhydon's roars show on screen while its guardian is still standing.",
+      "Stats show the extra damage from the Metronome and friends, and items that strike on their own get their own row.",
+      "If your connection to a teammate goes through our server, it uses less data."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-51",
+    "version": "0.8.51",
+    "title": "See your teammates' attacks and less waiting at peak hours.",
+    "noteTypes": [
+      "coop",
+      "coop",
+      "better"
+    ],
+    "date": "2026-10-25",
+    "notes": [
+      "See your teammates' attacks just as they cast them. In Options → Graphics you can simplify or hide them.",
+      "Co-op rooms ask the server far less often: the game runs smoother for everyone at peak hours.",
+      "Menu leaderboards update every minute."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-50",
+    "version": "0.8.50",
+    "title": "PokeBonk 0.8.50",
+    "noteTypes": [
+      "better"
+    ],
+    "date": "2026-10-25",
+    "notes": [
+      "News and game status load faster."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-49",
+    "version": "0.8.49",
+    "title": "PokeBonk 0.8.49",
+    "noteTypes": [
+      "better"
+    ],
+    "date": "2026-10-25",
+    "notes": [
+      "The server holds up better during long peak hours: it no longer builds up memory over time."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-48",
+    "version": "0.8.48",
+    "title": "A lighter server for peak hours.",
+    "noteTypes": [
+      "better",
+      "coop"
+    ],
+    "date": "2026-10-25",
+    "notes": [
+      "Faster server at peak hours: co-op leaderboards and rooms ask for much less.",
+      "If a teammate leaves the run, your game stops searching for them nonstop after a minute."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-47",
+    "version": "0.8.47",
+    "title": "We went through over 1,000 reports: the M map, a steadier co-op, fusions explained and dark mode in runs.",
+    "noteTypes": [
+      "new",
+      "new",
+      "new",
+      "coop",
+      "coop",
+      "coop",
+      "coop",
+      "coop",
+      "better",
+      "better",
+      "better",
+      "better",
+      "better",
+      "better",
+      "better",
+      "better",
+      "fix",
+      "fix",
+      "fix",
+      "fix",
+      "fix",
+      "fix"
+    ],
+    "date": "2026-10-25",
+    "notes": [
+      "Fusions explained: every fusion says how it works (its parts: meteor, barrage, zone…) and what Area, Duration and Projectiles do to each part.",
+      "Search on the Pokémon selection screen: type its name or number.",
+      "After beating the guardian, an arrow and the minimap lead you to its Great Ball and then to the portal.",
+      "Shared map: what a teammate discovers (Poké Balls, altars, Ditto…) also shows up on your map.",
+      "Damage per player in the final summary and the pause menu.",
+      "Go to the Lab from the room without leaving the group, and come back with “Back to the room”.",
+      "If you go down just before the team takes the portal, the run no longer ends and you aren't left behind: you revive with them.",
+      "With a bad connection the team no longer splits across different zones, and the horde no longer pushes you out of an altar while you pick an upgrade.",
+      "Dark mode across the whole run: portrait, timer, items, moves, notices and boss bars.",
+      "“Your Team” is now called Favorites: they're your favorite Pokémon and change nothing in the run.",
+      "Only clan members can see the clan's Activity now.",
+      "Auto Ultimate shows AUTO on its medallion when it's on.",
+      "Mobile: Bill's Machine always shows “Not now”, and you can cancel a banish.",
+      "Low rocks can be jumped over, and rocks and trees don't trap you as much.",
+      "When you come back signed out, the game offers to sign in to your account instead of creating an empty guest.",
+      "Clan names accept more letters, the game remembers your language and the menu leaderboard remembers what you were looking at.",
+      "Closing the map with M no longer opens the pause menu, and “Continue” gets you back in the game on the first click.",
+      "The camera turns again after closing the shop or a menu, and keys no longer get stuck (the Pokémon that walked on its own).",
+      "Lavender Tower: floors no longer get stuck unfinished and you don't get trapped inside the boss.",
+      "The boss's Great Ball no longer lands under the portal, and Whirlpool no longer stops casting with lots of Duration.",
+      "In Survival runs over 6 hours you no longer become immortal, and huge numbers are readable.",
+      "The Meowth challenge counts all your money, plus fixes to the Shiny star, the slot machine in dark mode and the minimap arrow."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-46",
+    "version": "0.8.46",
+    "title": "PokeBonk 0.8.46",
+    "noteTypes": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "date": "2026-10-25",
+    "notes": [
+      "Co-op: the classic experience is back. We removed last version's team mechanics: the seal barrier, the Wrath, the shifting weakness and the élites joined by a beam. Bosses and élites fight like in solo.",
+      "Co-op: the guardian attacks the whole team, wherever you are. Go after it together!",
+      "Co-op: the Gengar, cursed and Rhydon altars are free again: each player uses them whenever they want, no need to gather the team.",
+      "Co-op: while you choose in a menu you stay protected, but you no longer deal damage and the guardian goes after your teammates.",
+      "Co-op: enemies no longer switch players every moment: they only go after another one if they are much closer.",
+      "Co-op: Unown altars no longer lose their charge if you level up or open a menu inside the circle.",
+      "The damage per move in the end-of-run summary now adds up to the run's total damage.",
+      "The Spectral Look now shows in-game too, and long runs no longer offer locked or archived items.",
+      "If 3D won't start, the game tries another graphics card and tells you what to do."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-45",
+    "version": "0.8.45",
+    "title": "PokeBonk 0.8.45",
+    "noteTypes": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "date": "2026-10-24",
+    "notes": [
+      "Co-op: the boss's HP bar no longer jumps; everyone sees the same.",
+      "Co-op: bosses have team mechanics. At 60% and 30% they raise a barrier that breaks with one player on each seal at once; their Wrath falls on everyone, they turn weak to a type of your team and they go for whoever hits them hardest.",
+      "Co-op: some elites come in pairs joined by a beam that heals them while they are together. Split them up!",
+      "Co-op: Gengar's altar, the cursed altar and Rhydon's are a team decision: gather everyone in their circle and they count for all.",
+      "Co-op: you have 1 minute to be revived, and you can invite a friend again without closing the room.",
+      "Co-op: pausing no longer makes you invulnerable, and altars no longer charge from inside the bubble.",
+      "The build plan no longer limits items: mark all your favourites.",
+      "Mobile: if you leave full screen, the next runs no longer enter it on their own."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-44",
+    "version": "0.8.44",
+    "title": "PokeBonk 0.8.44",
+    "noteTypes": [
+      null,
+      null,
+      null
+    ],
+    "date": "2026-10-24",
+    "notes": [
+      "New: an Items tab in the Pokédex, showing what each one does and whether you have it unlocked or archived.",
+      "The build plan now takes up to 6 items, marked \"In your plan\" in Poké Balls and Meowth's shop. It warns you if one is locked or archived.",
+      "Co-op: tap a team on the leaderboard to see its run, with each member's Pokémon, K.O.s, damage and build."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-43",
+    "version": "0.8.43",
+    "title": "PokeBonk 0.8.43",
+    "noteTypes": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "date": "2026-10-24",
+    "notes": [
+      "Clearer Pokédex: the tabs no longer move when switching between Pokémon, Attacks and Vitamins, and the Glossary is fully visible.",
+      "Vitamins in the Pokédex now show as large cards with what each one improves.",
+      "The build plan editor has a summary of your slots at the top and tabs for Attacks, Vitamins and Fusions.",
+      "Co-op: after leaving a room, the browser tab no longer says you are still in it."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-42",
+    "version": "0.8.42",
+    "title": "PokeBonk 0.8.42",
+    "noteTypes": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "date": "2026-10-24",
+    "notes": [
+      "New: dark mode. In Settings, Interface, Theme: Auto (follows your device), Light or Dark.",
+      "New: the Pokédex has Attacks and Vitamins tabs, showing who learns each attack, from what level and which fusions it's part of.",
+      "New: build plan. Pick the attacks, vitamins and fusions you want for each Pokémon, and in runs they'll be marked \"In your plan\".",
+      "The Lab's Archive goes from 20 to 30 slots with two new levels.",
+      "Co-op: the boss no longer gets stuck at 1 HP, revives no longer fail with a full bar, and the connection holds up better when it's slow.",
+      "Co-op: if a teammate has a different version, they get the reload prompt right away.",
+      "The camera turns again right after closing the map or the shop, with no extra click.",
+      "Fixed: the Tower freeze when the boss appeared while you chose an item, the nearly untouchable Marowak in the Beyond, the FPS limit being forgotten on reopening, and flickering cards."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-41",
+    "version": "0.8.41",
+    "title": "PokeBonk 0.8.41",
+    "noteTypes": [
+      null
+    ],
+    "date": "2026-10-24",
+    "notes": [
+      "The companion selection screen no longer zooms in and out nonstop."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-40",
+    "version": "0.8.40",
+    "title": "PokeBonk 0.8.40",
+    "noteTypes": [
+      null,
+      null
+    ],
+    "date": "2026-10-24",
+    "notes": [
+      "Co-op runs of players who followed their team to the next zone, and Tower runs that were wrongly rejected, now count, and the affected runs have been restored.",
+      "The anti-cheat now better detects fabricated Time Trial victories and new accounts made only to cheat."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-39",
+    "version": "0.8.39",
+    "title": "PokeBonk 0.8.39",
+    "noteTypes": [
+      null
+    ],
+    "date": "2026-10-24",
+    "notes": [
+      "Menu news load much faster and use less data."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-38",
+    "version": "0.8.38",
+    "title": "PokeBonk 0.8.38",
+    "noteTypes": [
+      null,
+      null
+    ],
+    "date": "2026-10-24",
+    "notes": [
+      "Co-op: in the room, your teammates' «Ready», chat and changes show up instantly.",
+      "The game talks to the server less so everything runs smoother at peak hours."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-37",
+    "version": "0.8.37",
+    "title": "PokeBonk 0.8.37",
+    "noteTypes": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "date": "2026-10-24",
+    "notes": [
+      "New: Treasures. Three wheels (Charmander, Bulbasaur and Squirtle) with exclusive items, looks and frames; the grand prize is a look with its own effects and an animated epic frame.",
+      "New currency: Bonkoins. Guardians, legendaries and Survival milestones sometimes drop them, and they pay for Treasure spins.",
+      "New Shop in the menu: spend your Stardust on Bag items, with a daily limit.",
+      "Co-op: while you pick an upgrade you sit inside a shield bubble and can't be hurt.",
+      "Co-op: the portal and the boss no longer get stuck when the connection flickers, and if it drops you rejoin the run.",
+      "Co-op: when the run ends you go back to the same room, and reviving responds better with lag.",
+      "Fixed: the guardian's Great Balls drop around it again, and the Shiny tab is back in the League selection.",
+      "Leaderboard: press «Build» on any row to see what that trainer played with.",
+      "Controllers are detected and set up better, and the light beams over pickups are softer.",
+      "Anti-cheat: 46 accounts from an auto-play tool, suspended for good."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-36",
+    "version": "0.8.36",
+    "title": "PokeBonk 0.8.36",
+    "noteTypes": [
+      null
+    ],
+    "date": "2026-10-24",
+    "notes": [
+      "Leaderboards, clans and menu purchases respond faster at peak hours."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-35",
+    "version": "0.8.35",
+    "title": "PokeBonk 0.8.35",
+    "noteTypes": [
+      null
+    ],
+    "date": "2026-10-24",
+    "notes": [
+      "The server holds up better at peak hours: less waiting when saving runs and opening the leaderboards."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-34",
+    "version": "0.8.34",
+    "title": "PokeBonk 0.8.34",
+    "noteTypes": [
+      null
+    ],
+    "date": "2026-10-24",
+    "notes": [
+      "Co-op: if your browser blocks player-to-player connections, the game tells you what's wrong and how to fix it."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-33",
+    "version": "0.8.33",
+    "title": "PokeBonk 0.8.33",
+    "noteTypes": [
+      null,
+      null
+    ],
+    "date": "2026-10-24",
+    "notes": [
+      "Co-op: the room only lets you pick maps and difficulties the whole team has unlocked, and says who doesn't have the chosen one.",
+      "Co-op: if a teammate has an old version of the game, their seat says so in red and they get the reload notice."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-32",
+    "version": "0.8.32",
+    "title": "PokeBonk 0.8.32",
+    "noteTypes": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "date": "2026-10-24",
+    "notes": [
+      "Co-op: if your network doesn't allow a direct connection, you now go through our own server. No more getting stuck on «Connecting…».",
+      "Co-op: «Start!» waits until everyone is connected with everyone, and the room warns you if someone has another version of the game.",
+      "Co-op: every enemy chases the nearest trainer, and the boss attacks whoever is next to it.",
+      "Co-op: to move to the next zone you all have to be in the portal, and the portal opens in the same spot for everyone.",
+      "Co-op: altars you have to stand in charge with everyone inside, and captures are shared: each of you throws your own Poké Ball.",
+      "Co-op: your teammates move smoothly, show up on the big map, carry their HP in numbers and you can see their attacks.",
+      "Co-op: when you're out, the camera follows a teammate smoothly, and Space switches teammate."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-31",
+    "version": "0.8.31",
+    "title": "PokeBonk 0.8.31",
+    "noteTypes": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "date": "2026-10-24",
+    "notes": [
+      "More FPS in long runs, especially in Survival past 100 minutes and at the end of each zone.",
+      "New in Settings → Graphics: \"FPS limit\" (unlimited, 30, 60, 90, 120 or 144).",
+      "Bosses and mini-bosses show their status conditions under the health bar: burned, poisoned ×4, paralyzed, asleep…",
+      "Fixed: the level on the results screen and in your profile is no longer cut down (a level 1000 showed as 423).",
+      "Mastery Looks: the near-impossible challenges (like not evolving) are replaced by new ones, and the run summary now shows the hits you took.",
+      "Co-op: to revive a teammate, go next to them and hold E.",
+      "Co-op: the season records and rivals shown in a run are now those of the team leaderboard."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-30",
+    "version": "0.8.30",
+    "title": "PokeBonk 0.8.30",
+    "noteTypes": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "date": "2026-10-23",
+    "notes": [
+      "Co-op: the room, redone from top to bottom: the destination, your team, a big chat that is easy to read and your friends always in sight to invite them.",
+      "Co-op: the room tells you where your team stands on the ladder for that map and difficulty.",
+      "Co-op: the entry screen now shows the co-op ladder, with your best team, and your invitations in sight.",
+      "Co-op: change Pokémon by tapping your own card, share the room with its link and report a bug right from the room.",
+      "You no longer lose a capture if you go through the portal with the Poké Ball still in the air.",
+      "More FPS with the Ultimate charged, meteors and Mew's Bubble, and a new option in Graphics: «Enemies drawn».",
+      "Fixed black screens and flicker, keyboards where only W worked and the pause opening by itself.",
+      "Mobile: the joystick no longer gets stuck, the touch camera responds better and fullscreen stays in landscape.",
+      "The season panel in the menu shows figures in millions again."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-29",
+    "version": "0.8.29",
+    "title": "PokeBonk 0.8.29",
+    "noteTypes": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "date": "2026-10-23",
+    "notes": [
+      "Co-op: pick your Pokémon from the usual League screen, with your Team and the Wardrobe. Your teammates see the look you wear on your card.",
+      "Co-op: new room chat, with quick phrases and a bubble over the writer's card. Messages are deleted when the run starts.",
+      "Co-op: inviting is easier even with lots of friends: search, online friends first and «Invite everyone online».",
+      "Clans: if the leader goes 7 days without logging in, leadership passes by itself to the most active officer.",
+      "Clans: the leader can set requirements to join (League Pokémon, wins, account age or global place), and every request shows a summary of who sent it.",
+      "Clans: new Guide tab, for members only, where the leader and officers write the clan's rules, goals and strategies.",
+      "Clans: the streak card no longer floats huge over the board's messages.",
+      "Lavender Tower: you no longer get trapped inside the stairs (by jumping, Ultimates, teleports or dashes), Poké Balls no longer appear under them and the bell at the top no longer sits inside a pillar.",
+      "Lavender Tower: ghosts no longer hide in the stairs, the last ones of each wave don't get stuck and Marowak warns before its Lament.",
+      "The Wardrobe and the League scroll properly on phones, tablets and foldables.",
+      "Big numbers use B, T and Q (billions and more) for damage, KOs and rankings.",
+      "Trainer card: your title has its own label and «Specialist in» only shows Pokémon titles.",
+      "Fusions: their card shows when radius and cooldown are at their cap. Shield and golden HP no longer cover each other on the health bar.",
+      "Fixes: the run clock is visible again, sound is back on Mac, the Pokédex no longer mixes up shiny Hitmonchan with Hitmonlee and the four legendaries achievement counts sanctuaries won before."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-28",
+    "version": "0.8.28",
+    "title": "PokeBonk 0.8.28",
+    "noteTypes": [
+      null,
+      null
+    ],
+    "date": "2026-10-23",
+    "notes": [
+      "Fixed: if a run was saved late, the next one could be rejected by mistake.",
+      "We have suspended 26 more accounts for cheating, and the anti-cheat now catches edited stats and experience sooner."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-27",
+    "version": "0.8.27",
+    "title": "PokeBonk 0.8.27",
+    "noteTypes": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "date": "2026-10-23",
+    "notes": [
+      "New Wardrobe in the League: pick each Pokémon's look and try it on before equipping it.",
+      "Two Mastery Looks per Pokémon (Magma, Game Boy, Galaxy, Holographic…), earned with challenges in the new «Looks» achievements category.",
+      "Classic Shiny: the official colours of old. It shows up very rarely in runs with a golden glow; catch it to unlock the look for its line.",
+      "Your Team: star up to 6 favourites. They come first when picking a Pokémon and on your trainer card."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-26",
+    "version": "0.8.26",
+    "title": "PokeBonk 0.8.26",
+    "noteTypes": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "date": "2026-10-23",
+    "notes": [
+      "Lavender Tower: you no longer get stuck on the stairs, the last veiled ghosts reveal themselves and Bill's Machine shows up every 3 floors.",
+      "Very long Tower runs can now be finished and saved.",
+      "Chests, captures and Super Balls can be seen from afar with a beam of light, and enemy shots stand out better.",
+      "On iPhone you can make the game play sound even in silent mode (Settings → Sound).",
+      "If a run never gets going, a few hours later you get back the Bag items you spent.",
+      "Fixes to Revive, level-up, the Ultimate, fusions and clan names."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-25",
+    "version": "0.8.25",
+    "title": "PokeBonk 0.8.25",
+    "noteTypes": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "date": "2026-10-22",
+    "notes": [
+      "Better performance late in a run and with big hordes: fewer piled-up effects, lighter map objects and less stutter.",
+      "Strikes and Charges with a lot of area no longer slow the game down in the Final Swarm.",
+      "If your graphics card is struggling, the resolution now adjusts itself on High quality too, to keep your fps up.",
+      "Fusions: tweaks so they feel better."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-24",
+    "version": "0.8.24",
+    "title": "PokeBonk 0.8.24",
+    "noteTypes": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "date": "2026-10-22",
+    "notes": [
+      "Archive presets no longer cover the items on phones: the one in use updates itself, and you can create and delete them.",
+      "The League's Shiny filter also shows shinies of Pokémon you haven't recruited yet.",
+      "On iPhone, sound comes back after a call or when you return from another app.",
+      "Graphics that fail to load are retried more, and claiming rewards retries when the server is slow.",
+      "Buying in the Lab and claiming several achievements in a row is faster and uses less data."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-23",
+    "version": "0.8.23",
+    "title": "PokeBonk 0.8.23",
+    "noteTypes": [
+      null
+    ],
+    "date": "2026-10-22",
+    "notes": [
+      "Leaderboards, clans and menu purchases respond faster at peak hours."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-22",
+    "version": "0.8.22",
+    "title": "PokeBonk 0.8.22",
+    "noteTypes": [
+      null
+    ],
+    "date": "2026-10-22",
+    "notes": [
+      "The anti-cheat is more precise: your legitimate runs no longer get held for review, and a new Time Trial cheat is blocked."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-21",
+    "version": "0.8.21",
+    "title": "PokeBonk 0.8.21",
+    "noteTypes": [
+      null
+    ],
+    "date": "2026-10-22",
+    "notes": [
+      "Starting over from Settings → Account can be done once every 7 days."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-20",
+    "version": "0.8.20",
+    "title": "PokeBonk 0.8.20",
+    "noteTypes": [
+      null
+    ],
+    "date": "2026-10-22",
+    "notes": [
+      "More server improvements for peak hours."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-19",
+    "version": "0.8.19",
+    "title": "PokeBonk 0.8.19",
+    "noteTypes": [
+      null
+    ],
+    "date": "2026-10-22",
+    "notes": [
+      "The server holds up better at peak hours: less waiting when saving runs and opening the leaderboards."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-18",
+    "version": "0.8.18",
+    "title": "PokeBonk 0.8.18",
+    "noteTypes": [
+      null
+    ],
+    "date": "2026-10-22",
+    "notes": [
+      "Server updates no longer cut your connection: you can keep playing while they are applied."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-17",
+    "version": "0.8.17",
+    "title": "PokeBonk 0.8.17",
+    "noteTypes": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "date": "2026-10-22",
+    "notes": [
+      "Fixed several fusion bugs: they now perform as they should and no longer ignore extra projectiles. We have adjusted the rankings of players who used this feature.",
+      "Your Pokémon no longer keeps walking on its own after pressing Esc.",
+      "Clan: you can sort it by Survival and refresh the clan finder.",
+      "Claiming event rewards no longer fails when the connection is slow.",
+      "The few-items and no-vitamins achievements count what you carried at any point, not just what you had left at the end. Selling the Max Ether or the TM Case returns vitamins and moves to their normal cap.",
+      "Boss rewards drop farther from the portal, and if you leave any behind, the portal asks you to confirm before entering.",
+      "Pause: damage per second over the last 15 seconds, plus the total.",
+      "Archive templates: save up to 3 and switch them when starting a run too.",
+      "Zoom on the big map with the wheel, by pinching or with the buttons.",
+      "The Fairy Feather has its icon, the Ultimate notice no longer covers the boss bar, easier-to-read text and a better view on foldable phones."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-16",
+    "version": "0.8.16",
+    "title": "PokeBonk 0.8.16",
+    "noteTypes": [
+      null,
+      null
+    ],
+    "date": "2026-10-22",
+    "notes": [
+      "Pause Fusions: the list now scrolls and no longer spills off the bottom.",
+      "Event ranking revamped: Tower header, podium and your place always in view. The Trainers and Clans buttons are no longer hidden."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-15",
+    "version": "0.8.15",
+    "title": "PokeBonk 0.8.15",
+    "noteTypes": [
+      null,
+      null
+    ],
+    "date": "2026-10-22",
+    "notes": [
+      "The game loads faster and holds up better when lots of people join at once.",
+      "Lavender Tower victories that were wrongly rejected now count."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-14",
+    "version": "0.8.14",
+    "title": "PokeBonk 0.8.14",
+    "noteTypes": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "date": "2026-10-22",
+    "notes": [
+      "You can now pick a Pokémon's shiny look even if it also has the Spectral look.",
+      "Lavender Tower: you no longer walk through the stairs. Walk up them once the floor is cleared.",
+      "Lavender Tower: no invisible walls, Meowth no longer blocks the stairs, the Ectoplasm Armor prize arrives and the “No Light” achievement can be earned.",
+      "Finished runs are no longer lost if the server hiccups: they are sent again.",
+      "Esc no longer takes you out of full screen in Chrome and Edge (hold Esc to leave).",
+      "The camera responds again after closing the map or a menu, without having to click.",
+      "Bill's Machine: before fusing you see the type, whether it's Physical or Special and its numbers. And the fusion table is in Moves and in the pause menu.",
+      "More FPS with big hordes at every quality.",
+      "New in Settings: “Effect brightness”, and “Reduce flashes” removes full-screen flashes.",
+      "Faster slot machine: you can skip the animation.",
+      "The pause menu shows what you've banished, and selling to Meowth asks for confirmation.",
+      "Event ranking revamped: tap a name to see their profile.",
+      "The Pokédex achievement now completes with all 151 seen."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-11",
+    "version": "0.8.11",
+    "title": "PokeBonk 0.8.11",
+    "noteTypes": [
+      null
+    ],
+    "date": "2026-10-21",
+    "notes": [
+      "The game recovers if an update leaves a blank screen: Ctrl+F5 is no longer needed."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-10",
+    "version": "0.8.10",
+    "title": "PokeBonk 0.8.10",
+    "noteTypes": [
+      null
+    ],
+    "date": "2026-10-21",
+    "notes": [
+      "Fixed an issue that prevented some runs from being saved after reconnecting."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-9",
+    "version": "0.8.9",
+    "title": "PokeBonk 0.8.9",
+    "noteTypes": [
+      null
+    ],
+    "date": "2026-10-21",
+    "notes": [
+      "The server copes better when lots of players join at once."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-8",
+    "version": "0.8.8",
+    "title": "PokeBonk 0.8.8",
+    "noteTypes": [
+      null
+    ],
+    "date": "2026-10-21",
+    "notes": [
+      "If you beat Rocky Desert in Season 1 and Storm Coast showed as unlocked but wouldn't let you play, you can get in now."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-7",
+    "version": "0.8.7",
+    "title": "PokeBonk 0.8.7",
+    "noteTypes": [
+      null
+    ],
+    "date": "2026-10-21",
+    "notes": [
+      "Season 2 has started over from scratch: leaderboards, clan points, rivalries, missions, streaks and clan records."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-6",
+    "version": "0.8.6",
+    "title": "PokeBonk 0.8.6",
+    "noteTypes": [
+      null,
+      null
+    ],
+    "date": "2026-10-21",
+    "notes": [
+      "Runs started in Season 1 and sent in when Season 2 opened no longer count on its leaderboards or toward clan points. They're still in your history.",
+      "The server copes better when lots of players join at once."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-5",
+    "version": "0.8.5",
+    "title": "PokeBonk 0.8.5",
+    "noteTypes": [
+      null,
+      null,
+      null
+    ],
+    "date": "2026-10-21",
+    "notes": [
+      "Survival: after the first hour, the horde never stops speeding up. No build can run away forever.",
+      "In Survival, movement speed above ×3 is less effective.",
+      "Shed Shell: sliding makes you invulnerable for 0.35 s and recharges in 0.8 s, so it can no longer be chained endlessly."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-4",
+    "version": "0.8.4",
+    "title": "PokeBonk 0.8.4",
+    "noteTypes": [
+      null,
+      null
+    ],
+    "date": "2026-10-21",
+    "notes": [
+      "Trainer cards now show where each run came from: the mode (Classic, Survival or Lavender Tower), the region and difficulty, the Time Attack medal, fusions and Bag items.",
+      "The last 20 runs can be filtered by mode, and the card shows your best Lavender Tower floor."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-3",
+    "version": "0.8.3",
+    "title": "PokeBonk 0.8.3",
+    "noteTypes": [
+      null
+    ],
+    "date": "2026-10-21",
+    "notes": [
+      "New in-run music: four tracks, one picked at random for each run (legendary bosses keep their own)."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-2",
+    "version": "0.8.2",
+    "title": "PokeBonk 0.8.2",
+    "noteTypes": [
+      null
+    ],
+    "date": "2026-10-21",
+    "notes": [
+      "The clan showcase now says which leaderboard each trophy is from: KOs or Survival."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-1",
+    "version": "0.8.1",
+    "title": "PokeBonk 0.8.1",
+    "noteTypes": [
+      null
+    ],
+    "date": "2026-10-21",
+    "notes": [
+      "Titles that aren't a Pokémon's, like PokéBonk Pioneer, now show their picture and how they are earned."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-8-0",
+    "version": "0.8.0",
+    "title": "PokeBonk 0.8.0",
+    "noteTypes": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "date": "2026-10-21",
+    "notes": [
+      "Season 2 is here! New leaderboards, and time trials now give prizes too.",
+      "Two new maps: Storm Coast, with Zapdos, and Celestial Glacier, with Articuno, plus 12 new guardians, each with its own mechanic.",
+      "Move fusions at Bill's Machine: combine two maxed-out moves and free up a slot.",
+      "24 new items, 5 vitamins, 3 shrines, mega crits, TMs as power-ups, the ground slam and the Pokémon Egg.",
+      "Halloween event \"The Night of Lavender Tower\": climb the tower, collect Candles and win prizes until November 4.",
+      "Clans come to life: board, weekly missions, rivalry, levels, streaks, records and up to 200 slots.",
+      "Redesigned main menu, new achievements and Lab upgrades.",
+      "Season 1 players get a gift in their mailbox: the Kanto Pioneer avatar and the PokéBonk Pioneer title."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-7-10",
+    "version": "0.7.10",
+    "title": "PokeBonk 0.7.10",
+    "noteTypes": [
+      null,
+      null
+    ],
+    "date": "2026-10-20",
+    "notes": [
+      "We have suspended another 172 accounts for cheating or being bots before the end of the season, and their records are off the boards.",
+      "More protection against cheats and bots: when you create an account, Cloudflare checks that you are not a robot (you will almost never have to do anything)."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-7-9",
+    "version": "0.7.9",
+    "title": "PokeBonk 0.7.9",
+    "noteTypes": [
+      null
+    ],
+    "date": "2026-10-20",
+    "notes": [
+      "Guest accounts not used for 60 days are deleted: create an account to keep your progress forever."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-7-8",
+    "version": "0.7.8",
+    "title": "PokeBonk 0.7.8",
+    "noteTypes": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "date": "2026-10-20",
+    "notes": [
+      "The Banish button works again: pick the card and press it again to confirm.",
+      "Very long runs no longer make you invincible, and stunned enemies move again.",
+      "Leaderboards and run saving load faster.",
+      "Meowth's shop shows full prices and the restock button is now at the top.",
+      "If you turn fullscreen off, it no longer turns back on every run.",
+      "Lifesteal and Projectiles show their decimals, Rain Dance counts for the soaking task and the slot machine closes with Esc.",
+      "At the end of each season the team reviews the leaderboard and hands out the rewards by hand, and every winner gets their results in the mailbox."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-7-7",
+    "version": "0.7.7",
+    "title": "PokeBonk 0.7.7",
+    "noteTypes": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "date": "2026-10-20",
+    "notes": [
+      "We suspended 11 more accounts for cheating, and their records are off the leaderboards.",
+      "Survival no longer turns into slow motion in runs over an hour: Night elites respect the enemy cap.",
+      "“My attacks opacity” now also fades solid shots, like Razor Leaf or Sludge Wave.",
+      "Your attacks no longer hit a Pokémon that is ready to catch, and the boss’s Great Ball no longer lands out of reach.",
+      "If you’re removed from a clan you get a notice in your mailbox, and on mobile Battery saver no longer turns itself back on when you reload.",
+      "On mobile you can tap the version again to see what’s new, and the Research notebook and the report form scroll.",
+      "The pause key can now be changed in Settings, and Ctrl+D no longer bookmarks the page mid-run."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-7-6",
+    "version": "0.7.6",
+    "title": "PokeBonk 0.7.6",
+    "noteTypes": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "date": "2026-10-19",
+    "notes": [
+      "The Reroll, Skip and Banish keys on level-up are now F, X and Z, so you no longer skip a level-up while walking backwards or casting your Ultimate.",
+      "Windows that pop up mid-run ignore keys for a moment, and any keys you were already holding.",
+      "Banish asks for confirmation: tap the card again to banish it.",
+      "Esc opens the pause again without leaving fullscreen (hold Esc to exit)."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-7-5",
+    "version": "0.7.5",
+    "title": "PokeBonk 0.7.5",
+    "noteTypes": [
+      null,
+      null
+    ],
+    "date": "2026-10-19",
+    "notes": [
+      "We've suspended another 38 accounts for cheating, among them the No. 1 of the global ranking, and their records are off the boards.",
+      "More protection against cheating: invulnerability, made-up runs, and XP or stats edited from the start."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-7-4",
+    "version": "0.7.4",
+    "title": "PokeBonk 0.7.4",
+    "noteTypes": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "date": "2026-10-19",
+    "notes": [
+      "Weekly tasks progress again, and what you played since Monday now counts.",
+      "Fewer crashes on mobile when moving to the next zone or entering the sanctuary.",
+      "R, S and B keys to Refresh, Skip and Banish on level-up, and E to spin the slot machine again.",
+      "New «Uninterrupted Ultimate» setting: no slow motion or banner. It turns on by itself with Auto Ultimate.",
+      "The pause screen shows each move's damage per second and your Ultimate's, and move sheets show how much boosts and passives give.",
+      "The glossary is now on the Pokémon select screen too, and the Pokédex opens on the shiny if you have it.",
+      "When you banish a move's upgrade, the card warns that it won't upgrade again this run.",
+      "Esc takes you out of fullscreen in menus again.",
+      "We've banned another 45 accounts for cheating, and there's more protection against it."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-7-3",
+    "version": "0.7.3",
+    "title": "PokeBonk 0.7.3",
+    "noteTypes": [
+      null,
+      null
+    ],
+    "date": "2026-10-19",
+    "notes": [
+      "The server now has much more room to handle everyone who's joining.",
+      "The per-Pokémon leaderboard list loads faster."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-7-2",
+    "version": "0.7.2",
+    "title": "PokeBonk 0.7.2",
+    "noteTypes": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "date": "2026-10-18",
+    "notes": [
+      "We have suspended 47 accounts for cheating, and their records are gone from the leaderboards.",
+      "Freed up, among others: #1 in Time attack on Viridian Forest (Normal and Nightmare) and Rocky Desert (Nightmare), #2 on Viridian Forest (Nightmare) and Rocky Desert (Normal), #3 on Rocky Desert (Hard) and #17 in KOs on Viridian Forest (Normal).",
+      "Dozens of spots on the Pokémon leaderboards are free too, including #1 for Mankey and #2 for Abra. If you moved up, this is why.",
+      "More protection against cheating on the leaderboards."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-7-1",
+    "version": "0.7.1",
+    "title": "PokeBonk 0.7.1",
+    "noteTypes": [
+      null,
+      null
+    ],
+    "date": "2026-10-18",
+    "notes": [
+      "Fixed the purple screen covering the move list in «See all its moves» and «Still to get».",
+      "Level-up cards no longer pop up the move sheet on hover: the full numbers are in the pause menu."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-7-0",
+    "version": "0.7.0",
+    "title": "PokeBonk 0.7.0",
+    "noteTypes": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "date": "2026-10-18",
+    "notes": [
+      "The guardian's altar, the shrine and the portal always show on the big map again. Plus: map markers, a north-up minimap and the map without pausing by holding Tab.",
+      "Runs get lost far less: fewer crashes on mobile, «Keep playing without image» if the image is lost, and the run saves itself even if the connection fails at the end.",
+      "Every move has its sheet (damage, cooldown, range and what boosts it), there's a glossary, and you can check your build while picking an upgrade (Tab).",
+      "Meowth raises his prices if you buy a lot from him without opening Poké Balls, and paid Poké Balls let you pick from 3 items.",
+      "Controls: rebound keys now save, adjustable controller dead zone, auto Ultimate toggled with the Y key, and WASD works again in Firefox.",
+      "Fixed bosses whose HP wouldn't go down, shinies that vanished when you caught more than 3 in a run, and Pokémon stuck showing as Poké Balls.",
+      "In Settings → Account you can change your name, start over or delete your account, and you can now sign up with a name in any language.",
+      "A Lab guide the first time you enter, tips during your first three runs, and a more compact interface on mobile."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-6-4",
+    "version": "0.6.4",
+    "title": "PokeBonk 0.6.4",
+    "noteTypes": [
+      null,
+      null,
+      null
+    ],
+    "date": "2026-10-18",
+    "notes": [
+      "Fewer honest runs sent to review by mistake, especially ones played on a bad connection.",
+      "You can hide the corner items in Settings → Interface, and a long build no longer covers the minimap.",
+      "In Safari, sound now comes back on its own when you return to the game from another window."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-6-3",
+    "version": "0.6.3",
+    "title": "PokeBonk 0.6.3",
+    "noteTypes": [
+      null,
+      null
+    ],
+    "date": "2026-10-18",
+    "notes": [
+      "Runs recovered after the game closes are no longer rejected by mistake, and the ones rejected that way are now saved.",
+      "Tougher on cheating: edited money and zones cleared without dealing damage are rejected and get the account suspended."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-6-2",
+    "version": "0.6.2",
+    "title": "PokeBonk 0.6.2",
+    "noteTypes": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "date": "2026-10-18",
+    "notes": [
+      "Training no longer drops to zero in long runs: every level gives at least a third of what the first one did.",
+      "You can bind any action to the middle, right or side mouse buttons in Settings → Keys.",
+      "Auto-run (T) only lasts for the current run, shows on screen while it is on and turns off when you move back.",
+      "Fixed: attack effects that stayed on the map of the next run, and the «Save to account» form, which could erase what you typed."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-6-1",
+    "version": "0.6.1",
+    "title": "PokeBonk 0.6.1",
+    "noteTypes": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "date": "2026-10-18",
+    "notes": [
+      "Guest accounts no longer lose their progress when you press “Exit” and sign back in.",
+      "Level-ups offer all their cards again, even when you only have one move slot left.",
+      "The big map key can be changed in Settings → Keys, and “Taught by” shows each Pokémon’s portrait and name.",
+      "Fixed: the Pokémon you were trying to catch vanished if you evolved nearby, the Friend Ball said Master Ball, items overlapped in the pause menu, and the arrow keys or gamepad moved the cards on their own."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-6-0",
+    "version": "0.6.0",
+    "title": "PokeBonk 0.6.0",
+    "noteTypes": [
+      null,
+      null
+    ],
+    "date": "2026-10-17",
+    "notes": [
+      "On mobile, the home screen no longer flickers or shakes with the battery saver on.",
+      "The big map and the minimap only show what you have seen: they no longer reveal the guardian's altar, the portal or what is left in the zone."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-5-8",
+    "version": "0.5.8",
+    "title": "PokeBonk 0.5.8",
+    "noteTypes": [
+      null
+    ],
+    "date": "2026-10-17",
+    "notes": [
+      "“Play with different species” now counts every species you've played, not just those of your last 30 runs."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-5-7",
+    "version": "0.5.7",
+    "title": "PokeBonk 0.5.7",
+    "noteTypes": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "date": "2026-10-17",
+    "notes": [
+      "If your browser closes, reloads or you lose your connection, your run is no longer lost: when you come back it's saved with everything you earned, shinies included.",
+      "Pokémon no longer show up as Poké Balls: the zone waits for them with a loading bar, and the game downloads much less after each update.",
+      "New languages: Traditional Chinese, Korean and Russian.",
+      "Big map (M key), compass points on the minimap and, once the guardian falls, everything left to pick up is marked.",
+      "You can now see every move each Pokémon can learn, and the build of your runs and of other trainers' runs.",
+      "Much better controller support: you no longer pick an upgrade by jumping, and you can do everything without a keyboard. You can also change every key and button.",
+      "Auto-run, auto Ultimate, separate opacity for your attacks, a farther camera and subtle candies in Settings.",
+      "On mobile: Meowth's prices show, the joystick and camera respond better and there's a battery saver.",
+      "Fixed: Meowth freezing the run when everything was maxed, achievements that came back to be claimed, Sludge Wave that stopped firing, the portal that vanished and music that didn't come back."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-5-6",
+    "version": "0.5.6",
+    "title": "PokeBonk 0.5.6",
+    "noteTypes": [
+      null,
+      null,
+      null
+    ],
+    "date": "2026-10-17",
+    "notes": [
+      "New option in Settings → Graphics: “Hide my attacks”, for smoother play when the screen fills with effects.",
+      "Fewer honest runs go to review because of connection drops or minute 45 of Survival.",
+      "Tougher on cheating: a suspended account can no longer be dodged by opening another one."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-5-5",
+    "version": "0.5.5",
+    "title": "PokeBonk 0.5.5",
+    "noteTypes": [
+      null
+    ],
+    "date": "2026-10-17",
+    "notes": [
+      "Runs that keep going during maintenance no longer go to review for reaching the server late."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-5-4",
+    "version": "0.5.4",
+    "title": "PokeBonk 0.5.4",
+    "noteTypes": [
+      null
+    ],
+    "date": "2026-10-17",
+    "notes": [
+      "The game's version now shows under the logo; tap it to see what's new in each version."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-5-3",
+    "version": "0.5.3",
+    "title": "PokeBonk 0.5.3",
+    "noteTypes": [
+      null,
+      null
+    ],
+    "date": "2026-10-17",
+    "notes": [
+      "Bonuses of the same kind now add up instead of multiplying: very long runs no longer shoot up to impossible numbers. A normal run barely changes.",
+      "No item goes past its maximum: Ditto no longer copies the ones you have full and Meowth doesn't sell them."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-5-2",
+    "version": "0.5.2",
+    "title": "PokeBonk 0.5.2",
+    "noteTypes": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "date": "2026-10-17",
+    "notes": [
+      "After picking an upgrade, opening a Poké Ball or charging an altar you no longer have to press the key again to keep walking.",
+      "Level-ups and Meowth's shop respond even when you tap quickly.",
+      "Pokémon that are slow to load no longer stay as Poké Balls for the whole run.",
+      "Legendaries and guardians that last too long get exhausted and take more and more damage.",
+      "Training gives less and less per level and no longer gives extra money; the old coins are back (0.2 ₽ per KO) with Poké Balls a bit cheaper than before Patch #5.",
+      "Unown altars are bigger, the horde pushes you less while you charge and stepping out for a moment no longer empties the charge.",
+      "The Master Ball looks purple when thrown, boss bars take less space on phones, the screen shakes less with fast builds and the Focus Band no longer grants immortality."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-5-1",
+    "version": "0.5.1",
+    "title": "PokeBonk 0.5.1",
+    "noteTypes": [
+      null,
+      null,
+      null
+    ],
+    "date": "2026-10-17",
+    "notes": [
+      "Controller support in runs and in every menu.",
+      "Less stutter on phones when the screen fills with Pokémon.",
+      "Suspended accounts can no longer play or use the server."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "slug": "v0-5-0",
+    "version": "0.5.0",
+    "title": "PokeBonk 0.5.0",
+    "noteTypes": [
+      null,
+      null,
+      null
+    ],
+    "date": "2026-10-17",
+    "notes": [
+      "Economy rebuilt: market price, refresh Meowth's stock and your wallet at the top.",
+      "More to do in Survival: comets, migration portals, regenerating altars, Ditto and Hypno.",
+      "Hostile terrain in Survival: mud, brambles, quicksand and burning ground."
+    ],
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  }
+]

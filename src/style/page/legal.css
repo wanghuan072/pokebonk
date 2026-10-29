@@ -1,0 +1,87 @@
+.legal-article-section .prose section {
+  margin-bottom: 35px;
+}
+.legal-article-section .prose p {
+  font-size: 14px;
+  line-height: 1.95;
+}
+.legal-article-section .prose h2 {
+  font-size: 25px;
+}
+.contact-content {
+  display: grid;
+  grid-template-columns: 1.3fr 1fr;
+  gap: 40px;
+}
+.correction-form {
+  border: 1px solid #35567e;
+  background: linear-gradient(130deg, #142c49, #10213d);
+  border-radius: 12px;
+  padding: 28px;
+}
+.correction-form > p {
+  font-size: 12px;
+}
+.correction-form > .field {
+  margin-top: 20px;
+}
+.correction-form textarea {
+  resize: vertical;
+  border: 1px solid #3a5d67;
+  border-radius: 7px;
+  background: #06232d;
+  color: #e3edfa;
+  padding: 12px;
+  font-size: 12px;
+  line-height: 1.8;
+  min-width: 0;
+  width: 100%;
+}
+.correction-status {
+  font-size: 11px !important;
+  color: #89bbd7 !important;
+  margin: 18px 0 0;
+}
+.correction-form details {
+  margin-top: 20px;
+  font-size: 12px;
+}
+.correction-form pre {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  font: 12px/1.8 var(--font);
+  color: #c2d8ed;
+  padding: 15px;
+  background: #091a31;
+  border-radius: 7px;
+}
+.contact-aside {
+  padding: 16px 0;
+}
+.contact-aside h2 {
+  font-size: 23px;
+}
+.contact-aside h3 {
+  font-size: 17px;
+  margin: 25px 0 10px;
+}
+.contact-aside p {
+  font-size: 12px;
+  line-height: 1.8;
+  color: #a9bfdd;
+}
+.contact-aside .button {
+  font-size: 11px;
+}
+@media (max-width: 768px) {
+  .contact-content {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+  .correction-form {
+    padding: 20px;
+  }
+  .legal-article-section .prose h2 {
+    font-size: 23px;
+  }
+}

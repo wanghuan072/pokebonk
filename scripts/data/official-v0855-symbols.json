@@ -1,0 +1,237 @@
+{
+  "variables": {
+    "Gh": "jv",
+    "Eh": "fv",
+    "Dh": "pv",
+    "Kh": "Mv",
+    "qh": "Nv",
+    "Jh": "Pv",
+    "Yh": "Fv",
+    "Xh": "Iv",
+    "Zh": "Lv",
+    "Qh": "Rv",
+    "jh": "_v",
+    "Mh": "vv",
+    "Ph": "bv",
+    "Fh": "xv",
+    "Lh": "Cv",
+    "Rh": "wv",
+    "Bh": "Ev",
+    "Vh": "Dv",
+    "Uh": "kv",
+    "Wh": "Av",
+    "Cm": "i_",
+    "Cp": "ig",
+    "Ep": "sg",
+    "Lp": "vg",
+    "Up": "wg",
+    "Yp": "Ag",
+    "uh": "G_",
+    "kg": "Dy",
+    "zm": "b_",
+    "Km": "D_",
+    "Qm": "N_",
+    "sh": "H_",
+    "fh": "q_",
+    "Ly": "_C",
+    "zy": "yC",
+    "Hy": "SC",
+    "Xy": "AC",
+    "nb": "IC",
+    "db": "GC"
+  },
+  "functions": {
+    "Oh": "mv",
+    "tg": "Hv",
+    "ng": "Uv",
+    "rg": "Wv",
+    "Cg": "by",
+    "eA": "Dz"
+  },
+  "comparisons": {
+    "Gh": {
+      "name": "jv",
+      "exact": true
+    },
+    "Eh": {
+      "name": "fv",
+      "exact": true
+    },
+    "Dh": {
+      "name": "pv",
+      "exact": true
+    },
+    "Kh": {
+      "name": "Mv",
+      "exact": true
+    },
+    "qh": {
+      "name": "Nv",
+      "exact": true
+    },
+    "Jh": {
+      "name": "Pv",
+      "exact": true
+    },
+    "Yh": {
+      "name": "Fv",
+      "exact": true
+    },
+    "Xh": {
+      "name": "Iv",
+      "exact": true
+    },
+    "Zh": {
+      "name": "Lv",
+      "exact": true
+    },
+    "Qh": {
+      "name": "Rv",
+      "exact": true
+    },
+    "jh": {
+      "name": "_v",
+      "exact": true
+    },
+    "Mh": {
+      "name": "vv",
+      "exact": true
+    },
+    "Ph": {
+      "name": "bv",
+      "exact": true
+    },
+    "Fh": {
+      "name": "xv",
+      "exact": true
+    },
+    "Lh": {
+      "name": "Cv",
+      "exact": true
+    },
+    "Rh": {
+      "name": "wv",
+      "exact": true
+    },
+    "Bh": {
+      "name": "Ev",
+      "exact": true
+    },
+    "Vh": {
+      "name": "Dv",
+      "exact": true
+    },
+    "Uh": {
+      "name": "kv",
+      "exact": true
+    },
+    "Wh": {
+      "name": "Av",
+      "exact": true
+    },
+    "Cm": {
+      "name": "i_",
+      "exact": true
+    },
+    "Cp": {
+      "name": "ig",
+      "exact": true
+    },
+    "Ep": {
+      "name": "sg",
+      "exact": true
+    },
+    "Lp": {
+      "name": "vg",
+      "exact": true
+    },
+    "Up": {
+      "name": "wg",
+      "exact": true
+    },
+    "Yp": {
+      "name": "Ag",
+      "exact": true
+    },
+    "uh": {
+      "name": "G_",
+      "exact": true
+    },
+    "kg": {
+      "name": "Dy",
+      "exact": true
+    },
+    "zm": {
+      "name": "b_",
+      "exact": true
+    },
+    "Km": {
+      "name": "D_",
+      "exact": true
+    },
+    "Qm": {
+      "name": "N_",
+      "exact": true
+    },
+    "sh": {
+      "name": "H_",
+      "exact": true
+    },
+    "fh": {
+      "name": "q_",
+      "exact": true
+    },
+    "Ly": {
+      "name": "_C",
+      "exact": false,
+      "similarity": 0.9983221476510067
+    },
+    "zy": {
+      "name": "yC",
+      "exact": false,
+      "similarity": 0.9984
+    },
+    "Hy": {
+      "name": "SC",
+      "exact": false,
+      "similarity": 0.9965576592082617
+    },
+    "Xy": {
+      "name": "AC",
+      "exact": true
+    },
+    "nb": {
+      "name": "IC",
+      "exact": false,
+      "similarity": 0.9981447124304267
+    },
+    "db": {
+      "name": "GC",
+      "exact": true
+    },
+    "Oh": {
+      "name": "mv",
+      "exact": true
+    },
+    "tg": {
+      "name": "Hv",
+      "exact": true
+    },
+    "ng": {
+      "name": "Uv",
+      "exact": true
+    },
+    "rg": {
+      "name": "Wv",
+      "exact": true
+    },
+    "Cg": {
+      "name": "by",
+      "exact": true
+    },
+    "eA": {
+      "name": "Dz",
+      "exact": true
+    }
+  }
+}

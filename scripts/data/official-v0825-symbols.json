@@ -1,0 +1,237 @@
+{
+  "variables": {
+    "Gh": "sg",
+    "Eh": "Hh",
+    "Dh": "Uh",
+    "Kh": "cg",
+    "qh": "lg",
+    "Jh": "ug",
+    "Yh": "dg",
+    "Xh": "fg",
+    "Zh": "pg",
+    "Qh": "mg",
+    "jh": "qh",
+    "Mh": "Jh",
+    "Ph": "Xh",
+    "Fh": "Zh",
+    "Lh": "$h",
+    "Rh": "eg",
+    "Bh": "ng",
+    "Vh": "rg",
+    "Uh": "ag",
+    "Wh": "og",
+    "Cm": "Fm",
+    "Cp": "Fp",
+    "Ep": "Rp",
+    "Lp": "Yp",
+    "Up": "tm",
+    "Yp": "sm",
+    "uh": "Sh",
+    "kg": "Jg",
+    "zm": "Zm",
+    "Km": "ih",
+    "Qm": "uh",
+    "sh": "yh",
+    "fh": "wh",
+    "Ly": "ab",
+    "zy": "sb",
+    "Hy": "ub",
+    "Xy": "vb",
+    "nb": "wb",
+    "db": "Nb"
+  },
+  "functions": {
+    "Oh": "Wh",
+    "tg": "vg",
+    "ng": "yg",
+    "rg": "bg",
+    "Cg": "Hg",
+    "eA": "fj"
+  },
+  "comparisons": {
+    "Gh": {
+      "name": "sg",
+      "exact": true
+    },
+    "Eh": {
+      "name": "Hh",
+      "exact": true
+    },
+    "Dh": {
+      "name": "Uh",
+      "exact": true
+    },
+    "Kh": {
+      "name": "cg",
+      "exact": true
+    },
+    "qh": {
+      "name": "lg",
+      "exact": true
+    },
+    "Jh": {
+      "name": "ug",
+      "exact": true
+    },
+    "Yh": {
+      "name": "dg",
+      "exact": true
+    },
+    "Xh": {
+      "name": "fg",
+      "exact": true
+    },
+    "Zh": {
+      "name": "pg",
+      "exact": true
+    },
+    "Qh": {
+      "name": "mg",
+      "exact": true
+    },
+    "jh": {
+      "name": "qh",
+      "exact": true
+    },
+    "Mh": {
+      "name": "Jh",
+      "exact": true
+    },
+    "Ph": {
+      "name": "Xh",
+      "exact": true
+    },
+    "Fh": {
+      "name": "Zh",
+      "exact": true
+    },
+    "Lh": {
+      "name": "$h",
+      "exact": true
+    },
+    "Rh": {
+      "name": "eg",
+      "exact": true
+    },
+    "Bh": {
+      "name": "ng",
+      "exact": true
+    },
+    "Vh": {
+      "name": "rg",
+      "exact": true
+    },
+    "Uh": {
+      "name": "ag",
+      "exact": true
+    },
+    "Wh": {
+      "name": "og",
+      "exact": true
+    },
+    "Cm": {
+      "name": "Fm",
+      "exact": true
+    },
+    "Cp": {
+      "name": "Fp",
+      "exact": true
+    },
+    "Ep": {
+      "name": "Rp",
+      "exact": true
+    },
+    "Lp": {
+      "name": "Yp",
+      "exact": true
+    },
+    "Up": {
+      "name": "tm",
+      "exact": true
+    },
+    "Yp": {
+      "name": "sm",
+      "exact": true
+    },
+    "uh": {
+      "name": "Sh",
+      "exact": true
+    },
+    "kg": {
+      "name": "Jg",
+      "exact": true
+    },
+    "zm": {
+      "name": "Zm",
+      "exact": true
+    },
+    "Km": {
+      "name": "ih",
+      "exact": true
+    },
+    "Qm": {
+      "name": "uh",
+      "exact": true
+    },
+    "sh": {
+      "name": "yh",
+      "exact": true
+    },
+    "fh": {
+      "name": "wh",
+      "exact": true
+    },
+    "Ly": {
+      "name": "ab",
+      "exact": false,
+      "similarity": 0.9983221476510067
+    },
+    "zy": {
+      "name": "sb",
+      "exact": false,
+      "similarity": 0.9984
+    },
+    "Hy": {
+      "name": "ub",
+      "exact": false,
+      "similarity": 0.9982758620689656
+    },
+    "Xy": {
+      "name": "vb",
+      "exact": true
+    },
+    "nb": {
+      "name": "wb",
+      "exact": false,
+      "similarity": 0.9981447124304267
+    },
+    "db": {
+      "name": "Nb",
+      "exact": true
+    },
+    "Oh": {
+      "name": "Wh",
+      "exact": true
+    },
+    "tg": {
+      "name": "vg",
+      "exact": true
+    },
+    "ng": {
+      "name": "yg",
+      "exact": true
+    },
+    "rg": {
+      "name": "bg",
+      "exact": true
+    },
+    "Cg": {
+      "name": "Hg",
+      "exact": true
+    },
+    "eA": {
+      "name": "fj",
+      "exact": true
+    }
+  }
+}

@@ -1,0 +1,210 @@
+.fusion-workbench {
+  border: 1px solid #72589b;
+  border-radius: 14px;
+  background:
+    radial-gradient(ellipse at 50% 100%, #593f8640, transparent),
+    linear-gradient(120deg, #182c4a, #221d41);
+  padding: 18px;
+  margin-bottom: 16px;
+}
+.fusion-workbench-heading {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 16px;
+}
+.fusion-workbench-heading .game-icon {
+  font-size: 43px;
+}
+.fusion-workbench-heading h2 {
+  font-size: 24px;
+  margin-bottom: 5px;
+}
+.fusion-workbench-heading p {
+  font-size: 12px;
+  margin: 0;
+}
+.fusion-workbench-heading > span:last-child {
+  margin-left: auto;
+  font-size: 10px;
+  background: #74549a44;
+  border: 1px solid #8a65b655;
+  border-radius: 5px;
+  padding: 5px 9px;
+  color: #d8b5ff;
+}
+.fusion-inputs {
+  display: grid;
+  grid-template-columns: 1fr 25px 1fr 30px 1.1fr;
+  gap: 15px;
+  align-items: center;
+}
+.fusion-plus,
+.fusion-equals {
+  color: #b88ce9;
+  font-size: 26px;
+  text-align: center;
+  padding-top: 18px;
+}
+.fusion-output {
+  padding: 15px;
+  border-radius: 8px;
+  background: #0b1933;
+  border: 1px solid #725e97;
+  margin-top: 18px;
+  min-height: 68px;
+}
+.fusion-output small {
+  display: block;
+  font-size: 8px;
+  letter-spacing: 1.5px;
+  color: #a780d0;
+}
+.fusion-output strong {
+  font-size: 15px;
+  display: block;
+  margin-top: 5px;
+  color: #e0ceff;
+}
+.fusion-scope {
+  font-size: 10px !important;
+  color: #a090bf !important;
+  margin: 16px 0 0 !important;
+}
+.fusion-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 17px;
+}
+.fusion-card {
+  padding: 15px;
+  border: 1px solid #4a4d80;
+  border-radius: 11px;
+  background: linear-gradient(135deg, #23294e, #0c303a);
+  scroll-margin-top: 20px;
+}
+.fusion-card h3 {
+  font-size: 22px;
+  margin: 13px 0;
+}
+.fusion-card-heading {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  min-height: 86px;
+}
+.fusion-card-heading > div {
+  min-width: 0;
+}
+.fusion-card-heading h3 {
+  font-size: 21px;
+  line-height: 1.15;
+  margin: 10px 0 5px;
+  overflow-wrap: anywhere;
+}
+.fusion-card-heading small {
+  font-size: 10px;
+  color: #a5bfdd;
+}
+.fusion-portrait {
+  flex: 0 0 100px;
+  display: grid;
+  place-items: center;
+  border-radius: 12px;
+  background: radial-gradient(ellipse, #699ebc52, transparent 72%);
+}
+.fusion-portrait img {
+  width: 100px;
+  height: 112px;
+  object-fit: contain;
+  filter: drop-shadow(0 7px 7px #030c2480);
+}
+.fusion-card-heading .type-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+.fusion-card-heading .type-tag img,
+.fusion-recipe img {
+  image-rendering: pixelated;
+}
+.fusion-recipe a {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+.fusion-recipe {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  font-size: 11px;
+  align-items: center;
+  margin: 15px 0;
+}
+.fusion-recipe > span {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+.fusion-recipe a {
+  background: #51487944;
+  border: 1px solid #77709c66;
+  padding: 4px 8px;
+  border-radius: 5px;
+  color: #d9cbf6;
+}
+.fusion-recipe b {
+  font-size: 16px;
+  color: #ae8bd4;
+}
+.fusion-card > p {
+  font-size: 12px;
+  line-height: 1.8;
+}
+.fusion-partner {
+  font-size: 10px;
+  color: #8bceef;
+}
+@media (max-width: 1024px) {
+  .fusion-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .fusion-inputs {
+    gap: 9px;
+  }
+}
+@media (max-width: 768px) {
+  .fusion-workbench {
+    padding: 17px;
+  }
+  .fusion-workbench-heading {
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  .fusion-workbench-heading h2 {
+    font-size: 21px;
+  }
+  .fusion-workbench-heading > span:last-child {
+    margin: 0;
+  }
+  .fusion-inputs {
+    grid-template-columns: 1fr 20px 1fr;
+    gap: 8px;
+  }
+  .fusion-inputs .field {
+    min-width: 0;
+  }
+  .fusion-equals {
+    display: none;
+  }
+  .fusion-output {
+    grid-column: span 3;
+    margin-top: 8px;
+  }
+  .fusion-grid {
+    grid-template-columns: 1fr;
+  }
+  .fusion-card {
+    padding: 19px;
+  }
+}

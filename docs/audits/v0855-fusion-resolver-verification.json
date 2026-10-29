@@ -1,0 +1,10 @@
+{
+  "version": "0.8.62",
+  "checkedAt": "2026-10-28",
+  "recipes": 106,
+  "moves": 310,
+  "unorderedPairs": 47895,
+  "ordersChecked": 95790,
+  "failures": 0,
+  "originalResolver": "function lT(e,t){let n=tT.find(n=>n.kind===`signature`&&n.moves&&(n.moves[0]===e.key&&n.moves[1]===t.key||n.moves[0]===t.key&&n.moves[1]===e.key));if(n)return n;let r=(e,t,n)=>e.pair[0].includes(t)&&e.pair[1].includes(n),i=tT.find(n=>n.kind===`reaction`&&(r(n,e.type,t.type)||r(n,t.type,e.type)));if(i)return i;if(e.type===t.type){let t=tT.find(t=>t.kind===`type`&&t.type===e.type);if(t)return t}return tT.find(e=>e.kind===`glitch`)}"
+}

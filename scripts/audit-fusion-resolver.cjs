@@ -1,0 +1,15 @@
+const fs = require("node:fs"), ts = require("typescript"), vm = require("node:vm"), assert = require("node:assert/strict");
+const { source } = require("./lib/official-client.cjs").loadClient();
+const read = (f) => JSON.parse(fs.readFileSync(f,"utf8"));
+const recipes = [...read("src/data/wiki/fusions.json"),...read("src/data/wiki/generic-fusions.json")];
+const moves = read("src/data/wiki/attacks.json").filter(m=>m.kind==="attack").map(m=>({slug:m.slug,type:m.type,shape:m.arch}));
+const resolver = source.statements.find((n)=>ts.isFunctionDeclaration(n)&&n.getText(source).includes("kind===`signature`")&&n.getText(source).includes("kind===`glitch`"));
+const collection = resolver.body.getText(source).match(/([\w$]+)\.find/)[1];
+const context = vm.createContext({recipes:recipes.map((r)=>({...r,key:r.slug})),moves,exports:{}},{codeGeneration:{strings:false,wasm:false}});
+vm.runInContext(`const ${collection}=recipes;${resolver.getText(source)}`,context);
+vm.runInContext(ts.transpileModule(fs.readFileSync("src/lib/fusions/resolve.ts","utf8"),{compilerOptions:{module:ts.ModuleKind.CommonJS}}).outputText,context);
+const rows = vm.runInContext(`(()=>{const checks=[];for(let i=0;i<moves.length;i++)for(let j=i+1;j<moves.length;j++){const a=moves[i],b=moves[j],excluded=[a,b].some(m=>['weather','buff','fusion'].includes(m.shape));const actual=exports.resolveFusion(a,b,recipes);const expected=excluded?undefined:${resolver.name.text}({key:a.slug,type:a.type},{key:b.slug,type:b.type});if(actual?.slug!==expected?.key)checks.push({left:a.slug,right:b.slug,actual:actual?.slug,expected:expected?.key});if(exports.resolveFusion(b,a,recipes)?.slug!==actual?.slug)checks.push({reverse:a.slug+':'+b.slug});}return checks;})()`,context,{timeout:10000});
+assert.equal(rows.length,0,JSON.stringify(rows.slice(0,10)));
+const result={version:recipes[0].gameVersion,checkedAt:recipes[0].lastVerified,recipes:recipes.length,moves:moves.length,unorderedPairs:moves.length*(moves.length-1)/2,ordersChecked:moves.length*(moves.length-1),failures:rows.length,originalResolver:resolver.getText(source)};
+fs.writeFileSync("docs/audits/fusion-resolver-verification.json",JSON.stringify(result,null,2)+"\n");
+console.log(`PASS: ${result.ordersChecked} ordered move pairs agree with original fusion priority and eligibility.`);

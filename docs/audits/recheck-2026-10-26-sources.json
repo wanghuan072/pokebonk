@@ -1,0 +1,60 @@
+{
+  "checkedAt": "2026-10-26T06:15:40.888Z",
+  "files": [
+    {
+      "file": "index.html",
+      "url": "https://pokebonk.com/?lang=en",
+      "sha256": "abd022738b33607c1599e0d9f5961a0c5a98e197762a32768b6614d64abd2ed1",
+      "bytes": 11956
+    },
+    {
+      "file": "entry.js",
+      "url": "https://pokebonk.com/assets/main-_Bbb6XTP-mvob1c8t.js",
+      "sha256": "fa23963d1e5b8f3c8a13bc32168e0a66ae3d1ff2f9769c5555136ffe595294ba",
+      "bytes": 9452
+    },
+    {
+      "file": "game.js",
+      "url": "https://pokebonk.com/assets/main-D2_otW26-mvob1c8t.js",
+      "sha256": "43e519cba77e5c2e3d2ee5f5db47d952f62eb741e0c8096dc468929ca4c7a149",
+      "bytes": 2260430
+    },
+    {
+      "file": "news.js",
+      "url": "https://pokebonk.com/assets/news-DnHpGMlq-mvob1c8t.js",
+      "sha256": "9ba51a72b04a75063eea55ef149d20af4cb5ec5e463cc62c2e572a97eb9edb52",
+      "bytes": 177204
+    },
+    {
+      "file": "en.js",
+      "url": "https://pokebonk.com/assets/en-Cm4sRSxF-mvob1c8t.js",
+      "sha256": "c670df980d69ce9dcab11d1bb0a52c52802fcc7feb4670c02051c76697915f6b",
+      "bytes": 568360
+    },
+    {
+      "file": "pokemon.json",
+      "url": "https://pokebonk.com/data/pokemon.json",
+      "sha256": "cd148403e2e7e44a86ac982bfb71b73dde8bf3641816e2fa549a5c05a988b678",
+      "bytes": 528525
+    },
+    {
+      "file": "moves.json",
+      "url": "https://pokebonk.com/data/moves.json",
+      "sha256": "bd7a87d79d3a18a818eef5bcef375e068401105f50fda2c3a12d844426a82518",
+      "bytes": 356086
+    },
+    {
+      "file": "items.json",
+      "url": "https://pokebonk.com/data/items.json",
+      "sha256": "d70c23fe21cb0aca6089f475a0cf87cae947d2ec303884113d6647235476cdd7",
+      "bytes": 25970
+    },
+    {
+      "file": "i18n-en.json",
+      "url": "https://pokebonk.com/data/i18n/en.json",
+      "sha256": "02d573396a8da6f088e36c722a69e5b94ea66cb7e7db84914ef74e0e6d7496b3",
+      "bytes": 115637
+    }
+  ],
+  "build": "mvob1c8t"
+}

@@ -1,0 +1,480 @@
+{
+  "gameVersion": "0.8.62",
+  "scope": "Solo Classic opening consistency; all 79 starting partners, with all 151 species mapped to their starting family.",
+  "entries": [
+    {
+      "slug": "slowpoke",
+      "why": "Recovery, a larger health pool and recurring sleep give Slowpoke several ways to recover a messy opening. That combination earns the top spot in a ranking that values staying alive more than chasing the largest damage bonus.",
+      "play": "Keep a clear exit while Yawn and the Water/Psychic kit work; spend the breathing room collecting upgrades.",
+      "tradeoff": "The speed penalty makes late turns dangerous. Sleep is a timed effect, not permanent crowd control."
+    },
+    {
+      "slug": "clefairy",
+      "why": "Regen repairs chip damage, while faster Ultimate charging and healing on cast give Clefairy a repeatable recovery cycle. It sits just behind Slowpoke because its strongest reset depends on having the Ultimate ready.",
+      "play": "Use the Ultimate before the next crowded stretch, rather than saving every charge for a boss.",
+      "tradeoff": "Luck is not a guaranteed upgrade, and a spent Ultimate leaves a gap in the safety net."
+    },
+    {
+      "slug": "tangela",
+      "why": "Regen and a recurring root address the same problem from two directions: recovering health and stopping nearby pursuers. The four-target limit keeps Tangela below the two broader recovery picks.",
+      "play": "Circle the edge of the horde and keep Giga Drain useful while the vines interrupt pursuers.",
+      "tradeoff": "Vines reach only nearby enemies. Ranged threats and a large crowd can still close your route."
+    },
+    {
+      "slug": "rhyhorn",
+      "why": "Armor works from the opening, and the running charge adds displacement without waiting for an attack offer. It leads A tier here because that protection is less dependent on finding a particular damage package.",
+      "play": "Keep moving in a broad loop so the charge can activate without steering into the thickest pack.",
+      "tradeoff": "Stopping breaks the charge setup. Armor does not make contact trading a sound plan."
+    },
+    {
+      "slug": "ekans",
+      "why": "Regen gives Ekans a steady fallback, and its forward gaze can interrupt enemies on the route ahead. It ranks highly for repeatable survival tools rather than a large offensive multiplier.",
+      "play": "Face an approaching lane before the gaze fires, then move past the controlled enemies.",
+      "tradeoff": "The gaze is directional and periodic. An enemy approaching from behind can bypass its main advantage."
+    },
+    {
+      "slug": "bellsprout",
+      "why": "Rooted KOs provide healing, while extra HP and stronger Strikes and Spins support that plan. It lands in A because recovery has a useful payoff but needs both a root and a kill.",
+      "play": "Favor useful Strike or Spin attacks and finish the enemies you have rooted.",
+      "tradeoff": "Bosses that outlast a root do not provide the same stream of healing as weak enemies."
+    },
+    {
+      "slug": "mewtwo",
+      "why": "Damage, area and speed help before any specific item appears; the recurring shield adds insurance. It is a strong offensive alternative near the top, though the crit stun needs crits to happen.",
+      "play": "Use the shield window to maintain attack contact, and add crit support when the offers fit.",
+      "tradeoff": "The shield refresh has downtime. A broad bonus package still needs focused attack upgrades."
+    },
+    {
+      "slug": "lapras",
+      "why": "Damage reduction and regen work without a weather condition or a hit sequence. Lapras ranks above many burst-focused picks because it asks less of the opening build to keep its defenses useful.",
+      "play": "Develop the Water and Ice attacks that cover your escape route instead of filling every slot at once.",
+      "tradeoff": "Small losses still accumulate if incoming damage consistently exceeds recovery."
+    },
+    {
+      "slug": "oddish",
+      "why": "Speed and regen make the ordinary opening forgiving, with extra damage and speed available in sun. It sits below the unconditional defensive picks because the weather payoff is an additional condition.",
+      "play": "Keep moving around the pollen area and treat sun as a bonus rather than a requirement to survive.",
+      "tradeoff": "The pollen cloud is local, and the larger weather bonuses do not apply all the time."
+    },
+    {
+      "slug": "bulbasaur",
+      "why": "Grass hits can turn attack uptime into recovery, backed by regen and stronger healing. That earns A tier, but the hit requirement and shared trigger cap keep it below more automatic recovery kits.",
+      "play": "Keep Grass attacks connecting; Razor Leaf and Solar Beam also give you a defined Flower Beam route.",
+      "tradeoff": "Healing triggers are capped. More projectiles do not grant unlimited sustain."
+    },
+    {
+      "slug": "gastly",
+      "why": "Reduced incoming damage and evasion make mistakes less costly without requiring a particular item. It belongs above many damage-only kits in this opening-focused ranking.",
+      "play": "Use the protection to keep Lick and the later Ghost attacks working while you reposition.",
+      "tradeoff": "Evasion is uncertain, and damage reduction does not make walking through a dense horde safe."
+    },
+    {
+      "slug": "mr-mime",
+      "why": "A recurring shield and nearby pushback can reopen a closing route. That puts Mr. Mime in A, with a lower placement than passive recovery picks because its main reset arrives on an interval.",
+      "play": "Move through the space the barrier creates instead of immediately giving it back to the crowd.",
+      "tradeoff": "The pushback is local. Ranged attacks and pressure between barrier activations still need an answer."
+    },
+    {
+      "slug": "abra",
+      "why": "Ground-hazard immunity and reduced projectile and area damage solve specific causes of failed runs. Abra stays in A rather than at the top because those protections leave contact damage as a serious weakness.",
+      "play": "Choose safer firing lanes for the Psychic kit and exploit hazard protection only against the named effects.",
+      "tradeoff": "A small opening health pool gives little room for mistakes the passive does not cover."
+    },
+    {
+      "slug": "machop",
+      "why": "The physical damage bonus is immediate and easy to use with its fighting kit. It ranks below the recovery leaders because killing faster is its main protection, rather than a separate healing or shielding tool.",
+      "play": "Keep physical attacks upgraded and choose coverage that lets them hit while you move.",
+      "tradeoff": "Special attacks do not gain the physical bonus. Close-range pressure can expose a weak recovery plan."
+    },
+    {
+      "slug": "geodude",
+      "why": "Armor reduces the cost of repeated hits, and one lethal-hit save can rescue a bad opening. It makes A tier as a forgiving choice, but that emergency benefit is spent after one trigger.",
+      "play": "Build enough damage to prevent repeated contact; leave the lethal-hit save as a last resort.",
+      "tradeoff": "Surviving at one HP is not recovery. Another hit can end the run immediately afterward."
+    },
+    {
+      "slug": "zubat",
+      "why": "Lifesteal and stronger healing reward a build that keeps hitting while moving. It sits in A because that sustain can be valuable, but unlike passive regen it depends on attack contact.",
+      "play": "Keep Leech Life and the attacks covering your retreat effective before pursuing extra damage slots.",
+      "tradeoff": "Long gaps between hits weaken its main defense, especially while fleeing an unfinished boss."
+    },
+    {
+      "slug": "nidoran-f",
+      "why": "Extra HP and armor provide immediate breathing room, with poison spreading after poisoned enemies die. It ranks above the male counterpart here because the opening comparison gives more weight to protection.",
+      "play": "Let poison contribute while you keep moving; use the added bulk to recover positioning after a mistake.",
+      "tradeoff": "The contact poison is not a reason to seek hits, and spreading poison requires deaths."
+    },
+    {
+      "slug": "mew",
+      "why": "Several modest bonuses and unrestricted move types make Mew adaptable when offers do not match the first plan. It sits in A, but flexibility alone is less reliable protection than regen or a recurring shield.",
+      "play": "Choose attacks that solve the current run rather than collecting types simply because you can.",
+      "tradeoff": "Broad access can scatter upgrades across incompatible attacks if you never commit to a damage plan."
+    },
+    {
+      "slug": "jynx",
+      "why": "Contact charm followed by hit-driven freezing gives Jynx a defensive sequence that can interrupt pursuers. It reaches A here, but its protection needs interaction with enemies rather than working entirely at a distance.",
+      "play": "Keep attacks landing on charmed enemies while you move away from them.",
+      "tradeoff": "Charm on contact does not prevent the contact itself, and freezing is gradual."
+    },
+    {
+      "slug": "growlithe",
+      "why": "Speed and recurring intimidation help control the danger near you. It falls just outside A because the damage reduction affects nearby intimidated enemies rather than every threat in the arena.",
+      "play": "Kite around the edge of the intimidation area and use faster movement to keep an exit open.",
+      "tradeoff": "Distant attackers and enemies between intimidation pulses can still deal their normal damage."
+    },
+    {
+      "slug": "goldeen",
+      "why": "Evasion can create a shield, so a successful dodge gives protection against what follows. It ranks in B because that loop is useful but starts with a chance-based event.",
+      "play": "Use the Water/Steel/Grass kit to cover your route and treat dodge shields as spare protection.",
+      "tradeoff": "A sequence without dodges can leave the shield loop inactive; it is not guaranteed mitigation."
+    },
+    {
+      "slug": "articuno",
+      "why": "Nearby gradual freezing and broad legendary bonuses offer both pressure and control. Its B placement reflects an opening comparison, where local control is less dependable than direct recovery against mixed threats.",
+      "play": "Let enemies enter the freezing zone while attacks clear a route out of it.",
+      "tradeoff": "The aura is not an instant arena-wide freeze, and distant enemies remain outside it."
+    },
+    {
+      "slug": "squirtle",
+      "why": "Armor and a starting shield make Squirtle a sensible learning pick. The B placement reflects what happens after that initial shield is spent: the low-health damage bonus does not supply healing.",
+      "play": "Upgrade the attacks clearing your path; work toward Rapid Spin plus Hydro Pump only when both stay useful.",
+      "tradeoff": "Do not sit below 40% HP just to activate damage. The bonus does not stop the next hit."
+    },
+    {
+      "slug": "omanyte",
+      "why": "Armor, stronger Rock and Water attacks and a recurring rock ring give a coherent kit. It sits in B because its protection is sturdy but does not repair health already lost.",
+      "play": "Keep Rock and Water attacks productive and use the ring to relieve nearby pressure.",
+      "tradeoff": "A defensive shell can still lose a long damage race if attack upgrades fall behind."
+    },
+    {
+      "slug": "sandshrew",
+      "why": "Armor and crit chance help immediately, with extra movement available in sandstorm. It ranks in B because the weather benefit is conditional and the passive supplies no healing loop.",
+      "play": "Build useful physical coverage first; take advantage of sandstorm speed when it is available.",
+      "tradeoff": "Without sandstorm, the large speed bonus is absent. Armor alone will not recover chip damage."
+    },
+    {
+      "slug": "paras",
+      "why": "Status chance and contact ailments can disrupt a crowded opening; Parasect adds damage against affected enemies. It lands in B because its best value depends on applying statuses and reaching the evolution payoff.",
+      "play": "Use the status tools to create space and keep a damaging attack ready to finish affected enemies.",
+      "tradeoff": "Contact-triggered disruption is reactive. Repeatedly getting hit is a poor way to apply status."
+    },
+    {
+      "slug": "grimer",
+      "why": "Damage reduction gives a dependable base, while being hit leaves a trapping poison puddle. It ranks in B because the puddle helps recover a bad situation rather than preventing every hit.",
+      "play": "Move away after leaving a puddle so pursuing enemies pass through it.",
+      "tradeoff": "The puddle requires taking damage and lasts only a short time; it is not free permanent control."
+    },
+    {
+      "slug": "chansey",
+      "why": "A larger health pool, stronger healing and periodic eggs provide staying power. Its middle placement reflects a recovery kit whose eggs need collecting and whose damage still needs investment.",
+      "play": "Loop back for an egg when the path is clear instead of crossing enemies for it immediately.",
+      "tradeoff": "Extra health can disguise a weak damage build until enemies stop dying quickly enough."
+    },
+    {
+      "slug": "kangaskhan",
+      "why": "Repeated hits at a fraction of the original damage give Kangaskhan a clear offensive benefit. It stays in B because extra damage does not directly add the recovery favored by this ranking.",
+      "play": "Invest in attacks that connect consistently so the repeated hit has useful work to do.",
+      "tradeoff": "The repeat is not a second full-damage strike, and it cannot repair an unsafe route."
+    },
+    {
+      "slug": "zapdos",
+      "why": "Broad bonuses and periodic paralysing lightning create useful pressure without a specific item. B reflects the gaps between those strikes and the lack of a dedicated recovery tool.",
+      "play": "Keep an attack upgraded for the moments between lightning activations.",
+      "tradeoff": "Three periodic bolts do not control the whole horde or replace a sustained boss-damage plan."
+    },
+    {
+      "slug": "moltres",
+      "why": "Its flame ring adds regular nearby burn pressure alongside broad legendary bonuses. It ranks in B because that pressure helps clear space but does not automatically protect or heal the player.",
+      "play": "Use the ring to punish pursuers while your main attacks handle targets outside it.",
+      "tradeoff": "The ring has a radius and interval. Running toward enemies to force burn contact is unnecessary risk."
+    },
+    {
+      "slug": "horsea",
+      "why": "Crit chance and crit damage give a clear attack plan, and critical hits can reduce enemy damage through ink. It lands in B because the defensive payoff depends on landing those crits.",
+      "play": "Support attacks that keep hitting and allow the ink effect to build protection through offense.",
+      "tradeoff": "Do not treat every shot as a guaranteed blind; a low-contact opening makes the passive less reliable."
+    },
+    {
+      "slug": "staryu",
+      "why": "Projectile speed helps delivery, and the periodic core heal offers a small automatic reset. It sits in B because the healing interval leaves meaningful gaps when pressure rises.",
+      "play": "Keep projectile attacks connecting while moving and let the core heal repair smaller mistakes.",
+      "tradeoff": "The periodic heal is limited; several hits in one interval can overwhelm it."
+    },
+    {
+      "slug": "pinsir",
+      "why": "Shield bypass and extra boss damage give Pinsir a specific job that many safer picks lack. It remains B in an opening-comfort ranking because offensive advantages do not replace sustain.",
+      "play": "Prioritize attacks that can stay on elites and bosses rather than only clearing weak enemies.",
+      "tradeoff": "Boss damage matters only while attacks connect. The passive does not make close contact harmless."
+    },
+    {
+      "slug": "scyther",
+      "why": "Attack speed and damage strengthen a focused offensive opening without a complicated trigger. It ranks in B because the passive improves pressure rather than giving a recovery or shielding cycle.",
+      "play": "Concentrate upgrades on attacks with useful coverage instead of spreading the bonus across weak slots.",
+      "tradeoff": "Faster attacks cannot compensate for spending most of the fight outside their effective pattern."
+    },
+    {
+      "slug": "exeggcute",
+      "why": "Extra healing and periodic berries offer a recovery route, with area arriving after evolution. B reflects the time between berries and the need to reach them safely.",
+      "play": "Keep the nearest berry route clear and use Leech Seed alongside a reliable damaging attack.",
+      "tradeoff": "A berry beside you is not an instant heal; reaching it through the horde can cost more than it restores."
+    },
+    {
+      "slug": "lickitung",
+      "why": "Extra HP and pickup reach reduce some opening friction, while the tongue can interrupt one nearby target. It stays in B because pulling an enemy toward you is useful control with a positional cost.",
+      "play": "Collect from safer spacing and leave room to sidestep a target pulled by the tongue.",
+      "tradeoff": "The closest enemy may not be the threat you wanted to pull, and the effect is not broad crowd control."
+    },
+    {
+      "slug": "porygon",
+      "why": "Special damage, projectile speed and scheduled critical hits give Porygon a focused offensive identity. It ranks in B because those benefits need effective attacks and do not form a defensive reset.",
+      "play": "Keep special attacks upgraded so the downloaded crit window strengthens a useful damage source.",
+      "tradeoff": "Five guaranteed critical hits are a limited window, not permanent critical chance or protection."
+    },
+    {
+      "slug": "kabuto",
+      "why": "Armor and flat hit reduction make repeated small hits less punishing. It sits in B because the later Strike and Boomerang bonus asks for evolution and matching attack shapes.",
+      "play": "Reduce chip damage while developing attacks that will benefit from Kabutops’s shape bonuses.",
+      "tradeoff": "Flat reduction is less decisive against very large hits, and it does not heal existing damage."
+    },
+    {
+      "slug": "snorlax",
+      "why": "The healing bonus makes recovery upgrades more valuable, but it is not itself a source of healing. That distinction keeps Snorlax in B rather than beside partners with automatic regen.",
+      "play": "Secure an actual recovery source and enough damage for Tackle’s opening before stacking more healing bonuses.",
+      "tradeoff": "A larger healing multiplier contributes little while nothing is restoring health."
+    },
+    {
+      "slug": "jigglypuff",
+      "why": "Contact charm and evasion can interrupt a pursuer after a mistake. B reflects the reactive nature of that protection compared with a barrier or regen that helps without inviting contact.",
+      "play": "Use Sing and movement to keep charmed enemies behind you while damaging attacks finish them.",
+      "tradeoff": "Charm does not retroactively prevent a hit; repeated contact remains dangerous."
+    },
+    {
+      "slug": "krabby",
+      "why": "Strikes receive extra damage and periodic doubled, stunning pincers. It sits in B because the payoff is concentrated in a particular attack shape rather than every attack you might pick.",
+      "play": "Favor useful Strike attacks and maintain contact long enough for the pincer sequence to matter.",
+      "tradeoff": "A special-looking offer is not automatically a Strike; check shape before expecting the bonus."
+    },
+    {
+      "slug": "nidoran-m",
+      "why": "Damage against elites, Alphas and bosses gives Nidoran a clear target priority. Its B placement follows the same tradeoff as Pinsir: better threat removal without a separate recovery tool.",
+      "play": "Keep an attack capable of staying on a durable target while you avoid the surrounding crowd.",
+      "tradeoff": "The elite bonus does not apply to every enemy and cannot prevent ordinary chip damage."
+    },
+    {
+      "slug": "hitmonlee",
+      "why": "More area, an extra jump and stronger kicks support an active damage-and-movement plan. It ranks in B because the attack bonus is narrower than a universal physical multiplier.",
+      "play": "Keep kick attacks useful and use the extra jump to preserve a safe firing route.",
+      "tradeoff": "An attack without “kick” in its name does not receive the named kick bonus."
+    },
+    {
+      "slug": "hitmonchan",
+      "why": "Stronger punches and an automatic nearby punch give a recognizable physical plan. It lands in B because several benefits require the right move names or a target inside the short automatic range.",
+      "play": "Choose punch attacks for damage, with enough coverage to avoid following every enemy into contact range.",
+      "tradeoff": "The automatic punch is periodic and local. It will not handle distant pressure on its own."
+    },
+    {
+      "slug": "venonat",
+      "why": "Crit and status chance help establish confusion, which then increases damage taken by affected enemies. B reflects the need to set up that condition before the full offensive benefit appears.",
+      "play": "Use Supersonic to support attacks that can capitalize on confused targets.",
+      "tradeoff": "Enemies without confusion do not take the conditional bonus, so the opening can feel uneven."
+    },
+    {
+      "slug": "psyduck",
+      "why": "Extra HP helps early, and the headache wave turns time and incoming hits into disruption. It sits in B because the Golduck heal is a later benefit rather than a starting recovery loop.",
+      "play": "Let the wave charge naturally while you use the Water/Psychic kit to keep a clear route.",
+      "tradeoff": "Taking deliberate hits to charge the wave spends the health you are trying to preserve."
+    },
+    {
+      "slug": "rattata",
+      "why": "Physical damage and attack speed make Rattata an aggressive opener. The HP penalty keeps it below safer picks here: the ranking rewards room to recover from a mistake.",
+      "play": "Keep physical damage focused and kill pursuers before they reach the route behind you.",
+      "tradeoff": "The offensive package costs health. An unfinished enemy can punish a missed dodge more sharply."
+    },
+    {
+      "slug": "spearow",
+      "why": "Crit chance and a large crit-damage bonus give Spearow a direct scaling plan. It stays in B because neither bonus guarantees a critical hit or provides recovery when attacks miss.",
+      "play": "Favor consistent attack contact before piling on more critical damage.",
+      "tradeoff": "A run with too few useful hits cannot cash in the crit package, regardless of the displayed multiplier."
+    },
+    {
+      "slug": "pikachu",
+      "why": "Contact paralysis and periodic discharge offer control without an elaborate item plan. It ranks in B because one part of that control starts after contact and the other has downtime.",
+      "play": "Let discharge help break pursuit while the Electric attacks clear your next lane.",
+      "tradeoff": "Contact paralysis is not immunity, and a discharge at one enemy does not stop the rest of the pack."
+    },
+    {
+      "slug": "seel",
+      "why": "HP, armor and nearby gradual freezing give Seel several defensive pieces. It lands in B because the control is periodic and local, while the kit still needs damage upgrades to finish threats.",
+      "play": "Keep enemies at the edge of the shard area while developing the Ice and Water attacks.",
+      "tradeoff": "Gradual freezing can take time; moving into a pack to trigger it is not a safe shortcut."
+    },
+    {
+      "slug": "tauros",
+      "why": "Speed and repeated forward rams support a run built around movement. Its B placement reflects how much direction matters: a shove in front does little against a threat arriving from the side.",
+      "play": "Run broad paths where the forward ram lines up with pursuers without trapping you.",
+      "tradeoff": "Movement bonuses do not make every direction safe, especially when you turn into fresh enemies."
+    },
+    {
+      "slug": "mankey",
+      "why": "Armor helps absorb mistakes, and damage rises after hits. It stays in B because the offensive stack rewards an event you normally want to avoid and disappears after a safer stretch.",
+      "play": "Use rage when a hit happens, then return to clean movement rather than forcing another stack.",
+      "tradeoff": "Maintaining rage by taking damage can lose the run faster than the damage bonus saves it."
+    },
+    {
+      "slug": "farfetchd",
+      "why": "Crit chance and rare heavy Bonk hits create burst potential. It sits in B because a low-probability burst is less dependable for an opening than repeatable protection or healing.",
+      "play": "Build attacks with regular contact and treat a large Bonk as a payoff, not the whole plan.",
+      "tradeoff": "A long stretch without the special hit leaves the ordinary attack build doing the work."
+    },
+    {
+      "slug": "aerodactyl",
+      "why": "Speed, an extra jump and airborne damage reward active movement. Its B placement reflects execution: the large damage bonus depends on staying airborne while attacks remain useful.",
+      "play": "Use jumps and glide deliberately so the airborne damage window also preserves a route.",
+      "tradeoff": "Grounded time loses the airborne bonus; extra mobility does not supply health recovery."
+    },
+    {
+      "slug": "pidgey",
+      "why": "Speed, projectile speed and an extra jump improve movement and delivery rather than raw safety. C here means the opening asks more of positioning, not that the later evolutions are unusable.",
+      "play": "Use glide to keep distance while concentrating upgrades into attacks that hit on the move.",
+      "tradeoff": "Movement tools cannot heal mistakes or finish a durable target without sufficient damage."
+    },
+    {
+      "slug": "drowzee",
+      "why": "Nearby sleeping enemies can become a recovery source, but that loop needs sleep, proximity and time. Its lower opening placement reflects those conditions rather than denying the value of a working sleep build.",
+      "play": "Keep sleeping enemies within healing range when safe, and use damaging attacks to control the rest.",
+      "tradeoff": "A sleep window may end before enough healing arrives; do not stand still waiting for the loop."
+    },
+    {
+      "slug": "doduo",
+      "why": "Speed and a chance to repeat an attack offer offensive upside. It stays in C for opening consistency because repeats are uncertain and the passive adds no direct recovery.",
+      "play": "Keep a dependable attack upgraded before leaning on the repeated-attack payoff.",
+      "tradeoff": "A 25% repeat chance is not every other attack, and a missed repeat can leave a dangerous target alive."
+    },
+    {
+      "slug": "cubone",
+      "why": "Armor and stronger bone attacks give Cubone a defined build, with extra damage at low HP. C reflects the narrower attack requirement and the risk of relying on the low-health portion.",
+      "play": "Favor bone attacks that cover your route and use armor to absorb accidental chip damage.",
+      "tradeoff": "Deliberately staying injured for damage gives up the safety this ranking values."
+    },
+    {
+      "slug": "magnemite",
+      "why": "Pickup reach makes collection easier, and magnetic pulses can bunch enemies for attacks. It ranks lower because pulling enemies inward is not the same as stopping them before they reach you.",
+      "play": "Have useful area coverage ready for enemies gathered by the pulse.",
+      "tradeoff": "A pull can concentrate pressure close to the player, and the pulse is not continuous paralysis."
+    },
+    {
+      "slug": "koffing",
+      "why": "Gliding and climbing support unusual escape routes, while the local cloud applies poison. It sits in C because those tools need positioning and close-range exposure rather than providing automatic recovery.",
+      "play": "Let pursuers pass through the cloud while you use mobility to leave the dangerous side of the pack.",
+      "tradeoff": "A poison cloud does not instantly remove enemies or make close contact safe."
+    },
+    {
+      "slug": "electabuzz",
+      "why": "Repeated paralysis can stack damage, giving Electabuzz a clear status-based payoff. It ranks lower for an opening because stacks need to be generated and refreshed rather than arriving as a permanent bonus.",
+      "play": "Keep paralysis applications reliable before selecting upgrades solely for the maximum stacked damage.",
+      "tradeoff": "Stacks expire quickly. Sparse targets or inconsistent paralysis can make the bonus fall away."
+    },
+    {
+      "slug": "magmar",
+      "why": "Burns can spread through defeated enemies, helping clear connected groups. It sits in C because the chain needs both a burn and a KO, and contact burn is reactive rather than preventive.",
+      "play": "Develop damage that can finish burning enemies and start the next spread.",
+      "tradeoff": "A lone durable enemy does not provide the same chain of burning KOs as a weak pack."
+    },
+    {
+      "slug": "charmander",
+      "why": "Fire damage is always useful to its matching kit, but the larger damage bonus requires low HP. C reflects that risky opening condition compared with partners whose passive helps while healthy.",
+      "play": "Keep Ember productive and build toward useful Fire coverage without deliberately holding health below 40%.",
+      "tradeoff": "A low-health damage spike is not a survival tool if another hit arrives first."
+    },
+    {
+      "slug": "vulpix",
+      "why": "Fire and status damage give Vulpix a focused damage theme. Its lower opening placement reflects missing recovery and the need to turn status applications into useful damage.",
+      "play": "Support burn and Fire attacks that actually reach the enemies blocking your path.",
+      "tradeoff": "Extra status damage contributes less when a target is not affected, and it does not repair chip damage."
+    },
+    {
+      "slug": "shellder",
+      "why": "Armor and extra projectiles offer a real platform for a projectile build. It sits low in this opening model because projectile count does not benefit every pattern equally and armor alone provides no recovery.",
+      "play": "Choose attacks that make good use of extra projectiles and keep them upgraded.",
+      "tradeoff": "The bonus is not a universal damage multiplier; checking attack behavior matters more than counting icons."
+    },
+    {
+      "slug": "ditto",
+      "why": "Broad bonuses help, but copying nearby enemy types can change both your bonuses and weaknesses mid-run. C reflects that shifting matchup rather than a lack of useful stats.",
+      "play": "Watch the copied type and make decisions around the current matchup instead of the starting one.",
+      "tradeoff": "A nearby enemy controls the next copied type; the change is not a freely chosen defensive answer."
+    },
+    {
+      "slug": "voltorb",
+      "why": "Movement speed is immediate, while Electric explosions reward KOs. It ranks in C because the chain reaction needs enemies to die first and cannot be assumed against an isolated boss.",
+      "play": "Keep one reliable damage source strong enough to start explosion chains in ordinary packs.",
+      "tradeoff": "The explosion is chance-based, and a fight without KOs removes most of that passive payoff."
+    },
+    {
+      "slug": "weedle",
+      "why": "Attack speed and poison on crit can develop into extra damage against poisoned enemies. C reflects a setup opening: the poison condition and evolution benefits do not all arrive together.",
+      "play": "Keep Poison Sting useful while leveling, and treat the Kakuna armor as a stage in the run rather than the full build.",
+      "tradeoff": "Early evolution does not mean an immediately complete damage kit or permanent safety."
+    },
+    {
+      "slug": "ponyta",
+      "why": "Speed and burning footprints reward continuous movement. Its C placement reflects how much damage depends on enemies following the path you leave rather than meeting you head-on.",
+      "play": "Curve routes so pursuers cross the footprints while attacks handle enemies arriving from new directions.",
+      "tradeoff": "Enemies outside the trail do not take its burn, and speed does not replace recovery."
+    },
+    {
+      "slug": "eevee",
+      "why": "A stronger same-type bonus can reward a committed build, but its value follows the type you currently have. It sits in C because choosing an evolution and matching useful attacks requires planning.",
+      "play": "Keep attacks useful through the transition instead of selecting them only for a future type bonus.",
+      "tradeoff": "An off-type attack does not receive the improved same-type bonus; a planned evolution is not immediate payoff."
+    },
+    {
+      "slug": "meowth",
+      "why": "More money and pickup reach support a stronger economy, with crit chance earned through income. It ranks lower for opening comfort because cash must become useful purchases before it becomes protection.",
+      "play": "Collect safely and turn the extra currency into upgrades that solve the current weakness.",
+      "tradeoff": "Economic potential does not stop the next hit, and the crit bonus needs income to build."
+    },
+    {
+      "slug": "poliwag",
+      "why": "Extra HP and projectile speed help normally, with larger speed and damage bonuses in rain. C reflects reliance on weather and a later physical bonus for the strongest package.",
+      "play": "Keep Bubble Beam useful without rain and take the weather window when it arrives.",
+      "tradeoff": "Do not judge every minute as though rain and Poliwrath’s later bonus were already active."
+    },
+    {
+      "slug": "tentacool",
+      "why": "Armor and recurring poisonous tentacle hits provide local pressure. It sits in C because its passive is target-limited and does not supply a broad recovery loop.",
+      "play": "Use the tentacle hits to support a poison plan while attacks cover threats beyond the nearby targets.",
+      "tradeoff": "Two periodic targets at the start do not mean the surrounding crowd is controlled."
+    },
+    {
+      "slug": "caterpie",
+      "why": "Experience and a starting shield help reach later stages, with cocoon armor during evolution. It ranks low for the immediate opening because survival still needs a useful attack before the payoff arrives.",
+      "play": "Protect the early shield and concentrate upgrades enough to make the experience lead meaningful.",
+      "tradeoff": "Faster levels are not a substitute for attacks that can keep an escape route clear."
+    },
+    {
+      "slug": "dratini",
+      "why": "The full-health damage reduction can cushion the first hit, but loses its condition once health drops. It ranks low here because restoring that condition requires recovery from elsewhere.",
+      "play": "Preserve full HP with clean movement and secure recovery if you want to reactivate the passive reliably.",
+      "tradeoff": "The 50% reduction is conditional, not a permanent reduction throughout a damaged run."
+    },
+    {
+      "slug": "diglett",
+      "why": "Armor and periodic nearby roots help interrupt pursuit. Its lower placement reflects the opening baseline and limited control radius; the passive can still be useful in a route-focused build.",
+      "play": "Move around the rooted edge of the pack and let attacks finish enemies before the next pulse.",
+      "tradeoff": "Roots are local and intermittent. Pressure outside the pulse still needs an answer."
+    },
+    {
+      "slug": "onix",
+      "why": "Heavy armor and extra HP give bulk, but the speed penalty makes recovering position harder. It ranks low in this opening comparison because Charge damage does not automatically solve a cramped route.",
+      "play": "Invest in useful Charge attacks and turn early while there is still space to move.",
+      "tradeoff": "Do not mistake armor for a safe exit. Slow repositioning can expose you to repeated hits."
+    },
+    {
+      "slug": "magikarp",
+      "why": "The experience bonus offers a clear Gyarados payoff at level 40, but asks you to survive the opening first. It comes last for opening comfort because future power does not help an unfinished early build.",
+      "play": "Keep Tackle and the available damage upgrades functional while protecting the route to evolution.",
+      "tradeoff": "This is an opening ranking, not a claim that Gyarados is the weakest late-run form."
+    }
+  ]
+}

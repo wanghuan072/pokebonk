@@ -1,0 +1,4 @@
+Built-in imagegen tool. Style reference inspected live at https://pokesurvivor.me/.
+Preview concept only. No application code has been changed.
+
+undefined

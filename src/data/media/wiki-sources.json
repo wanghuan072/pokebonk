@@ -1,0 +1,1466 @@
+[
+  {
+    "file": "/images/icons/game/champion.png",
+    "kind": "Original game interface icon",
+    "url": "https://pokebonk.com/assets/ui/icons/champion.png?v=kF4K1v3m",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/icons/game/check.png",
+    "kind": "Original game interface icon",
+    "url": "https://pokebonk.com/assets/ui/icons/check.png?v=kF4K1v3m",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/icons/game/crown.png",
+    "kind": "Original game interface icon",
+    "url": "https://pokebonk.com/assets/ui/icons/crown.png?v=kF4K1v3m",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/icons/game/fullscreen.png",
+    "kind": "Original game interface icon",
+    "url": "https://pokebonk.com/assets/ui/icons/fullscreen.png?v=kF4K1v3m",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/icons/game/gold.png",
+    "kind": "Original game interface icon",
+    "url": "https://pokebonk.com/assets/ui/icons/gold.png?v=kF4K1v3m",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/icons/game/map-bill.png",
+    "kind": "Original game interface icon",
+    "url": "https://pokebonk.com/assets/ui/icons/map-bill.png?v=kF4K1v3m",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/icons/game/map-portal.png",
+    "kind": "Original game interface icon",
+    "url": "https://pokebonk.com/assets/ui/icons/map-portal.png?v=kF4K1v3m",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/icons/game/mission.png",
+    "kind": "Original game interface icon",
+    "url": "https://pokebonk.com/assets/ui/icons/mission.png?v=kF4K1v3m",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/icons/game/record.png",
+    "kind": "Original game interface icon",
+    "url": "https://pokebonk.com/assets/ui/icons/record.png?v=kF4K1v3m",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/icons/game/research.png",
+    "kind": "Original game interface icon",
+    "url": "https://pokebonk.com/assets/ui/icons/research.png?v=kF4K1v3m",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/icons/game/stardust.png",
+    "kind": "Original game interface icon",
+    "url": "https://pokebonk.com/assets/ui/icons/stardust.png?v=kF4K1v3m",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/adamant-orb.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/adamant-orb.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/adrenaline-orb.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/adrenaline-orb.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/air-balloon.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/air-balloon.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/amulet-coin.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/amulet-coin.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/assault-vest.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/assault-vest.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/awakening.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/awakening.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/berry-juice.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/berry-juice.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/bicycle.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/bicycle.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/big-nugget.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/big-nugget.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/big-root.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/big-root.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/binding-band.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/binding-band.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/black-belt.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/black-belt.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/black-glasses.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/black-glasses.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/black-sludge.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/black-sludge.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/bright-powder.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/bright-powder.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/burn-heal.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/burn-heal.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/calcium.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/calcium.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/carbos.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/carbos.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/cell-battery.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/cell-battery.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/charcoal.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/charcoal.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/choice-band.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/choice-band.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/choice-scarf.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/choice-scarf.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/choice-specs.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/choice-specs.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/cleanse-tag.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/cleanse-tag.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/coin-case.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/coin-case.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/comet-shard.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/comet-shard.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/dawn-stone.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/dawn-stone.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/dire-hit.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/dire-hit.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/dowsing-machine.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/dowsing-machine.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/dragon-fang.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/dragon-fang.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/dusk-stone.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/dusk-stone.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/electirizer.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/electirizer.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/elixir.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/elixir.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/enigma-berry.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/enigma-berry.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/escape-rope.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/escape-rope.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/ether.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/ether.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/everstone.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/everstone.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/eviolite.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/eviolite.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/exp-share.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/exp-share.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/expert-belt.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/expert-belt.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/fairy-feather.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/fairy-feather.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/fire-stone.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/fire-stone.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/flame-orb.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/flame-orb.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/focus-band.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/focus-band.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/focus-sash.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/focus-sash.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/fresh-water.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/fresh-water.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/full-heal.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/full-heal.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/gold-teeth.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/gold-teeth.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/great-ball.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/great-ball.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/grip-claw.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/grip-claw.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/griseous-orb.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/griseous-orb.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/guard-spec.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/guard-spec.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/hard-stone.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/hard-stone.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/honey.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/honey.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/hp-up.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/hp-up.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/ice-heal.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/ice-heal.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/ice-stone.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/ice-stone.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/iron-ball.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/iron-ball.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/iron.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/iron.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/kings-rock.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/kings-rock.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/lax-incense.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/lax-incense.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/leaf-stone.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/leaf-stone.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/leftovers.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/leftovers.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/lemonade.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/lemonade.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/life-orb.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/life-orb.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/light-clay.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/light-clay.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/loaded-dice.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/loaded-dice.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/lucky-egg.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/lucky-egg.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/lucky-punch.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/lucky-punch.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/lum-berry.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/lum-berry.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/lustrous-orb.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/lustrous-orb.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/macho-brace.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/macho-brace.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/magnet.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/magnet.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/master-ball.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/master-ball.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/max-elixir.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/max-elixir.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/max-ether.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/max-ether.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/max-potion.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/max-potion.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/max-revive.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/max-revive.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/metal-coat.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/metal-coat.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/metal-powder.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/metal-powder.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/metronome.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/metronome.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/miracle-seed.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/miracle-seed.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/moon-stone.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/moon-stone.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/muscle-band.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/muscle-band.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/mystic-water.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/mystic-water.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/never-melt-ice.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/never-melt-ice.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/nugget.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/nugget.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/old-rod.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/old-rod.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/oran-berry.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/oran-berry.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/poison-barb.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/poison-barb.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/poke-ball.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/poke-ball.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/poke-doll.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/poke-doll.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/poke-flute.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/poke-flute.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/poke-radar.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/poke-radar.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/potion.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/potion.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/power-herb.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/power-herb.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/pp-max.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/pp-max.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/pp-up.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/pp-up.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/protector.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/protector.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/protein.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/protein.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/quick-claw.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/quick-claw.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/quick-powder.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/quick-powder.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/rage-candy-bar.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/rage-candy-bar.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/rainbow-wing.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/rainbow-wing.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/rare-candy.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/rare-candy.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/razor-claw.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/razor-claw.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/razor-fang.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/razor-fang.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/reaper-cloth.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/reaper-cloth.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/repel.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/repel.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/revive.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/revive.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/rocky-helmet.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/rocky-helmet.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/scope-lens.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/scope-lens.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/secret-key.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/secret-key.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/sharp-beak.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/sharp-beak.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/shed-shell.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/shed-shell.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/shell-bell.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/shell-bell.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/shiny-stone.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/shiny-stone.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/silk-scarf.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/silk-scarf.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/silph-scope.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/silph-scope.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/silver-powder.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/silver-powder.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/silver-wing.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/silver-wing.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/sitrus-berry.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/sitrus-berry.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/smoke-ball.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/smoke-ball.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/smooth-rock.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/smooth-rock.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/snowball.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/snowball.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/soda-pop.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/soda-pop.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/soft-sand.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/soft-sand.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/soothe-bell.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/soothe-bell.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/soul-dew.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/soul-dew.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/spell-tag.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/spell-tag.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/ss-ticket.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/ss-ticket.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/star-piece.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/star-piece.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/stardust.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/stardust.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/stick.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/stick.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/sticky-barb.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/sticky-barb.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/sun-stone.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/sun-stone.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/super-lure.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/super-lure.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/super-potion.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/super-potion.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/thick-club.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/thick-club.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/thunder-stone.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/thunder-stone.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/tm-case.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/tm-case.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/toxic-orb.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/toxic-orb.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/twisted-spoon.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/twisted-spoon.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/white-flute.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/white-flute.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/white-herb.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/white-herb.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/wide-lens.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/wide-lens.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/wise-glasses.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/wise-glasses.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/x-attack.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/x-attack.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/x-defense.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/x-defense.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/x-speed.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/x-speed.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/zinc.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/zinc.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/items/pokebonk/zoom-lens.png",
+    "kind": "Original game item sprite",
+    "url": "https://pokebonk.com/assets/items/zoom-lens.png?v=Kgc19xzJ",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/ranks/game/elite.png",
+    "kind": "Original game rank badge",
+    "url": "https://pokebonk.com/assets/ui/ranks/elite.png?v=TWsEfU0e",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/ranks/game/master.png",
+    "kind": "Original game rank badge",
+    "url": "https://pokebonk.com/assets/ui/ranks/master.png?v=TWsEfU0e",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/types/game/bug.png",
+    "kind": "Original game type icon",
+    "url": "https://pokebonk.com/assets/ui/types/bug.png?v=B21hKCIf",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/types/game/dark.png",
+    "kind": "Original game type icon",
+    "url": "https://pokebonk.com/assets/ui/types/dark.png?v=B21hKCIf",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/types/game/dragon.png",
+    "kind": "Original game type icon",
+    "url": "https://pokebonk.com/assets/ui/types/dragon.png?v=B21hKCIf",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/types/game/electric.png",
+    "kind": "Original game type icon",
+    "url": "https://pokebonk.com/assets/ui/types/electric.png?v=B21hKCIf",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/types/game/fairy.png",
+    "kind": "Original game type icon",
+    "url": "https://pokebonk.com/assets/ui/types/fairy.png?v=B21hKCIf",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/types/game/fighting.png",
+    "kind": "Original game type icon",
+    "url": "https://pokebonk.com/assets/ui/types/fighting.png?v=B21hKCIf",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/types/game/fire.png",
+    "kind": "Original game type icon",
+    "url": "https://pokebonk.com/assets/ui/types/fire.png?v=B21hKCIf",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/types/game/flying.png",
+    "kind": "Original game type icon",
+    "url": "https://pokebonk.com/assets/ui/types/flying.png?v=B21hKCIf",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/types/game/ghost.png",
+    "kind": "Original game type icon",
+    "url": "https://pokebonk.com/assets/ui/types/ghost.png?v=B21hKCIf",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/types/game/grass.png",
+    "kind": "Original game type icon",
+    "url": "https://pokebonk.com/assets/ui/types/grass.png?v=B21hKCIf",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/types/game/ground.png",
+    "kind": "Original game type icon",
+    "url": "https://pokebonk.com/assets/ui/types/ground.png?v=B21hKCIf",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/types/game/ice.png",
+    "kind": "Original game type icon",
+    "url": "https://pokebonk.com/assets/ui/types/ice.png?v=B21hKCIf",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/types/game/normal.png",
+    "kind": "Original game type icon",
+    "url": "https://pokebonk.com/assets/ui/types/normal.png?v=B21hKCIf",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/types/game/poison.png",
+    "kind": "Original game type icon",
+    "url": "https://pokebonk.com/assets/ui/types/poison.png?v=B21hKCIf",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/types/game/psychic.png",
+    "kind": "Original game type icon",
+    "url": "https://pokebonk.com/assets/ui/types/psychic.png?v=B21hKCIf",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/types/game/rock.png",
+    "kind": "Original game type icon",
+    "url": "https://pokebonk.com/assets/ui/types/rock.png?v=B21hKCIf",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/types/game/steel.png",
+    "kind": "Original game type icon",
+    "url": "https://pokebonk.com/assets/ui/types/steel.png?v=B21hKCIf",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  },
+  {
+    "file": "/images/types/game/water.png",
+    "kind": "Original game type icon",
+    "url": "https://pokebonk.com/assets/ui/types/water.png?v=B21hKCIf",
+    "retrieved": "2026-10-23",
+    "provider": "pokebonk.com",
+    "copyright": "Respective Pokémon and PokeBonk artwork rights holders"
+  }
+]

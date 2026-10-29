@@ -1,0 +1,56 @@
+{
+  "bagShop": [
+    {
+      "id": "rare-candy",
+      "price": 150,
+      "daily": 4,
+      "name": "Rare Candy",
+      "desc": "You start the run with two extra levels.",
+      "image": "/images/items/pokebonk/rare-candy.png"
+    },
+    {
+      "id": "lucky-egg",
+      "price": 250,
+      "daily": 4,
+      "name": "Lucky Egg",
+      "desc": "+25% experience for the whole run.",
+      "image": "/images/items/pokebonk/lucky-egg.png"
+    },
+    {
+      "id": "amulet-coin",
+      "price": 250,
+      "daily": 4,
+      "name": "Amulet Coin",
+      "desc": "+50% PokéDollars for the whole run.",
+      "image": "/images/items/pokebonk/amulet-coin.png"
+    },
+    {
+      "id": "honey",
+      "price": 450,
+      "daily": 3,
+      "name": "Honey",
+      "desc": "Attracts one more Alpha Pokémon in each zone.",
+      "image": "/images/items/pokebonk/honey.png"
+    },
+    {
+      "id": "shiny-stone",
+      "price": 900,
+      "daily": 2,
+      "name": "Dawn Stone",
+      "desc": "A shiny Pokémon is guaranteed to appear in zone 1.",
+      "image": "/images/items/pokebonk/shiny-stone.png"
+    },
+    {
+      "id": "master-ball",
+      "price": 1800,
+      "daily": 1,
+      "name": "Master Ball",
+      "desc": "Your first capture of the run (Alpha or League) is guaranteed.",
+      "image": "/images/items/pokebonk/master-ball.png"
+    }
+  ],
+  "gameVersion": "0.8.62",
+  "lastVerified": "2026-10-28",
+  "source": "https://pokebonk.com/",
+  "isDetails": false
+}

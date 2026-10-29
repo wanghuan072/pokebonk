@@ -1,0 +1,90 @@
+{
+  "/": {
+    "fingerprint": "8d71a4125e51475113869b6e9fb5576909b1cd38914de31d0b95997ab64beeec",
+    "modified": "2026-10-29"
+  },
+  "/about": {
+    "fingerprint": "fb99e919a4a0d0e4921b3c1d605fe503f01779c0da69a6dc36a3a4acf813b7d8",
+    "modified": "2026-10-29"
+  },
+  "/builds": {
+    "fingerprint": "0c08d6adb12f2d1389ffcbe8a9f32d9e2a7ccf905b10e95ca2875eb06b38ed58",
+    "modified": "2026-10-29"
+  },
+  "/contact": {
+    "fingerprint": "c6f318d48ca6cf05afd9854f2ac235827030165d120ae690feb4212c767c19dd",
+    "modified": "2026-10-29"
+  },
+  "/copyright": {
+    "fingerprint": "0f07ffa60f80215b2fa51e1cd4a622d2e76de2d16cae909ecb80aa0ede03fab8",
+    "modified": "2026-10-29"
+  },
+  "/events": {
+    "fingerprint": "4e0d60fa578ce7c9d3ab2bcc07e1ac436a0c81e807a7eb959ec437eb106693e8",
+    "modified": "2026-10-29"
+  },
+  "/guides": {
+    "fingerprint": "3a3b75fa8874813af5c181b5a27ca5e77e193faaa96e7a2c7cb8716b00bdb543",
+    "modified": "2026-10-29"
+  },
+  "/guides/beginners-guide": {
+    "fingerprint": "5c67b876e79b172c47d9af0d3f18be34f29a1fef2390e3872fd6b9cc395821e0",
+    "modified": "2026-10-29"
+  },
+  "/guides/coop-mode-guide": {
+    "fingerprint": "73e4db4e03d95ec75f625cf3504d2191c21636d9b36f45512bc902405fcffd13",
+    "modified": "2026-10-29"
+  },
+  "/guides/endless-mode-guide": {
+    "fingerprint": "74f9e6d8af93c806fa64483592650f02ad8de109898740d3f7e916d69dbe7e9e",
+    "modified": "2026-10-29"
+  },
+  "/play": {
+    "fingerprint": "8888c2e2c1396759426c034f68a5028bb8123e1df71572a8e2711e1243a4e39d",
+    "modified": "2026-10-29"
+  },
+  "/pokedex": {
+    "fingerprint": "12d8b7581dddd8394530d4b2b933908425796c5db3feb710325fcff5d0ec535d",
+    "modified": "2026-10-29"
+  },
+  "/privacy-policy": {
+    "fingerprint": "71699d042c6f43a0d0d3bd41bb1dfa0a9713db91c6d0db1af8e0abd64a879591",
+    "modified": "2026-10-29"
+  },
+  "/terms": {
+    "fingerprint": "7d7bd8fb79f685e877f481f08c386051ce903aae0c383506d290cc365651d118",
+    "modified": "2026-10-29"
+  },
+  "/tier-list": {
+    "fingerprint": "7ad7924eb9930892a18fdc9608b4984b2b5d5fd5ab30f33cf9f24295b1ad3289",
+    "modified": "2026-10-29"
+  },
+  "/updates": {
+    "fingerprint": "f43819724cae4bc3769a58310e2cd633b13e1c94c21965da94a29fdc5ed3098e",
+    "modified": "2026-10-29"
+  },
+  "/wiki/achievements": {
+    "fingerprint": "ed0651bdd1c8a0b031ce46564c530b3c392299a529aa656980bedc1795d6c9b9",
+    "modified": "2026-10-29"
+  },
+  "/wiki/attacks": {
+    "fingerprint": "4cd599362481971c077a08218913372865be9325b3bcc4e5db28cc886dc99f37",
+    "modified": "2026-10-29"
+  },
+  "/wiki/items": {
+    "fingerprint": "ba4457700f6c442fc8cd2a2aaee07e541562e320c59619dafbde0975896480ef",
+    "modified": "2026-10-29"
+  },
+  "/wiki/lab": {
+    "fingerprint": "0c332d74da49a8211f3ed15a6f23c901d3d93b072608af8565330688d8d137d3",
+    "modified": "2026-10-29"
+  },
+  "/wiki/leaderboard": {
+    "fingerprint": "c8e5f82403b66b169f42f99e9180dd5cdecdd145352a857b89ea2b3a9f6e5da0",
+    "modified": "2026-10-29"
+  },
+  "/wiki/vitamins": {
+    "fingerprint": "64665f9a40158686590143898ba284373435f4e6798f709e0c57b7499b1c4147",
+    "modified": "2026-10-29"
+  }
+}

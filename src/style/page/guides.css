@@ -1,0 +1,110 @@
+.guides-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0,1fr));
+  gap: 14px;
+}
+.guides-grid .guide-card-art {
+  height: 175px;
+}
+.guides-grid .guide-card-info {
+  min-height: 160px;
+  padding: 14px 14px 24px;
+}
+.guides-grid .guide-card h3 {
+  font-size: 20px;
+}
+.guides-grid .guide-card p {
+  font-size: 12px;
+}
+.guide-related-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  margin-top: 20px;
+  max-width: 1030px;
+}
+.guide-related-section {
+  padding: 10px 0 30px;
+}
+.guide-quick-reference {
+  padding: 24px;
+  border: 1px solid #325963;
+  border-radius: 11px;
+  background: #0c303a;
+}
+.guide-quick-reference h2 {
+  font-size: 22px !important;
+}
+.guide-quick-reference .related-links a {
+  text-decoration: none;
+  font-size: 11px;
+}
+.guide-article-section .prose section h2 {
+  letter-spacing: -0.5px;
+}
+.guide-article-section .prose .notice {
+  font-size: 12px;
+}
+@media (max-width: 1024px) {
+  .guides-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+  }
+}
+@media (max-width: 768px) {
+  .guides-grid {
+    grid-template-columns: 1fr;
+    gap: 17px;
+  }
+  .guides-grid .guide-card {
+    display: grid;
+    grid-template-columns: 32% 1fr;
+  }
+  .guides-grid .guide-card-art {
+    height: 100%;
+    min-height: 190px;
+  }
+  .guides-grid .guide-card-art .game-icon {
+    font-size: 57px;
+  }
+  .guides-grid .guide-card-info {
+    min-height: 190px;
+    padding: 17px 14px 27px;
+  }
+  .guides-grid .guide-card-time {
+    display: none;
+  }
+  .guides-grid .guide-card h3 {
+    font-size: 18px;
+  }
+  .guide-related-grid {
+    grid-template-columns: 1fr;
+  }
+  .guide-quick-reference {
+    padding: 18px;
+  }
+}
+.guide-article-figure {
+  margin: 0 0 35px;
+  overflow: hidden;
+  border: 1px solid #36547d;
+  border-radius: 12px;
+  background: #153a45;
+}
+.guide-article-visual {
+  position: relative;
+  aspect-ratio: 16 / 9;
+  background: radial-gradient(ellipse at 50% 30%, #5968a35a, transparent 70%);
+}
+.guide-article-visual img {
+  object-fit: contain;
+}
+.guide-article-visual img.guide-source-symbol {
+  padding: 18%;
+  image-rendering: pixelated;
+}
+.guide-article-figure figcaption {
+  padding: 12px 16px;
+  font-size: 11px;
+  color: #9cb8d7;
+}

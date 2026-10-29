@@ -1,0 +1,137 @@
+{
+  "source": "User-provided official game screenshots, captured October 27, 2026",
+  "verifiedAt": "2026-10-27",
+  "gameVersion": "0.8.59",
+  "season": 2,
+  "label": "KOs",
+  "trainerCount": "601.0k",
+  "rule": "Global KOs add each region’s best run, on any difficulty. Higher is better.",
+  "precision": "Only the first five complete rows can be verified from this capture. Display values are rounded; this is not a live feed.",
+  "entries": [
+    {
+      "rank": 1,
+      "player": "SR_SSR",
+      "clan": "SA",
+      "value": "19.402M",
+      "badge": "Master",
+      "regions": [
+        {
+          "region": "VIRIDIAN",
+          "value": "5.110M"
+        },
+        {
+          "region": "ROCKY",
+          "value": "4.789M"
+        },
+        {
+          "region": "STORM",
+          "value": "4.715M"
+        },
+        {
+          "region": "CELESTIAL",
+          "value": "4.787M"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "player": "Yyepes",
+      "clan": "OF",
+      "value": "18.482M",
+      "badge": "Elite",
+      "regions": [
+        {
+          "region": "VIRIDIAN",
+          "value": "4.642M"
+        },
+        {
+          "region": "ROCKY",
+          "value": "4.468M"
+        },
+        {
+          "region": "STORM",
+          "value": "4.371M"
+        },
+        {
+          "region": "CELESTIAL",
+          "value": "5.000M"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "player": "Entrenador7360",
+      "clan": "KUBI",
+      "value": "18.011M",
+      "badge": "Elite",
+      "regions": [
+        {
+          "region": "VIRIDIAN",
+          "value": "4.889M"
+        },
+        {
+          "region": "ROCKY",
+          "value": "4.386M"
+        },
+        {
+          "region": "STORM",
+          "value": "4.333M"
+        },
+        {
+          "region": "CELESTIAL",
+          "value": "4.401M"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "player": "치지직꾸팔",
+      "clan": "OF",
+      "value": "17.902M",
+      "badge": "Top 10",
+      "regions": [
+        {
+          "region": "VIRIDIAN",
+          "value": "4.572M"
+        },
+        {
+          "region": "ROCKY",
+          "value": "4.741M"
+        },
+        {
+          "region": "STORM",
+          "value": "4.368M"
+        },
+        {
+          "region": "CELESTIAL",
+          "value": "4.219M"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "player": "Pokeroguee",
+      "clan": "RST",
+      "value": "17.757M",
+      "badge": "Top 10",
+      "regions": [
+        {
+          "region": "VIRIDIAN",
+          "value": "4.571M"
+        },
+        {
+          "region": "ROCKY",
+          "value": "4.421M"
+        },
+        {
+          "region": "STORM",
+          "value": "4.366M"
+        },
+        {
+          "region": "CELESTIAL",
+          "value": "4.398M"
+        }
+      ]
+    }
+  ]
+}

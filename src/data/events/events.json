@@ -1,0 +1,383 @@
+[
+  {
+    "id": "halloween26",
+    "name": "Lavender Tower Night",
+    "color": "#9a6aff",
+    "desc": "Halloween in Kanto: climb the Pokémon Tower of Lavender Town floor by floor, beat its waves of ghosts and earn exclusive prizes.",
+    "mode": "tower",
+    "biome": "graveyard",
+    "start": "2026-10-21T16:30:00Z",
+    "end": "2026-11-04T17:30:00Z",
+    "claimDays": 14,
+    "points": {
+      "name": "Candles",
+      "icon": "vela"
+    },
+    "art": {
+      "tile": "ui/events/tower-card.jpg",
+      "header": "ui/events/tower.jpg",
+      "banner": "ui/events/tower-banner.jpg",
+      "icon": "torre"
+    },
+    "music": "halloween-menu",
+    "track": [
+      {
+        "at": 50,
+        "reward": {
+          "cosmetics": [
+            "title:ev:visitor"
+          ]
+        }
+      },
+      {
+        "at": 150,
+        "reward": {
+          "dust": 300
+        }
+      },
+      {
+        "at": 300,
+        "reward": {
+          "cosmetics": [
+            "frame:candle"
+          ]
+        }
+      },
+      {
+        "at": 500,
+        "reward": {
+          "bag": [
+            "lucky-egg",
+            "rare-candy"
+          ]
+        }
+      },
+      {
+        "at": 750,
+        "reward": {
+          "cosmetics": [
+            "tr:medium"
+          ]
+        }
+      },
+      {
+        "at": 1000,
+        "reward": {
+          "dust": 600
+        }
+      },
+      {
+        "at": 1300,
+        "reward": {
+          "cosmetics": [
+            "tr:cubone"
+          ]
+        }
+      },
+      {
+        "at": 1650,
+        "reward": {
+          "cosmetics": [
+            "skin:spectral"
+          ]
+        }
+      },
+      {
+        "at": 2000,
+        "reward": {
+          "cosmetics": [
+            "title:ev:medium"
+          ]
+        }
+      },
+      {
+        "at": 2500,
+        "reward": {
+          "cosmetics": [
+            "tr:gengar"
+          ]
+        }
+      }
+    ],
+    "quests": [
+      {
+        "id": "rip",
+        "name": "Rest in Peace",
+        "desc": "Calm Marowak's ghost on floor 6.",
+        "counter": "marowak",
+        "goal": 1,
+        "reward": {
+          "dust": 200,
+          "cosmetics": [
+            "title:ev:rip"
+          ]
+        }
+      },
+      {
+        "id": "ghost",
+        "name": "It was a GHOST!",
+        "desc": "Reveal 300 ghosts with the Silph Scope.",
+        "counter": "reveals",
+        "goal": 300,
+        "reward": {
+          "dust": 200,
+          "cosmetics": [
+            "title:ev:ghost"
+          ]
+        }
+      },
+      {
+        "id": "trick",
+        "name": "Trick or Treat",
+        "desc": "Survive 10 tricks from Gengar's tombstones.",
+        "counter": "tricks",
+        "goal": 10,
+        "reward": {
+          "dust": 200,
+          "cosmetics": [
+            "title:ev:trick"
+          ]
+        }
+      },
+      {
+        "id": "top",
+        "name": "The Summit",
+        "desc": "Defeat Gengar at the top of the Tower (floor 7).",
+        "counter": "wins",
+        "goal": 1,
+        "reward": {
+          "dust": 400,
+          "cosmetics": [
+            "title:ev:top",
+            "frame:tower"
+          ]
+        }
+      },
+      {
+        "id": "beyond",
+        "name": "Further beyond",
+        "desc": "Reach floor 15 of the Tower.",
+        "counter": "floor",
+        "goal": 15,
+        "max": true,
+        "reward": {
+          "dust": 400,
+          "cosmetics": [
+            "title:ev:beyond"
+          ]
+        }
+      },
+      {
+        "id": "dark",
+        "name": "No Light",
+        "desc": "Clear floor 4 without lighting a single candle.",
+        "counter": "dark4",
+        "goal": 1,
+        "reward": {
+          "dust": 300,
+          "cosmetics": [
+            "title:ev:dark"
+          ]
+        }
+      },
+      {
+        "id": "abyss",
+        "name": "Abyss",
+        "desc": "Reach floor 25 of the Tower.",
+        "counter": "floor",
+        "goal": 25,
+        "max": true,
+        "reward": {
+          "dust": 800,
+          "cosmetics": [
+            "title:ev:abyss"
+          ]
+        }
+      }
+    ],
+    "board": {
+      "key": "event:halloween26",
+      "prizes": [
+        {
+          "top": 100,
+          "name": "Top 100",
+          "reward": {
+            "cosmetics": [
+              "frame:spectral"
+            ]
+          }
+        },
+        {
+          "top": 25,
+          "name": "Top 25",
+          "reward": {
+            "cosmetics": [
+              "title:ev:king"
+            ]
+          }
+        },
+        {
+          "top": 10,
+          "name": "Top 10",
+          "reward": {
+            "cosmetics": [
+              "tr:nightking"
+            ]
+          }
+        },
+        {
+          "top": 1,
+          "name": "#1",
+          "reward": {
+            "cosmetics": [
+              "tr:fuji"
+            ]
+          }
+        }
+      ]
+    },
+    "clans": {
+      "top": 10,
+      "cosmetics": [
+        "sym:cubone",
+        "deco:candelabra"
+      ]
+    },
+    "cosmetics": [
+      {
+        "id": "title:ev:visitor",
+        "kind": "title",
+        "name": "Tower Visitor",
+        "how": "Book of Candles: 50 candles (Halloween 2026)."
+      },
+      {
+        "id": "frame:candle",
+        "kind": "frame",
+        "name": "Lavender Candle",
+        "how": "Book of Candles: 300 candles (Halloween 2026)."
+      },
+      {
+        "id": "tr:medium",
+        "kind": "avatar",
+        "name": "Channeler",
+        "how": "Book of Candles: 750 candles (Halloween 2026)."
+      },
+      {
+        "id": "tr:cubone",
+        "kind": "avatar",
+        "name": "Cubone Costume",
+        "how": "Book of Candles: 1,300 candles (Halloween 2026)."
+      },
+      {
+        "id": "skin:spectral",
+        "kind": "skin",
+        "name": "Spectral look",
+        "how": "Book of Candles: 1,650 candles (Halloween 2026)."
+      },
+      {
+        "id": "title:ev:medium",
+        "kind": "title",
+        "name": "Lavender Channeler",
+        "how": "Book of Candles: 2,000 candles (Halloween 2026)."
+      },
+      {
+        "id": "tr:gengar",
+        "kind": "avatar",
+        "name": "Gengar Costume",
+        "how": "Book of Candles: 2,500 candles (Halloween 2026)."
+      },
+      {
+        "id": "title:ev:rip",
+        "kind": "title",
+        "name": "Rest in Peace",
+        "how": "Achievement of the Halloween 2026 event."
+      },
+      {
+        "id": "title:ev:ghost",
+        "kind": "title",
+        "name": "Ghost Hunter",
+        "how": "Achievement of the Halloween 2026 event."
+      },
+      {
+        "id": "title:ev:trick",
+        "kind": "title",
+        "name": "Trick or Treat",
+        "how": "Achievement of the Halloween 2026 event."
+      },
+      {
+        "id": "title:ev:top",
+        "kind": "title",
+        "name": "Lord of the Tower",
+        "how": "Achievement of the Halloween 2026 event."
+      },
+      {
+        "id": "frame:tower",
+        "kind": "frame",
+        "name": "Lavender Tower",
+        "how": "«The Summit» achievement of the Halloween 2026 event."
+      },
+      {
+        "id": "title:ev:beyond",
+        "kind": "title",
+        "name": "From the Beyond",
+        "how": "Achievement of the Halloween 2026 event."
+      },
+      {
+        "id": "title:ev:dark",
+        "kind": "title",
+        "name": "Unafraid of the Dark",
+        "how": "Achievement of the Halloween 2026 event."
+      },
+      {
+        "id": "title:ev:abyss",
+        "kind": "title",
+        "name": "Abyss Dweller",
+        "how": "Achievement of the Halloween 2026 event."
+      },
+      {
+        "id": "frame:spectral",
+        "kind": "frame",
+        "name": "Spectral Crown",
+        "how": "Top 100 on the Lavender Tower leaderboard (Halloween 2026)."
+      },
+      {
+        "id": "title:ev:king",
+        "kind": "title",
+        "name": "King of the Night",
+        "how": "Top 25 on the Lavender Tower leaderboard (Halloween 2026)."
+      },
+      {
+        "id": "tr:nightking",
+        "kind": "avatar",
+        "name": "King of the Night",
+        "how": "Top 10 on the Lavender Tower leaderboard (Halloween 2026)."
+      },
+      {
+        "id": "tr:fuji",
+        "kind": "avatar",
+        "name": "Mr. Fuji",
+        "how": "#1 on the Lavender Tower leaderboard (Halloween 2026)."
+      },
+      {
+        "id": "sym:cubone",
+        "kind": "sym",
+        "name": "Cubone Skull",
+        "how": "Top 10 clans of the Lavender Tower (Halloween 2026)."
+      },
+      {
+        "id": "deco:candelabra",
+        "kind": "deco",
+        "name": "Candelabra",
+        "how": "Top 10 clans of the Lavender Tower (Halloween 2026)."
+      }
+    ],
+    "slug": "halloween26",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/?lang=en",
+    "isDetails": false,
+    "checkedAt": "2026-10-28",
+    "image": "/images/home/game-tower.jpg",
+    "claimDeadline": "2026-11-18T17:30:00.000Z"
+  }
+]

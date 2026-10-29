@@ -1,0 +1,34 @@
+[
+  {
+    "file": "/images/events/mut-metronome.png",
+    "url": "https://pokebonk.com/assets/ui/icons/mut-metronome.png?v=W-_3LRzc",
+    "retrieved": "2026-10-28",
+    "provider": "pokebonk.com",
+    "kind": "Original Daily Mutation icon",
+    "sha256": "1afb1a405442af1f62a2759b53c636f1854ae16d57ae353e47288f839ed990fc"
+  },
+  {
+    "file": "/images/events/mut-dynamax.png",
+    "url": "https://pokebonk.com/assets/ui/icons/mut-dynamax.png?v=W-_3LRzc",
+    "retrieved": "2026-10-28",
+    "provider": "pokebonk.com",
+    "kind": "Original Daily Mutation icon",
+    "sha256": "abf4ab17fcfc561bdd047b7aea8f33bf148ce855598b74238c848e70aa41021d"
+  },
+  {
+    "file": "/images/events/mut-candy.png",
+    "url": "https://pokebonk.com/assets/ui/icons/mut-candy.png?v=W-_3LRzc",
+    "retrieved": "2026-10-28",
+    "provider": "pokebonk.com",
+    "kind": "Original Daily Mutation icon",
+    "sha256": "a6b52171cc3418bc526d5e7d73044f281f03043804d76d7025e542c4a960f060"
+  },
+  {
+    "file": "/images/events/mut-glass.png",
+    "url": "https://pokebonk.com/assets/ui/icons/mut-glass.png?v=W-_3LRzc",
+    "retrieved": "2026-10-28",
+    "provider": "pokebonk.com",
+    "kind": "Original Daily Mutation icon",
+    "sha256": "b52b284d278c366f4ed8e8fb211f034df0b66b996653e51b32ce46ae774ca151"
+  }
+]

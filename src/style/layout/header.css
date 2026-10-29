@@ -1,0 +1,68 @@
+.app-header { position:relative; z-index:50; }
+.header-content { min-height:66px; display:flex; align-items:center; justify-content:space-between; gap:20px; }
+.header-content > .brand { font-size:25px; letter-spacing:-.6px; }
+.header-content > .brand b { color:var(--text); }
+.header-content > .brand .brand-sub { display:none; }
+.main-navigation { position:fixed; inset:0 auto 0 0; width:88px; display:flex; flex-direction:column; align-items:center; gap:8px; padding:14px 10px; background:linear-gradient(150deg,#0b3039,#05232c); border-right:1px solid var(--line); overflow-y:auto; scrollbar-width:thin; font-size:11px; font-weight:750; }
+.main-navigation > .brand { padding:0 0 12px; min-height:62px; }
+.main-navigation > a:not(.brand), .wiki-menu summary, .header-utilities > a, .header-utilities > button { width:62px; min-height:62px; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:5px; padding:8px 2px; border:0; border-radius:8px; color:#b4d4dd; background:transparent; text-align:center; font:inherit; line-height:1.2; }
+.main-navigation .game-icon { font-size:23px; color:inherit; text-shadow:none; }
+.main-navigation .game-icon img { filter:grayscale(1) brightness(1.6); }
+.main-navigation > a.active, .main-navigation > a:not(.brand):hover, .wiki-menu summary.active, .wiki-menu[open] summary { color:#072630; background:var(--yellow); }
+.main-navigation > a.active .game-icon img { filter:brightness(.2); }
+.wiki-menu summary { list-style:none; position:relative; }
+.wiki-menu summary::-webkit-details-marker { display:none; }
+.wiki-chevron { position:absolute; right:3px; top:8px; font-size:11px; }
+.wiki-dropdown { position:fixed; top:255px; left:87px; width:235px; background:#092a35; border:1px solid #365761; padding:8px; border-radius:0 9px 9px 0; box-shadow:12px 14px 35px #0006; }
+.wiki-dropdown a { display:flex; align-items:center; gap:12px; padding:12px; border-radius:5px; font-size:12px; color:#c6e0e5; }
+.wiki-dropdown a:hover { background:#19424b; color:var(--yellow); }
+.wiki-dropdown .game-icon { font-size:20px; }
+.wiki-dropdown a > span:last-child { margin-left:auto; }
+.header-utilities { margin-top:auto; padding-top:20px; border-top:1px solid var(--line); display:flex; flex-direction:column; align-items:center; gap:8px; }
+.header-utilities > a:hover, .header-utilities > button:hover { background:#153d46; color:var(--yellow); }
+.header-utilities small { color:#94bac5; font-size:10px; line-height:1.6; margin-top:12px; }
+.header-actions { display:flex; align-items:center; gap:20px; min-width:0; }
+.header-version { font-size:9px; letter-spacing:1.5px; white-space:nowrap; color:#accad1; }
+.header-actions .header-play { display:none; }
+.site-search { display:flex; align-items:center; position:relative; width:clamp(220px,25vw,360px); background:#0a2933; border:1px solid #365965; border-radius:30px; height:38px; padding:0 12px; gap:10px; }
+.site-search .game-icon { font-size:20px; color:#bcdde3; text-shadow:none; }
+.site-search input { background:transparent; border:0; color:var(--text); width:100%; min-width:0; font-size:12px; }
+.site-search input::placeholder { color:#94b5c1; }
+.site-search input:focus-visible { outline:0; }
+.site-search:focus-within { outline:2px solid var(--yellow); outline-offset:2px; }
+.search-results { position:absolute; right:0; top:45px; width:360px; max-width:calc(100vw - 32px); background:#0b2d38; border:1px solid #40616b; border-radius:9px; padding:7px; box-shadow:0 12px 30px #0008; }
+.search-results a { display:flex; gap:15px; justify-content:space-between; align-items:center; padding:10px; border-bottom:1px solid var(--line); font-size:12px; }
+.search-results a:hover { background:#19424b; }
+.search-results small { font-size:10px; color:var(--muted); white-space:nowrap; }
+.search-results p { font-size:12px; padding:10px; margin:0; }
+.mobile-menu-button { display:none; background:#123741; border:1px solid #365965; border-radius:7px; font-size:22px; width:42px; height:40px; }
+@media (max-width:1024px) {
+  .app-header { background:#04232cf5; border-bottom:1px solid var(--line); }
+  .header-content { min-height:78px; flex-wrap:wrap; gap:12px; padding:12px 0; }
+  .header-actions { margin-left:auto; gap:12px; }
+  .header-version { display:none; }
+  .mobile-menu-button { display:block; order:2; }
+  .main-navigation { position:static; width:100%; order:3; display:none; flex-basis:100%; background:transparent; border:0; padding:8px 0; overflow:visible; align-items:stretch; gap:2px; }
+  .main-navigation.is-open { display:flex; }
+  .main-navigation > .brand { display:none; }
+  .main-navigation > a:not(.brand), .wiki-menu summary { width:100%; min-height:44px; flex-direction:row; justify-content:flex-start; padding:10px 12px; gap:14px; text-align:left; }
+  .main-navigation > a.active, .wiki-menu summary.active, .wiki-menu[open] summary { background:#19404a; color:var(--yellow); }
+  .wiki-chevron { position:static; margin-left:auto; }
+  .wiki-dropdown { position:static; width:100%; border:0; border-radius:6px; box-shadow:none; background:#0b3039; }
+  .header-utilities { flex-direction:row; justify-content:flex-start; margin:12px 0 0; padding-top:12px; }
+  .header-utilities > a, .header-utilities > button { flex-direction:row; width:auto; min-height:44px; padding:8px 12px; gap:10px; }
+  .header-utilities small { margin:0 0 0 auto; }
+  .site-search { width:clamp(190px,29vw,300px); }
+}
+@media (max-width:768px) {
+  .header-content { min-height:70px; gap:8px; }
+  .header-content > .brand { font-size:21px; gap:6px; }
+  .header-content > .brand img { width:32px; height:32px; }
+  .header-actions { gap:0; }
+  .site-search { width:36px; height:36px; padding:0 7px; }
+  .site-search input { width:0; opacity:0; }
+  .site-search:focus-within { width:min(65vw,330px); position:absolute; right:68px; z-index:5; }
+  .site-search:focus-within input { width:100%; opacity:1; }
+  .search-results { right:-52px; }
+  .mobile-menu-button { width:36px; height:36px; }
+}

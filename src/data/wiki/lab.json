@@ -1,0 +1,497 @@
+[
+  {
+    "id": "slot-move",
+    "name": "4th move",
+    "desc": "Unlocks the fourth move slot.",
+    "icon": "tm-case",
+    "max": 1,
+    "costsByLevel": [
+      1275
+    ],
+    "image": "/images/items/pokebonk/tm-case.png",
+    "category": "Unlocks & tools",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "id": "slot-vit",
+    "name": "Vitamin slots",
+    "desc": "+1 vitamin slot per level.",
+    "icon": "protein",
+    "max": 2,
+    "costsByLevel": [
+      1020,
+      2550
+    ],
+    "image": "/images/items/pokebonk/protein.png",
+    "category": "Unlocks & tools",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "id": "reroll",
+    "name": "Refresh",
+    "desc": "+1 use of Refresh offers per run.",
+    "icon": "escape-rope",
+    "max": 6,
+    "costsByLevel": [
+      100,
+      145,
+      200,
+      280,
+      390,
+      550
+    ],
+    "image": "/images/items/pokebonk/escape-rope.png",
+    "category": "Unlocks & tools",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "id": "skip",
+    "name": "Skip",
+    "desc": "+1 use of Skip upgrade per run (gives you PokéDollars).",
+    "icon": "x-speed",
+    "max": 6,
+    "costsByLevel": [
+      70,
+      95,
+      135,
+      185,
+      260,
+      365
+    ],
+    "image": "/images/items/pokebonk/x-speed.png",
+    "category": "Unlocks & tools",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "id": "banish",
+    "name": "Banish",
+    "desc": "+1 use of Banish: removes one option for the rest of the run.",
+    "icon": "cleanse-tag",
+    "max": 6,
+    "costsByLevel": [
+      130,
+      180,
+      250,
+      350,
+      490,
+      685
+    ],
+    "image": "/images/items/pokebonk/cleanse-tag.png",
+    "category": "Unlocks & tools",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "id": "choice4",
+    "name": "Fourth option",
+    "desc": "Level-ups offer 4 options.",
+    "icon": "lucky-egg",
+    "max": 1,
+    "costsByLevel": [
+      2550
+    ],
+    "image": "/images/items/pokebonk/lucky-egg.png",
+    "category": "Unlocks & tools",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "id": "dmg",
+    "name": "Training",
+    "desc": "+4% damage per level.",
+    "icon": "protein",
+    "max": 8,
+    "stat": "damage",
+    "per": 0.04,
+    "costsByLevel": [
+      85,
+      120,
+      165,
+      235,
+      325,
+      455,
+      640,
+      895
+    ],
+    "image": "/images/items/pokebonk/protein.png",
+    "category": "Permanent stats",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "id": "hp",
+    "name": "Stamina",
+    "desc": "+8 max HP per level.",
+    "icon": "hp-up",
+    "max": 8,
+    "stat": "maxHp",
+    "per": 8,
+    "costsByLevel": [
+      85,
+      120,
+      165,
+      235,
+      325,
+      455,
+      640,
+      895
+    ],
+    "image": "/images/items/pokebonk/hp-up.png",
+    "category": "Permanent stats",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "id": "spd",
+    "name": "Agility",
+    "desc": "+2.5% speed per level.",
+    "icon": "carbos",
+    "max": 6,
+    "stat": "moveSpeed",
+    "per": 0.025,
+    "costsByLevel": [
+      100,
+      150,
+      215,
+      310,
+      450,
+      655
+    ],
+    "image": "/images/items/pokebonk/carbos.png",
+    "category": "Permanent stats",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "id": "xp",
+    "name": "Study",
+    "desc": "+5% experience per level.",
+    "icon": "lucky-egg",
+    "max": 6,
+    "stat": "xpGain",
+    "per": 0.05,
+    "costsByLevel": [
+      100,
+      150,
+      215,
+      310,
+      450,
+      655
+    ],
+    "image": "/images/items/pokebonk/lucky-egg.png",
+    "category": "Permanent stats",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "id": "gold",
+    "name": "Trading",
+    "desc": "+8% PokéDollars per level.",
+    "icon": "amulet-coin",
+    "max": 6,
+    "stat": "gold",
+    "per": 0.08,
+    "costsByLevel": [
+      85,
+      125,
+      180,
+      260,
+      375,
+      545
+    ],
+    "image": "/images/items/pokebonk/amulet-coin.png",
+    "category": "Permanent stats",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "id": "luck",
+    "name": "Fortune",
+    "desc": "+5 luck per level.",
+    "icon": "star-piece",
+    "max": 6,
+    "stat": "luck",
+    "per": 5,
+    "costsByLevel": [
+      120,
+      175,
+      250,
+      365,
+      525,
+      765
+    ],
+    "image": "/images/items/pokebonk/star-piece.png",
+    "category": "Permanent stats",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "id": "magnet",
+    "name": "Magnetism",
+    "desc": "+0.6 pickup range per level.",
+    "icon": "magnet",
+    "max": 5,
+    "stat": "pickupRange",
+    "per": 0.6,
+    "costsByLevel": [
+      70,
+      100,
+      145,
+      205,
+      300
+    ],
+    "image": "/images/items/pokebonk/magnet.png",
+    "category": "Permanent stats",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "id": "regen",
+    "name": "Leftovers",
+    "desc": "+0.2 regen per level.",
+    "icon": "leftovers",
+    "max": 5,
+    "stat": "regen",
+    "per": 0.2,
+    "costsByLevel": [
+      100,
+      150,
+      215,
+      310,
+      450
+    ],
+    "image": "/images/items/pokebonk/leftovers.png",
+    "category": "Permanent stats",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "id": "armor",
+    "name": "Shell",
+    "desc": "+2 armor per level.",
+    "icon": "iron",
+    "max": 6,
+    "stat": "armor",
+    "per": 2,
+    "costsByLevel": [
+      100,
+      150,
+      215,
+      310,
+      450,
+      655
+    ],
+    "image": "/images/items/pokebonk/iron.png",
+    "category": "Permanent stats",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "id": "revive",
+    "name": "Revive",
+    "desc": "You start with a Max Revive.",
+    "icon": "max-revive",
+    "max": 1,
+    "costsByLevel": [
+      4250
+    ],
+    "image": "/images/items/pokebonk/max-revive.png",
+    "category": "Unlocks & tools",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "id": "research",
+    "name": "Research",
+    "desc": "+25% research progress per level.",
+    "icon": "poke-ball",
+    "max": 4,
+    "costsByLevel": [
+      215,
+      340,
+      545,
+      870
+    ],
+    "image": "/images/items/pokebonk/poke-ball.png",
+    "category": "Unlocks & tools",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "id": "party",
+    "name": "Support team",
+    "desc": "+1 slot for captured Alphas (from 2 to 3).",
+    "icon": "great-ball",
+    "max": 1,
+    "costsByLevel": [
+      2975
+    ],
+    "image": "/images/items/pokebonk/great-ball.png",
+    "category": "Unlocks & tools",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "id": "archive",
+    "name": "Archive",
+    "desc": "+5 Archive slots per level. Also, every 2 items you unlock give you 1 more slot. Archived items won't show up in Poké Balls or the shop.",
+    "icon": "everstone",
+    "max": 6,
+    "costsByLevel": [
+      510,
+      1020,
+      1700,
+      2550,
+      3400,
+      4675
+    ],
+    "image": "/images/items/pokebonk/everstone.png",
+    "category": "Unlocks & tools",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "id": "crit",
+    "name": "Precision",
+    "desc": "+1% crit chance per level.",
+    "icon": "scope-lens",
+    "max": 5,
+    "stat": "critChance",
+    "per": 0.01,
+    "costsByLevel": [
+      170,
+      255,
+      385,
+      575,
+      860
+    ],
+    "image": "/images/items/pokebonk/scope-lens.png",
+    "category": "Permanent stats",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "id": "atkspd",
+    "name": "Swiftness",
+    "desc": "+2% attack speed per level.",
+    "icon": "quick-claw",
+    "max": 5,
+    "stat": "attackSpeed",
+    "per": 0.02,
+    "costsByLevel": [
+      185,
+      280,
+      420,
+      630,
+      945
+    ],
+    "image": "/images/items/pokebonk/quick-claw.png",
+    "category": "Permanent stats",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "id": "area",
+    "name": "Expansion",
+    "desc": "+3% area per level.",
+    "icon": "wide-lens",
+    "max": 5,
+    "stat": "area",
+    "per": 0.03,
+    "costsByLevel": [
+      170,
+      255,
+      385,
+      575,
+      860
+    ],
+    "image": "/images/items/pokebonk/wide-lens.png",
+    "category": "Permanent stats",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "id": "ult",
+    "name": "Harmony",
+    "desc": "The Ultimate charges 4% faster per level.",
+    "icon": "soul-dew",
+    "max": 5,
+    "costsByLevel": [
+      215,
+      320,
+      480,
+      715,
+      1075
+    ],
+    "image": "/images/items/pokebonk/soul-dew.png",
+    "category": "Unlocks & tools",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  },
+  {
+    "id": "bag",
+    "name": "Big Bag",
+    "desc": "You can take 3 items from the Bag into each run (instead of 2).",
+    "icon": "great-ball",
+    "max": 1,
+    "costsByLevel": [
+      3400
+    ],
+    "image": "/images/items/pokebonk/great-ball.png",
+    "category": "Unlocks & tools",
+    "gameVersion": "0.8.62",
+    "lastVerified": "2026-10-28",
+    "source": "https://pokebonk.com/",
+    "isDetails": false
+  }
+]

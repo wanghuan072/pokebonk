@@ -1,0 +1,219 @@
+{
+  "about": {
+    "sections": [
+      {
+        "id": "site",
+        "title": "What pokebonkdb.org gives you",
+        "paragraphs": [
+          "pokebonkdb.org is an independent English fan site for PokéBonk. Use it between runs when you want a specific answer: which partner to start, which attack to keep, which fusion to finish, or whether a Lab purchase is worth the Stardust.",
+          "The Pokédex lists all 151 Kanto species and filters the 79 League partners. Attacks covers 493 entries, including signature, reaction, same-type and glitch fusions. You can also compare 126 items and 26 vitamins, calculate 24 Lab upgrades, read guides for a first run, PokéBonk Survival and PokéBonk Co-op, and open the Survival combinations we tested. A tier board and an achievement checklist stay in this browser. None of these tools connects to a game account, and this site does not host the game."
+        ]
+      },
+      {
+        "id": "game",
+        "title": "What PokéBonk is",
+        "paragraphs": [
+          "PokéBonk, also called PokéBonk 3D, is a free browser survival game built around Kanto’s Pokémon. You choose a League partner, move through hordes, collect experience, and pick attacks, vitamins and items as the run grows. Evolution and move fusions change the build. Stardust earned in a run pays for permanent Lab upgrades before the next attempt.",
+          "Classic is a standard run with a clear. PokéBonk Survival keeps the map open, so the result is how long you stay alive, including a later Mewtwo encounter. PokéBonk Co-op is a shared room: you ready up together, revive teammates and move through portals as a group. Daily Mutations and seasonal events add extra challenges on top of those runs.",
+          "The Play page is where this site opens the game. Accounts, saves, moderation and in-game support stay with the original service. pokebonkdb.org explains the choices; it does not log you in or change a save."
+        ]
+      },
+      {
+        "id": "independence",
+        "title": "An independent fan site",
+        "paragraphs": [
+          "Names, kits and prices were checked against the public English v0.8.62 client, build mvr5gbc0, on October 28, 2026. The opening order on the tier list is an editorial comfort comparison, not a measured win rate. If the live game differs, trust the tooltip you see and tell us which page needs a correction.",
+          "pokebonkdb.org is not operated by, affiliated with or endorsed by the PokéBonk creator, Nintendo, The Pokémon Company, Creatures or GAME FREAK. We do not host the game or ask for game login details. Read the Copyright page for artwork credits and the Privacy Policy for the local planning tools."
+        ]
+      }
+    ]
+  },
+  "privacy-policy": {
+    "sections": [
+      {
+        "id": "overview",
+        "title": "Information used to provide this site",
+        "paragraphs": [
+          "pokebonkdb.org provides game information and planning tools without requiring a site account. The current site has no advertising integration, payment system or newsletter subscription. Google Analytics loads on each page and can receive a page view from that script. You can search the lists and read the guides without providing a name, email address, game password or game save.",
+          "This policy describes the features currently implemented. Adding a service that changes how visitor information is handled requires a corresponding policy update. It does not describe the independent practices of the original game. The Play page is the only page on this site that opens that game."
+        ]
+      },
+      {
+        "id": "storage",
+        "title": "Tier boards, achievement checklists and vitamin plans",
+        "paragraphs": [
+          "Your tier board, achievement marks and vitamin plans are stored in this browser’s localStorage under versioned PokeBonk keys. A tier board contains Pokémon placements; a checklist contains achievement identifiers; a vitamin plan contains partner and vitamin identifiers. Plans allow three base vitamin slots per partner. These tools do not read your game account or Lab purchases.",
+          "Choices are not sent to a site account or the game and do not sync between devices. Reset the tier board, unmark achievements or use Edit plan to remove vitamins. Erase all saved choices through your browser’s site-data settings. Exporting a tier board downloads a JSON file to your device. If storage is blocked, tools may keep choices only until you leave the page; clearing storage removes saved choices."
+        ]
+      },
+      {
+        "id": "requests",
+        "title": "Search, page requests and hosting",
+        "paragraphs": [
+          "Searches and list filters are handled in the browser. The site does not operate a search-history account or a server endpoint that receives your search text. Loading pages, fonts, images and scripts still creates ordinary network requests to the site’s hosting service.",
+          "Those requests can include an IP address, browser headers, the requested address and request timing. The host’s technical logs and retention depend on the service used for deployment. This site does not promise a specific hosting retention period or logging configuration that has not been established."
+        ]
+      },
+      {
+        "id": "email",
+        "title": "Information you choose to send by email",
+        "paragraphs": [
+          "Contacting support@pokebonkdb.org shares your email address and the contents of your message through your chosen email provider. The site has no contact-submission form. Include only information needed to explain a site problem, correction or rights concern; passwords, login codes and private game records are not needed.",
+          "A message may be used to understand the issue, reply and make the relevant correction. Email delivery and storage also involve the providers handling that correspondence. Requests about a message you have sent can be addressed to the same mailbox."
+        ]
+      },
+      {
+        "id": "links",
+        "title": "External websites and game accounts",
+        "paragraphs": [
+          "The Play page is the only page that opens the original game. That service manages its own browser storage, accounts and game sessions. pokebonkdb.org does not load the game into an embedded frame or read its saved session.",
+          "Review the destination’s policies when using another service. Questions about a game account, save or suspension should be directed through the game’s own support options, rather than sent with login details to this fan site."
+        ]
+      },
+      {
+        "id": "contact",
+        "title": "Questions and policy changes",
+        "paragraphs": [
+          "For questions about privacy on pokebonkdb.org, write to support@pokebonkdb.org and identify the page or feature involved. The modification date above reflects substantive changes to this page. A future feature may require different disclosures, so check this policy again if the tools or services change."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "sections": [
+      {
+        "id": "use",
+        "title": "Using pokebonkdb.org",
+        "paragraphs": [
+          "pokebonkdb.org offers independent guides, game information and local planning tools. You may browse the pages and use the Pokédex filters, fusion finder, Lab calculator, achievement checklist and tier board for personal planning. No game account is needed to use this site.",
+          "Use the site in a way that allows other visitors to use it too. Do not attempt to interfere with its operation, obtain private information or misrepresent this site as an official game service. The site does not provide game cheats, account access or a way to bypass game restrictions."
+        ]
+      },
+      {
+        "id": "accuracy",
+        "title": "Game changes and editorial advice",
+        "paragraphs": [
+          "Game updates can change moves, prices, unlocks and competitive rules. Version labels and standings dates help explain when the displayed information applies. Check the current game description before spending in-game currency or committing to an unlock plan.",
+          "Guides and recommendations explain possible choices. They do not guarantee a clear, a particular score, a reward or a ranking. The partner comparison is an editorial model focused on Classic openings; it is not a competitive result. Corrections can be sent to support@pokebonkdb.org with enough detail to identify the problem."
+        ]
+      },
+      {
+        "id": "tools",
+        "title": "Planning tools and saved choices",
+        "paragraphs": [
+          "The Lab calculator adds the listed next-level costs for the levels you enter. It does not read your current balance or make a purchase. The fusion finder covers the stated signature recipes; an absent signature result does not rule out every other possible fusion outcome in the game.",
+          "Checklist marks and custom tier placements are your own local choices, not official game records. Browser settings, storage restrictions or clearing site data can remove them. You can export your tier board as a local JSON file. The site does not offer cross-device recovery of a board or checklist."
+        ]
+      },
+      {
+        "id": "game",
+        "title": "The game and other services",
+        "paragraphs": [
+          "PokeBonk runs on its own website. Game access, saves, accounts, moderation and seasonal rewards are managed by that service under its own rules. pokebonkdb.org cannot restore a game save, change an account, remove a suspension, verify an achievement on your behalf or award Stardust.",
+          "External links help readers reach the game or inspect relevant information. Availability and practices at another website can change independently. Opening an external site does not create an account or support relationship with this fan site."
+        ]
+      },
+      {
+        "id": "rights",
+        "title": "Content, artwork and attribution",
+        "paragraphs": [
+          "Game names, character artwork and other third-party material remain associated with their respective rights holders. The Copyright page explains the credits used on this site and how to identify a specific rights concern. The site’s original writing and branding should not be presented as official PokeBonk or Pokémon material.",
+          "If you quote an original passage in a discussion, identify the page and link readers to its full context. These terms do not grant ownership or a new license to third-party game assets. Questions about permission for a particular use should identify the material and the intended use."
+        ]
+      },
+      {
+        "id": "contact",
+        "title": "Changes and contact",
+        "paragraphs": [
+          "The site and these terms may change as its features develop. The date above records a substantive revision to this page. Send questions about these terms or the operation of pokebonkdb.org to support@pokebonkdb.org. The Privacy Policy explains browser storage and email contact in more detail."
+        ]
+      }
+    ]
+  },
+  "copyright": {
+    "sections": [
+      {
+        "id": "original",
+        "title": "Original site content",
+        "paragraphs": [
+          "pokebonkdb.org publishes original explanatory writing, page layouts, planning-tool interfaces and site branding. The site’s copyright notice identifies that original contribution. It does not claim ownership of Pokémon, PokeBonk, the underlying game or artwork created by another rights holder.",
+          "References to game names, characters, attacks and items identify what a page discusses. Original guide text and visual branding should not be represented as statements made by the game’s creator or by a Pokémon rights holder."
+        ]
+      },
+      {
+        "id": "game",
+        "title": "Game names and third-party material",
+        "paragraphs": [
+          "Pokémon names and related character rights belong to their respective owners, including Nintendo, Creatures, GAME FREAK and The Pokémon Company as applicable. PokeBonk is an independently operated fan game; its game code, interface and original material remain separate from this website.",
+          "pokebonkdb.org is an unofficial fan site and is not affiliated with, sponsored by or endorsed by the PokeBonk creator or those Pokémon rights holders. Fan-site status is a description of this website’s relationship to the game, not a claim that every possible reuse of third-party material is authorized."
+        ]
+      },
+      {
+        "id": "art",
+        "title": "Artwork and interface credits",
+        "paragraphs": [
+          "Pokémon animations play the original PokeBonk sprite frames with the game’s frame timings. Portraits use the matching in-game assets. Item sprites and type symbols identify the corresponding game item or element; some move illustrations are elemental symbols rather than pictures of the move animation.",
+          "Game screenshots show starter selection, the League interface and the Lab tutorial. They are labeled for the part of the game they illustrate. The game promotional artwork is used to identify PokeBonk. The site’s original impact emblem and sharing artwork are branding, not screenshots or evidence of a combat result. The Nunito typeface is distributed under the SIL Open Font License."
+        ]
+      },
+      {
+        "id": "links",
+        "title": "Credits and further information",
+        "paragraphs": [
+          "The Play page opens the original game. Keeping a locally cached image does not transfer the rights in that image to pokebonkdb.org. The presence of material in a public repository should not be read as a claim that its repository license overrides the rights of the underlying game or character owner."
+        ]
+      },
+      {
+        "id": "concerns",
+        "title": "Report a copyright concern",
+        "paragraphs": [
+          "Email support@pokebonkdb.org with the page address, the image or passage involved, the work you believe is affected and a way to reply. Explain your relationship to the relevant rights and the correction or action you are requesting. A precise page or asset address is more useful than a general description of the entire site.",
+          "Do not include game login details, private identification documents or unrelated personal information. This mailbox handles concerns about pokebonkdb.org; it is not an appointed contact for the original game or for Pokémon rights holders. A message to this mailbox is not represented as a formal filing with a government office or an external platform."
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "sections": [
+      {
+        "id": "email",
+        "title": "Email site support",
+        "paragraphs": [
+          "Email support@pokebonkdb.org for questions about pokebonkdb.org, broken pages, unclear explanations, game-information corrections or artwork concerns. Contact is handled through email; this page has no submission form and does not ask you to create an account.",
+          "The mailbox supports this independent fan site. It cannot access a PokeBonk account, check a private save or act on behalf of the game creator. Messages should describe a site issue that can be identified without access to your login."
+        ]
+      },
+      {
+        "id": "corrections",
+        "title": "Report a content correction",
+        "paragraphs": [
+          "Include the page address, the move, Pokémon, item or upgrade involved, and the sentence or value you believe is incorrect. If the issue depends on a game update, add the version shown in the game and explain what its current tooltip or menu displays.",
+          "For prices, include the starting level and target level. For a fusion, include both ingredient names and their levels. For a score or placement, include the mode, region, season and date. These details help distinguish a factual error from a change in version or a different comparison setting."
+        ]
+      },
+      {
+        "id": "problems",
+        "title": "Report a page or tool problem",
+        "paragraphs": [
+          "Describe what you were trying to do, the steps that led to the problem and what happened instead. Include your browser and approximate screen size when a menu, table or card does not fit. A screenshot can help if it shows the affected part of the page without private information.",
+          "Tier boards and checklist marks are stored in your browser. If saved choices disappear, mention whether private browsing, storage restrictions or clearing site data was involved. The site does not maintain a remote copy that can be restored through support."
+        ]
+      },
+      {
+        "id": "rights",
+        "title": "Artwork and rights questions",
+        "paragraphs": [
+          "Identify the exact image, passage or page and explain the issue. If you represent a rights holder, describe that relationship and the action requested. The Copyright page lists the principal credits and explains how third-party game material is distinguished from the site’s own work.",
+          "Please send only the information needed for the issue. Passwords, login codes, government identifiers and unrelated account records are not needed. This site does not promise a response deadline or a particular outcome before the concern has been reviewed."
+        ]
+      },
+      {
+        "id": "game-help",
+        "title": "Game accounts and saves",
+        "paragraphs": [
+          "For a game account, save, suspension, login or reward issue, use the help options in the original game. The Play page is where this site opens that game. pokebonkdb.org cannot change those records or recover access. The guides here can explain game choices, but reading a guide or writing to this mailbox does not submit a request to the game’s support service."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "version": "0.8.25",
+  "checkedAt": "2026-10-23T08:23:57.772Z",
+  "files": [
+    {
+      "file": "current-index.html",
+      "url": "https://pokebonk.com/?lang=en",
+      "sha256": "001d4ccbbe65dd50eccd870f231b3c1d1c6ec79a2db1018057257d28d389158a",
+      "bytes": 10689
+    },
+    {
+      "file": "current-entry.js",
+      "url": "https://pokebonk.com/assets/main-BgUJZRkG-mvjzbutg.js",
+      "sha256": "f8fcabf7c216d3ba049d7164815055feb7fbde5a39e1a9f94efed3089c35ac52",
+      "bytes": 9311
+    },
+    {
+      "file": "current-game.js",
+      "url": "https://pokebonk.com/assets/main-C90gB5C0-mvjzbutg.js",
+      "sha256": "da9981da3b03e8cb48e39cd90d94bbc8f54f06f8cd31a99180ce81db56abbc7b",
+      "bytes": 1944320
+    },
+    {
+      "file": "current-news.js",
+      "url": "https://pokebonk.com/assets/news-SYOogixF-mvjzbutg.js",
+      "sha256": "a9329e2b4ccb9d4b8c436abaadf72dd2c6643642511853f3439c5be1b0be08b3",
+      "bytes": 125666
+    },
+    {
+      "file": "current-en.js",
+      "url": "https://pokebonk.com/assets/en-D7CrqP_e-mvjzbutg.js",
+      "sha256": "75dd331bef9ba16c949f2e529826219fa29e03ef614b901383e7f5cd30aabc16",
+      "bytes": 435931
+    },
+    {
+      "file": "current-pokemon.json",
+      "url": "https://pokebonk.com/data/pokemon.json?v=5l9YG1H_",
+      "sha256": "cd148403e2e7e44a86ac982bfb71b73dde8bf3641816e2fa549a5c05a988b678",
+      "bytes": 528525,
+      "initialUrl": "https://pokebonk.com/data/pokemon.json"
+    },
+    {
+      "file": "current-moves.json",
+      "url": "https://pokebonk.com/data/moves.json?v=Ixf0MGdc",
+      "sha256": "bd7a87d79d3a18a818eef5bcef375e068401105f50fda2c3a12d844426a82518",
+      "bytes": 356086,
+      "initialUrl": "https://pokebonk.com/data/moves.json"
+    },
+    {
+      "file": "current-items.json",
+      "url": "https://pokebonk.com/data/items.json?v=3BUkWvy1",
+      "sha256": "d70c23fe21cb0aca6089f475a0cf87cae947d2ec303884113d6647235476cdd7",
+      "bytes": 25970,
+      "initialUrl": "https://pokebonk.com/data/items.json"
+    },
+    {
+      "file": "current-i18n-en.json",
+      "url": "https://pokebonk.com/data/i18n/en.json?v=3yGJZ_Pq",
+      "sha256": "02d573396a8da6f088e36c722a69e5b94ea66cb7e7db84914ef74e0e6d7496b3",
+      "bytes": 115637,
+      "initialUrl": "https://pokebonk.com/data/i18n/en.json"
+    }
+  ],
+  "build": "mvjzbutg"
+}
