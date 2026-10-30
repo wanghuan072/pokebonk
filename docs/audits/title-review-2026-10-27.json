@@ -104,8 +104,8 @@
     {
       "route": "/about",
       "h1": "About Us",
-      "title": "About PokeBonk.me - Pokémon Guides & Planning Tools",
-      "titleCharacters": 51,
+      "title": "About pokebonkdb.org - Pokémon Guides & Planning Tools",
+      "titleCharacters": 54,
       "descriptionCharacters": 154
     },
     {
@@ -132,8 +132,8 @@
     {
       "route": "/contact",
       "h1": "Contact Us",
-      "title": "Contact PokeBonk.me - Corrections & Site Support",
-      "titleCharacters": 48,
+      "title": "Contact pokebonkdb.org - Corrections & Site Support",
+      "titleCharacters": 51,
       "descriptionCharacters": 160
     },
     {

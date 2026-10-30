@@ -4,13 +4,13 @@ The approved content and SEO revision is implemented for 21 published content ro
 
 ## Content and identity
 
-Hero copy and search metadata are maintained separately. All published titles have 40–60 characters, all descriptions 140–160, with the PokeBonk keyword and self-referencing canonicals on `https://pokebonk.me`. Ordinary metadata is centralized in `src/seo/tdk.js`; each guide has its own JSON `seo` object.
+Hero copy and search metadata are maintained separately. All published titles have 40–60 characters, all descriptions 140–160, with the PokeBonk keyword and self-referencing canonicals on `https://pokebonkdb.org`. Ordinary metadata is centralized in `src/seo/tdk.js`; each guide has its own JSON `seo` object.
 
 Home contains a game/site introduction and eight rewritten FAQs. Three detailed illustrated guides remain, with version-specific examples and tables. The recommendation model is described as an editorial Classic-opening comparison, not a measured win-rate ranking. Official season standings retain their capture date. No fictional author experience or official affiliation has been introduced.
 
 Gameplay values cover v0.8.13. Release history extends through v0.8.25, and official leaderboard standings are dated October 23, 2026. The newer patch-history version does not imply that all gameplay values have been checked against that version.
 
-Five text-only Legal pages use the existing public URLs plus `/copyright`; `/disclaimer` redirects permanently to `/copyright`. The contact address is support@pokebonk.me. Legal navigation uses normal internal links. The footer has separate copyright and independent fan-site lines.
+Five text-only Legal pages use the existing public URLs plus `/copyright`; `/disclaimer` redirects permanently to `/copyright`. The contact address is support@pokebonkdb.org. Legal navigation uses normal internal links. The footer has separate copyright and independent fan-site lines.
 
 Original impact-emblem branding replaces the previous header/footer icon and framework tab icon. Assets include the SVG and PNG emblem, 1200 × 630 sharing image, ICO and Apple icon. The cover was generated with built-in imagegen; its final prompt and saved asset paths are recorded in `docs/seo-maintenance.md`. Game portraits, icons and interface screenshots retain their corresponding game identities.
 

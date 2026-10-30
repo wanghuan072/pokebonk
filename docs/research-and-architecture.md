@@ -23,7 +23,7 @@ All independent-page links use ordinary anchors for full-document navigation. Ta
 
 The Play page links to the original game. The leaderboard contains October 23 official UI snapshots of 100 Global records in each of three modes. Tier recommendations compare all 79 League starting kits using a disclosed opening-comfort model; a separate draggable board includes all 151 species. There are three illustrated guides. Non-guide details are disabled through JSON flags and route guards. See [the current redesign](list-pages-redesign.md).
 
-Set a real `NEXT_PUBLIC_SITE_URL` before deployment. Without it, localhost canonicals and noindex protect the preview from accidental indexing. Set a genuine optional `NEXT_PUBLIC_CONTACT_EMAIL` to enable the email-draft action. No remote repository, deployment or external-contact operation was performed.
+The canonical origin is fixed to `https://pokebonkdb.org` and the contact address is `support@pokebonkdb.org` in `src/config/site.ts`. These values are not configured through public environment variables. Page metadata, robots.txt and the SEO manifest share `src/config/indexability.cjs`: Vercel Preview always stays noindex, Vercel production is indexable unless `SITE_INDEXABLE=false`, and other environments require `SITE_INDEXABLE=true`. Non-indexable builds publish an empty sitemap. No remote repository, deployment or external-contact operation was performed.
 
 The three guide details use Article schema; breadcrumbs use BreadcrumbList. FAQ rich-result eligibility is not claimed. The sitemap contains 18 general/list pages and three enabled guides.
 

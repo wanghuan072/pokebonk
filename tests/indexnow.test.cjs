@@ -56,10 +56,61 @@ test('production preparation refuses missing deployment identity',()=>{
  const {spawnSync}=require('child_process');const result=spawnSync(process.execPath,['scripts/prepare-seo.cjs'],{encoding:'utf8',env:{...process.env,VERCEL_ENV:'production',VERCEL_PROJECT_ID:'wrong'}});
  assert.notEqual(result.status,0);assert.match(result.stderr,/identity/);
 });
+
+test('metadata, robots and sitemap agree with preparation in every environment',()=>{
+ const fs=require('node:fs'),{spawnSync}=require('node:child_process'),vm=require('node:vm'),ts=require('typescript');
+ const files=['public/seo-manifest.json','src/seo/build-history.json','.indexnow/local-manifest.json'];
+ const saved=files.map(file=>fs.existsSync(file)?fs.readFileSync(file):null);
+ const evaluate=(file,env,imports)=>{
+  const context={exports:{},process:{env},URL,require:name=>{
+   assert.ok(Object.hasOwn(imports,name),'Unexpected import: '+name);
+   return imports[name];
+  }};
+  const code=ts.transpileModule(fs.readFileSync(file,'utf8'),{compilerOptions:{module:ts.ModuleKind.CommonJS}}).outputText;
+  vm.runInNewContext(code,context);return context.exports;
+ };
+ const baseline=make({});
+ const script=`global.fetch=async()=>new Response(JSON.stringify(${JSON.stringify(baseline)}),{status:200});require('./scripts/prepare-seo.cjs').prepare().catch(e=>{console.error(e);process.exitCode=1})`;
+ try{
+  for(const environment of [undefined,'development','preview','production']){
+   for(const override of [undefined,'false','true']){
+    const env={...process.env,VERCEL_PROJECT_ID:config.projectId,VERCEL_GIT_COMMIT_REF:config.productionBranch,VERCEL_DEPLOYMENT_ID:'dpl_matrix',VERCEL_GIT_COMMIT_SHA:'a'.repeat(40)};
+    delete env.VERCEL_ENV;delete env.SITE_INDEXABLE;
+    if(environment!==undefined)env.VERCEL_ENV=environment;
+    if(override!==undefined)env.SITE_INDEXABLE=override;
+    const label=`${environment||'non-Vercel'} / ${override||'unset'}`;
+    const expected=environment!=='preview'&&(override==='true'||environment==='production'&&override!=='false');
+    const result=spawnSync(process.execPath,['-e',script],{encoding:'utf8',env});
+    assert.equal(result.status,0,label+': '+result.stderr);
+    const manifest=JSON.parse(fs.readFileSync(files[0],'utf8'));
+    const {site}=evaluate('src/config/site.ts',env,{
+     './indexability.cjs':require('../src/config/indexability.cjs'),
+     '@/data/site/game-version.json':{default:{version:'test',checkedAt:'2026-10-28'}},
+    });
+    const robots=evaluate('src/app/robots.ts',env,{'@/config/site':{site}}).default();
+    const sitemap=evaluate('src/app/sitemap.ts',env,{'../../public/seo-manifest.json':{default:manifest}}).default();
+    const {pageMetadata}=evaluate('src/seo/metadata.ts',env,{
+     './tdk':{default:{'/':{title:'PokeBonk',description:'Test'}}},
+     '@/config/site':{site},'./history':{getPageModified:()=> '2026-10-28'},
+    });
+    assert.equal(site.configured,expected,label);
+    assert.equal(pageMetadata('/').robots.index,expected,label);
+    assert.equal(robots.rules.allow,expected?'/':undefined,label);
+    assert.equal(robots.rules.disallow,expected?undefined:'/',label);
+    assert.equal(robots.sitemap,expected?config.siteUrl+'/sitemap.xml':undefined,label);
+    assert.equal(manifest.entries.length,expected?22:0,label);
+    assert.equal(sitemap.length,manifest.entries.length,label);
+    assert.ok(sitemap.every(entry=>entry.url.startsWith(config.siteUrl+'/')),label);
+   }
+  }
+ }finally{
+  files.forEach((file,i)=>{if(saved[i]===null)fs.rmSync(file,{force:true});else fs.writeFileSync(file,saved[i])});
+ }
+});
 test('production preparation inherits the live manifest, not a new build time',()=>{
  const fs=require('fs'),{spawnSync}=require('child_process');const files=['public/seo-manifest.json','src/seo/build-history.json'];const saved=files.map(f=>fs.readFileSync(f));
  try{
-  const old=JSON.parse(saved[0]);old.deployment.environment='production';old.deployment.projectId=config.projectId;
+  const old=createManifest(require('../scripts/lib/page-fingerprints.cjs').collectPages(),JSON.parse(fs.readFileSync('src/seo/page-history.json','utf8')),undefined,new Date().toISOString(),{environment:'production',projectId:config.projectId});
   const script=`global.fetch=async()=>new Response(JSON.stringify(${JSON.stringify(old)}),{status:200});require('./scripts/prepare-seo.cjs').prepare().catch(e=>{console.error(e);process.exitCode=1})`;
   const result=spawnSync(process.execPath,['-e',script],{encoding:'utf8',env:{...process.env,VERCEL_ENV:'production',SITE_INDEXABLE:'true',VERCEL_PROJECT_ID:config.projectId,VERCEL_GIT_COMMIT_REF:'main',VERCEL_DEPLOYMENT_ID:'dpl_new',VERCEL_GIT_COMMIT_SHA:'a'.repeat(40),VERCEL_URL:'pokebonk-new.vercel.app'}});
   assert.equal(result.status,0,result.stderr);const m=JSON.parse(fs.readFileSync(files[0]));assert.deepEqual(m.entries,old.entries);assert.equal(m.deployment.id,'dpl_new');

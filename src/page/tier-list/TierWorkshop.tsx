@@ -288,7 +288,7 @@ export default function TierWorkshop() {
             </p>
             <p>
               Game version {rankings.gameVersion} ·{" "}
-              <a href="/about#limits">How the kits are compared →</a>
+              <a href="/about#independence">How the kits are compared →</a>
             </p>
             <p>{rankings.versionReview.summary}</p>
           </div>

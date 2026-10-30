@@ -67,7 +67,7 @@ export default async function GuideDetailPage({
           <h1>{g.title}</h1>
           <p>{g.summary}</p>
           <div className="page-meta">
-            <span>By PokeBonk.me</span>
+            <span>By pokebonkdb.org</span>
             <span>Game version {g.gameVersion}</span>
             <span>Updated {getPageModified("/guides/" + g.slug)}</span>
           </div>
@@ -175,7 +175,7 @@ export default async function GuideDetailPage({
                 </div>
               </section>
               <p>
-                <a href="/about#editorial">About these guides</a>
+                <a href="/about#independence">About these guides</a>
               </p>
             </article>
             <aside className="article-aside">

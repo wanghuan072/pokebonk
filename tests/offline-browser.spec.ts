@@ -13,6 +13,7 @@ import guideRecords from "../src/data/guides/guides.json";
 import releaseRecords from "../src/data/updates/releases.json";
 import officialBoards from "../src/data/leaderboard/snapshot.json";
 import tierAnalysis from "../src/data/tier-list/rankings.json";
+import kitRecommendations from "../src/data/tier-list/recommendations.json";
 
 const root = process.cwd();
 const origin = "http://pokebonk.test";
@@ -81,6 +82,22 @@ const fixedRoutes = [
   "/terms",
   "/copyright",
 ];
+test("Google Analytics initializes once per document navigation", async ({ page }) => {
+  for (const width of [1440, 390]) {
+    await page.setViewportSize({ width, height: 950 });
+    for (const route of ["/", "/guides"]) {
+      await page.goto(origin + route);
+      await expect(page.locator('script#google-analytics-loader')).toHaveCount(1);
+      await expect(page.locator('script#google-analytics-loader')).toHaveAttribute(
+        'src', 'https://www.googletagmanager.com/gtag/js?id=G-JS9T51RF8S',
+      );
+      await expect.poll(() => page.evaluate(() => {
+        const layer = (window as unknown as { dataLayer?: ArrayLike<unknown>[] }).dataLayer || [];
+        return layer.map(entry => [entry[0], entry[0] === "config" ? entry[1] : null]);
+      })).toEqual([['js', null], ['config', 'G-JS9T51RF8S']]);
+    }
+  }
+});
 async function readyImages(page: import("@playwright/test").Page) {
   await page.evaluate(async () => {
     document.querySelectorAll("img").forEach((i) => (i.loading = "eager"));
@@ -475,15 +492,23 @@ test("tablet menu and mobile search remain usable", async ({ page }) => {
 test("metadata, structured data, sitemap and Legal links match published content", async ({
   page,
 }) => {
+  const manifest = JSON.parse(
+    await fs.readFile("public/seo-manifest.json", "utf8"),
+  ) as { entries: { path: string; canonicalUrl: string; lastModified: string }[] };
   const history = JSON.parse(
     await fs.readFile("src/seo/page-history.json", "utf8"),
   );
   for (const route of Object.keys(history)) {
     await page.goto(origin + route);
     const title = await page.title();
+    const indexable = manifest.entries.some((entry) => entry.path === route);
+    await expect(page.locator('meta[name="robots"]')).toHaveAttribute(
+      "content",
+      indexable ? "index, follow" : "noindex, follow",
+    );
     expect(title.length).toBeGreaterThanOrEqual(40);
     expect(title.length).toBeLessThanOrEqual(60);
-    expect(title).toContain("PokeBonk");
+    expect(title).toMatch(/Pok[eé]Bonk/);
     const description = await page
       .locator('meta[name="description"]')
       .getAttribute("content");
@@ -523,15 +548,15 @@ test("metadata, structured data, sitemap and Legal links match published content
     "utf8",
   );
   expect([...sitemap.matchAll(/<loc>/g)]).toHaveLength(
-    Object.keys(history).length,
+    manifest.entries.length,
   );
-  for (const [route, value] of Object.entries(history) as [
-    string,
-    { modified: string },
-  ][])
+  for (const entry of manifest.entries)
     expect(sitemap).toContain(
-      `<loc>https://pokebonkdb.org${route}</loc>\n<lastmod>${value.modified}</lastmod>`,
+      `<loc>${entry.canonicalUrl}</loc>\n<lastmod>${entry.lastModified.slice(0, 10)}</lastmod>`,
     );
+  const robots = await fs.readFile(".next/server/app/robots.txt.body", "utf8");
+  expect(robots).toContain(manifest.entries.length ? "Allow: /" : "Disallow: /");
+  expect(robots.includes("Sitemap:")).toBe(manifest.entries.length > 0);
   expect(sitemap).not.toContain("/disclaimer");
   const redirects = JSON.parse(
     await fs.readFile(".next/routes-manifest.json", "utf8"),
@@ -865,9 +890,15 @@ test("every recommended kit has its own ranking explanation and all species are 
  await expect(page.locator('.player-ranking-group')).toHaveCount(4);
  const links=await page.locator('.player-ranking-family a').evaluateAll(links=>links.map(a=>a.getAttribute('href')));
  expect(new Set(links).size).toBe(151);
- const explanations=await recommendations.evaluateAll(cards=>cards.map(c=>c.querySelector(':scope>p')?.textContent));
- expect(new Set(explanations).size).toBe(79);
- expect(explanations.every(text=>text&&text.split(/\s+/).length>=20)).toBe(true);
+ const explanations=await recommendations.evaluateAll(cards=>cards.map(c=>({
+  slug:c.id.replace(/^recommend-/,''),
+  text:c.querySelector(':scope > p:not(.ranking-subhead)')?.textContent?.trim()||'',
+ })));
+ expect(new Set(explanations.map(entry=>entry.text)).size).toBe(79);
+ for(const {slug,text} of explanations){
+  expect(text,`${slug}: displayed recommendation`).toBe(kitRecommendations.entries.find(entry=>entry.slug===slug)?.why);
+  expect(text.split(/\s+/).length,`${slug}: explanation word count`).toBeGreaterThanOrEqual(20);
+ }
  await page.locator('#recommend-slowpoke details summary').click();
  await expect(page.locator('#recommend-slowpoke')).toContainText('The speed penalty');
  await expect(page.locator('#recommend-magikarp')).toContainText('Gyarados');

@@ -114,7 +114,7 @@ export default function UpdatesExplorer() {
       <p className="source-note">
         Published notes through v{gameVersion.version} · checked {gameVersion.checkedLabel}. Gameplay
         tables use version {gameVersion.version}.{" "}
-        <a href="/about#data">How updates are handled →</a>
+        <a href="/about#independence">How data is checked →</a>
       </p>
     </div>
   );

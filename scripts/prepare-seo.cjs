@@ -1,6 +1,7 @@
 const fs=require('fs'),path=require('path');
 const {collectPages}=require('./lib/page-fingerprints.cjs');
 const {config,createManifest,fetchPublic,validate}=require('./indexnow/lib.cjs');
+const {isSiteIndexable}=require('../src/config/indexability.cjs');
 async function prepare(){
  const production=process.env.VERCEL_ENV==='production';
  if(!fs.readFileSync('src/config/site.ts','utf8').includes('"'+config.siteUrl+'"'))throw Error('IndexNow origin differs from site canonical');
@@ -23,7 +24,7 @@ async function prepare(){
   }else throw Error('Cannot read production SEO baseline: HTTP '+r.status);
  }
  const deployment={projectId:process.env.VERCEL_PROJECT_ID||config.projectId,id:process.env.VERCEL_DEPLOYMENT_ID||'local',url:process.env.VERCEL_URL||'',commit:process.env.VERCEL_GIT_COMMIT_SHA||'local',branch:process.env.VERCEL_GIT_COMMIT_REF||'local',environment:production?'production':process.env.VERCEL_ENV||'local'};
- const indexable=process.env.VERCEL_ENV!=="preview"&&(!production||process.env.SITE_INDEXABLE!=="false");
+ const indexable=isSiteIndexable();
  const manifest=createManifest(indexable?fingerprints:{},history,previous,now,deployment);
  const runtime=Object.fromEntries(manifest.entries.map(e=>[e.path,{fingerprint:e.contentFingerprint.slice(7),modified:e.lastModified.slice(0,10)}]));
  fs.writeFileSync('src/seo/build-history.json',JSON.stringify(runtime,null,2)+'\n');

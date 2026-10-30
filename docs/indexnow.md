@@ -2,6 +2,8 @@
 
 The existing Sitemap is retained. `npm run build` now prepares SEO dates and a public `/seo-manifest.json`, then builds Next.js. Sitemap and IndexNow use the same canonical page list. The production origin is `https://pokebonkdb.org`.
 
+Indexability is shared with page metadata and robots.txt through `src/config/indexability.cjs`. Vercel Preview never publishes indexable entries. Vercel production is indexable unless `SITE_INDEXABLE=false`; other environments require `SITE_INDEXABLE=true`. A non-indexable build publishes an empty manifest page list and sitemap. Configure this before building.
+
 ## Normal use
 
 Commit content changes as usual and let the connected Vercel project publish `main`. After a successful production deployment, `.github/workflows/indexnow.yml` submits only added, changed and deleted URLs. The first successful notification submits all current URLs. Local builds and Preview do not notify. No database, Bing API key, personal access token or custom GitHub Secret is required.

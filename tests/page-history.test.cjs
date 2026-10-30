@@ -72,6 +72,7 @@ test("previews cannot become indexable through a production override", () => {
   ).outputText;
   function configured(env) {
     const context = { exports: {}, process: { env }, require: (name) => {
+      if (name === "./indexability.cjs") return require("../src/config/indexability.cjs");
       assert.equal(name, "@/data/site/game-version.json");
       return { default: JSON.parse(fs.readFileSync("src/data/site/game-version.json", "utf8")) };
     } };

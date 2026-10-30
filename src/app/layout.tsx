@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import AppHeader from "@/components/layout/AppHeader";
 import AppFooter from "@/components/layout/AppFooter";
 import { searchIndex } from "@/lib/search";
@@ -28,18 +29,21 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <script
-          async
+        <Script
+          id="google-analytics-loader"
+          strategy="afterInteractive"
           src="https://www.googletagmanager.com/gtag/js?id=G-JS9T51RF8S"
-        ></script>
-        <script
+        />
+        <Script
+          id="google-analytics-config"
+          strategy="afterInteractive"
           dangerouslySetInnerHTML={{
             __html: `window.dataLayer = window.dataLayer || [];
 function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-JS9T51RF8S');`,
           }}
-        ></script>
+        />
       </head>
       <body>
         <script

@@ -1,12 +1,9 @@
 import gameVersion from "@/data/site/game-version.json";
+import { isSiteIndexable } from "./indexability.cjs";
 export const site = {
   name: "PokéBonk",
   url: "https://pokebonkdb.org",
-  configured:
-    process.env.VERCEL_ENV !== "preview" &&
-    (process.env.SITE_INDEXABLE === "true" ||
-      (process.env.VERCEL_ENV === "production" &&
-        process.env.SITE_INDEXABLE !== "false")),
+  configured: isSiteIndexable(process.env),
   contactEmail: "support@pokebonkdb.org",
   gameUrl: "https://pokebonk.com/?lang=en",
   gameVersion: gameVersion.version,
