@@ -12,8 +12,22 @@ const first = collectPages();
 const history = reconcile(first, {}, "2026-10-23");
 test("repeat build preserves dates and enabled route count", () => {
   assert.deepEqual(reconcile(collectPages(), history, "2026-10-24"), history);
-  assert.equal(Object.keys(history).length, 22);
+  assert.equal(Object.keys(history).length, 33);
   assert.equal(first["/pokedex/pikachu"], undefined);
+});
+
+test("one species advice change updates only its detail page", () => {
+  const details = JSON.parse(fs.readFileSync("src/data/pokedex/details.json", "utf8"));
+  details.charizard.play += " Keep the cleared lane open.";
+  const next = collectPages({"pokedex/details": details});
+  assert.deepEqual(Object.keys(next).filter(route => next[route] !== first[route]), ["/pokedex/charizard"]);
+});
+
+test("family build changes update only the published forms in that family", () => {
+  const builds = JSON.parse(fs.readFileSync("src/data/pokedex/detail-builds.json", "utf8"));
+  builds.caterpie.vitamins[0].why += " Compare the retained attacks.";
+  const next = collectPages({"pokedex/detail-builds": builds});
+  assert.deepEqual(Object.keys(next).filter(route => next[route] !== first[route]).sort(), ["/pokedex/caterpie", "/pokedex/metapod"]);
 });
 test("one guide body changes only its own content date", () => {
   const guides = JSON.parse(

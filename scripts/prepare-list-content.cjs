@@ -5,3 +5,5 @@ for(const path of ['pokedex/pokemon.json','wiki/moves.json','wiki/items.json','w
  for(const entry of data) entry.isDetails=false;
  fs.writeFileSync(root+path,JSON.stringify(data,null,2)+'\n');
 }
+
+require('./sync-pokedex-details.cjs');

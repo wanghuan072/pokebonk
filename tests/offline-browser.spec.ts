@@ -107,7 +107,7 @@ async function readyImages(page: import("@playwright/test").Page) {
     );
   });
 }
-test("all 22 published pages load, hydrate and have no broken images", async ({
+test("all published pages load, hydrate and have no broken images", async ({
   page,
 }) => {
   const errors: string[] = [];
@@ -118,6 +118,7 @@ test("all 22 published pages load, hydrate and have no broken images", async ({
   for (const route of [
     ...fixedRoutes,
     ...guideRecords.map((g) => "/guides/" + g.slug),
+    ...pokemonRecords.filter(p=>p.isDetails).map(p=>"/pokedex/"+p.slug),
   ]) {
     await page.goto(origin + route);
     await expect(page.locator("h1")).toHaveCount(1);
@@ -135,6 +136,59 @@ test("all 22 published pages load, hydrate and have no broken images", async ({
   }
   expect(errors).toEqual([]);
 });
+
+test("first eleven Pokedex details have accurate family kits and working planner navigation", async ({page}) => {
+  const errors: string[] = [];
+  page.on("pageerror",error=>errors.push(error.message));
+  for (const p of pokemonRecords.filter(p=>p.isDetails)) {
+    await page.goto(origin+"/pokedex/"+p.slug);
+    await expect(page.locator("h1")).toHaveText(p.name);
+    await expect(page.locator('link[rel="canonical"]')).toHaveAttribute("href", "https://pokebonkdb.org/pokedex/"+p.slug);
+    const partner=pokemonRecords.find(x=>x.id===p.evolutionOrigin.id)!;
+    await expect(page.locator(".pokemon-move-list a")).toHaveCount(4);
+    const kit=await page.locator(".pokemon-move-list a").evaluateAll(nodes=>nodes.map(n=>n.getAttribute("href")));
+    expect(kit).toEqual(partner.moves.map(slug=>"/wiki/attacks#"+slug));
+    await expect(page.locator(".pokemon-ultimates article[aria-current=true] h3")).toHaveText(p.ultimate!.names[p.evolutionPath.findIndex(s=>s.id===p.id)]);
+    expect((await page.title()).length).toBeGreaterThanOrEqual(40);
+    expect((await page.title()).length).toBeLessThanOrEqual(60);
+    const description=await page.locator('meta[name="description"]').getAttribute('content');
+    expect(description!.length).toBeGreaterThanOrEqual(140);
+    expect(description!.length).toBeLessThanOrEqual(160);
+  }
+  await page.goto(origin+"/pokedex/venusaur");
+  await page.getByRole("button",{name:"Add Calcium",exact:true}).click();
+  await page.getByRole("link",{name:"Compare all 26 vitamins and edit this plan"}).click();
+  await expect(page).toHaveURL(origin+"/wiki/vitamins?partner=bulbasaur#calcium");
+  expect(documentRequests).toContain("/wiki/vitamins");
+  await expect(page.locator("#vitamin-plan-partner")).toHaveValue("bulbasaur");
+  await expect(page.locator(".catalog-plan-count")).toContainText("1 of 3");
+  await expect(page.locator(".catalog-plan-actions button").first()).toContainText("In your plan");
+  await page.goBack();
+  await expect(page).toHaveURL(origin+"/pokedex/venusaur");
+  await expect(page.locator(".pokemon-plan-selected")).toContainText("Calcium");
+  await page.goto(origin+"/pokedex/bulbasaur");
+  await expect(page.locator(".pokemon-plan-selected")).toContainText("Calcium");
+  await page.getByRole("button",{name:"Remove Calcium from plan",exact:true}).click();
+  await expect(page.locator(".pokemon-plan-selected")).toContainText("No vitamins selected");
+  expect(errors).toEqual([]);
+});
+
+test("Pokedex details fit desktop tablet and mobile and keep unlaunched species closed", async ({page}) => {
+  for (const width of [320,390,768,769,1024,1025,1440]) {
+    await page.setViewportSize({width,height:950});
+    await page.goto(origin+"/pokedex/charizard");
+    await readyImages(page);
+    expect(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth),String(width)).toBe(true);
+    await expect(page.locator("#build")).toBeVisible();
+    if(width===1440||width===390) await page.screenshot({path:`test-results/pokedex-detail-${width}.png`,fullPage:true});
+  }
+  await page.goto(origin+"/pokedex#charizard");
+  await page.locator("#charizard").click();
+  await expect(page).toHaveURL(origin+"/pokedex/charizard");
+  expect(documentRequests).toContain("/pokedex/charizard");
+  const response=await page.goto(origin+"/pokedex/butterfree");
+  expect(response?.status()).toBe(404);
+});
 test("detail flags, only three substantial guides, complete official boards", async () => {
   expect(tierAnalysis.entries).toHaveLength(79);
   expect(new Set(tierAnalysis.entries.map((e) => e.slug))).toEqual(
@@ -151,7 +205,8 @@ test("detail flags, only three substantial guides, complete official boards", as
     "1440:00",
     "13:08.2",
   ]);
-  for (const data of [pokemonRecords, moveRecords, itemRecords, releaseRecords])
+  expect(pokemonRecords.filter(p=>p.isDetails).map(p=>p.id)).toEqual(Array.from({length:11},(_,i)=>i+1));
+  for (const data of [moveRecords, itemRecords, releaseRecords])
     expect(data.every((e) => e.isDetails === false)).toBe(true);
   expect(guideRecords).toHaveLength(3);
   for (const g of guideRecords) {

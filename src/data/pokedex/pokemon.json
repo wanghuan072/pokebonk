@@ -118,7 +118,16 @@
     "gameVersion": "0.8.62",
     "lastVerified": "2026-10-28",
     "source": "https://pokebonk.com/",
-    "isDetails": false
+    "isDetails": true,
+    "seo": {
+      "title": "Bulbasaur - PokeBonk Kit, Evolution & Build Guide",
+      "description": "Plan your Bulbasaur run in PokeBonk: compare family attacks, evolution levels, passive effects and Ultimates, then choose vitamins and items for your build.",
+      "keywords": [
+        "PokeBonk Bulbasaur",
+        "Bulbasaur build",
+        "Bulbasaur evolution"
+      ]
+    }
   },
   {
     "id": 2,
@@ -222,7 +231,16 @@
     "gameVersion": "0.8.62",
     "lastVerified": "2026-10-28",
     "source": "https://pokebonk.com/",
-    "isDetails": false
+    "isDetails": true,
+    "seo": {
+      "title": "Ivysaur - PokeBonk Kit, Evolution & Build Guide",
+      "description": "Plan your Ivysaur run in PokeBonk: compare family attacks, evolution levels, passive effects and Ultimates, then choose vitamins and items for your build.",
+      "keywords": [
+        "PokeBonk Ivysaur",
+        "Ivysaur build",
+        "Ivysaur evolution"
+      ]
+    }
   },
   {
     "id": 3,
@@ -320,7 +338,16 @@
     "gameVersion": "0.8.62",
     "lastVerified": "2026-10-28",
     "source": "https://pokebonk.com/",
-    "isDetails": false
+    "isDetails": true,
+    "seo": {
+      "title": "Venusaur - PokeBonk Kit, Evolution & Build Guide",
+      "description": "Plan your Venusaur run in PokeBonk: compare family attacks, evolution levels, passive effects and Ultimates, then choose vitamins and items for your build.",
+      "keywords": [
+        "PokeBonk Venusaur",
+        "Venusaur build",
+        "Venusaur evolution"
+      ]
+    }
   },
   {
     "id": 4,
@@ -440,7 +467,16 @@
     "gameVersion": "0.8.62",
     "lastVerified": "2026-10-28",
     "source": "https://pokebonk.com/",
-    "isDetails": false
+    "isDetails": true,
+    "seo": {
+      "title": "Charmander - PokeBonk Kit, Evolution & Build Guide",
+      "description": "Plan your Charmander run in PokeBonk: compare family attacks, evolution levels, passive effects and Ultimates, then choose vitamins and items for your build.",
+      "keywords": [
+        "PokeBonk Charmander",
+        "Charmander build",
+        "Charmander evolution"
+      ]
+    }
   },
   {
     "id": 5,
@@ -543,7 +579,16 @@
     "gameVersion": "0.8.62",
     "lastVerified": "2026-10-28",
     "source": "https://pokebonk.com/",
-    "isDetails": false
+    "isDetails": true,
+    "seo": {
+      "title": "Charmeleon - PokeBonk Kit, Evolution & Build Guide",
+      "description": "Plan your Charmeleon run in PokeBonk: compare family attacks, evolution levels, passive effects and Ultimates, then choose vitamins and items for your build.",
+      "keywords": [
+        "PokeBonk Charmeleon",
+        "Charmeleon build",
+        "Charmeleon evolution"
+      ]
+    }
   },
   {
     "id": 6,
@@ -641,7 +686,16 @@
     "gameVersion": "0.8.62",
     "lastVerified": "2026-10-28",
     "source": "https://pokebonk.com/",
-    "isDetails": false
+    "isDetails": true,
+    "seo": {
+      "title": "Charizard - PokeBonk Kit, Evolution & Build Guide",
+      "description": "Plan your Charizard run in PokeBonk: compare family attacks, evolution levels, passive effects and Ultimates, then choose vitamins and items for your build.",
+      "keywords": [
+        "PokeBonk Charizard",
+        "Charizard build",
+        "Charizard evolution"
+      ]
+    }
   },
   {
     "id": 7,
@@ -761,7 +815,16 @@
     "gameVersion": "0.8.62",
     "lastVerified": "2026-10-28",
     "source": "https://pokebonk.com/",
-    "isDetails": false
+    "isDetails": true,
+    "seo": {
+      "title": "Squirtle - PokeBonk Kit, Evolution & Build Guide",
+      "description": "Plan your Squirtle run in PokeBonk: compare family attacks, evolution levels, passive effects and Ultimates, then choose vitamins and items for your build.",
+      "keywords": [
+        "PokeBonk Squirtle",
+        "Squirtle build",
+        "Squirtle evolution"
+      ]
+    }
   },
   {
     "id": 8,
@@ -864,7 +927,16 @@
     "gameVersion": "0.8.62",
     "lastVerified": "2026-10-28",
     "source": "https://pokebonk.com/",
-    "isDetails": false
+    "isDetails": true,
+    "seo": {
+      "title": "Wartortle - PokeBonk Kit, Evolution & Build Guide",
+      "description": "Plan your Wartortle run in PokeBonk: compare family attacks, evolution levels, passive effects and Ultimates, then choose vitamins and items for your build.",
+      "keywords": [
+        "PokeBonk Wartortle",
+        "Wartortle build",
+        "Wartortle evolution"
+      ]
+    }
   },
   {
     "id": 9,
@@ -961,7 +1033,16 @@
     "gameVersion": "0.8.62",
     "lastVerified": "2026-10-28",
     "source": "https://pokebonk.com/",
-    "isDetails": false
+    "isDetails": true,
+    "seo": {
+      "title": "Blastoise - PokeBonk Kit, Evolution & Build Guide",
+      "description": "Plan your Blastoise run in PokeBonk: compare family attacks, evolution levels, passive effects and Ultimates, then choose vitamins and items for your build.",
+      "keywords": [
+        "PokeBonk Blastoise",
+        "Blastoise build",
+        "Blastoise evolution"
+      ]
+    }
   },
   {
     "id": 10,
@@ -1084,7 +1165,16 @@
     "gameVersion": "0.8.62",
     "lastVerified": "2026-10-28",
     "source": "https://pokebonk.com/",
-    "isDetails": false
+    "isDetails": true,
+    "seo": {
+      "title": "Caterpie - PokeBonk Kit, Evolution & Build Guide",
+      "description": "Plan your Caterpie run in PokeBonk: compare family attacks, evolution levels, passive effects and Ultimates, then choose vitamins and items for your build.",
+      "keywords": [
+        "PokeBonk Caterpie",
+        "Caterpie build",
+        "Caterpie evolution"
+      ]
+    }
   },
   {
     "id": 11,
@@ -1187,7 +1277,16 @@
     "gameVersion": "0.8.62",
     "lastVerified": "2026-10-28",
     "source": "https://pokebonk.com/",
-    "isDetails": false
+    "isDetails": true,
+    "seo": {
+      "title": "Metapod - PokeBonk Kit, Evolution & Build Guide",
+      "description": "Plan your Metapod run in PokeBonk: compare family attacks, evolution levels, passive effects and Ultimates, then choose vitamins and items for your build.",
+      "keywords": [
+        "PokeBonk Metapod",
+        "Metapod build",
+        "Metapod evolution"
+      ]
+    }
   },
   {
     "id": 12,

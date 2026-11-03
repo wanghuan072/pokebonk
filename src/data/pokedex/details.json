@@ -1,0 +1,167 @@
+{
+  "bulbasaur": {
+    "heading": "Keep Grass attacks connecting",
+    "intro": "Bulbasaur turns Grass hits into small heals through Synthesis, with regeneration and stronger healing behind it. Keep attacks connecting while you move around the edge of the crowd. Standing still to land another hit is a poor trade if it closes your exit.",
+    "play": "Keep Vine Whip working while Razor Leaf levels up. Solar Beam is offered later, so Flower Beam is a direction for the build rather than damage you can count on in the opening.",
+    "caution": "Grass-hit healing is capped at five triggers per second. More projectiles can help coverage but do not provide unlimited sustain.",
+    "seo": {
+      "title": "Bulbasaur - PokeBonk Kit, Evolution & Build Guide",
+      "description": "Plan your Bulbasaur run in PokeBonk: compare family attacks, evolution levels, passive effects and Ultimates, then choose vitamins and items for your build.",
+      "keywords": [
+        "PokeBonk Bulbasaur",
+        "Bulbasaur build",
+        "Bulbasaur evolution"
+      ]
+    }
+  },
+  "ivysaur": {
+    "heading": "Make the middle stage count",
+    "intro": "Ivysaur arrives at run level 24 in a run started with Bulbasaur. The new form keeps the family kit and passive; this is not a separate League unlock or a fresh loadout.",
+    "play": "Use the middle stage to finish the attacks you have already invested in. Check Razor Leaf and Solar Beam before committing to Flower Beam. Keep an escape lane while you gather upgrades for Venusaur.",
+    "caution": "The larger species stats are not your final in-run HP or damage. Lab, passive effects and the upgrades you collected still change the result.",
+    "seo": {
+      "title": "Ivysaur - PokeBonk Kit, Evolution & Build Guide",
+      "description": "Plan your Ivysaur run in PokeBonk: compare family attacks, evolution levels, passive effects and Ultimates, then choose vitamins and items for your build.",
+      "keywords": [
+        "PokeBonk Ivysaur",
+        "Ivysaur build",
+        "Ivysaur evolution"
+      ]
+    }
+  },
+  "venusaur": {
+    "heading": "Give your Grass build room to work",
+    "intro": "Venusaur is reached at run level 44 on Bulbasaur’s path. Giga Flower Whip is this stage’s Ultimate, while Grass-hit healing and the attack progression remain part of the starting Bulbasaur kit.",
+    "play": "Judge upgrades by the attacks doing the clearing. Flower Beam deals special damage, so Calcium supports that route; physical damage alone will not improve every attack in a mixed kit.",
+    "caution": "The opening rank below rates Bulbasaur before these later upgrades. It does not measure Venusaur’s late-run damage or guarantee a Survival result.",
+    "seo": {
+      "title": "Venusaur - PokeBonk Kit, Evolution & Build Guide",
+      "description": "Plan your Venusaur run in PokeBonk: compare family attacks, evolution levels, passive effects and Ultimates, then choose vitamins and items for your build.",
+      "keywords": [
+        "PokeBonk Venusaur",
+        "Venusaur build",
+        "Venusaur evolution"
+      ]
+    }
+  },
+  "charmander": {
+    "heading": "Clear a path without gambling your health",
+    "intro": "Charmander starts with Ember and a passive that always adds Fire damage. Its larger damage bonus requires HP below 40%. Treat that as help when a run goes wrong rather than a reason to stay close to losing.",
+    "play": "Fire Spin and Flamethrower form Fiery Whirlwind. Keep both useful while they level, but fix a weak opening before reserving every choice for the future fusion.",
+    "caution": "More damage does not replace recovery. If small hits are ending the run, consider a defensive vitamin or recovery item instead of forcing the low-health bonus.",
+    "seo": {
+      "title": "Charmander - PokeBonk Kit, Evolution & Build Guide",
+      "description": "Plan your Charmander run in PokeBonk: compare family attacks, evolution levels, passive effects and Ultimates, then choose vitamins and items for your build.",
+      "keywords": [
+        "PokeBonk Charmander",
+        "Charmander build",
+        "Charmander evolution"
+      ]
+    }
+  },
+  "charmeleon": {
+    "heading": "Keep building the Fire route",
+    "intro": "Charmeleon arrives at run level 24 from Charmander. Blast Burn is the middle-stage Ultimate; Sea of Flames and the starting attack kit belong to the original partner.",
+    "play": "Take stock of Fire Spin and Flamethrower rather than restarting the build around the new form. Their signature remains a special-damage route through this family.",
+    "caution": "Evolution does not make the low-health passive safe to maintain. A clear lane and enough health for the next mistake are still worth protecting.",
+    "seo": {
+      "title": "Charmeleon - PokeBonk Kit, Evolution & Build Guide",
+      "description": "Plan your Charmeleon run in PokeBonk: compare family attacks, evolution levels, passive effects and Ultimates, then choose vitamins and items for your build.",
+      "keywords": [
+        "PokeBonk Charmeleon",
+        "Charmeleon build",
+        "Charmeleon evolution"
+      ]
+    }
+  },
+  "charizard": {
+    "heading": "Let the Fire build clear your next lane",
+    "intro": "Charizard is the final recorded form of Charmander at run level 44. Giga Blaze is its Ultimate, and Fire/Flying is this form’s species typing. The opening-kit comparison still belongs to Charmander.",
+    "play": "If Fiery Whirlwind is carrying the run, match damage upgrades to its special class. Use the cleared lane to collect upgrades instead of moving straight into a fresh pack.",
+    "caution": "A lower Classic opening placement does not describe Charizard’s damage ceiling. It reflects how much less protection Charmander has before the build comes together.",
+    "seo": {
+      "title": "Charizard - PokeBonk Kit, Evolution & Build Guide",
+      "description": "Plan your Charizard run in PokeBonk: compare family attacks, evolution levels, passive effects and Ultimates, then choose vitamins and items for your build.",
+      "keywords": [
+        "PokeBonk Charizard",
+        "Charizard build",
+        "Charizard evolution"
+      ]
+    }
+  },
+  "squirtle": {
+    "heading": "Use the shield to buy a clean opening",
+    "intro": "Squirtle opens with Water Gun. Torrent Shell adds armor and a shield, giving you room to learn enemy spacing. The buffer is useful, but it does not mean every hit is free for the rest of the run.",
+    "play": "Water Gun and Bubble help the early route. Rapid Spin and Hydro Pump form Hydro Spiral; check their offer levels before treating that fusion as your next immediate upgrade.",
+    "caution": "The damage boost below 40% HP does not heal you. Once the starting shield is spent, address contact damage rather than relying on the same opening buffer.",
+    "seo": {
+      "title": "Squirtle - PokeBonk Kit, Evolution & Build Guide",
+      "description": "Plan your Squirtle run in PokeBonk: compare family attacks, evolution levels, passive effects and Ultimates, then choose vitamins and items for your build.",
+      "keywords": [
+        "PokeBonk Squirtle",
+        "Squirtle build",
+        "Squirtle evolution"
+      ]
+    }
+  },
+  "wartortle": {
+    "heading": "Build beyond the opening shield",
+    "intro": "Wartortle is reached at run level 24 from Squirtle. Tidal Wave is the middle-stage Ultimate, while the kit and Torrent Shell carry over from the starting partner.",
+    "play": "Keep Water attacks clearing a route for upgrades. If you want Hydro Spiral, keep Rapid Spin and Hydro Pump useful as separate attacks while they level.",
+    "caution": "Species Defense and Sp. Defense are not the armor displayed during a run. The baseline below is explicitly Squirtle’s pre-upgrade baseline, not a calculated Wartortle preview.",
+    "seo": {
+      "title": "Wartortle - PokeBonk Kit, Evolution & Build Guide",
+      "description": "Plan your Wartortle run in PokeBonk: compare family attacks, evolution levels, passive effects and Ultimates, then choose vitamins and items for your build.",
+      "keywords": [
+        "PokeBonk Wartortle",
+        "Wartortle build",
+        "Wartortle evolution"
+      ]
+    }
+  },
+  "blastoise": {
+    "heading": "Finish the Water route you started",
+    "intro": "Blastoise is Squirtle’s final form at run level 44. Hydro Cannon is the final-stage Ultimate. Hydro Spiral remains the signature fusion associated with the original Squirtle kit.",
+    "play": "Calcium and a Water-focused item are useful comparisons when the special Water signature carries your damage. Keep a recovery option if you lose health between large attack windows.",
+    "caution": "High species Defense is not immunity to contact. Address the hits getting through your current defenses, especially after the opening shield has gone.",
+    "seo": {
+      "title": "Blastoise - PokeBonk Kit, Evolution & Build Guide",
+      "description": "Plan your Blastoise run in PokeBonk: compare family attacks, evolution levels, passive effects and Ultimates, then choose vitamins and items for your build.",
+      "keywords": [
+        "PokeBonk Blastoise",
+        "Blastoise build",
+        "Blastoise evolution"
+      ]
+    }
+  },
+  "caterpie": {
+    "heading": "Reach the cocoon without losing the opening",
+    "intro": "Caterpie trades an easy damage opening for experience gain and an early evolution. Metamorphosis grants +15% experience and a starting shield; Metapod arrives at run level 8.",
+    "play": "String Shot opens the kit, followed by Bug Bite, Gust and Bug Buzz offers. Make sure an attack keeps an exit clear before spending every upgrade on faster progression.",
+    "caution": "The +30 cocoon armor belongs to Metapod. Do not count it as starting protection, and remember experience only pays off if you survive long enough to collect it.",
+    "seo": {
+      "title": "Caterpie - PokeBonk Kit, Evolution & Build Guide",
+      "description": "Plan your Caterpie run in PokeBonk: compare family attacks, evolution levels, passive effects and Ultimates, then choose vitamins and items for your build.",
+      "keywords": [
+        "PokeBonk Caterpie",
+        "Caterpie build",
+        "Caterpie evolution"
+      ]
+    }
+  },
+  "metapod": {
+    "heading": "Use the cocoon window to reach Butterfree",
+    "intro": "Metapod arrives at run level 8 from Caterpie. The family passive adds +30 armor in this form, and Fortress provides a defensive Ultimate. It is a progression stage rather than a separate League starting choice.",
+    "play": "Keep gathering levels toward Butterfree at run level 36. String Shot and Bug Buzz form Resonant Web, but you still need attacks to clear the path while that plan develops.",
+    "caution": "Fortress is temporary protection. Pick the lane you will leave through before the invulnerability ends instead of finishing the cast surrounded.",
+    "seo": {
+      "title": "Metapod - PokeBonk Kit, Evolution & Build Guide",
+      "description": "Plan your Metapod run in PokeBonk: compare family attacks, evolution levels, passive effects and Ultimates, then choose vitamins and items for your build.",
+      "keywords": [
+        "PokeBonk Metapod",
+        "Metapod build",
+        "Metapod evolution"
+      ]
+    }
+  }
+}

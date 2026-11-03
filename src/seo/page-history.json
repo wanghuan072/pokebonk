@@ -1,15 +1,15 @@
 {
   "/": {
-    "fingerprint": "0f142af80da30f29c84ec97c074a615d1fdc60556d16e4d99bb9b18532510ccc",
-    "modified": "2026-10-29"
+    "fingerprint": "0e507efcf1614b836589a4d048c0352d48c83c6e4e36c0241f2ff638850bcb2f",
+    "modified": "2026-11-03"
   },
   "/about": {
     "fingerprint": "fb99e919a4a0d0e4921b3c1d605fe503f01779c0da69a6dc36a3a4acf813b7d8",
     "modified": "2026-10-29"
   },
   "/builds": {
-    "fingerprint": "0c08d6adb12f2d1389ffcbe8a9f32d9e2a7ccf905b10e95ca2875eb06b38ed58",
-    "modified": "2026-10-29"
+    "fingerprint": "2911dee71ecca6ab0794d3a0b2f72f859d4b88ccafe06374a17c492fd1819931",
+    "modified": "2026-11-03"
   },
   "/contact": {
     "fingerprint": "c6f318d48ca6cf05afd9854f2ac235827030165d120ae690feb4212c767c19dd",
@@ -44,8 +44,52 @@
     "modified": "2026-10-29"
   },
   "/pokedex": {
-    "fingerprint": "12d8b7581dddd8394530d4b2b933908425796c5db3feb710325fcff5d0ec535d",
-    "modified": "2026-10-29"
+    "fingerprint": "12094da8498b032824ec66aea5de70ee60cf9b38a437231bff11c75b16bbd271",
+    "modified": "2026-11-03"
+  },
+  "/pokedex/blastoise": {
+    "fingerprint": "c01cfcfb86bdf8d7a444405b0ef5e18145d227b6252fca6a59c4289e9cf8ea68",
+    "modified": "2026-11-03"
+  },
+  "/pokedex/bulbasaur": {
+    "fingerprint": "9ef5b1146e1ffd6ec110039e89be35a619f68cc8c9e567d73ed1c1979702b236",
+    "modified": "2026-11-03"
+  },
+  "/pokedex/caterpie": {
+    "fingerprint": "7cf56378516b7a45f5c45da6fab2cdc6f49bdd6c79e564eb634cacba30f9db76",
+    "modified": "2026-11-03"
+  },
+  "/pokedex/charizard": {
+    "fingerprint": "01b359cc1d07bdb05140a35bf72d3194553500b44eb7031c897a974af7f7ae21",
+    "modified": "2026-11-03"
+  },
+  "/pokedex/charmander": {
+    "fingerprint": "96e49bddb68108a661914227ad991db73cb31bcafa06e5657d6e18155bb1b66e",
+    "modified": "2026-11-03"
+  },
+  "/pokedex/charmeleon": {
+    "fingerprint": "b43dd48eb8365e6e97730ee6c809d643256a6d5dd8dc24bf8460a41ecff76df8",
+    "modified": "2026-11-03"
+  },
+  "/pokedex/ivysaur": {
+    "fingerprint": "9b73a7397016dee36f2bc8daf540d7d94759eee2ff325b4182d3ade3b15974ba",
+    "modified": "2026-11-03"
+  },
+  "/pokedex/metapod": {
+    "fingerprint": "a169cb9cb1bc355d021d5467ee5e276a00bbae0ab0d57028e6726f0cd35884ef",
+    "modified": "2026-11-03"
+  },
+  "/pokedex/squirtle": {
+    "fingerprint": "4db17e10e4e10a422b84591af0feea6432d3407345257ad6e46a26803039757b",
+    "modified": "2026-11-03"
+  },
+  "/pokedex/venusaur": {
+    "fingerprint": "26a264c4dffb376c6bbf15ba4febf40bdf3b5a17ebce1fc97cd159f547d6c284",
+    "modified": "2026-11-03"
+  },
+  "/pokedex/wartortle": {
+    "fingerprint": "2342266e2eaf494b5b953dedc83bae21616d1ccbc412c22425fd3622f1e412fb",
+    "modified": "2026-11-03"
   },
   "/privacy-policy": {
     "fingerprint": "71699d042c6f43a0d0d3bd41bb1dfa0a9713db91c6d0db1af8e0abd64a879591",
@@ -56,8 +100,8 @@
     "modified": "2026-10-29"
   },
   "/tier-list": {
-    "fingerprint": "1eea5287c8e9f7305192fd52b3108fe360b5a8be7f5f08e904205af2563a2ca6",
-    "modified": "2026-10-30"
+    "fingerprint": "a6ddaf475a0b66fffc588bb76d31413d429c860b264c996977714d6320078b42",
+    "modified": "2026-11-03"
   },
   "/updates": {
     "fingerprint": "1a94527a3d729689ba186a282402396d76850eeaa3a9a516427434025b3a903a",
@@ -68,12 +112,12 @@
     "modified": "2026-10-29"
   },
   "/wiki/attacks": {
-    "fingerprint": "4cd599362481971c077a08218913372865be9325b3bcc4e5db28cc886dc99f37",
-    "modified": "2026-10-29"
+    "fingerprint": "4ebaa5d02b5f89ede34ae73cb1c195c65b37100ef8ff94d9b43e36c9cb2fbb35",
+    "modified": "2026-11-03"
   },
   "/wiki/items": {
-    "fingerprint": "ba4457700f6c442fc8cd2a2aaee07e541562e320c59619dafbde0975896480ef",
-    "modified": "2026-10-29"
+    "fingerprint": "54643efbba837f1045d53553154a4d70b9aa113478643bf2d437d627feaac995",
+    "modified": "2026-11-03"
   },
   "/wiki/lab": {
     "fingerprint": "0c332d74da49a8211f3ed15a6f23c901d3d93b072608af8565330688d8d137d3",
@@ -84,7 +128,7 @@
     "modified": "2026-10-29"
   },
   "/wiki/vitamins": {
-    "fingerprint": "64665f9a40158686590143898ba284373435f4e6798f709e0c57b7499b1c4147",
-    "modified": "2026-10-29"
+    "fingerprint": "c4d72fbb8bac7e51b62bccbcf50e697cac4d6806080034231adeb9509cbb6ac5",
+    "modified": "2026-11-03"
   }
 }

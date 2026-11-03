@@ -386,3 +386,5 @@ console.log({
 });
 
 require("./sync-current-features.cjs");
+
+require('./sync-pokedex-details.cjs');

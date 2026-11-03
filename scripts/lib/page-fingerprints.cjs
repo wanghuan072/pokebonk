@@ -36,6 +36,11 @@ function stable(value) {
     );
   return value;
 }
+function withoutSeo(entry) {
+  const result = { ...entry };
+  delete result.seo;
+  return result;
+}
 function source(file, reader = read) {
   const ast = ts.createSourceFile(
     file,
@@ -77,6 +82,8 @@ function collectPages(
     releases = load("updates/releases");
   for (const guide of guides.filter((g) => g.isDetails))
     validateSeo(guide.seo, "/guides/" + guide.slug);
+  for (const entry of pokemon.filter(p => p.isDetails))
+    validateSeo(entry.seo, "/pokedex/" + entry.slug);
   const card = (g) => ({
     slug: g.slug,
     title: g.title,
@@ -95,7 +102,7 @@ function collectPages(
       { season:load("leaderboard/snapshot").season, verifiedAt:load("leaderboard/snapshot").verifiedAt, entries:load("leaderboard/snapshot").boards[0].entries.slice(0,5) },
       load("events/events").map(({slug,name,start,end})=>({slug,name,start,end})),
       homeLayout,
-      pokemon.map(({ id, slug, name, image, isPlayable, isStarter }) => ({ id, slug, name, image, isPlayable, isStarter })),
+      pokemon.map(({ id, slug, name, image, isPlayable, isStarter, isDetails }) => ({ id, slug, name, image, isPlayable, isStarter, isDetails })),
       { species: pokemon.length, partners: pokemon.filter((p) => p.isPlayable).length, moves: moves.length, items: items.length, achievements: load("wiki/achievements").length, fusions: load("wiki/fusions").length + load("wiki/generic-fusions").length },
       homeRecipes,
       moves.filter((m) => homeMoveSlugs.has(m.slug)).map(({slug,name,image}) => ({slug,name,image})),
@@ -106,13 +113,13 @@ function collectPages(
       load("tier-list/rankings").tiers.slice(0,3).map((t) => ({tier:t.tier,label:t.label,pokemon:t.pokemon.slice(0,homeLayout.tierPreviewLimit)})),
     ],
     "/play": [],
-    "/pokedex": pokemon,
-    "/wiki/attacks": load("wiki/attacks"),
+    "/pokedex": pokemon.map(withoutSeo),
+    "/wiki/attacks": [load("wiki/attacks"), pokemon.filter(p=>p.isDetails).map(p=>p.slug)],
     "/wiki/vitamins": load("wiki/vitamins"),
     "/wiki/items": load("wiki/catalog-items"),
     "/wiki/achievements": [load("wiki/achievements"),load("wiki/achievement-art")],
     "/wiki/lab": [load("wiki/lab"),load("wiki/catalog-items")],
-    "/tier-list": [load("tier-list/rankings"),load("tier-list/recommendations"), pokemon, moves],
+    "/tier-list": [load("tier-list/rankings"),load("tier-list/recommendations"), pokemon.map(withoutSeo), moves],
     "/builds": (() => {
       const routes = load("builds/routes");
       const attackSlugs = new Set(routes.flatMap((route) => route.slots.flatMap((slot) => [slot.attack, ...(slot.attacks || []), slot.result].filter(Boolean))));
@@ -123,7 +130,7 @@ function collectPages(
         load("wiki/attacks").filter((attack) => attackSlugs.has(attack.slug)).map(({ slug, name, image }) => ({ slug, name, image })),
         load("wiki/vitamins").filter((vitamin) => vitaminSlugs.has(vitamin.slug)).map(({ slug, name, image, label }) => ({ slug, name, image, label })),
         load("wiki/catalog-items").filter((item) => itemSlugs.has(item.slug)).map(({ slug, name, image, description }) => ({ slug, name, image, description })),
-        pokemon.filter((entry) => routes.some((route) => route.partner === entry.slug || route.shownAs === entry.id)).map(({ id, slug, name, image }) => ({ id, slug, name, image })),
+        pokemon.filter((entry) => routes.some((route) => route.partner === entry.slug || route.shownAs === entry.id)).map(({ id, slug, name, image, isDetails }) => ({ id, slug, name, image, isDetails })),
       ];
     })(),
     "/guides": guides.map(card),
@@ -220,7 +227,7 @@ function collectPages(
     [guides, "/guides/", "guides/GuideDetailPage"],
     [releases, "/updates/", "updates/UpdateDetailPage"],
   ]) {
-    for (const entry of collection.filter((e) => e.isDetails))
+    for (const entry of collection.filter((e) => e.isDetails)) {
       payloads[prefix + entry.slug] = {
         schemaVersion: 2,
         entry,
@@ -236,6 +243,31 @@ function collectPages(
             ? load("media/guide-visuals")[entry.slug]
             : undefined,
       };
+      if (prefix === "/pokedex/") {
+        const route = prefix + entry.slug;
+        const origin = pokemon.find(p=>p.id === entry.evolutionOrigin.id);
+        const build = load("pokedex/detail-builds")[origin.slug];
+        const recipe = load("wiki/fusions").find(f=>f.member === origin.id);
+        const attackSlugs = new Set([...origin.moves, recipe?.slug]);
+        Object.assign(payloads[route], {
+          copy: load("pokedex/details")[entry.slug],
+          family: pokemon.filter(p=>p.family === entry.family).map(withoutSeo),
+          pagination: pokemon.filter(p=>p.isDetails).map(({slug,name})=>({slug,name})),
+          build,
+          buildRoute: load("builds/routes").filter(r=>r.partner === origin.slug).map(r=>r.id),
+          passive: moves.find(m=>m.slug === origin.passive),
+          attacks: load("wiki/attacks").filter(a=>attackSlugs.has(a.slug)),
+          recipe,
+          vitamins: load("wiki/vitamins").filter(v=>build.vitamins.some(p=>p.slug===v.slug)),
+          items: load("wiki/catalog-items").filter(v=>build.items.some(p=>p.slug===v.slug)),
+          lab: load("wiki/lab").filter(u=>build.lab.includes(u.id)),
+          ranking: load("tier-list/rankings").entries.find(r=>r.id===origin.id),
+          recommendation: load("tier-list/recommendations").entries.find(r=>r.slug===origin.slug),
+          planner: code("pokedex/VitaminPlanner",route),
+          sprite: code("@GameSprite",route),
+        });
+      }
+    }
   }
   const assetCache = new Map();
   for (const payload of Object.values(payloads)) {

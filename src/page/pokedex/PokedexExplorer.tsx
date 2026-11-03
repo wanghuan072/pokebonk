@@ -15,7 +15,7 @@ export default function PokedexExplorer({ pokemon }: { pokemon: Pokemon[] }) {
   const [activeId, setActiveId] = useState(6);
   const [open, setOpen] = useState(false);
   const preview = useRef<HTMLElement>(null);
-  const trigger = useRef<HTMLButtonElement | null>(null);
+  const trigger = useRef<HTMLElement | null>(null);
   useEffect(() => {
     if (open && window.matchMedia("(max-width: 768px)").matches) preview.current?.focus({ preventScroll: true });
   }, [open]);
@@ -58,14 +58,14 @@ export default function PokedexExplorer({ pokemon }: { pokemon: Pokemon[] }) {
         <button aria-label="All types" aria-pressed={type === "all"} onClick={() => setType("all")}>All</button>
         {types.map((t) => <button key={t} title={t} aria-label={`${t} type`} aria-pressed={type === t} onClick={() => setType(type === t ? "all" : t)}><Image src={`/images/types/game/${t}.png`} alt="" width={24} height={24} unoptimized /></button>)}
       </div>
-      <div className="pokedex-browser-meta"><p className="result-count" role="status">Showing <b>{filtered.length}</b> of {pokemon.length} Pokédex entries</p><span>Hover to inspect · click to select</span></div>
+      <div className="pokedex-browser-meta"><p className="result-count" role="status">Showing <b>{filtered.length}</b> of {pokemon.length} Pokédex entries</p><span>Hover to preview · click to open available guides</span></div>
       <div className="pokedex-grid">
-        {filtered.map((p) => <button className={`pokemon-tile tone-${p.types[0]}${active?.id === p.id ? " selected" : ""}`} id={p.slug} key={p.id} aria-label={`Inspect ${p.name}, number ${p.id}`} aria-pressed={active?.id === p.id} aria-controls="pokemon-preview" onPointerEnter={(e) => { if (e.pointerType === "mouse") setActiveId(p.id); }} onFocus={() => setActiveId(p.id)} onClick={(e) => { setActiveId(p.id); setOpen(true); trigger.current = e.currentTarget; }}>
+        {filtered.map((p) => { const Tile = p.isDetails ? "a" : "button"; return <Tile href={p.isDetails ? `/pokedex/${p.slug}` : undefined} className={`pokemon-tile tone-${p.types[0]}${active?.id === p.id ? " selected" : ""}`} id={p.slug} key={p.id} aria-label={`Inspect ${p.name}, number ${p.id}`} aria-pressed={active?.id === p.id} aria-controls="pokemon-preview" onPointerEnter={(e) => { if (e.pointerType === "mouse") setActiveId(p.id); }} onFocus={() => setActiveId(p.id)} onClick={(e) => { if (p.isDetails) return; setActiveId(p.id); setOpen(true); trigger.current = e.currentTarget; }}>
           <span className="pokemon-tile-portrait"><Image src={p.image} alt="" width={64} height={64} unoptimized /></span>
           <span className="pokemon-tile-number">{String(p.id).padStart(3, "0")}</span>
           {p.isPlayable ? <span className="pokemon-tile-league" title="League partner" /> : null}
           <span className="pokemon-tile-name">{p.name}</span>
-        </button>)}
+        </Tile>})}
       </div>
       {!filtered.length ? <div className="empty-state"><h3>No Pokémon found</h3><p>Try another name or a broader filter.</p><button className="button" onClick={reset}>Clear filters</button></div> : null}
       <p className="pokedex-browser-foot"><span>● League partner</span> Original game portraits · Kanto #001–151</p>

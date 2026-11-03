@@ -1,0 +1,142 @@
+{
+  "bulbasaur": {
+    "vitamins": [
+      {
+        "slug": "calcium",
+        "why": "Special damage for the family signature. Compare attack classes before favoring this over Protein."
+      },
+      {
+        "slug": "super-potion",
+        "why": "Recovery while repositioning or waiting for your next useful attack window."
+      },
+      {
+        "slug": "iron",
+        "why": "Armor when repeated contact hits are deciding the run."
+      }
+    ],
+    "items": [
+      {
+        "slug": "miracle-seed",
+        "why": "Supports the Grass attacks that activate the family healing plan."
+      },
+      {
+        "slug": "leftovers",
+        "why": "Recovery without waiting for an attack to connect."
+      },
+      {
+        "slug": "shell-bell",
+        "why": "Compare damage-based healing once your attacks land consistently."
+      }
+    ],
+    "lab": [
+      "regen",
+      "armor",
+      "slot-move"
+    ]
+  },
+  "charmander": {
+    "vitamins": [
+      {
+        "slug": "calcium",
+        "why": "Special damage for the family signature. Compare attack classes before favoring this over Protein."
+      },
+      {
+        "slug": "super-potion",
+        "why": "Recovery while repositioning or waiting for your next useful attack window."
+      },
+      {
+        "slug": "iron",
+        "why": "Armor when repeated contact hits are deciding the run."
+      }
+    ],
+    "items": [
+      {
+        "slug": "charcoal",
+        "why": "A focused choice for the Fire attacks in the kit."
+      },
+      {
+        "slug": "leftovers",
+        "why": "Recovery without waiting for an attack to connect."
+      },
+      {
+        "slug": "wise-glasses",
+        "why": "Special damage when the signature or special attacks carry the build."
+      }
+    ],
+    "lab": [
+      "hp",
+      "regen",
+      "slot-move"
+    ]
+  },
+  "squirtle": {
+    "vitamins": [
+      {
+        "slug": "calcium",
+        "why": "Special damage for the family signature. Compare attack classes before favoring this over Protein."
+      },
+      {
+        "slug": "super-potion",
+        "why": "Recovery while repositioning or waiting for your next useful attack window."
+      },
+      {
+        "slug": "carbos",
+        "why": "Movement speed if escaping a closing lane is the problem."
+      }
+    ],
+    "items": [
+      {
+        "slug": "mystic-water",
+        "why": "Supports Water attacks in the kit and signature."
+      },
+      {
+        "slug": "leftovers",
+        "why": "Recovery without waiting for an attack to connect."
+      },
+      {
+        "slug": "wise-glasses",
+        "why": "Special damage when the signature or special attacks carry the build."
+      }
+    ],
+    "lab": [
+      "regen",
+      "spd",
+      "slot-move"
+    ]
+  },
+  "caterpie": {
+    "vitamins": [
+      {
+        "slug": "calcium",
+        "why": "Special damage for the family signature. Compare attack classes before favoring this over Protein."
+      },
+      {
+        "slug": "iron",
+        "why": "Armor when repeated contact hits are deciding the run."
+      },
+      {
+        "slug": "exp-candy",
+        "why": "Experience when attacks already keep a lane clear. Give the slot to damage or defense if they are still missing."
+      }
+    ],
+    "items": [
+      {
+        "slug": "silver-powder",
+        "why": "A Bug-focused choice for the family’s Bug attacks and signature."
+      },
+      {
+        "slug": "leftovers",
+        "why": "Recovery without waiting for an attack to connect."
+      },
+      {
+        "slug": "wise-glasses",
+        "why": "Special damage when the signature or special attacks carry the build."
+      }
+    ],
+    "lab": [
+      "hp",
+      "regen",
+      "slot-move"
+    ]
+  }
+}
