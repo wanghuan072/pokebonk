@@ -10,6 +10,9 @@ import "@/style/content/wiki-navigation.css";
 export const metadata: Metadata = {
   metadataBase: new URL(site.url),
   applicationName: site.name,
+  verification: {
+    other: { "msvalidate.01": "D8EF052A74B4BB3D3229205232205792" },
+  },
   robots: { index: site.configured, follow: true },
   icons: {
     icon: [
