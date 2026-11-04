@@ -44,6 +44,14 @@ test('published key is exact UTF-8, and framework Sitemap reuses the manifest',(
  assert.match(fs.readFileSync('src/app/sitemap.ts','utf8'),/manifest.entries/);
 });
 
+test('Vercel commit status must match the live production commit',()=>{
+ const e={repository:{full_name:config.repository},sender:{login:'vercel[bot]'},context:'Vercel',state:'success',sha:'a'.repeat(40)};
+ assert.equal(eligible(e,'status'),true);
+ for(const changed of [{state:'failure'},{context:'Other CI'},{sender:{login:'someone'}},{sha:'invalid'}])assert.equal(eligible({...e,...changed},'status'),false);
+ assert.equal(matchesEvent(e,'status',{deployment:{commit:e.sha}}),true);
+ assert.equal(matchesEvent(e,'status',{deployment:{commit:'b'.repeat(40)}}),false);
+});
+
 test('preview preparation sends nothing and publishes no indexable URLs',()=>{
  const fs=require('fs'),{spawnSync}=require('child_process');
  const files=['public/seo-manifest.json','src/seo/build-history.json'];const saved=files.map(f=>fs.readFileSync(f));

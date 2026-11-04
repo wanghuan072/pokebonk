@@ -1,5 +1,6 @@
 name: IndexNow after production
 on:
+  status:
   repository_dispatch:
     types: [vercel.deployment.success, vercel.deployment.promoted]
   workflow_dispatch:
@@ -11,7 +12,7 @@ concurrency:
   cancel-in-progress: false
 jobs:
   notify:
-    if: github.repository == 'wanghuan072/pokebonk' && (github.event_name == 'workflow_dispatch' && github.ref == 'refs/heads/main' || github.event_name == 'repository_dispatch' && github.event.sender.login == 'vercel[bot]' && github.event.client_payload.environment == 'production')
+    if: github.repository == 'wanghuan072/pokebonk' && (github.event_name == 'workflow_dispatch' && github.ref == 'refs/heads/main' || github.event_name == 'status' && github.event.sender.login == 'vercel[bot]' && github.event.context == 'Vercel' && github.event.state == 'success' || github.event_name == 'repository_dispatch' && github.event.sender.login == 'vercel[bot]' && github.event.client_payload.environment == 'production')
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:

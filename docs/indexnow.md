@@ -24,7 +24,9 @@ Vercel project `pokebonk` (`prj_rNtDi95m2VU0zjCj4mLSNJlcr9Jv`) is connected to `
 
 The normal path uses the existing GitHub-to-Vercel production deployment. No build queue change is required for this integration. Notifications compare the currently published manifest with the last completely accepted record. Persisted deletion events cover successive builds; overlapping independently published builds can omit transient intermediate deletions, so this minimal integration does not promise delivery of every transient historical URL. Historical artifact promotion should be replaced by a fresh build when reliable content dates are required. The attempted queue change was rejected and was not applied; no concurrency or paid build feature was enabled.
 
-The workflow must be committed to the GitHub default branch and the new key/manifest must be published once before live notifications can work. These local edits have not been pushed or deployed. The first real production-success event and IndexNow response remain to be verified after publication.
+The connected Vercel integration publishes GitHub commit statuses with context `Vercel`. The workflow listens to successful statuses from `vercel[bot]` and requires the status SHA to equal the currently published production manifest commit. Preview and obsolete commits therefore cannot submit. Repository dispatch remains supported, and manual retry uses the current production version.
+
+Bing Webmaster ownership for `https://pokebonkdb.org/` was verified on November 4, 2026. The permanent HTML verification value lives in root layout metadata. The existing `/sitemap.xml` submission is successful; the dashboard last displayed 22 discovered URLs while the live sitemap contains 33. Dashboard discovery counts are asynchronous.
 
 ## Verification
 

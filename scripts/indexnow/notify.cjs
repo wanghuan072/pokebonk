@@ -3,10 +3,12 @@ const {config,validate,diff,fetchPublic,submit,signature}=require('./lib.cjs');
 function eligible(event,name){
  if(event.repository?.full_name!==config.repository)return false;
  if(name==='workflow_dispatch')return process.env.GITHUB_REF==='refs/heads/'+config.productionBranch;
+ if(name==='status')return event.sender?.login==='vercel[bot]'&&event.context==='Vercel'&&event.state==='success'&&/^[a-f0-9]{40}$/.test(event.sha||'');
  return name==='repository_dispatch'&&event.sender?.login==='vercel[bot]'&&['vercel.deployment.success','vercel.deployment.promoted'].includes(event.action)&&event.client_payload?.environment==='production';
 }
 function matchesEvent(event,name,current){
  if(name==='workflow_dispatch')return true;
+ if(name==='status')return event.sha===current.deployment.commit;
  const url=event.client_payload?.url;
  if(!url||!current.deployment.url)return false;
  try{return new URL(url.startsWith('https://')?url:'https://'+url).host===current.deployment.url}catch{return false}
