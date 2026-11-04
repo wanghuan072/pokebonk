@@ -5,14 +5,64 @@
     "play": "Keep Vine Whip working while Razor Leaf levels up. Solar Beam is offered later, so Flower Beam is a direction for the build rather than damage you can count on in the opening.",
     "caution": "Grass-hit healing is capped at five triggers per second. More projectiles can help coverage but do not provide unlimited sustain.",
     "seo": {
-      "title": "Bulbasaur - PokeBonk Kit, Evolution & Build Guide",
-      "description": "Plan your Bulbasaur run in PokeBonk: compare family attacks, evolution levels, passive effects and Ultimates, then choose vitamins and items for your build.",
+      "title": "Bulbasaur - PokeBonk: How to Get & Build Guide",
+      "description": "PokeBonk how to get Bulbasaur: check the starting partner, unlock challenge and evolution levels, then compare attacks, Ultimates and builds for your run.",
       "keywords": [
         "PokeBonk Bulbasaur",
         "Bulbasaur build",
-        "Bulbasaur evolution"
+        "Bulbasaur evolution",
+        "pokebonk how to get",
+        "pokebonk how to get bulbasaur"
       ]
-    }
+    },
+    "obtain": {
+      "intro": "There are two routes to Bulbasaur: choose it as your first partner on a fresh session, or complete its League challenge and capture its normal encounter later. The first route gives you the partner immediately; the second has an extra capture step.",
+      "steps": [
+        {
+          "title": "Choose Bulbasaur as your first partner, or check your League",
+          "text": "On a fresh session, select Bulbasaur from the three first-partner choices. That choice makes Bulbasaur your first League member. If you already chose a different starter, continue with the partner you own; you do not need to erase your progress or start a new account."
+        },
+        {
+          "title": "If you chose another starter, finish two runs",
+          "text": "Bulbasaur’s League challenge is to complete 2 runs, win or lose. A clear is not required. Check the challenge in the League after those attempts: completing it makes the partner available for the encounter-and-capture step, rather than immediately adding it to your selectable roster."
+        },
+        {
+          "title": "Weaken the normal Bulbasaur encounter and capture it",
+          "text": "If Bulbasaur was not your initial partner, find its challenge encounter in the following run. Defeat or weaken it until the game marks it ready for capture, then move close and use the capture input shown on screen to throw your Poké Ball. Do not leave the encounter or take the exit while it is still waiting to be caught. Completing the challenge and defeating the encounter are separate from actually capturing it."
+        },
+        {
+          "title": "Confirm Bulbasaur has joined your League",
+          "text": "Check the League after the capture and select Bulbasaur when you start the run you want to play. A Pokédex sighting only records that you have seen a species. A shiny catch unlocks a look but does not substitute for the normal challenge-and-capture requirement; a captured Alpha fights beside you for that run and does not join your League."
+        }
+      ],
+      "after": "Once Bulbasaur belongs to your League, you can choose it at the beginning of later runs. You do not have to repeat its unlock challenge for every attempt. Its later forms are reached by leveling during a run, so unlocking the family’s starting partner and evolving it are two different goals."
+    },
+    "faq": [
+      {
+        "question": "How do you get Bulbasaur in PokeBonk?",
+        "answer": "Choose Bulbasaur from the first-partner screen on a fresh session. If you chose another starter, complete 2 runs, win or lose, then weaken and capture the normal Bulbasaur encounter after its League challenge is complete."
+      },
+      {
+        "question": "What level does Bulbasaur evolve in PokeBonk?",
+        "answer": "Bulbasaur evolves into Ivysaur at run level 24 in the reviewed v0.8.62 data. The same run later reaches Venusaur at level 41. Use the displayed run level, not an individual attack’s level or the evolution threshold from another Pokémon game."
+      },
+      {
+        "question": "Is Bulbasaur a good first partner in PokeBonk?",
+        "answer": "It is a sensible learning pick if your Grass attacks keep landing. Synthesis provides regeneration, stronger healing and healing on Grass hits. It is less forgiving when you stop connecting attacks, and the Grass-hit healing is capped at five triggers per second."
+      },
+      {
+        "question": "What is Bulbasaur’s signature fusion recipe?",
+        "answer": "Flower Beam combines Razor Leaf and Solar Beam. Both attacks must reach attack level 8 before using Bill’s Machine. The later ingredient still needs to appear as an offer and receive upgrades; reaching a run-level milestone does not finish it for you."
+      },
+      {
+        "question": "Which vitamins should I use for Bulbasaur?",
+        "answer": "For a build centered on Flower Beam, Calcium supports its special damage. Super Potion helps with recovery between hits, while Iron is an alternative when contact damage is ending the run. These are build directions, not a requirement to fill all three base slots with one fixed combination."
+      },
+      {
+        "question": "Does catching a shiny Bulbasaur unlock it as a starting partner?",
+        "answer": "A shiny catch unlocks the family’s shiny look but does not replace the normal League challenge and capture for Bulbasaur. If Bulbasaur is still locked, complete its League challenge and capture the normal partner. Seeing it in the Pokédex or recruiting an Alpha for one run is not the same unlock."
+      }
+    ]
   },
   "ivysaur": {
     "heading": "Make the middle stage count",
@@ -20,29 +70,141 @@
     "play": "Use the middle stage to finish the attacks you have already invested in. Check Razor Leaf and Solar Beam before committing to Flower Beam. Keep an escape lane while you gather upgrades for Venusaur.",
     "caution": "The larger species stats are not your final in-run HP or damage. Lab, passive effects and the upgrades you collected still change the result.",
     "seo": {
-      "title": "Ivysaur - PokeBonk Kit, Evolution & Build Guide",
-      "description": "Plan your Ivysaur run in PokeBonk: compare family attacks, evolution levels, passive effects and Ultimates, then choose vitamins and items for your build.",
+      "title": "Ivysaur - PokeBonk: How to Get & Build Guide",
+      "description": "PokeBonk how to get Ivysaur: check the starting partner, unlock challenge and evolution levels, then compare attacks, Ultimates and builds for your run.",
       "keywords": [
         "PokeBonk Ivysaur",
         "Ivysaur build",
-        "Ivysaur evolution"
+        "Ivysaur evolution",
+        "pokebonk how to get",
+        "pokebonk how to get ivysaur"
       ]
-    }
+    },
+    "obtain": {
+      "intro": "To get Ivysaur, unlock Bulbasaur as a League partner, start a run with it and follow its evolution path: Bulbasaur (Lv. 1) → Ivysaur (Lv. 24). Ivysaur is an evolved form of that run’s partner, not a separate League starting choice.",
+      "steps": [
+        {
+          "title": "Choose Bulbasaur as your first partner, or check your League",
+          "text": "On a fresh session, select Bulbasaur from the three first-partner choices. That choice makes Bulbasaur your first League member. If you already chose a different starter, continue with the partner you own; you do not need to erase your progress or start a new account."
+        },
+        {
+          "title": "If you chose another starter, finish two runs",
+          "text": "Bulbasaur’s League challenge is to complete 2 runs, win or lose. A clear is not required. Check the challenge in the League after those attempts: completing it makes the partner available for the encounter-and-capture step, rather than immediately adding it to your selectable roster."
+        },
+        {
+          "title": "Weaken the normal Bulbasaur encounter and capture it",
+          "text": "If Bulbasaur was not your initial partner, find its challenge encounter in the following run. Defeat or weaken it until the game marks it ready for capture, then move close and use the capture input shown on screen to throw your Poké Ball. Do not leave the encounter or take the exit while it is still waiting to be caught. Completing the challenge and defeating the encounter are separate from actually capturing it."
+        },
+        {
+          "title": "Confirm Bulbasaur has joined your League",
+          "text": "Check the League after the capture and select Bulbasaur when you start the run you want to play. A Pokédex sighting only records that you have seen a species. A shiny catch unlocks a look but does not substitute for the normal challenge-and-capture requirement; a captured Alpha fights beside you for that run and does not join your League."
+        },
+        {
+          "title": "Evolve Bulbasaur into Ivysaur at run level 24",
+          "text": "Start this run as Bulbasaur and keep collecting experience until your run reaches level 24. This is the PokeBonk evolution checkpoint for Ivysaur, not the evolution level from the main Pokémon games. Raising an individual attack to that level does not count: attack levels and your run level are different. You now have Ivysaur as your active form in this run."
+        }
+      ],
+      "after": "After the run ends, choose Bulbasaur again for another attempt and reach the same evolution checkpoint to play as Ivysaur. Seeing or reaching Ivysaur does not turn it into an independent level-1 League partner. The family’s passive, kit offers and Ultimate progression follow the run you started with Bulbasaur."
+    },
+    "faq": [
+      {
+        "question": "How do you get Ivysaur in PokeBonk?",
+        "answer": "Unlock Bulbasaur, start a run with it, and follow Bulbasaur at run Lv. 1 → Ivysaur at run Lv. 24. Ivysaur is reached through that run’s evolution path rather than selected as a separate level-1 League member."
+      },
+      {
+        "question": "What level does Ivysaur evolve in PokeBonk?",
+        "answer": "Ivysaur evolves into Venusaur at run level 41 in the reviewed v0.8.62 data. Use the displayed run level, not an individual attack’s level or the evolution threshold from another Pokémon game."
+      },
+      {
+        "question": "Does Ivysaur get a new attack kit after evolving?",
+        "answer": "No separate starting kit is assigned to Ivysaur. It continues Bulbasaur’s run with the same family passive and kit-offer progression. Reaching the evolution checkpoint does not replace your equipped attacks or automatically finish a fusion."
+      },
+      {
+        "question": "What is Ivysaur’s signature fusion recipe?",
+        "answer": "The Bulbasaur family uses Flower Beam: combine Razor Leaf and Solar Beam. Both ingredient attacks need attack level 8 before using Bill’s Machine. These are attack levels, not run levels. Evolution into Ivysaur does not automatically equip the ingredients or complete the fusion."
+      },
+      {
+        "question": "Which vitamins should I use for Ivysaur?",
+        "answer": "For a build centered on Flower Beam, Calcium supports its special damage. Super Potion helps with recovery between hits, while Iron is an alternative when contact damage is ending the run. These are build directions, not a requirement to fill all three base slots with one fixed combination."
+      },
+      {
+        "question": "Does catching a shiny Ivysaur unlock it as a starting partner?",
+        "answer": "A shiny catch unlocks the family’s shiny look but does not replace the normal League challenge and capture for Bulbasaur. You must still start as Bulbasaur and evolve during the run to use Ivysaur; the shiny look does not make the evolved form a separate starting partner."
+      }
+    ]
   },
   "venusaur": {
     "heading": "Give your Grass build room to work",
-    "intro": "Venusaur is reached at run level 44 on Bulbasaur’s path. Giga Flower Whip is this stage’s Ultimate, while Grass-hit healing and the attack progression remain part of the starting Bulbasaur kit.",
+    "intro": "Venusaur is reached at run level 41 on Bulbasaur’s path. Giga Flower Whip is this stage’s Ultimate, while Grass-hit healing and the attack progression remain part of the starting Bulbasaur kit.",
     "play": "Judge upgrades by the attacks doing the clearing. Flower Beam deals special damage, so Calcium supports that route; physical damage alone will not improve every attack in a mixed kit.",
     "caution": "The opening rank below rates Bulbasaur before these later upgrades. It does not measure Venusaur’s late-run damage or guarantee a Survival result.",
     "seo": {
-      "title": "Venusaur - PokeBonk Kit, Evolution & Build Guide",
-      "description": "Plan your Venusaur run in PokeBonk: compare family attacks, evolution levels, passive effects and Ultimates, then choose vitamins and items for your build.",
+      "title": "Venusaur - PokeBonk: How to Get & Build Guide",
+      "description": "PokeBonk how to get Venusaur: check the starting partner, unlock challenge and evolution levels, then compare attacks, Ultimates and builds for your run.",
       "keywords": [
         "PokeBonk Venusaur",
         "Venusaur build",
-        "Venusaur evolution"
+        "Venusaur evolution",
+        "pokebonk how to get",
+        "pokebonk how to get venusaur"
       ]
-    }
+    },
+    "obtain": {
+      "intro": "To get Venusaur, unlock Bulbasaur as a League partner, start a run with it and follow its evolution path: Bulbasaur (Lv. 1) → Ivysaur (Lv. 24) → Venusaur (Lv. 41). Venusaur is an evolved form of that run’s partner, not a separate League starting choice.",
+      "steps": [
+        {
+          "title": "Choose Bulbasaur as your first partner, or check your League",
+          "text": "On a fresh session, select Bulbasaur from the three first-partner choices. That choice makes Bulbasaur your first League member. If you already chose a different starter, continue with the partner you own; you do not need to erase your progress or start a new account."
+        },
+        {
+          "title": "If you chose another starter, finish two runs",
+          "text": "Bulbasaur’s League challenge is to complete 2 runs, win or lose. A clear is not required. Check the challenge in the League after those attempts: completing it makes the partner available for the encounter-and-capture step, rather than immediately adding it to your selectable roster."
+        },
+        {
+          "title": "Weaken the normal Bulbasaur encounter and capture it",
+          "text": "If Bulbasaur was not your initial partner, find its challenge encounter in the following run. Defeat or weaken it until the game marks it ready for capture, then move close and use the capture input shown on screen to throw your Poké Ball. Do not leave the encounter or take the exit while it is still waiting to be caught. Completing the challenge and defeating the encounter are separate from actually capturing it."
+        },
+        {
+          "title": "Confirm Bulbasaur has joined your League",
+          "text": "Check the League after the capture and select Bulbasaur when you start the run you want to play. A Pokédex sighting only records that you have seen a species. A shiny catch unlocks a look but does not substitute for the normal challenge-and-capture requirement; a captured Alpha fights beside you for that run and does not join your League."
+        },
+        {
+          "title": "Evolve Bulbasaur into Ivysaur at run level 24",
+          "text": "Start this run as Bulbasaur and keep collecting experience until your run reaches level 24. This is the PokeBonk evolution checkpoint for Ivysaur, not the evolution level from the main Pokémon games. Raising an individual attack to that level does not count: attack levels and your run level are different. This gives you Ivysaur; stay in the same run and continue leveling for Venusaur."
+        },
+        {
+          "title": "Evolve Ivysaur into Venusaur at run level 41",
+          "text": "Start this run as Bulbasaur and keep collecting experience until your run reaches level 41. This is the PokeBonk evolution checkpoint for Venusaur, not the evolution level from the main Pokémon games. Raising an individual attack to that level does not count: attack levels and your run level are different. You now have Venusaur as your active form in this run."
+        }
+      ],
+      "after": "After the run ends, choose Bulbasaur again for another attempt and reach the same evolution checkpoint to play as Venusaur. Seeing or reaching Venusaur does not turn it into an independent level-1 League partner. The family’s passive, kit offers and Ultimate progression follow the run you started with Bulbasaur."
+    },
+    "faq": [
+      {
+        "question": "How do you get Venusaur in PokeBonk?",
+        "answer": "Unlock Bulbasaur, start a run with it, and follow Bulbasaur at run Lv. 1 → Ivysaur at run Lv. 24 → Venusaur at run Lv. 41. Venusaur is reached through that run’s evolution path rather than selected as a separate level-1 League member."
+      },
+      {
+        "question": "Can Venusaur evolve again in PokeBonk?",
+        "answer": "Venusaur is the final recorded form on Bulbasaur’s standard path in the reviewed v0.8.62 data. It is reached at run level 41. Continuing to level improves the run but does not add another standard evolution to this path."
+      },
+      {
+        "question": "Is Venusaur ranked separately from Bulbasaur?",
+        "answer": "Our Classic opening comparison groups Venusaur with Bulbasaur because Bulbasaur is the partner you select at the start. Its A-tier opening recommendation is not a separate measurement of Venusaur’s late-run damage."
+      },
+      {
+        "question": "What is Venusaur’s signature fusion recipe?",
+        "answer": "The Bulbasaur family uses Flower Beam: combine Razor Leaf and Solar Beam. Both ingredient attacks need attack level 8 before using Bill’s Machine. These are attack levels, not run levels. Evolution into Venusaur does not automatically equip the ingredients or complete the fusion."
+      },
+      {
+        "question": "Which vitamins should I use for Venusaur?",
+        "answer": "For a build centered on Flower Beam, Calcium supports its special damage. Super Potion helps with recovery between hits, while Iron is an alternative when contact damage is ending the run. These are build directions, not a requirement to fill all three base slots with one fixed combination."
+      },
+      {
+        "question": "Does catching a shiny Venusaur unlock it as a starting partner?",
+        "answer": "A shiny catch unlocks the family’s shiny look but does not replace the normal League challenge and capture for Bulbasaur. You must still start as Bulbasaur and evolve during the run to use Venusaur; the shiny look does not make the evolved form a separate starting partner."
+      }
+    ]
   },
   "charmander": {
     "heading": "Clear a path without gambling your health",
@@ -50,14 +212,64 @@
     "play": "Fire Spin and Flamethrower form Fiery Whirlwind. Keep both useful while they level, but fix a weak opening before reserving every choice for the future fusion.",
     "caution": "More damage does not replace recovery. If small hits are ending the run, consider a defensive vitamin or recovery item instead of forcing the low-health bonus.",
     "seo": {
-      "title": "Charmander - PokeBonk Kit, Evolution & Build Guide",
-      "description": "Plan your Charmander run in PokeBonk: compare family attacks, evolution levels, passive effects and Ultimates, then choose vitamins and items for your build.",
+      "title": "Charmander - PokeBonk: How to Get & Build Guide",
+      "description": "PokeBonk how to get Charmander: check the starting partner, unlock challenge and evolution levels, then compare attacks, Ultimates and builds for your run.",
       "keywords": [
         "PokeBonk Charmander",
         "Charmander build",
-        "Charmander evolution"
+        "Charmander evolution",
+        "pokebonk how to get",
+        "pokebonk how to get charmander"
       ]
-    }
+    },
+    "obtain": {
+      "intro": "There are two routes to Charmander: choose it as your first partner on a fresh session, or complete its League challenge and capture its normal encounter later. The first route gives you the partner immediately; the second has an extra capture step.",
+      "steps": [
+        {
+          "title": "Choose Charmander as your first partner, or check your League",
+          "text": "On a fresh session, select Charmander from the three first-partner choices. That choice makes Charmander your first League member. If you already chose a different starter, continue with the partner you own; you do not need to erase your progress or start a new account."
+        },
+        {
+          "title": "If you chose another starter, finish two runs",
+          "text": "Charmander’s League challenge is to complete 2 runs, win or lose. A clear is not required. Check the challenge in the League after those attempts: completing it makes the partner available for the encounter-and-capture step, rather than immediately adding it to your selectable roster."
+        },
+        {
+          "title": "Weaken the normal Charmander encounter and capture it",
+          "text": "If Charmander was not your initial partner, find its challenge encounter in the following run. Defeat or weaken it until the game marks it ready for capture, then move close and use the capture input shown on screen to throw your Poké Ball. Do not leave the encounter or take the exit while it is still waiting to be caught. Completing the challenge and defeating the encounter are separate from actually capturing it."
+        },
+        {
+          "title": "Confirm Charmander has joined your League",
+          "text": "Check the League after the capture and select Charmander when you start the run you want to play. A Pokédex sighting only records that you have seen a species. A shiny catch unlocks a look but does not substitute for the normal challenge-and-capture requirement; a captured Alpha fights beside you for that run and does not join your League."
+        }
+      ],
+      "after": "Once Charmander belongs to your League, you can choose it at the beginning of later runs. You do not have to repeat its unlock challenge for every attempt. Its later forms are reached by leveling during a run, so unlocking the family’s starting partner and evolving it are two different goals."
+    },
+    "faq": [
+      {
+        "question": "How do you get Charmander in PokeBonk?",
+        "answer": "Choose Charmander from the first-partner screen on a fresh session. If you chose another starter, complete 2 runs, win or lose, then weaken and capture the normal Charmander encounter after its League challenge is complete."
+      },
+      {
+        "question": "What level does Charmander evolve in PokeBonk?",
+        "answer": "Charmander evolves into Charmeleon at run level 24 in the reviewed v0.8.62 data. The same run later reaches Charizard at level 44. Use the displayed run level, not an individual attack’s level or the evolution threshold from another Pokémon game."
+      },
+      {
+        "question": "Should I keep Charmander below 40% HP for more damage?",
+        "answer": "The passive gives +40% damage below 40% HP, but deliberately holding low health leaves little room for the next hit. Keep the always-active Fire damage bonus working and treat the low-health boost as a fallback rather than your survival plan."
+      },
+      {
+        "question": "What is Charmander’s signature fusion recipe?",
+        "answer": "Fiery Whirlwind combines Fire Spin and Flamethrower. Both attacks must reach attack level 8 before using Bill’s Machine. The later ingredient still needs to appear as an offer and receive upgrades; reaching a run-level milestone does not finish it for you."
+      },
+      {
+        "question": "Which vitamins should I use for Charmander?",
+        "answer": "For a build centered on Fiery Whirlwind, Calcium supports its special damage. Super Potion helps with recovery between hits, while Iron is an alternative when contact damage is ending the run. These are build directions, not a requirement to fill all three base slots with one fixed combination."
+      },
+      {
+        "question": "Does catching a shiny Charmander unlock it as a starting partner?",
+        "answer": "A shiny catch unlocks the family’s shiny look but does not replace the normal League challenge and capture for Charmander. If Charmander is still locked, complete its League challenge and capture the normal partner. Seeing it in the Pokédex or recruiting an Alpha for one run is not the same unlock."
+      }
+    ]
   },
   "charmeleon": {
     "heading": "Keep building the Fire route",
@@ -65,14 +277,68 @@
     "play": "Take stock of Fire Spin and Flamethrower rather than restarting the build around the new form. Their signature remains a special-damage route through this family.",
     "caution": "Evolution does not make the low-health passive safe to maintain. A clear lane and enough health for the next mistake are still worth protecting.",
     "seo": {
-      "title": "Charmeleon - PokeBonk Kit, Evolution & Build Guide",
-      "description": "Plan your Charmeleon run in PokeBonk: compare family attacks, evolution levels, passive effects and Ultimates, then choose vitamins and items for your build.",
+      "title": "Charmeleon - PokeBonk: How to Get & Build Guide",
+      "description": "PokeBonk how to get Charmeleon: check the starting partner, unlock challenge and evolution levels, then compare attacks, Ultimates and builds for your run.",
       "keywords": [
         "PokeBonk Charmeleon",
         "Charmeleon build",
-        "Charmeleon evolution"
+        "Charmeleon evolution",
+        "pokebonk how to get",
+        "pokebonk how to get charmeleon"
       ]
-    }
+    },
+    "obtain": {
+      "intro": "To get Charmeleon, unlock Charmander as a League partner, start a run with it and follow its evolution path: Charmander (Lv. 1) → Charmeleon (Lv. 24). Charmeleon is an evolved form of that run’s partner, not a separate League starting choice.",
+      "steps": [
+        {
+          "title": "Choose Charmander as your first partner, or check your League",
+          "text": "On a fresh session, select Charmander from the three first-partner choices. That choice makes Charmander your first League member. If you already chose a different starter, continue with the partner you own; you do not need to erase your progress or start a new account."
+        },
+        {
+          "title": "If you chose another starter, finish two runs",
+          "text": "Charmander’s League challenge is to complete 2 runs, win or lose. A clear is not required. Check the challenge in the League after those attempts: completing it makes the partner available for the encounter-and-capture step, rather than immediately adding it to your selectable roster."
+        },
+        {
+          "title": "Weaken the normal Charmander encounter and capture it",
+          "text": "If Charmander was not your initial partner, find its challenge encounter in the following run. Defeat or weaken it until the game marks it ready for capture, then move close and use the capture input shown on screen to throw your Poké Ball. Do not leave the encounter or take the exit while it is still waiting to be caught. Completing the challenge and defeating the encounter are separate from actually capturing it."
+        },
+        {
+          "title": "Confirm Charmander has joined your League",
+          "text": "Check the League after the capture and select Charmander when you start the run you want to play. A Pokédex sighting only records that you have seen a species. A shiny catch unlocks a look but does not substitute for the normal challenge-and-capture requirement; a captured Alpha fights beside you for that run and does not join your League."
+        },
+        {
+          "title": "Evolve Charmander into Charmeleon at run level 24",
+          "text": "Start this run as Charmander and keep collecting experience until your run reaches level 24. This is the PokeBonk evolution checkpoint for Charmeleon, not the evolution level from the main Pokémon games. Raising an individual attack to that level does not count: attack levels and your run level are different. You now have Charmeleon as your active form in this run."
+        }
+      ],
+      "after": "After the run ends, choose Charmander again for another attempt and reach the same evolution checkpoint to play as Charmeleon. Seeing or reaching Charmeleon does not turn it into an independent level-1 League partner. The family’s passive, kit offers and Ultimate progression follow the run you started with Charmander."
+    },
+    "faq": [
+      {
+        "question": "How do you get Charmeleon in PokeBonk?",
+        "answer": "Unlock Charmander, start a run with it, and follow Charmander at run Lv. 1 → Charmeleon at run Lv. 24. Charmeleon is reached through that run’s evolution path rather than selected as a separate level-1 League member."
+      },
+      {
+        "question": "What level does Charmeleon evolve in PokeBonk?",
+        "answer": "Charmeleon evolves into Charizard at run level 44 in the reviewed v0.8.62 data. Use the displayed run level, not an individual attack’s level or the evolution threshold from another Pokémon game."
+      },
+      {
+        "question": "Does Charmeleon keep Charmander’s low-health damage bonus?",
+        "answer": "Charmeleon remains part of the run started with Charmander and keeps the Sea of Flames family passive. That passive gives +10% Fire damage and +40% damage below 40% HP; evolving does not add healing to that bonus."
+      },
+      {
+        "question": "What is Charmeleon’s signature fusion recipe?",
+        "answer": "The Charmander family uses Fiery Whirlwind: combine Fire Spin and Flamethrower. Both ingredient attacks need attack level 8 before using Bill’s Machine. These are attack levels, not run levels. Evolution into Charmeleon does not automatically equip the ingredients or complete the fusion."
+      },
+      {
+        "question": "Which vitamins should I use for Charmeleon?",
+        "answer": "For a build centered on Fiery Whirlwind, Calcium supports its special damage. Super Potion helps with recovery between hits, while Iron is an alternative when contact damage is ending the run. These are build directions, not a requirement to fill all three base slots with one fixed combination."
+      },
+      {
+        "question": "Does catching a shiny Charmeleon unlock it as a starting partner?",
+        "answer": "A shiny catch unlocks the family’s shiny look but does not replace the normal League challenge and capture for Charmander. You must still start as Charmander and evolve during the run to use Charmeleon; the shiny look does not make the evolved form a separate starting partner."
+      }
+    ]
   },
   "charizard": {
     "heading": "Let the Fire build clear your next lane",
@@ -80,14 +346,72 @@
     "play": "If Fiery Whirlwind is carrying the run, match damage upgrades to its special class. Use the cleared lane to collect upgrades instead of moving straight into a fresh pack.",
     "caution": "A lower Classic opening placement does not describe Charizard’s damage ceiling. It reflects how much less protection Charmander has before the build comes together.",
     "seo": {
-      "title": "Charizard - PokeBonk Kit, Evolution & Build Guide",
-      "description": "Plan your Charizard run in PokeBonk: compare family attacks, evolution levels, passive effects and Ultimates, then choose vitamins and items for your build.",
+      "title": "Charizard - PokeBonk: How to Get & Build Guide",
+      "description": "PokeBonk how to get Charizard: check the starting partner, unlock challenge and evolution levels, then compare attacks, Ultimates and builds for your run.",
       "keywords": [
         "PokeBonk Charizard",
         "Charizard build",
-        "Charizard evolution"
+        "Charizard evolution",
+        "pokebonk how to get",
+        "pokebonk how to get charizard"
       ]
-    }
+    },
+    "obtain": {
+      "intro": "To get Charizard, unlock Charmander as a League partner, start a run with it and follow its evolution path: Charmander (Lv. 1) → Charmeleon (Lv. 24) → Charizard (Lv. 44). Charizard is an evolved form of that run’s partner, not a separate League starting choice.",
+      "steps": [
+        {
+          "title": "Choose Charmander as your first partner, or check your League",
+          "text": "On a fresh session, select Charmander from the three first-partner choices. That choice makes Charmander your first League member. If you already chose a different starter, continue with the partner you own; you do not need to erase your progress or start a new account."
+        },
+        {
+          "title": "If you chose another starter, finish two runs",
+          "text": "Charmander’s League challenge is to complete 2 runs, win or lose. A clear is not required. Check the challenge in the League after those attempts: completing it makes the partner available for the encounter-and-capture step, rather than immediately adding it to your selectable roster."
+        },
+        {
+          "title": "Weaken the normal Charmander encounter and capture it",
+          "text": "If Charmander was not your initial partner, find its challenge encounter in the following run. Defeat or weaken it until the game marks it ready for capture, then move close and use the capture input shown on screen to throw your Poké Ball. Do not leave the encounter or take the exit while it is still waiting to be caught. Completing the challenge and defeating the encounter are separate from actually capturing it."
+        },
+        {
+          "title": "Confirm Charmander has joined your League",
+          "text": "Check the League after the capture and select Charmander when you start the run you want to play. A Pokédex sighting only records that you have seen a species. A shiny catch unlocks a look but does not substitute for the normal challenge-and-capture requirement; a captured Alpha fights beside you for that run and does not join your League."
+        },
+        {
+          "title": "Evolve Charmander into Charmeleon at run level 24",
+          "text": "Start this run as Charmander and keep collecting experience until your run reaches level 24. This is the PokeBonk evolution checkpoint for Charmeleon, not the evolution level from the main Pokémon games. Raising an individual attack to that level does not count: attack levels and your run level are different. This gives you Charmeleon; stay in the same run and continue leveling for Charizard."
+        },
+        {
+          "title": "Evolve Charmeleon into Charizard at run level 44",
+          "text": "Start this run as Charmander and keep collecting experience until your run reaches level 44. This is the PokeBonk evolution checkpoint for Charizard, not the evolution level from the main Pokémon games. Raising an individual attack to that level does not count: attack levels and your run level are different. You now have Charizard as your active form in this run."
+        }
+      ],
+      "after": "After the run ends, choose Charmander again for another attempt and reach the same evolution checkpoint to play as Charizard. Seeing or reaching Charizard does not turn it into an independent level-1 League partner. The family’s passive, kit offers and Ultimate progression follow the run you started with Charmander."
+    },
+    "faq": [
+      {
+        "question": "How do you get Charizard in PokeBonk?",
+        "answer": "Unlock Charmander, start a run with it, and follow Charmander at run Lv. 1 → Charmeleon at run Lv. 24 → Charizard at run Lv. 44. Charizard is reached through that run’s evolution path rather than selected as a separate level-1 League member."
+      },
+      {
+        "question": "Can Charizard evolve again in PokeBonk?",
+        "answer": "Charizard is the final recorded form on Charmander’s standard path in the reviewed v0.8.62 data. It is reached at run level 44. Continuing to level improves the run but does not add another standard evolution to this path."
+      },
+      {
+        "question": "Does Charizard use physical or special damage in PokeBonk?",
+        "answer": "Check the attacks in your build rather than the species Attack stat alone. The Charmander family’s Fiery Whirlwind signature is special, so Calcium supports it. A physical-damage vitamin does not improve that signature just because Charizard also has an Attack stat."
+      },
+      {
+        "question": "What is Charizard’s signature fusion recipe?",
+        "answer": "The Charmander family uses Fiery Whirlwind: combine Fire Spin and Flamethrower. Both ingredient attacks need attack level 8 before using Bill’s Machine. These are attack levels, not run levels. Evolution into Charizard does not automatically equip the ingredients or complete the fusion."
+      },
+      {
+        "question": "Which vitamins should I use for Charizard?",
+        "answer": "For a build centered on Fiery Whirlwind, Calcium supports its special damage. Super Potion helps with recovery between hits, while Iron is an alternative when contact damage is ending the run. These are build directions, not a requirement to fill all three base slots with one fixed combination."
+      },
+      {
+        "question": "Does catching a shiny Charizard unlock it as a starting partner?",
+        "answer": "A shiny catch unlocks the family’s shiny look but does not replace the normal League challenge and capture for Charmander. You must still start as Charmander and evolve during the run to use Charizard; the shiny look does not make the evolved form a separate starting partner."
+      }
+    ]
   },
   "squirtle": {
     "heading": "Use the shield to buy a clean opening",
@@ -95,14 +419,64 @@
     "play": "Water Gun and Bubble help the early route. Rapid Spin and Hydro Pump form Hydro Spiral; check their offer levels before treating that fusion as your next immediate upgrade.",
     "caution": "The damage boost below 40% HP does not heal you. Once the starting shield is spent, address contact damage rather than relying on the same opening buffer.",
     "seo": {
-      "title": "Squirtle - PokeBonk Kit, Evolution & Build Guide",
-      "description": "Plan your Squirtle run in PokeBonk: compare family attacks, evolution levels, passive effects and Ultimates, then choose vitamins and items for your build.",
+      "title": "Squirtle - PokeBonk: How to Get & Build Guide",
+      "description": "PokeBonk how to get Squirtle: check the starting partner, unlock challenge and evolution levels, then compare attacks, Ultimates and builds for your run.",
       "keywords": [
         "PokeBonk Squirtle",
         "Squirtle build",
-        "Squirtle evolution"
+        "Squirtle evolution",
+        "pokebonk how to get",
+        "pokebonk how to get squirtle"
       ]
-    }
+    },
+    "obtain": {
+      "intro": "There are two routes to Squirtle: choose it as your first partner on a fresh session, or complete its League challenge and capture its normal encounter later. The first route gives you the partner immediately; the second has an extra capture step.",
+      "steps": [
+        {
+          "title": "Choose Squirtle as your first partner, or check your League",
+          "text": "On a fresh session, select Squirtle from the three first-partner choices. That choice makes Squirtle your first League member. If you already chose a different starter, continue with the partner you own; you do not need to erase your progress or start a new account."
+        },
+        {
+          "title": "If you chose another starter, finish two runs",
+          "text": "Squirtle’s League challenge is to complete 2 runs, win or lose. A clear is not required. Check the challenge in the League after those attempts: completing it makes the partner available for the encounter-and-capture step, rather than immediately adding it to your selectable roster."
+        },
+        {
+          "title": "Weaken the normal Squirtle encounter and capture it",
+          "text": "If Squirtle was not your initial partner, find its challenge encounter in the following run. Defeat or weaken it until the game marks it ready for capture, then move close and use the capture input shown on screen to throw your Poké Ball. Do not leave the encounter or take the exit while it is still waiting to be caught. Completing the challenge and defeating the encounter are separate from actually capturing it."
+        },
+        {
+          "title": "Confirm Squirtle has joined your League",
+          "text": "Check the League after the capture and select Squirtle when you start the run you want to play. A Pokédex sighting only records that you have seen a species. A shiny catch unlocks a look but does not substitute for the normal challenge-and-capture requirement; a captured Alpha fights beside you for that run and does not join your League."
+        }
+      ],
+      "after": "Once Squirtle belongs to your League, you can choose it at the beginning of later runs. You do not have to repeat its unlock challenge for every attempt. Its later forms are reached by leveling during a run, so unlocking the family’s starting partner and evolving it are two different goals."
+    },
+    "faq": [
+      {
+        "question": "How do you get Squirtle in PokeBonk?",
+        "answer": "Choose Squirtle from the first-partner screen on a fresh session. If you chose another starter, complete 2 runs, win or lose, then weaken and capture the normal Squirtle encounter after its League challenge is complete."
+      },
+      {
+        "question": "What level does Squirtle evolve in PokeBonk?",
+        "answer": "Squirtle evolves into Wartortle at run level 24 in the reviewed v0.8.62 data. The same run later reaches Blastoise at level 44. Use the displayed run level, not an individual attack’s level or the evolution threshold from another Pokémon game."
+      },
+      {
+        "question": "Does Squirtle’s starting shield keep it healed?",
+        "answer": "Torrent Shell grants +15 armor and +20 shield, with a damage bonus below 40% HP. Those effects are not a healing passive. Once health starts dropping, compare recovery and positioning instead of assuming the opening shield will solve every later hit."
+      },
+      {
+        "question": "What is Squirtle’s signature fusion recipe?",
+        "answer": "Hydro Spiral combines Rapid Spin and Hydro Pump. Both attacks must reach attack level 8 before using Bill’s Machine. The later ingredient still needs to appear as an offer and receive upgrades; reaching a run-level milestone does not finish it for you."
+      },
+      {
+        "question": "Which vitamins should I use for Squirtle?",
+        "answer": "For a build centered on Hydro Spiral, Calcium supports its special damage. For the other slots, compare recovery or movement with Squirtle’s existing protection rather than taking only damage. These are build directions, not a requirement to fill all three base slots with one fixed combination."
+      },
+      {
+        "question": "Does catching a shiny Squirtle unlock it as a starting partner?",
+        "answer": "A shiny catch unlocks the family’s shiny look but does not replace the normal League challenge and capture for Squirtle. If Squirtle is still locked, complete its League challenge and capture the normal partner. Seeing it in the Pokédex or recruiting an Alpha for one run is not the same unlock."
+      }
+    ]
   },
   "wartortle": {
     "heading": "Build beyond the opening shield",
@@ -110,14 +484,68 @@
     "play": "Keep Water attacks clearing a route for upgrades. If you want Hydro Spiral, keep Rapid Spin and Hydro Pump useful as separate attacks while they level.",
     "caution": "Species Defense and Sp. Defense are not the armor displayed during a run. The baseline below is explicitly Squirtle’s pre-upgrade baseline, not a calculated Wartortle preview.",
     "seo": {
-      "title": "Wartortle - PokeBonk Kit, Evolution & Build Guide",
-      "description": "Plan your Wartortle run in PokeBonk: compare family attacks, evolution levels, passive effects and Ultimates, then choose vitamins and items for your build.",
+      "title": "Wartortle - PokeBonk: How to Get & Build Guide",
+      "description": "PokeBonk how to get Wartortle: check the starting partner, unlock challenge and evolution levels, then compare attacks, Ultimates and builds for your run.",
       "keywords": [
         "PokeBonk Wartortle",
         "Wartortle build",
-        "Wartortle evolution"
+        "Wartortle evolution",
+        "pokebonk how to get",
+        "pokebonk how to get wartortle"
       ]
-    }
+    },
+    "obtain": {
+      "intro": "To get Wartortle, unlock Squirtle as a League partner, start a run with it and follow its evolution path: Squirtle (Lv. 1) → Wartortle (Lv. 24). Wartortle is an evolved form of that run’s partner, not a separate League starting choice.",
+      "steps": [
+        {
+          "title": "Choose Squirtle as your first partner, or check your League",
+          "text": "On a fresh session, select Squirtle from the three first-partner choices. That choice makes Squirtle your first League member. If you already chose a different starter, continue with the partner you own; you do not need to erase your progress or start a new account."
+        },
+        {
+          "title": "If you chose another starter, finish two runs",
+          "text": "Squirtle’s League challenge is to complete 2 runs, win or lose. A clear is not required. Check the challenge in the League after those attempts: completing it makes the partner available for the encounter-and-capture step, rather than immediately adding it to your selectable roster."
+        },
+        {
+          "title": "Weaken the normal Squirtle encounter and capture it",
+          "text": "If Squirtle was not your initial partner, find its challenge encounter in the following run. Defeat or weaken it until the game marks it ready for capture, then move close and use the capture input shown on screen to throw your Poké Ball. Do not leave the encounter or take the exit while it is still waiting to be caught. Completing the challenge and defeating the encounter are separate from actually capturing it."
+        },
+        {
+          "title": "Confirm Squirtle has joined your League",
+          "text": "Check the League after the capture and select Squirtle when you start the run you want to play. A Pokédex sighting only records that you have seen a species. A shiny catch unlocks a look but does not substitute for the normal challenge-and-capture requirement; a captured Alpha fights beside you for that run and does not join your League."
+        },
+        {
+          "title": "Evolve Squirtle into Wartortle at run level 24",
+          "text": "Start this run as Squirtle and keep collecting experience until your run reaches level 24. This is the PokeBonk evolution checkpoint for Wartortle, not the evolution level from the main Pokémon games. Raising an individual attack to that level does not count: attack levels and your run level are different. You now have Wartortle as your active form in this run."
+        }
+      ],
+      "after": "After the run ends, choose Squirtle again for another attempt and reach the same evolution checkpoint to play as Wartortle. Seeing or reaching Wartortle does not turn it into an independent level-1 League partner. The family’s passive, kit offers and Ultimate progression follow the run you started with Squirtle."
+    },
+    "faq": [
+      {
+        "question": "How do you get Wartortle in PokeBonk?",
+        "answer": "Unlock Squirtle, start a run with it, and follow Squirtle at run Lv. 1 → Wartortle at run Lv. 24. Wartortle is reached through that run’s evolution path rather than selected as a separate level-1 League member."
+      },
+      {
+        "question": "What level does Wartortle evolve in PokeBonk?",
+        "answer": "Wartortle evolves into Blastoise at run level 44 in the reviewed v0.8.62 data. Use the displayed run level, not an individual attack’s level or the evolution threshold from another Pokémon game."
+      },
+      {
+        "question": "Are Wartortle’s Defense and in-run armor the same number?",
+        "answer": "No. Species Defense is shown in the six-stat table; armor is an in-run value affected by the starting baseline, passive and collected upgrades. The baseline shown on this page belongs to Squirtle before those modifiers, not a fresh Wartortle armor calculation."
+      },
+      {
+        "question": "What is Wartortle’s signature fusion recipe?",
+        "answer": "The Squirtle family uses Hydro Spiral: combine Rapid Spin and Hydro Pump. Both ingredient attacks need attack level 8 before using Bill’s Machine. These are attack levels, not run levels. Evolution into Wartortle does not automatically equip the ingredients or complete the fusion."
+      },
+      {
+        "question": "Which vitamins should I use for Wartortle?",
+        "answer": "For a build centered on Hydro Spiral, Calcium supports its special damage. For the other slots, compare recovery or movement with Squirtle’s existing protection rather than taking only damage. These are build directions, not a requirement to fill all three base slots with one fixed combination."
+      },
+      {
+        "question": "Does catching a shiny Wartortle unlock it as a starting partner?",
+        "answer": "A shiny catch unlocks the family’s shiny look but does not replace the normal League challenge and capture for Squirtle. You must still start as Squirtle and evolve during the run to use Wartortle; the shiny look does not make the evolved form a separate starting partner."
+      }
+    ]
   },
   "blastoise": {
     "heading": "Finish the Water route you started",
@@ -125,14 +553,72 @@
     "play": "Calcium and a Water-focused item are useful comparisons when the special Water signature carries your damage. Keep a recovery option if you lose health between large attack windows.",
     "caution": "High species Defense is not immunity to contact. Address the hits getting through your current defenses, especially after the opening shield has gone.",
     "seo": {
-      "title": "Blastoise - PokeBonk Kit, Evolution & Build Guide",
-      "description": "Plan your Blastoise run in PokeBonk: compare family attacks, evolution levels, passive effects and Ultimates, then choose vitamins and items for your build.",
+      "title": "Blastoise - PokeBonk: How to Get & Build Guide",
+      "description": "PokeBonk how to get Blastoise: check the starting partner, unlock challenge and evolution levels, then compare attacks, Ultimates and builds for your run.",
       "keywords": [
         "PokeBonk Blastoise",
         "Blastoise build",
-        "Blastoise evolution"
+        "Blastoise evolution",
+        "pokebonk how to get",
+        "pokebonk how to get blastoise"
       ]
-    }
+    },
+    "obtain": {
+      "intro": "To get Blastoise, unlock Squirtle as a League partner, start a run with it and follow its evolution path: Squirtle (Lv. 1) → Wartortle (Lv. 24) → Blastoise (Lv. 44). Blastoise is an evolved form of that run’s partner, not a separate League starting choice.",
+      "steps": [
+        {
+          "title": "Choose Squirtle as your first partner, or check your League",
+          "text": "On a fresh session, select Squirtle from the three first-partner choices. That choice makes Squirtle your first League member. If you already chose a different starter, continue with the partner you own; you do not need to erase your progress or start a new account."
+        },
+        {
+          "title": "If you chose another starter, finish two runs",
+          "text": "Squirtle’s League challenge is to complete 2 runs, win or lose. A clear is not required. Check the challenge in the League after those attempts: completing it makes the partner available for the encounter-and-capture step, rather than immediately adding it to your selectable roster."
+        },
+        {
+          "title": "Weaken the normal Squirtle encounter and capture it",
+          "text": "If Squirtle was not your initial partner, find its challenge encounter in the following run. Defeat or weaken it until the game marks it ready for capture, then move close and use the capture input shown on screen to throw your Poké Ball. Do not leave the encounter or take the exit while it is still waiting to be caught. Completing the challenge and defeating the encounter are separate from actually capturing it."
+        },
+        {
+          "title": "Confirm Squirtle has joined your League",
+          "text": "Check the League after the capture and select Squirtle when you start the run you want to play. A Pokédex sighting only records that you have seen a species. A shiny catch unlocks a look but does not substitute for the normal challenge-and-capture requirement; a captured Alpha fights beside you for that run and does not join your League."
+        },
+        {
+          "title": "Evolve Squirtle into Wartortle at run level 24",
+          "text": "Start this run as Squirtle and keep collecting experience until your run reaches level 24. This is the PokeBonk evolution checkpoint for Wartortle, not the evolution level from the main Pokémon games. Raising an individual attack to that level does not count: attack levels and your run level are different. This gives you Wartortle; stay in the same run and continue leveling for Blastoise."
+        },
+        {
+          "title": "Evolve Wartortle into Blastoise at run level 44",
+          "text": "Start this run as Squirtle and keep collecting experience until your run reaches level 44. This is the PokeBonk evolution checkpoint for Blastoise, not the evolution level from the main Pokémon games. Raising an individual attack to that level does not count: attack levels and your run level are different. You now have Blastoise as your active form in this run."
+        }
+      ],
+      "after": "After the run ends, choose Squirtle again for another attempt and reach the same evolution checkpoint to play as Blastoise. Seeing or reaching Blastoise does not turn it into an independent level-1 League partner. The family’s passive, kit offers and Ultimate progression follow the run you started with Squirtle."
+    },
+    "faq": [
+      {
+        "question": "How do you get Blastoise in PokeBonk?",
+        "answer": "Unlock Squirtle, start a run with it, and follow Squirtle at run Lv. 1 → Wartortle at run Lv. 24 → Blastoise at run Lv. 44. Blastoise is reached through that run’s evolution path rather than selected as a separate level-1 League member."
+      },
+      {
+        "question": "Can Blastoise evolve again in PokeBonk?",
+        "answer": "Blastoise is the final recorded form on Squirtle’s standard path in the reviewed v0.8.62 data. It is reached at run level 44. Continuing to level improves the run but does not add another standard evolution to this path."
+      },
+      {
+        "question": "Is Blastoise automatically a better starting choice than Squirtle?",
+        "answer": "Blastoise is an evolved form reached during a Squirtle run, not an independent starting choice. Compare Squirtle’s opening kit when choosing a partner, then plan how that run will reach Blastoise and support its later attacks."
+      },
+      {
+        "question": "What is Blastoise’s signature fusion recipe?",
+        "answer": "The Squirtle family uses Hydro Spiral: combine Rapid Spin and Hydro Pump. Both ingredient attacks need attack level 8 before using Bill’s Machine. These are attack levels, not run levels. Evolution into Blastoise does not automatically equip the ingredients or complete the fusion."
+      },
+      {
+        "question": "Which vitamins should I use for Blastoise?",
+        "answer": "For a build centered on Hydro Spiral, Calcium supports its special damage. For the other slots, compare recovery or movement with Squirtle’s existing protection rather than taking only damage. These are build directions, not a requirement to fill all three base slots with one fixed combination."
+      },
+      {
+        "question": "Does catching a shiny Blastoise unlock it as a starting partner?",
+        "answer": "A shiny catch unlocks the family’s shiny look but does not replace the normal League challenge and capture for Squirtle. You must still start as Squirtle and evolve during the run to use Blastoise; the shiny look does not make the evolved form a separate starting partner."
+      }
+    ]
   },
   "caterpie": {
     "heading": "Reach the cocoon without losing the opening",
@@ -140,14 +626,64 @@
     "play": "String Shot opens the kit, followed by Bug Bite, Gust and Bug Buzz offers. Make sure an attack keeps an exit clear before spending every upgrade on faster progression.",
     "caution": "The +30 cocoon armor belongs to Metapod. Do not count it as starting protection, and remember experience only pays off if you survive long enough to collect it.",
     "seo": {
-      "title": "Caterpie - PokeBonk Kit, Evolution & Build Guide",
-      "description": "Plan your Caterpie run in PokeBonk: compare family attacks, evolution levels, passive effects and Ultimates, then choose vitamins and items for your build.",
+      "title": "Caterpie - PokeBonk: How to Get & Build Guide",
+      "description": "PokeBonk how to get Caterpie: check the starting partner, unlock challenge and evolution levels, then compare attacks, Ultimates and builds for your run.",
       "keywords": [
         "PokeBonk Caterpie",
         "Caterpie build",
-        "Caterpie evolution"
+        "Caterpie evolution",
+        "pokebonk how to get",
+        "pokebonk how to get caterpie"
       ]
-    }
+    },
+    "obtain": {
+      "intro": "To get Caterpie as a playable partner, complete its three-evolution League challenge, then weaken and capture its normal encounter in the following run. Merely spotting Caterpie or finishing the challenge does not add it to your selectable partners.",
+      "steps": [
+        {
+          "title": "Complete three evolutions across your runs",
+          "text": "Caterpie’s League challenge is to evolve 3 times during your runs. This is an evolution count, not a request to catch three Caterpie or finish three runs. Work on it with a partner you already own, then check Caterpie’s challenge in the League."
+        },
+        {
+          "title": "Start another run after the challenge is complete",
+          "text": "The game’s challenge-complete message says the partner will appear in your next run for you to catch. Caterpie is not automatically a starting choice as soon as the counter reaches three. Keep the same account or session so the challenge progress belongs to the League you are trying to expand."
+        },
+        {
+          "title": "Weaken the normal Caterpie encounter and capture it",
+          "text": "If Caterpie was not your initial partner, find its challenge encounter in the following run. Defeat or weaken it until the game marks it ready for capture, then move close and use the capture input shown on screen to throw your Poké Ball. Do not leave the encounter or take the exit while it is still waiting to be caught. Completing the challenge and defeating the encounter are separate from actually capturing it."
+        },
+        {
+          "title": "Confirm Caterpie has joined your League",
+          "text": "Check the League after the capture and select Caterpie when you start the run you want to play. A Pokédex sighting only records that you have seen a species. A shiny catch unlocks a look but does not substitute for the normal challenge-and-capture requirement; a captured Alpha fights beside you for that run and does not join your League."
+        }
+      ],
+      "after": "Once Caterpie belongs to your League, you can choose it at the beginning of later runs. You do not have to repeat its unlock challenge for every attempt. Its later forms are reached by leveling during a run, so unlocking the family’s starting partner and evolving it are two different goals."
+    },
+    "faq": [
+      {
+        "question": "How do you get Caterpie in PokeBonk?",
+        "answer": "Complete Caterpie’s League challenge by evolving 3 times during your runs. Start the following run, weaken the normal Caterpie encounter and use its capture prompt. The challenge counter alone does not add it to your League."
+      },
+      {
+        "question": "What level does Caterpie evolve in PokeBonk?",
+        "answer": "Caterpie evolves into Metapod at run level 8 in the reviewed v0.8.62 data. The same run later reaches Butterfree at level 36. Use the displayed run level, not an individual attack’s level or the evolution threshold from another Pokémon game."
+      },
+      {
+        "question": "Why does Caterpie feel weak before evolving?",
+        "answer": "Its opening favors setup: String Shot, extra experience and a starting shield rather than immediate broad damage. Prioritize an attack that keeps a lane clear. Faster experience does not help if the opening ends before you collect enough upgrades."
+      },
+      {
+        "question": "What is Caterpie’s signature fusion recipe?",
+        "answer": "Resonant Web combines String Shot and Bug Buzz. Both attacks must reach attack level 8 before using Bill’s Machine. The later ingredient still needs to appear as an offer and receive upgrades; reaching a run-level milestone does not finish it for you."
+      },
+      {
+        "question": "Which vitamins should I use for Caterpie?",
+        "answer": "For a build centered on Resonant Web, Calcium supports its special damage. Iron is worth comparing for contact damage; Exp. Candy is a progression choice only when your current attacks already keep a lane clear. These are build directions, not a requirement to fill all three base slots with one fixed combination."
+      },
+      {
+        "question": "Does catching a shiny Caterpie unlock it as a starting partner?",
+        "answer": "A shiny catch unlocks the family’s shiny look but does not replace the normal League challenge and capture for Caterpie. If Caterpie is still locked, complete its League challenge and capture the normal partner. Seeing it in the Pokédex or recruiting an Alpha for one run is not the same unlock."
+      }
+    ]
   },
   "metapod": {
     "heading": "Use the cocoon window to reach Butterfree",
@@ -155,13 +691,67 @@
     "play": "Keep gathering levels toward Butterfree at run level 36. String Shot and Bug Buzz form Resonant Web, but you still need attacks to clear the path while that plan develops.",
     "caution": "Fortress is temporary protection. Pick the lane you will leave through before the invulnerability ends instead of finishing the cast surrounded.",
     "seo": {
-      "title": "Metapod - PokeBonk Kit, Evolution & Build Guide",
-      "description": "Plan your Metapod run in PokeBonk: compare family attacks, evolution levels, passive effects and Ultimates, then choose vitamins and items for your build.",
+      "title": "Metapod - PokeBonk: How to Get & Build Guide",
+      "description": "PokeBonk how to get Metapod: check the starting partner, unlock challenge and evolution levels, then compare attacks, Ultimates and builds for your run.",
       "keywords": [
         "PokeBonk Metapod",
         "Metapod build",
-        "Metapod evolution"
+        "Metapod evolution",
+        "pokebonk how to get",
+        "pokebonk how to get metapod"
       ]
-    }
+    },
+    "obtain": {
+      "intro": "To get Metapod, unlock Caterpie as a League partner, start a run with it and follow its evolution path: Caterpie (Lv. 1) → Metapod (Lv. 8). Metapod is an evolved form of that run’s partner, not a separate League starting choice.",
+      "steps": [
+        {
+          "title": "Complete three evolutions across your runs",
+          "text": "Caterpie’s League challenge is to evolve 3 times during your runs. This is an evolution count, not a request to catch three Caterpie or finish three runs. Work on it with a partner you already own, then check Caterpie’s challenge in the League."
+        },
+        {
+          "title": "Start another run after the challenge is complete",
+          "text": "The game’s challenge-complete message says the partner will appear in your next run for you to catch. Caterpie is not automatically a starting choice as soon as the counter reaches three. Keep the same account or session so the challenge progress belongs to the League you are trying to expand."
+        },
+        {
+          "title": "Weaken the normal Caterpie encounter and capture it",
+          "text": "If Caterpie was not your initial partner, find its challenge encounter in the following run. Defeat or weaken it until the game marks it ready for capture, then move close and use the capture input shown on screen to throw your Poké Ball. Do not leave the encounter or take the exit while it is still waiting to be caught. Completing the challenge and defeating the encounter are separate from actually capturing it."
+        },
+        {
+          "title": "Confirm Caterpie has joined your League",
+          "text": "Check the League after the capture and select Caterpie when you start the run you want to play. A Pokédex sighting only records that you have seen a species. A shiny catch unlocks a look but does not substitute for the normal challenge-and-capture requirement; a captured Alpha fights beside you for that run and does not join your League."
+        },
+        {
+          "title": "Evolve Caterpie into Metapod at run level 8",
+          "text": "Start this run as Caterpie and keep collecting experience until your run reaches level 8. This is the PokeBonk evolution checkpoint for Metapod, not the evolution level from the main Pokémon games. Raising an individual attack to that level does not count: attack levels and your run level are different. You now have Metapod as your active form in this run."
+        }
+      ],
+      "after": "After the run ends, choose Caterpie again for another attempt and reach the same evolution checkpoint to play as Metapod. Seeing or reaching Metapod does not turn it into an independent level-1 League partner. The family’s passive, kit offers and Ultimate progression follow the run you started with Caterpie."
+    },
+    "faq": [
+      {
+        "question": "How do you get Metapod in PokeBonk?",
+        "answer": "Unlock Caterpie, start a run with it, and follow Caterpie at run Lv. 1 → Metapod at run Lv. 8. Metapod is reached through that run’s evolution path rather than selected as a separate level-1 League member."
+      },
+      {
+        "question": "What level does Metapod evolve in PokeBonk?",
+        "answer": "Metapod evolves into Butterfree at run level 36 in the reviewed v0.8.62 data. Use the displayed run level, not an individual attack’s level or the evolution threshold from another Pokémon game."
+      },
+      {
+        "question": "What does Metapod’s Fortress Ultimate do?",
+        "answer": "Fortress gives 4 seconds of invulnerability, a 40% shield and repelling waves, ending in a burst. The family passive also gives +30 armor in the Metapod form. Choose an exit before the timed protection ends rather than waiting inside a closed pack."
+      },
+      {
+        "question": "What is Metapod’s signature fusion recipe?",
+        "answer": "The Caterpie family uses Resonant Web: combine String Shot and Bug Buzz. Both ingredient attacks need attack level 8 before using Bill’s Machine. These are attack levels, not run levels. Evolution into Metapod does not automatically equip the ingredients or complete the fusion."
+      },
+      {
+        "question": "Which vitamins should I use for Metapod?",
+        "answer": "For a build centered on Resonant Web, Calcium supports its special damage. Iron is worth comparing for contact damage; Exp. Candy is a progression choice only when your current attacks already keep a lane clear. These are build directions, not a requirement to fill all three base slots with one fixed combination."
+      },
+      {
+        "question": "Does catching a shiny Metapod unlock it as a starting partner?",
+        "answer": "A shiny catch unlocks the family’s shiny look but does not replace the normal League challenge and capture for Caterpie. You must still start as Caterpie and evolve during the run to use Metapod; the shiny look does not make the evolved form a separate starting partner."
+      }
+    ]
   }
 }

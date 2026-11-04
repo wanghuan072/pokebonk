@@ -106,7 +106,7 @@ test('metadata, robots and sitemap agree with preparation in every environment',
     assert.equal(robots.rules.allow,expected?'/':undefined,label);
     assert.equal(robots.rules.disallow,expected?undefined:'/',label);
     assert.equal(robots.sitemap,expected?config.siteUrl+'/sitemap.xml':undefined,label);
-    assert.equal(manifest.entries.length,expected?33:0,label);
+    assert.equal(manifest.entries.length,expected?34:0,label);
     assert.equal(sitemap.length,manifest.entries.length,label);
     assert.ok(sitemap.every(entry=>entry.url.startsWith(config.siteUrl+'/')),label);
    }

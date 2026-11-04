@@ -12,7 +12,7 @@ const first = collectPages();
 const history = reconcile(first, {}, "2026-10-23");
 test("repeat build preserves dates and enabled route count", () => {
   assert.deepEqual(reconcile(collectPages(), history, "2026-10-24"), history);
-  assert.equal(Object.keys(history).length, 33);
+  assert.equal(Object.keys(history).length, 34);
   assert.equal(first["/pokedex/pikachu"], undefined);
 });
 

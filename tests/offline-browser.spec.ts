@@ -189,7 +189,7 @@ test("Pokedex details fit desktop tablet and mobile and keep unlaunched species 
   const response=await page.goto(origin+"/pokedex/butterfree");
   expect(response?.status()).toBe(404);
 });
-test("detail flags, only three substantial guides, complete official boards", async () => {
+test("detail flags, four substantial guides, complete official boards", async () => {
   expect(tierAnalysis.entries).toHaveLength(79);
   expect(new Set(tierAnalysis.entries.map((e) => e.slug))).toEqual(
     new Set(pokemonRecords.filter((p) => p.isPlayable).map((p) => p.slug)),
@@ -208,7 +208,7 @@ test("detail flags, only three substantial guides, complete official boards", as
   expect(pokemonRecords.filter(p=>p.isDetails).map(p=>p.id)).toEqual(Array.from({length:11},(_,i)=>i+1));
   for (const data of [moveRecords, itemRecords, releaseRecords])
     expect(data.every((e) => e.isDetails === false)).toBe(true);
-  expect(guideRecords).toHaveLength(3);
+  expect(guideRecords).toHaveLength(4);
   for (const g of guideRecords) {
     expect(g.isDetails).toBe(true);
     expect(

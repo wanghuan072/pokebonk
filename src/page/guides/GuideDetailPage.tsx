@@ -1,3 +1,4 @@
+import { Suspense } from "react";
 import GameSprite from "@/components/content/GameSprite";
 import { notFound } from "next/navigation";
 import Image from "next/image";
@@ -30,7 +31,10 @@ export async function generateMetadata({
   const g = guides.find((g) => g.slug === slug);
   return g ? pageMetadata(`/guides/${g.slug}`, g.seo) : {};
 }
-export default async function GuideDetailPage({
+export default function GuideDetailPage({ params }: { params: Promise<{ slug: string }> }) {
+  return <Suspense fallback={<section className="page-section"><div className="container" role="status">Loading guide…</div></section>}><GuideDetailContent params={params} /></Suspense>;
+}
+async function GuideDetailContent({
   params,
 }: {
   params: Promise<{ slug: string }>;
@@ -98,7 +102,7 @@ export default async function GuideDetailPage({
                       {s.portraits.map((id) => {
                         const p = pokemon.find((p) => p.id === id)!;
                         return (
-                          <a href={`/pokedex#${p.slug}`} key={id}>
+                          <a href={p.isDetails ? `/pokedex/${p.slug}` : `/pokedex#${p.slug}`} key={id}>
                             <GameSprite
                               id={p.id}
                               alt={p.name}
