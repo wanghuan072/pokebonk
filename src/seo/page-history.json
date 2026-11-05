@@ -1,7 +1,7 @@
 {
   "/": {
-    "fingerprint": "3b4d9ba240d9bade62f04143798c7de60b0e30b39154bf35981a569f066a64b5",
-    "modified": "2026-11-04"
+    "fingerprint": "cf1d13431add3578f7b200f2743e590bc44be496dc0a59d6eb9196af84a911bc",
+    "modified": "2026-11-05"
   },
   "/about": {
     "fingerprint": "fb99e919a4a0d0e4921b3c1d605fe503f01779c0da69a6dc36a3a4acf813b7d8",
@@ -24,8 +24,8 @@
     "modified": "2026-10-29"
   },
   "/guides": {
-    "fingerprint": "9e63a1d0f0c8c91a60402593e25f33361581e560fec96af9857924a5c3fd4b31",
-    "modified": "2026-11-04"
+    "fingerprint": "c2b3c3cb43de5609ce4d396c222a5bcf13e65135eab785aa580a8c63fb7c10a3",
+    "modified": "2026-11-05"
   },
   "/guides/beginners-guide": {
     "fingerprint": "2e62c76de5edce7aea6a8167e74041b80700062cb70550d8f9572d4e3541304f",
@@ -42,6 +42,10 @@
   "/guides/endless-mode-guide": {
     "fingerprint": "2b415624959d57019f4e32b187bedf332c8917890785a630ad75e47b03ac49c7",
     "modified": "2026-10-30"
+  },
+  "/guides/pokebonk-shiny-guide": {
+    "fingerprint": "fb8f2ad8761561b3fb93b63e12d1f9597f7e56c6e6e251a14d0c05f86156c49f",
+    "modified": "2026-11-05"
   },
   "/play": {
     "fingerprint": "8888c2e2c1396759426c034f68a5028bb8123e1df71572a8e2711e1243a4e39d",

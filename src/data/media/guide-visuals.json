@@ -28,5 +28,10 @@
     "kind": "screenshot",
     "src": "/images/home/game/league.webp",
     "alt": "Original PokeBonk League menu for comparing playable partners"
+  },
+  "pokebonk-shiny-guide": {
+    "kind": "screenshot",
+    "src": "/images/home/game/league.webp",
+    "alt": "Original PokeBonk League interface; check shiny looks after recruiting the normal partner"
   }
 }
